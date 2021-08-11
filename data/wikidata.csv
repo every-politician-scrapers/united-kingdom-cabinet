@@ -4,7 +4,6 @@ Q478531,Alok Sharma,Alok Sharma,male,1967-09-07T00:00:00Z,11,https://www.gov.uk/
 Q20648982,Amanda Milling,Amanda Milling,female,1975-03-12T00:00:00Z,11,https://www.gov.uk/government/ministers,Q61412205,Minister without Portfolio,Q20648982-94f73f80-4642-3115-9412-b926c2c052f5
 Q18210190,Baroness Evans of Bowes Park,"Natalie Evans, Baroness Evans",female,1975-11-29T00:00:00Z,11,https://www.gov.uk/government/ministers,Q2012061,Leader of the House of Lords,Q18210190-5abda2e8-4dbd-cf9e-78c9-afc9b987e513
 Q18210190,Baroness Evans of Bowes Park,"Natalie Evans, Baroness Evans",female,1975-11-29T00:00:00Z,11,https://www.gov.uk/government/ministers,Q910308,Lord Privy Seal,Q18210190-7429da65-452c-3d10-503f-4e8356a403ec
-Q4864917,"Barry Yelverton, 1st Viscount Avonmore","Barry Yelverton, 1st Viscount Avonmore",male,1736-05-28T00:00:00Z,11,,Q2631987,Attorney General for England and Wales,Q4864917-9D74213E-A93E-4DF1-99EE-2D39A2D9D2C9
 Q263166,Ben Wallace,Ben Wallace,male,1970-05-15T00:00:00Z,11,https://www.gov.uk/government/ministers,Q2747647,Secretary of State for Defence,Q263166-7993fb77-429a-d8e9-7979-00664614fb0a
 Q180589,Boris Johnson,Boris Johnson,male,1964-06-19T00:00:00Z,11,https://www.gov.uk/government/ministers,Q609884,First Lord of the Treasury,Q180589-53c102e6-4da6-2f30-1940-bbeb0a084557
 Q180589,Boris Johnson,Boris Johnson,male,1964-06-19T00:00:00Z,11,https://www.gov.uk/government/ministers,Q3315116,Minister for the Civil Service,Q180589-22f84501-4154-f133-0f1d-3e61f3edd4ee
@@ -16,14 +15,14 @@ Q268584,Dominic Raab,Dominic Raab,male,1974-02-25T00:00:00Z,11,https://www.gov.u
 Q272201,Elizabeth Truss,Elizabeth Truss,female,1975-07-26T00:00:00Z,11,https://www.gov.uk/government/ministers,Q3315134,Minister for Women and Equalities,Q272201-94ffc1ab-43e1-d330-3cab-2d727a2aece4
 Q272201,Elizabeth Truss,Elizabeth Truss,female,1975-07-26T00:00:00Z,11,https://www.gov.uk/government/ministers,Q25863345,Secretary of State for International Trade and President of the Board of Trade,Q272201-1df2b8e6-483b-41ca-9989-74b061819d71
 Q262409,Gavin Williamson,Gavin Williamson,male,1976-06-25T00:00:00Z,11,https://www.gov.uk/government/ministers,Q3477306,Secretary of State for Education,Q262409-4d5a4467-495e-522a-a047-d7c88da09369
-Q291303,Geoffrey Cox,Geoffrey Cox,male,1960-04-30T00:00:00Z,11,,Q2631987,Attorney General for England and Wales,Q291303-cc5d0f55-4ac1-6e2a-ad6e-1641de7cd971
 Q303510,George Eustice,George Eustice,male,1971-09-28T00:00:00Z,11,https://www.gov.uk/government/ministers,Q14984399,"Secretary of State for Environment, Food and Rural Affairs",Q303510-6ce5fda7-4984-4c9f-6fb9-3752cb67e9ec
 Q478596,Grant Shapps,Grant Shapps,male,1968-09-14T00:00:00Z,11,https://www.gov.uk/government/ministers,Q3246797,Secretary of State for Transport,Q478596-ec799617-4c4c-b4ad-cf7c-6f0f47767499
-Q574980,Jacob Rees-Mogg,Jacob Rees-Mogg,male,1969-05-24T00:00:00Z,11,,Q2636053,Leader of the House of Commons,Q574980-896c32d4-437a-9f6e-e164-606f92d2fd7d
-Q574980,Jacob Rees-Mogg,Jacob Rees-Mogg,male,1969-05-24T00:00:00Z,11,,Q943379,Lord President of the Council,Q574980-81af5da1-4718-b5d1-5a92-d6826e4c64da
+Q574980,Jacob Rees-Mogg,Jacob Rees-Mogg,male,1969-05-24T00:00:00Z,11,https://www.gov.uk/government/ministers,Q2636053,Leader of the House of Commons,Q574980-896c32d4-437a-9f6e-e164-606f92d2fd7d
+Q574980,Jacob Rees-Mogg,Jacob Rees-Mogg,male,1969-05-24T00:00:00Z,11,https://www.gov.uk/government/ministers,Q943379,Lord President of the Council,Q574980-81af5da1-4718-b5d1-5a92-d6826e4c64da
 Q750204,Kwasi Kwarteng,Kwasi Kwarteng,male,1975-05-26T00:00:00Z,11,https://www.gov.uk/government/ministers,Q3858507,"Secretary of State for Business, Energy and Industrial Strategy",Q750204-b9054947-4669-87aa-d445-522f745a795a
 Q5233879,Lord Frost,David Frost,male,1965-02-21T00:00:00Z,11,https://www.gov.uk/government/ministers,Q6865995,Minister of State,Q5233879-EA0E0E0D-1D00-4EE0-B260-BAD618255135
-Q303085,Michael Ellis,Michael Ellis,male,1967-10-13T00:00:00Z,11,,Q2631987,Attorney General for England and Wales,Q303085-AF0D7FDD-66F7-4D3E-B53F-7A0A126AC6F6
+Q389189,Mark Spencer,Mark Spencer,male,1970-01-20T00:00:00Z,11,https://www.gov.uk/government/ministers,Q7139041,Parliamentary Secretary to the Treasury (Chief Whip),Q389189-8539db11-4c0a-f9b9-cb44-72880c52397e
+Q303085,Michael Ellis,Michael Ellis,male,1967-10-13T00:00:00Z,11,https://www.gov.uk/government/ministers,Q2631987,Attorney General,Q303085-AF0D7FDD-66F7-4D3E-B53F-7A0A126AC6F6
 Q333937,Michael Gove,Michael Gove,male,1967-08-26T00:00:00Z,11,https://www.gov.uk/government/ministers,Q162754,Chancellor of the Duchy of Lancaster,Q333937-96f93e23-4088-751c-a443-640fabc29489
 Q333937,Michael Gove,Michael Gove,male,1967-08-26T00:00:00Z,11,https://www.gov.uk/government/ministers,Q6865995,Minister for the Cabinet Office,Q333937-8f9f091f-4043-4a34-e94d-ae54e38102b1
 Q19957590,Oliver Dowden,Oliver Dowden,male,1978-08-01T00:00:00Z,11,https://www.gov.uk/government/ministers,Q3297079,"Secretary of State for Digital, Culture, Media and Sport",Q19957590-c4c7cadd-4324-9adf-ef20-60a2b192e988
@@ -34,7 +33,5 @@ Q269853,Robert Buckland,Robert Buckland,male,1968-09-22T00:00:00Z,11,https://www
 Q17180679,Robert Jenrick,Robert Jenrick,male,1982-01-09T00:00:00Z,11,https://www.gov.uk/government/ministers,Q11781526,"Secretary of State for Housing, Communities and Local Government",Q17180679-653f10cb-40f3-bd34-c38f-875d708cfdcf
 Q727798,Sajid Javid,Sajid Javid,male,1969-12-05T00:00:00Z,11,https://www.gov.uk/government/ministers,Q3397406,Secretary of State for Health and Social Care,Q727798-3f0c89f0-4651-294a-a419-7ab87ad4bb19
 Q478345,Simon Hart,Simon Hart,male,1963-08-15T00:00:00Z,11,https://www.gov.uk/government/ministers,Q1846384,Secretary of State for Wales,Q478345-4f2e0fb7-4c41-22db-f838-0b81e45357e8
-Q260546,Stephen Barclay,Stephen Barclay,male,1972-05-03T00:00:00Z,11,,Q5096927,Chief Secretary to the Treasury,Q260546-4269f5db-439e-397b-31c0-c941b3651e52
-Q19957769,Suella Braverman,Suella Braverman,female,1980-04-03T00:00:00Z,11,,Q2631987,Attorney General for England and Wales,Q19957769-975c7369-454e-d189-26b1-7412dc027533
+Q260546,Steve Barclay,Stephen Barclay,male,1972-05-03T00:00:00Z,11,https://www.gov.uk/government/ministers,Q5096927,Chief Secretary to the Treasury,Q260546-4269f5db-439e-397b-31c0-c941b3651e52
 Q290554,Thérèse Coffey,Thérèse Coffey,female,1971-11-18T00:00:00Z,11,https://www.gov.uk/government/ministers,Q7444357,Secretary of State for Work and Pensions,Q290554-528bcb34-44fa-37d9-8262-3d86fbd0061d
-Q8004648,William Atherton,William Atherton,male,1806-01-01T00:00:00Z,9,,Q2631987,Attorney General for England and Wales,Q8004648-414EF86F-7424-43C1-86FD-B9443AA746F6
