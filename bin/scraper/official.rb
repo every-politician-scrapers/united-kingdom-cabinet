@@ -7,17 +7,23 @@ require 'pry'
 class MemberList
   class Member
     def name
-      noko.css('.name').text.tidy
+      Name.new(full: full_name, suffixes: %w[MP QC CBE CMG]).short
     end
 
     def position
-      noko.css('.position').text.tidy
+      noko.css('.app-person__roles a').map(&:text).map(&:tidy)
+    end
+
+    private
+
+    def full_name
+      noko.css('.app-person-link__name').text.tidy
     end
   end
 
   class Members
     def member_container
-      noko.css('.member')
+      noko.css('#cabinet .person')
     end
   end
 end
