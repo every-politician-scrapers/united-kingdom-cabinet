@@ -10,14 +10,22 @@ class MemberList
       Name.new(full: full_name, suffixes: %w[MP QC CBE CMG]).short
     end
 
+    POSITION_MAP = {
+      'Lord Chancellor and Secretary of State for Justice' =>  ['Lord Chancellor', 'Secretary of State for Justice']
+    }
+
     def position
-      noko.css('.app-person__roles a').map(&:text).map(&:tidy)
+      raw_position.map { |posn| POSITION_MAP.fetch(posn, posn) }
     end
 
     private
 
     def full_name
       noko.css('.app-person-link__name').text.tidy
+    end
+
+    def raw_position
+      noko.css('.app-person__roles a').map(&:text).map(&:tidy)
     end
   end
 
