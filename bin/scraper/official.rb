@@ -31,7 +31,7 @@ class MemberList
 
   class Members
     def member_container
-      noko.css('#cabinet .person')
+      noko.css('#cabinet,#also-attends-cabinet').css('.person')
     end
   end
 end
