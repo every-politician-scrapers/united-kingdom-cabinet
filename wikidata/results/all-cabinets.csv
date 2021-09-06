@@ -1,59 +1,59 @@
-item,itemLabel,inception,startTime,abolished,endTime,isa,isaLabel,parent,parentLabel,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
-Q2658850,Chamberlain war ministry,,1939-09-03T00:00:00Z,,1940-05-10T00:00:00Z,Q112014,Cabinet of the United Kingdom,,,,,Q5118241,Churchill war ministry,,,,
-Q5118241,Churchill war ministry,,1940-05-10T00:00:00Z,,1945-05-23T00:00:00Z,Q112014,Cabinet of the United Kingdom,,,Q2658850,Chamberlain war ministry,Q16826836,Churchill caretaker ministry,,,,
-Q65920370,Johnson ministry,,2019-07-24T00:00:00Z,,,Q112014,Cabinet of the United Kingdom,,,,,,,Q30178117,Second May ministry,Q78347457,Second Johnson ministry
-Q106862509,First Lloyd George ministry,,,,,Q112014,Cabinet of the United Kingdom,,,,,,,,,,
-Q106862512,Second Lloyd George ministry,,,,,Q112014,Cabinet of the United Kingdom,,,,,,,,,,
-Q4681182,Addington ministry,1801-03-14T00:00:00Z,,1804-05-10T00:00:00Z,,Q112014,Cabinet of the United Kingdom,,,,,,,,,,
-Q1935636,Ministry of All the Talents,1806-02-11T00:00:00Z,,1807-03-31T00:00:00Z,,Q112014,Cabinet of the United Kingdom,,,,,,,,,,
-Q5453049,First Gladstone ministry,1868-12-03T00:00:00Z,1868-01-01T00:00:00Z,1874-02-20T00:00:00Z,1874-01-01T00:00:00Z,Q112014,Cabinet of the United Kingdom,,,,,,,,,,
-Q3773843,Second Disraeli ministry,1874-01-01T00:00:00Z,1874-01-01T00:00:00Z,,1880-01-01T00:00:00Z,Q112014,Cabinet of the United Kingdom,,,,,,,,,,
-Q7443319,Second Gladstone ministry,1880-01-01T00:00:00Z,1880-01-01T00:00:00Z,,1885-01-01T00:00:00Z,Q112014,Cabinet of the United Kingdom,,,,,,,,,,
-Q5453776,Salisbury caretaker ministry,1885-01-01T00:00:00Z,1885-01-01T00:00:00Z,,1886-01-01T00:00:00Z,Q112014,Cabinet of the United Kingdom,,,,,,,,,,
-Q7443515,Second Salisbury ministry,1886-01-01T00:00:00Z,1886-01-01T00:00:00Z,,1892-01-01T00:00:00Z,Q112014,Cabinet of the United Kingdom,,,,,,,,,,
-Q7784867,Third Gladstone ministry,1886-01-01T00:00:00Z,1886-01-01T00:00:00Z,,1886-01-01T00:00:00Z,Q112014,Cabinet of the United Kingdom,,,,,,,,,,
-Q6540674,"Liberal government, 1892–1895",1892-01-01T00:00:00Z,1892-01-01T00:00:00Z,,1895-01-01T00:00:00Z,Q112014,Cabinet of the United Kingdom,,,,,,,,,,
-Q2592915,"Unionist government, 1895–1905",1895-01-01T00:00:00Z,1895-01-01T00:00:00Z,,1905-01-01T00:00:00Z,Q112014,Cabinet of the United Kingdom,,,,,,,,,,
-Q24952662,Balfour Cabinet,1902-07-11T00:00:00Z,,1905-12-05T00:00:00Z,,Q112014,Cabinet of the United Kingdom,,,,,,,,,,
-Q17507478,"Liberal government, 1905–1915",1905-12-05T00:00:00Z,,1908-04-05T00:00:00Z,,Q112014,Cabinet of the United Kingdom,,,,,,,,,,
-Q2217172,Asquith coalition ministry,1915-05-25T00:00:00Z,,1916-12-06T00:00:00Z,1916-01-01T00:00:00Z,Q112014,Cabinet of the United Kingdom,,,,,,,,,,
-Q926031,Lloyd George ministry,1916-01-01T00:00:00Z,1916-12-01T00:00:00Z,,1922-01-01T00:00:00Z,Q112014,Cabinet of the United Kingdom,,,,,,,,,,
-Q28859979,Law Ministry,1922-10-24T00:00:00Z,,1923-05-20T00:00:00Z,,Q112014,Cabinet of the United Kingdom,,,,,Q30316884,First Baldwin ministry,,,,
-Q30316884,First Baldwin ministry,1923-05-22T00:00:00Z,,1924-01-22T00:00:00Z,,Q112014,Cabinet of the United Kingdom,,,Q28859979,Law Ministry,Q5453246,First MacDonald ministry,,,,
-Q2514413,Second Baldwin ministry,1924-01-01T00:00:00Z,1924-11-04T00:00:00Z,,1929-06-05T00:00:00Z,Q112014,Cabinet of the United Kingdom,,,,,,,,,,
-Q5453246,First MacDonald ministry,1924-01-01T00:00:00Z,1924-01-22T00:00:00Z,,1924-11-04T00:00:00Z,Q112014,Cabinet of the United Kingdom,,,Q30316884,First Baldwin ministry,,,,,,
-Q769284,Second MacDonald ministry,1929-01-01T00:00:00Z,1929-06-05T00:00:00Z,,1931-08-24T00:00:00Z,Q112014,Cabinet of the United Kingdom,,,,,,,,,,
-Q5453430,National Government,1931-01-01T00:00:00Z,1931-08-24T00:00:00Z,,1931-10-28T00:00:00Z,Q112014,Cabinet of the United Kingdom,,,,,,,,,,
-Q16191221,National Government,1931-10-28T00:00:00Z,,1935-06-07T00:00:00Z,,Q112014,Cabinet of the United Kingdom,,,,,,,,,,
-Q7784906,National Government,1935-01-01T00:00:00Z,1935-06-07T00:00:00Z,,1937-05-28T00:00:00Z,Q112014,Cabinet of the United Kingdom,,,,,,,,,,
-Q5476144,National Government,1937-01-01T00:00:00Z,1937-05-28T00:00:00Z,,1939-09-03T00:00:00Z,Q112014,Cabinet of the United Kingdom,,,,,,,,,,
-Q16826836,Churchill caretaker ministry,1945-05-23T00:00:00Z,,1945-07-26T00:00:00Z,,Q112014,Cabinet of the United Kingdom,,,Q5118241,Churchill war ministry,,,,,,
-Q7724649,Attlee ministry,1945-07-26T00:00:00Z,1945-07-26T00:00:00Z,1951-10-26T00:00:00Z,1951-10-26T00:00:00Z,Q112014,Cabinet of the United Kingdom,,,,,Q16934480,Third Churchill ministry,,,,
-Q16934480,Third Churchill ministry,1951-10-26T00:00:00Z,,1955-04-06T00:00:00Z,,Q112014,Cabinet of the United Kingdom,,,Q7724649,Attlee ministry,Q7724526,Eden ministry,,,,
-Q7724526,Eden ministry,1955-04-06T00:00:00Z,1955-04-06T00:00:00Z,1957-01-10T00:00:00Z,1957-01-10T00:00:00Z,Q112014,Cabinet of the United Kingdom,,,Q16934480,Third Churchill ministry,Q47529413,First Macmillan ministry,,,,
-Q47529413,First Macmillan ministry,1957-01-10T00:00:00Z,,1959-10-09T00:00:00Z,,Q112014,Cabinet of the United Kingdom,,,Q7724526,Eden ministry,Q9212198,Second Macmillan ministry,,,,
-Q9212198,Second Macmillan ministry,1959-10-09T00:00:00Z,,1963-10-19T00:00:00Z,,Q112014,Cabinet of the United Kingdom,,,Q47529413,First Macmillan ministry,Q9325354,Douglas-Home ministry,,,,
-Q9325354,Douglas-Home ministry,1963-10-19T00:00:00Z,,1964-10-16T00:00:00Z,,Q112014,Cabinet of the United Kingdom,,,Q9212198,Second Macmillan ministry,Q11816750,First Wilson ministry,,,,
-Q11816750,First Wilson ministry,1964-10-16T00:00:00Z,,1966-04-01T00:00:00Z,,Q112014,Cabinet of the United Kingdom,,,Q9325354,Douglas-Home ministry,Q47528850,Second Wilson ministry,,,,
-Q47528850,Second Wilson ministry,1966-04-01T00:00:00Z,,1970-06-19T00:00:00Z,,Q112014,Cabinet of the United Kingdom,,,Q11816750,First Wilson ministry,Q5693589,Heath ministry,,,,
-Q5693589,Heath ministry,1970-06-19T00:00:00Z,1970-06-19T00:00:00Z,1974-03-04T00:00:00Z,1974-03-04T00:00:00Z,Q112014,Cabinet of the United Kingdom,,,Q47528850,Second Wilson ministry,Q9362219,Third Wilson ministry,Q2709714,"Labour government, 1964–1970",Q6467422,"Labour government, 1974–1979"
-Q9362219,Third Wilson ministry,1974-03-04T00:00:00Z,,1974-10-11T00:00:00Z,,Q112014,Cabinet of the United Kingdom,,,Q5693589,Heath ministry,Q47529283,Fourth Wilson ministry,,,,
-Q47529283,Fourth Wilson ministry,1974-10-11T00:00:00Z,,1976-04-05T00:00:00Z,,Q112014,Cabinet of the United Kingdom,,,Q9362219,Third Wilson ministry,Q47529305,Callaghan ministry,,,,
-Q47529305,Callaghan ministry,1976-04-05T00:00:00Z,,1979-05-04T00:00:00Z,,Q112014,Cabinet of the United Kingdom,,,Q47529283,Fourth Wilson ministry,Q5453886,First Thatcher ministry,,,,
-Q5453886,First Thatcher ministry,1979-05-04T00:00:00Z,1979-05-04T00:00:00Z,1983-06-10T00:00:00Z,1983-06-10T00:00:00Z,Q112014,Cabinet of the United Kingdom,,,Q6467422,"Labour government, 1974–1979",Q9212204,Second Thatcher ministry,Q47529305,Callaghan ministry,Q9212204,Second Thatcher ministry
-Q5453886,First Thatcher ministry,1979-05-04T00:00:00Z,1979-05-04T00:00:00Z,1983-06-10T00:00:00Z,1983-06-10T00:00:00Z,Q112014,Cabinet of the United Kingdom,,,Q47529305,Callaghan ministry,Q9212204,Second Thatcher ministry,Q47529305,Callaghan ministry,Q9212204,Second Thatcher ministry
-Q9212204,Second Thatcher ministry,1983-06-10T00:00:00Z,,1987-06-11T00:00:00Z,,Q112014,Cabinet of the United Kingdom,,,Q5453886,First Thatcher ministry,Q16934452,Third Thatcher ministry,Q5453886,First Thatcher ministry,Q16934452,Third Thatcher ministry
-Q16934452,Third Thatcher ministry,1987-06-11T00:00:00Z,,1990-11-28T00:00:00Z,,Q112014,Cabinet of the United Kingdom,,,Q9212204,Second Thatcher ministry,,,Q9212204,Second Thatcher ministry,Q27957664,First Major ministry
-Q532596,Major ministry,1990-01-01T00:00:00Z,1990-01-01T00:00:00Z,1997-01-01T00:00:00Z,,Q640506,cabinet,,,,,,,Q16934452,Third Thatcher ministry,Q3112705,First Blair ministry
-Q27957664,First Major ministry,1990-11-28T00:00:00Z,,1992-04-10T00:00:00Z,,Q112014,Cabinet of the United Kingdom,,,,,,,Q16934452,Third Thatcher ministry,Q27957665,Second Major ministry
-Q27957665,Second Major ministry,1992-04-10T00:00:00Z,,1997-05-02T00:00:00Z,,Q112014,Cabinet of the United Kingdom,,,,,Q30765564,First Blair Ministry,Q27957664,First Major ministry,Q30765564,First Blair Ministry
-Q30765564,First Blair Ministry,1997-05-02T00:00:00Z,,2001-06-08T00:00:00Z,,Q112014,Cabinet of the United Kingdom,,,Q27957665,Second Major ministry,Q30765571,Second Blair Ministry,,,,
-Q30765571,Second Blair Ministry,2001-06-08T00:00:00Z,,2005-05-06T00:00:00Z,,Q112014,Cabinet of the United Kingdom,,,Q30765564,First Blair Ministry,Q30765565,Third Blair ministry,Q30765564,First Blair Ministry,,
-Q30765565,Third Blair ministry,2005-05-06T00:00:00Z,,2007-06-27T00:00:00Z,,Q112014,Cabinet of the United Kingdom,,,Q30765571,Second Blair Ministry,Q1646006,Brown ministry,Q30765571,Second Blair Ministry,Q1646006,Brown ministry
-Q1646006,Brown ministry,2007-06-28T00:00:00Z,,2010-05-11T00:00:00Z,,Q112014,Cabinet of the United Kingdom,,,Q30765565,Third Blair ministry,Q1719801,Cameron–Clegg coalition,Q30765565,Third Blair ministry,Q1719801,Cameron–Clegg coalition
-Q1719801,Cameron–Clegg coalition,2010-05-11T00:00:00Z,,2015-05-08T00:00:00Z,,Q112014,Cabinet of the United Kingdom,,,Q1646006,Brown ministry,Q19889159,Second Cameron ministry,Q1646006,Brown ministry,Q19889159,Second Cameron ministry
-Q19889159,Second Cameron ministry,2015-05-08T00:00:00Z,,2016-07-13T00:00:00Z,,Q112014,Cabinet of the United Kingdom,,,Q1719801,Cameron–Clegg coalition,Q25814075,First May ministry,Q1719801,Cameron–Clegg coalition,,
-Q25814075,First May ministry,2016-07-13T00:00:00Z,,2017-06-11T00:00:00Z,,Q112014,Cabinet of the United Kingdom,,,Q19889159,Second Cameron ministry,Q30178117,Second May ministry,Q19889159,Second Cameron ministry,Q30178117,Second May ministry
-Q30178117,Second May ministry,2017-06-11T00:00:00Z,2017-06-11T00:00:00Z,2019-07-24T00:00:00Z,,Q112014,Cabinet of the United Kingdom,,,Q25814075,First May ministry,Q78356885,First Johnson ministry,Q25814075,First May ministry,Q78356885,First Johnson ministry
-Q78356885,First Johnson ministry,2019-07-24T00:00:00Z,,2019-12-16T00:00:00Z,,Q112014,Cabinet of the United Kingdom,,,Q30178117,Second May ministry,Q78347457,Second Johnson ministry,,,,
-Q78347457,Second Johnson ministry,2019-12-16T00:00:00Z,,,,Q112014,Cabinet of the United Kingdom,,,Q78356885,First Johnson ministry,,,Q78356885,First Johnson ministry,,
+ordinal,item,itemLabel,inception,startTime,abolished,endTime,isa,isaLabel,parent,parentLabel,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
+,Q2658850,Chamberlain war ministry,,1939-09-03T00:00:00Z,,1940-05-10T00:00:00Z,Q112014,Cabinet of the United Kingdom,,,,,Q5118241,Churchill war ministry,,,,
+,Q5118241,Churchill war ministry,,1940-05-10T00:00:00Z,,1945-05-23T00:00:00Z,Q112014,Cabinet of the United Kingdom,,,Q2658850,Chamberlain war ministry,Q16826836,Churchill caretaker ministry,,,,
+,Q106862509,First Lloyd George ministry,,,,,Q112014,Cabinet of the United Kingdom,,,,,,,,,,
+,Q106862512,Second Lloyd George ministry,,,,,Q112014,Cabinet of the United Kingdom,,,,,,,,,,
+98,Q65920370,Johnson ministry,,2019-07-24T00:00:00Z,,,Q112014,Cabinet of the United Kingdom,,,,,,,Q30178117,Second May ministry,Q78347457,Second Johnson ministry
+,Q4681182,Addington ministry,1801-03-14T00:00:00Z,,1804-05-10T00:00:00Z,,Q112014,Cabinet of the United Kingdom,,,,,,,,,,
+,Q1935636,Ministry of All the Talents,1806-02-11T00:00:00Z,,1807-03-31T00:00:00Z,,Q112014,Cabinet of the United Kingdom,,,,,,,,,,
+,Q5453049,First Gladstone ministry,1868-12-03T00:00:00Z,1868-01-01T00:00:00Z,1874-02-20T00:00:00Z,1874-01-01T00:00:00Z,Q112014,Cabinet of the United Kingdom,,,,,,,,,,
+,Q3773843,Second Disraeli ministry,1874-01-01T00:00:00Z,1874-01-01T00:00:00Z,,1880-01-01T00:00:00Z,Q112014,Cabinet of the United Kingdom,,,,,,,,,,
+,Q7443319,Second Gladstone ministry,1880-01-01T00:00:00Z,1880-01-01T00:00:00Z,,1885-01-01T00:00:00Z,Q112014,Cabinet of the United Kingdom,,,,,,,,,,
+,Q5453776,Salisbury caretaker ministry,1885-01-01T00:00:00Z,1885-01-01T00:00:00Z,,1886-01-01T00:00:00Z,Q112014,Cabinet of the United Kingdom,,,,,,,,,,
+,Q7443515,Second Salisbury ministry,1886-01-01T00:00:00Z,1886-01-01T00:00:00Z,,1892-01-01T00:00:00Z,Q112014,Cabinet of the United Kingdom,,,,,,,,,,
+,Q7784867,Third Gladstone ministry,1886-01-01T00:00:00Z,1886-01-01T00:00:00Z,,1886-01-01T00:00:00Z,Q112014,Cabinet of the United Kingdom,,,,,,,,,,
+,Q6540674,"Liberal government, 1892–1895",1892-01-01T00:00:00Z,1892-01-01T00:00:00Z,,1895-01-01T00:00:00Z,Q112014,Cabinet of the United Kingdom,,,,,,,,,,
+,Q2592915,"Unionist government, 1895–1905",1895-01-01T00:00:00Z,1895-01-01T00:00:00Z,,1905-01-01T00:00:00Z,Q112014,Cabinet of the United Kingdom,,,,,,,,,,
+,Q24952662,Balfour Cabinet,1902-07-11T00:00:00Z,,1905-12-05T00:00:00Z,,Q112014,Cabinet of the United Kingdom,,,,,,,,,,
+,Q17507478,"Liberal government, 1905–1915",1905-12-05T00:00:00Z,,1908-04-05T00:00:00Z,,Q112014,Cabinet of the United Kingdom,,,,,,,,,,
+,Q2217172,Asquith coalition ministry,1915-05-25T00:00:00Z,,1916-12-06T00:00:00Z,1916-01-01T00:00:00Z,Q112014,Cabinet of the United Kingdom,,,,,,,,,,
+,Q926031,Lloyd George ministry,1916-01-01T00:00:00Z,1916-12-01T00:00:00Z,,1922-01-01T00:00:00Z,Q112014,Cabinet of the United Kingdom,,,,,,,,,,
+,Q28859979,Law Ministry,1922-10-24T00:00:00Z,,1923-05-20T00:00:00Z,,Q112014,Cabinet of the United Kingdom,,,,,Q30316884,First Baldwin ministry,,,,
+,Q30316884,First Baldwin ministry,1923-05-22T00:00:00Z,,1924-01-22T00:00:00Z,,Q112014,Cabinet of the United Kingdom,,,Q28859979,Law Ministry,Q5453246,First MacDonald ministry,,,,
+,Q2514413,Second Baldwin ministry,1924-01-01T00:00:00Z,1924-11-04T00:00:00Z,,1929-06-05T00:00:00Z,Q112014,Cabinet of the United Kingdom,,,,,,,,,,
+,Q5453246,First MacDonald ministry,1924-01-01T00:00:00Z,1924-01-22T00:00:00Z,,1924-11-04T00:00:00Z,Q112014,Cabinet of the United Kingdom,,,Q30316884,First Baldwin ministry,,,,,,
+,Q769284,Second MacDonald ministry,1929-01-01T00:00:00Z,1929-06-05T00:00:00Z,,1931-08-24T00:00:00Z,Q112014,Cabinet of the United Kingdom,,,,,,,,,,
+,Q5453430,National Government,1931-01-01T00:00:00Z,1931-08-24T00:00:00Z,,1931-10-28T00:00:00Z,Q112014,Cabinet of the United Kingdom,,,,,,,,,,
+,Q16191221,National Government,1931-10-28T00:00:00Z,,1935-06-07T00:00:00Z,,Q112014,Cabinet of the United Kingdom,,,,,,,,,,
+,Q7784906,National Government,1935-01-01T00:00:00Z,1935-06-07T00:00:00Z,,1937-05-28T00:00:00Z,Q112014,Cabinet of the United Kingdom,,,,,,,,,,
+,Q5476144,National Government,1937-01-01T00:00:00Z,1937-05-28T00:00:00Z,,1939-09-03T00:00:00Z,Q112014,Cabinet of the United Kingdom,,,,,,,,,,
+,Q16826836,Churchill caretaker ministry,1945-05-23T00:00:00Z,,1945-07-26T00:00:00Z,,Q112014,Cabinet of the United Kingdom,,,Q5118241,Churchill war ministry,,,,,,
+,Q7724649,Attlee ministry,1945-07-26T00:00:00Z,1945-07-26T00:00:00Z,1951-10-26T00:00:00Z,1951-10-26T00:00:00Z,Q112014,Cabinet of the United Kingdom,,,,,Q16934480,Third Churchill ministry,,,,
+,Q16934480,Third Churchill ministry,1951-10-26T00:00:00Z,,1955-04-06T00:00:00Z,,Q112014,Cabinet of the United Kingdom,,,Q7724649,Attlee ministry,Q7724526,Eden ministry,,,,
+,Q7724526,Eden ministry,1955-04-06T00:00:00Z,1955-04-06T00:00:00Z,1957-01-10T00:00:00Z,1957-01-10T00:00:00Z,Q112014,Cabinet of the United Kingdom,,,Q16934480,Third Churchill ministry,Q47529413,First Macmillan ministry,,,,
+,Q47529413,First Macmillan ministry,1957-01-10T00:00:00Z,,1959-10-09T00:00:00Z,,Q112014,Cabinet of the United Kingdom,,,Q7724526,Eden ministry,Q9212198,Second Macmillan ministry,,,,
+,Q9212198,Second Macmillan ministry,1959-10-09T00:00:00Z,,1963-10-19T00:00:00Z,,Q112014,Cabinet of the United Kingdom,,,Q47529413,First Macmillan ministry,Q9325354,Douglas-Home ministry,,,,
+,Q9325354,Douglas-Home ministry,1963-10-19T00:00:00Z,,1964-10-16T00:00:00Z,,Q112014,Cabinet of the United Kingdom,,,Q9212198,Second Macmillan ministry,Q11816750,First Wilson ministry,,,,
+,Q11816750,First Wilson ministry,1964-10-16T00:00:00Z,,1966-04-01T00:00:00Z,,Q112014,Cabinet of the United Kingdom,,,Q9325354,Douglas-Home ministry,Q47528850,Second Wilson ministry,,,,
+,Q47528850,Second Wilson ministry,1966-04-01T00:00:00Z,,1970-06-19T00:00:00Z,,Q112014,Cabinet of the United Kingdom,,,Q11816750,First Wilson ministry,Q5693589,Heath ministry,,,,
+,Q5693589,Heath ministry,1970-06-19T00:00:00Z,1970-06-19T00:00:00Z,1974-03-04T00:00:00Z,1974-03-04T00:00:00Z,Q112014,Cabinet of the United Kingdom,,,Q47528850,Second Wilson ministry,Q9362219,Third Wilson ministry,Q2709714,"Labour government, 1964–1970",Q6467422,"Labour government, 1974–1979"
+,Q9362219,Third Wilson ministry,1974-03-04T00:00:00Z,,1974-10-11T00:00:00Z,,Q112014,Cabinet of the United Kingdom,,,Q5693589,Heath ministry,Q47529283,Fourth Wilson ministry,,,,
+,Q47529283,Fourth Wilson ministry,1974-10-11T00:00:00Z,,1976-04-05T00:00:00Z,,Q112014,Cabinet of the United Kingdom,,,Q9362219,Third Wilson ministry,Q47529305,Callaghan ministry,,,,
+,Q47529305,Callaghan ministry,1976-04-05T00:00:00Z,,1979-05-04T00:00:00Z,,Q112014,Cabinet of the United Kingdom,,,Q47529283,Fourth Wilson ministry,Q5453886,First Thatcher ministry,,,,
+,Q5453886,First Thatcher ministry,1979-05-04T00:00:00Z,1979-05-04T00:00:00Z,1983-06-10T00:00:00Z,1983-06-10T00:00:00Z,Q112014,Cabinet of the United Kingdom,,,Q6467422,"Labour government, 1974–1979",Q9212204,Second Thatcher ministry,Q47529305,Callaghan ministry,Q9212204,Second Thatcher ministry
+,Q5453886,First Thatcher ministry,1979-05-04T00:00:00Z,1979-05-04T00:00:00Z,1983-06-10T00:00:00Z,1983-06-10T00:00:00Z,Q112014,Cabinet of the United Kingdom,,,Q47529305,Callaghan ministry,Q9212204,Second Thatcher ministry,Q47529305,Callaghan ministry,Q9212204,Second Thatcher ministry
+,Q9212204,Second Thatcher ministry,1983-06-10T00:00:00Z,,1987-06-11T00:00:00Z,,Q112014,Cabinet of the United Kingdom,,,Q5453886,First Thatcher ministry,Q16934452,Third Thatcher ministry,Q5453886,First Thatcher ministry,Q16934452,Third Thatcher ministry
+,Q16934452,Third Thatcher ministry,1987-06-11T00:00:00Z,,1990-11-28T00:00:00Z,,Q112014,Cabinet of the United Kingdom,,,Q9212204,Second Thatcher ministry,,,Q9212204,Second Thatcher ministry,Q27957664,First Major ministry
+,Q532596,Major ministry,1990-01-01T00:00:00Z,1990-01-01T00:00:00Z,1997-01-01T00:00:00Z,,Q640506,cabinet,,,,,,,Q16934452,Third Thatcher ministry,Q3112705,First Blair ministry
+88,Q27957664,First Major ministry,1990-11-28T00:00:00Z,,1992-04-10T00:00:00Z,,Q112014,Cabinet of the United Kingdom,,,,,,,Q16934452,Third Thatcher ministry,Q27957665,Second Major ministry
+89,Q27957665,Second Major ministry,1992-04-10T00:00:00Z,,1997-05-02T00:00:00Z,,Q112014,Cabinet of the United Kingdom,,,,,Q30765564,First Blair Ministry,Q27957664,First Major ministry,Q30765564,First Blair Ministry
+,Q30765564,First Blair Ministry,1997-05-02T00:00:00Z,,2001-06-08T00:00:00Z,,Q112014,Cabinet of the United Kingdom,,,Q27957665,Second Major ministry,Q30765571,Second Blair Ministry,,,,
+,Q30765571,Second Blair Ministry,2001-06-08T00:00:00Z,,2005-05-06T00:00:00Z,,Q112014,Cabinet of the United Kingdom,,,Q30765564,First Blair Ministry,Q30765565,Third Blair ministry,Q30765564,First Blair Ministry,,
+92,Q30765565,Third Blair ministry,2005-05-06T00:00:00Z,,2007-06-27T00:00:00Z,,Q112014,Cabinet of the United Kingdom,,,Q30765571,Second Blair Ministry,Q1646006,Brown ministry,Q30765571,Second Blair Ministry,Q1646006,Brown ministry
+,Q1646006,Brown ministry,2007-06-28T00:00:00Z,,2010-05-11T00:00:00Z,,Q112014,Cabinet of the United Kingdom,,,Q30765565,Third Blair ministry,Q1719801,Cameron–Clegg coalition,Q30765565,Third Blair ministry,Q1719801,Cameron–Clegg coalition
+,Q1719801,Cameron–Clegg coalition,2010-05-11T00:00:00Z,,2015-05-08T00:00:00Z,,Q112014,Cabinet of the United Kingdom,,,Q1646006,Brown ministry,Q19889159,Second Cameron ministry,Q1646006,Brown ministry,Q19889159,Second Cameron ministry
+,Q19889159,Second Cameron ministry,2015-05-08T00:00:00Z,,2016-07-13T00:00:00Z,,Q112014,Cabinet of the United Kingdom,,,Q1719801,Cameron–Clegg coalition,Q25814075,First May ministry,Q1719801,Cameron–Clegg coalition,,
+,Q25814075,First May ministry,2016-07-13T00:00:00Z,,2017-06-11T00:00:00Z,,Q112014,Cabinet of the United Kingdom,,,Q19889159,Second Cameron ministry,Q30178117,Second May ministry,Q19889159,Second Cameron ministry,Q30178117,Second May ministry
+97,Q30178117,Second May ministry,2017-06-11T00:00:00Z,2017-06-11T00:00:00Z,2019-07-24T00:00:00Z,,Q112014,Cabinet of the United Kingdom,,,Q25814075,First May ministry,Q78356885,First Johnson ministry,Q25814075,First May ministry,Q78356885,First Johnson ministry
+,Q78356885,First Johnson ministry,2019-07-24T00:00:00Z,,2019-12-16T00:00:00Z,,Q112014,Cabinet of the United Kingdom,,,Q30178117,Second May ministry,Q78347457,Second Johnson ministry,,,,
+,Q78347457,Second Johnson ministry,2019-12-16T00:00:00Z,,,,Q112014,Cabinet of the United Kingdom,,,Q78356885,First Johnson ministry,,,Q78356885,First Johnson ministry,,
