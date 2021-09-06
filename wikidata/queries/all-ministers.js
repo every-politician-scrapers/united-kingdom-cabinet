@@ -11,10 +11,11 @@ module.exports = function () {
           ?gender ?genderLabel ?dob ?dobPrecision
          (STRAFTER(STR(?held), '/statement/') AS ?psid)
   WHERE {
-    # Positions that have been in the cabinet
-    ?position wdt:P361 wd:${meta.cabinet.parent} .
+    # All ministerial/cabinet positions in this jurisdiction
+    { ?position wdt:P279* wd:Q83307 ; wdt:P1001 wd:${meta.jurisdiction.id} } UNION
+    { ?position wdt:P361 wd:${meta.cabinet.parent} }
 
-    # People who have held positions
+    # People who have held those positions
     ?item wdt:P31 wd:Q5 ; p:P39 ?held .
     ?held ps:P39 ?position
     FILTER NOT EXISTS { ?held wikibase:rank wikibase:DeprecatedRank }
