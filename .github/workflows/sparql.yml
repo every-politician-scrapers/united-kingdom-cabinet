@@ -2,7 +2,7 @@ name: Get Wikidata info
 
 on:
   schedule:
-    - cron:  '24 1 * * *'
+    - cron:  '44 1 * * *'
 
 jobs:
   scheduled:
