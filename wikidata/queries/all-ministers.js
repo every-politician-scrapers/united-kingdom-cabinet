@@ -5,6 +5,8 @@ let meta = JSON.parse(rawmeta);
 module.exports = function () {
   return `SELECT DISTINCT ?item ?itemLabel
           ?position ?positionLabel ?start ?end ?cabinet ?cabinetLabel
+          ?ordinal ?replaces ?replacesLabel ?replacedBy ?replacedByLabel
+          ?nature ?natureLabel
           ?source ?sourceName ?statedName
           ?gender ?genderLabel ?dob ?dobPrecision
          (STRAFTER(STR(?held), '/statement/') AS ?psid)
@@ -19,6 +21,10 @@ module.exports = function () {
     OPTIONAL { ?held pq:P580 ?start }
     OPTIONAL { ?held pq:P582 ?end }
     OPTIONAL { ?held pq:P5054 ?cabinet }
+    OPTIONAL { ?held pq:P1545 ?ordinal }
+    OPTIONAL { ?held pq:P1365 ?replaces }
+    OPTIONAL { ?held pq:P1366 ?replacedBy }
+    OPTIONAL { ?held pq:P5102 ?nature }
 
     OPTIONAL {
       ?held prov:wasDerivedFrom ?ref .
