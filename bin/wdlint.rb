@@ -63,7 +63,7 @@ warnings[:no_inception] = no_inception.map { |row| [row.id, row.starttime_date] 
 #------------------
 # No abolition date
 #------------------
-no_abolished = cabinets.reject(&:abolished)
+no_abolished = cabinets.take(cabinets.size-1).reject(&:abolished)
 warnings[:no_abolished] = no_abolished.map { |row| [row.id, row.endtime_date] }.to_h
 
 #-----------------------------
@@ -106,7 +106,7 @@ warnings[:multiple_replaces] = multiple_replaces.map { |id, rows| [id, rows.map(
 #---------------
 # No replaced_by
 #---------------
-no_replacedby = cabinets.reject(&:replacedby)
+no_replacedby = cabinets.take(cabinets.size-1).reject(&:replacedby)
 warnings[:no_replacedby] = no_replacedby.map { |row| [row.id, row.followedby_str] }.to_h
 
 #--------------------------
@@ -149,6 +149,10 @@ warnings[:replacedby_doesnt_reciprocate] = mismatch.map { |row| [row.id, [row.re
 mismatch = cabinets.select { |cabinet| cabinet.replaces && by_item[cabinet.replaces]&.first&.replacedby && (cabinet.item != by_item[cabinet.replaces].first.replacedby) }
 warnings[:replaces_doesnt_reciprocate] = mismatch.map { |row| [row.id, [row.replaces_str, by_item[row.replaces]&.first&.replacedby_str]] }
 
-# TODO: date overlaps
+#---------------------------
+# abolished > next.inception
+#---------------------------
+mismatch = cabinets.each_cons(2).select { |c1, c2| c1.abolished && c2.inception && (c1.abolished > c2.inception) }
+warnings[:abolished_before_successor_inception] = mismatch.map { |c1, c2| {c1.id => "abolished: #{c1.abolished_date}", c2.id => "inception: #{c2.inception_date}" } }
 
 puts JSON.pretty_generate(warnings)

@@ -4,7 +4,8 @@
     "Ministry of All the Talents (Q1935636)",
     "Second Portland ministry (Q24965666)",
     "Perceval ministry (Q7167054)",
-    "Second Melbourne ministry (Q604250)",
+    "Second Melbourne cabinet (Q604250)",
+    "Third Melbourne cabinet (Q25416687)",
     "First Disraeli ministry (Q25416795)",
     "First Gladstone ministry (Q5453049)",
     "Second Disraeli ministry (Q3773843)",
@@ -42,49 +43,27 @@
     "Second Wilson ministry (Q47528850)",
     "Heath ministry (Q5693589)",
     "Third Wilson ministry (Q9362219)",
-    "Fourth Wilson ministry (Q47529283)",
-    "Second Johnson ministry (Q78347457)"
+    "Fourth Wilson ministry (Q47529283)"
   ],
   "no_inception": {
   },
   "no_abolished": {
-    "Second Melbourne ministry (Q604250)": null,
-    "Second Johnson ministry (Q78347457)": null
   },
   "multiple_inception": {
   },
   "multiple_abolished": {
   },
   "mismatched_inception": {
-    "Liberal government, 1892–1895 (Q6540674)": [
-      "1892-08-15",
-      "1892"
-    ]
   },
   "mismatched_abolished": {
-    "Liberal government, 1892–1895 (Q6540674)": [
-      "1894-03-02",
-      "1895"
-    ],
-    "Asquith coalition ministry (Q2217172)": [
-      "1916-12-06",
-      "1916"
-    ],
-    "Second Baldwin ministry (Q2514413)": [
-      "1929-06-04",
-      "1929-06-05"
-    ],
-    "National Government of 1931 (Q5453430)": [
-      "1931-10-27",
-      "1931-10-28"
-    ]
   },
   "no_replaces": {
     "Addington ministry (Q4681182)": "",
     "Ministry of All the Talents (Q1935636)": "",
     "Second Portland ministry (Q24965666)": "",
     "Perceval ministry (Q7167054)": "",
-    "Second Melbourne ministry (Q604250)": "",
+    "Second Melbourne cabinet (Q604250)": "",
+    "Third Melbourne cabinet (Q25416687)": "",
     "First Disraeli ministry (Q25416795)": "",
     "First Gladstone ministry (Q5453049)": "",
     "Fourth Gladstone ministry (Q25416790)": "",
@@ -94,9 +73,7 @@
     "First Lloyd George ministry (Q11816748)": "",
     "Second Lloyd George ministry (Q106862512)": "",
     "Law Ministry (Q28859979)": "",
-    "Attlee ministry (Q7724649)": "",
-    "First Major ministry (Q11816753)": "Third Thatcher ministry (Q16934452)",
-    "Second Major ministry (Q27957665)": "Q27957664 (Q27957664)"
+    "Attlee ministry (Q7724649)": ""
   },
   "multiple_replaces": {
   },
@@ -105,7 +82,8 @@
     "Ministry of All the Talents (Q1935636)": "",
     "Second Portland ministry (Q24965666)": "",
     "Perceval ministry (Q7167054)": "",
-    "Second Melbourne ministry (Q604250)": "",
+    "Second Melbourne cabinet (Q604250)": "",
+    "Third Melbourne cabinet (Q25416687)": "",
     "First Disraeli ministry (Q25416795)": "",
     "First Gladstone ministry (Q5453049)": "",
     "Liberal government, 1892–1895 (Q6540674)": "",
@@ -116,10 +94,7 @@
     "Asquith coalition ministry (Q2217172)": "",
     "First Lloyd George ministry (Q11816748)": "",
     "Second Lloyd George ministry (Q106862512)": "",
-    "Churchill caretaker ministry (Q16826836)": "",
-    "Third Thatcher ministry (Q16934452)": "Q27957664 (Q27957664)",
-    "First Major ministry (Q11816753)": "Second Major ministry (Q27957665)",
-    "Second Johnson ministry (Q78347457)": ""
+    "Churchill caretaker ministry (Q16826836)": ""
   },
   "multiple_replacedby": {
   },
@@ -127,6 +102,10 @@
     "Heath ministry (Q5693589)": [
       "Second Wilson ministry (Q47528850)",
       "Labour government, 1964–1970 (Q2709714)"
+    ],
+    "Brown ministry (Q1646006)": [
+      "Third Blair ministry (Q17335522)",
+      "Q30765565 (Q30765565)"
     ]
   },
   "replacedby_ne_followedby": {
@@ -136,12 +115,10 @@
     ]
   },
   "replaces_not_present": [
-    "Q30765564",
-    "Q30765565"
+    "Q30765564"
   ],
   "replacedby_not_present": [
-    "Q30765564",
-    "Q30765565"
+    "Q27957664"
   ],
   "replacedby_doesnt_reciprocate": [
     [
@@ -150,29 +127,21 @@
         "Second Blair Ministry (Q30765571)",
         "Q30765564"
       ]
-    ],
-    [
-      "Third Blair ministry (Q17335522)",
-      [
-        "Brown ministry (Q1646006)",
-        "Q30765565"
-      ]
     ]
   ],
   "replaces_doesnt_reciprocate": [
     [
-      "First Blair Ministry (Q25416711)",
+      "First Major ministry (Q11816753)",
       [
-        "Second Major ministry (Q27957665)",
-        "Q30765564 (Q30765564)"
-      ]
-    ],
-    [
-      "Third Blair ministry (Q17335522)",
-      [
-        "Second Blair Ministry (Q30765571)",
-        "Q30765565 (Q30765565)"
+        "Third Thatcher ministry (Q16934452)",
+        "Q27957664 (Q27957664)"
       ]
     ]
+  ],
+  "abolished_before_successor_inception": [
+    {
+      "Liberal government, 1892–1895 (Q6540674)": "abolished: 1894-03-02",
+      "Fourth Gladstone ministry (Q25416790)": "inception: 1892-08-15"
+    }
   ]
 }
