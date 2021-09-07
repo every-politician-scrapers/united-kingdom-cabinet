@@ -13,8 +13,8 @@
     "Salisbury caretaker ministry (Q5453776)",
     "Third Gladstone ministry (Q7784867)",
     "Second Salisbury ministry (Q7443515)",
-    "Liberal government, 1892–1895 (Q6540674)",
     "Fourth Gladstone ministry (Q25416790)",
+    "Rosebery ministry (Q6540674)",
     "Third Salisbury ministry (Q108440098)",
     "Balfour Cabinet (Q24952662)",
     "Liberal government, 1905–1915 (Q17507478)",
@@ -66,7 +66,6 @@
     "Third Melbourne cabinet (Q25416687)": "",
     "First Disraeli ministry (Q25416795)": "",
     "First Gladstone ministry (Q5453049)": "",
-    "Fourth Gladstone ministry (Q25416790)": "",
     "Balfour Cabinet (Q24952662)": "",
     "Liberal government, 1905–1915 (Q17507478)": "",
     "Asquith coalition ministry (Q2217172)": "",
@@ -86,8 +85,6 @@
     "Third Melbourne cabinet (Q25416687)": "",
     "First Disraeli ministry (Q25416795)": "",
     "First Gladstone ministry (Q5453049)": "",
-    "Liberal government, 1892–1895 (Q6540674)": "",
-    "Fourth Gladstone ministry (Q25416790)": "",
     "Third Salisbury ministry (Q108440098)": "",
     "Balfour Cabinet (Q24952662)": "",
     "Liberal government, 1905–1915 (Q17507478)": "",
@@ -99,49 +96,26 @@
   "multiple_replacedby": {
   },
   "replaces_ne_follows": {
-    "Heath ministry (Q5693589)": [
-      "Second Wilson ministry (Q47528850)",
-      "Labour government, 1964–1970 (Q2709714)"
-    ],
     "Brown ministry (Q1646006)": [
       "Third Blair ministry (Q17335522)",
       "Q30765565 (Q30765565)"
     ]
   },
   "replacedby_ne_followedby": {
-    "Heath ministry (Q5693589)": [
-      "Third Wilson ministry (Q9362219)",
-      "Labour government, 1974–1979 (Q6467422)"
-    ]
   },
   "replaces_not_present": [
-    "Q30765564"
+
   ],
   "replacedby_not_present": [
-    "Q27957664"
+
   ],
   "replacedby_doesnt_reciprocate": [
-    [
-      "First Blair Ministry (Q25416711)",
-      [
-        "Second Blair Ministry (Q30765571)",
-        "Q30765564"
-      ]
-    ]
+
   ],
   "replaces_doesnt_reciprocate": [
-    [
-      "First Major ministry (Q11816753)",
-      [
-        "Third Thatcher ministry (Q16934452)",
-        "Q27957664 (Q27957664)"
-      ]
-    ]
+
   ],
   "abolished_before_successor_inception": [
-    {
-      "Liberal government, 1892–1895 (Q6540674)": "abolished: 1894-03-02",
-      "Fourth Gladstone ministry (Q25416790)": "inception: 1892-08-15"
-    }
+
   ]
 }
