@@ -1,0 +1,196 @@
+{
+  "no_ordinal": [
+    "Addington ministry (Q4681182)",
+    "Ministry of All the Talents (Q1935636)",
+    "First Gladstone ministry (Q5453049)",
+    "Second Disraeli ministry (Q3773843)",
+    "Second Gladstone ministry (Q7443319)",
+    "Salisbury caretaker ministry (Q5453776)",
+    "Third Gladstone ministry (Q7784867)",
+    "Second Salisbury ministry (Q7443515)",
+    "Liberal government, 1892–1895 (Q6540674)",
+    "Unionist government, 1895–1905 (Q2592915)",
+    "Balfour Cabinet (Q24952662)",
+    "Liberal government, 1905–1915 (Q17507478)",
+    "Asquith coalition ministry (Q2217172)",
+    "First Lloyd George ministry (Q106862509)",
+    "Second Lloyd George ministry (Q106862512)",
+    "Law Ministry (Q28859979)",
+    "First Baldwin ministry (Q30316884)",
+    "Second Baldwin ministry (Q2514413)",
+    "First MacDonald ministry (Q5453246)",
+    "Second Baldwin ministry (Q2514413)",
+    "Second MacDonald ministry (Q769284)",
+    "National Government of 1931 (Q5453430)",
+    "National Government of 1931-1935 (Q16191221)",
+    "National Government of 1935-1937 (Q7784906)",
+    "National Government of 1937-1939 (Q5476144)",
+    "Chamberlain war ministry (Q2658850)",
+    "Churchill war ministry (Q5118241)",
+    "Churchill caretaker ministry (Q16826836)",
+    "Attlee ministry (Q7724649)",
+    "Third Churchill ministry (Q16934480)",
+    "Eden ministry (Q7724526)",
+    "First Macmillan ministry (Q47529413)",
+    "Second Macmillan ministry (Q9212198)",
+    "Douglas-Home ministry (Q9325354)",
+    "First Wilson ministry (Q11816750)",
+    "Second Wilson ministry (Q47528850)",
+    "Heath ministry (Q5693589)",
+    "Third Wilson ministry (Q9362219)",
+    "Fourth Wilson ministry (Q47529283)",
+    "Callaghan ministry (Q47529305)",
+    "First Thatcher ministry (Q5453886)",
+    "Second Thatcher ministry (Q9212204)",
+    "Third Thatcher ministry (Q16934452)",
+    "Brown ministry (Q1646006)",
+    "Cameron–Clegg coalition (Q1719801)",
+    "Second Cameron ministry (Q19889159)",
+    "First May ministry (Q25814075)",
+    "First Johnson ministry (Q78356885)",
+    "Second Johnson ministry (Q78347457)"
+  ],
+  "no_inception": {
+  },
+  "no_abolished": {
+    "Second Johnson ministry (Q78347457)": null
+  },
+  "multiple_inception": {
+    "Second Baldwin ministry (Q2514413)": [
+      "1924",
+      "1924-11-04"
+    ]
+  },
+  "multiple_abolished": {
+  },
+  "mismatched_inception": {
+    "First Gladstone ministry (Q5453049)": [
+      "1868-12-03",
+      "1868"
+    ],
+    "Second Disraeli ministry (Q3773843)": [
+      "1874-02-20",
+      "1874"
+    ],
+    "Second Gladstone ministry (Q7443319)": [
+      "1880-04-23",
+      "1880"
+    ],
+    "Salisbury caretaker ministry (Q5453776)": [
+      "1885-06-23",
+      "1885"
+    ],
+    "Third Gladstone ministry (Q7784867)": [
+      "1886-02-01",
+      "1886"
+    ],
+    "Second Salisbury ministry (Q7443515)": [
+      "1886-07-25",
+      "1886"
+    ],
+    "Liberal government, 1892–1895 (Q6540674)": [
+      "1892-08-15",
+      "1892"
+    ],
+    "Unionist government, 1895–1905 (Q2592915)": [
+      "1895-06-25",
+      "1895"
+    ],
+    "Second Baldwin ministry (Q2514413)": [
+      "1924",
+      "1924-11-04"
+    ]
+  },
+  "mismatched_abolished": {
+    "First Gladstone ministry (Q5453049)": [
+      "1874-02-20",
+      "1874"
+    ],
+    "Second Disraeli ministry (Q3773843)": [
+      "1880-04-21",
+      "1880"
+    ],
+    "Second Gladstone ministry (Q7443319)": [
+      "1885-06-09",
+      "1885"
+    ],
+    "Salisbury caretaker ministry (Q5453776)": [
+      "1886-01-28",
+      "1886"
+    ],
+    "Third Gladstone ministry (Q7784867)": [
+      "1886-07-20",
+      "1886"
+    ],
+    "Second Salisbury ministry (Q7443515)": [
+      "1892-08-11",
+      "1892"
+    ],
+    "Liberal government, 1892–1895 (Q6540674)": [
+      "1894-03-02",
+      "1895"
+    ],
+    "Unionist government, 1895–1905 (Q2592915)": [
+      "1900-10-24",
+      "1905"
+    ],
+    "Asquith coalition ministry (Q2217172)": [
+      "1916-12-06",
+      "1916"
+    ],
+    "Second Baldwin ministry (Q2514413)": [
+      "1929-06-04",
+      "1929-06-05"
+    ],
+    "National Government of 1931 (Q5453430)": [
+      "1931-10-27",
+      "1931-10-28"
+    ]
+  },
+  "no_replaces": {
+    "Addington ministry (Q4681182)": "",
+    "Ministry of All the Talents (Q1935636)": "",
+    "First Gladstone ministry (Q5453049)": "",
+    "Balfour Cabinet (Q24952662)": "",
+    "Liberal government, 1905–1915 (Q17507478)": "",
+    "Asquith coalition ministry (Q2217172)": "",
+    "First Lloyd George ministry (Q106862509)": "",
+    "Second Lloyd George ministry (Q106862512)": "",
+    "Law Ministry (Q28859979)": "",
+    "Attlee ministry (Q7724649)": "",
+    "First Major ministry (Q27957664)": "Third Thatcher ministry (Q16934452)",
+    "Second Major ministry (Q27957665)": "First Major ministry (Q27957664)"
+  },
+  "multiple_replaces": {
+  },
+  "no_replacedby": {
+    "Addington ministry (Q4681182)": "",
+    "Ministry of All the Talents (Q1935636)": "",
+    "First Gladstone ministry (Q5453049)": "",
+    "Liberal government, 1892–1895 (Q6540674)": "",
+    "Unionist government, 1895–1905 (Q2592915)": "",
+    "Balfour Cabinet (Q24952662)": "",
+    "Liberal government, 1905–1915 (Q17507478)": "",
+    "Asquith coalition ministry (Q2217172)": "",
+    "First Lloyd George ministry (Q106862509)": "",
+    "Second Lloyd George ministry (Q106862512)": "",
+    "Churchill caretaker ministry (Q16826836)": "",
+    "Third Thatcher ministry (Q16934452)": "First Major ministry (Q27957664)",
+    "First Major ministry (Q27957664)": "Second Major ministry (Q27957665)",
+    "Second Johnson ministry (Q78347457)": ""
+  },
+  "multiple_replacedby": {
+  },
+  "mismatched_replaces": {
+    "Heath ministry (Q5693589)": [
+      "Second Wilson ministry (Q47528850)",
+      "Labour government, 1964–1970 (Q2709714)"
+    ]
+  },
+  "mismatched_replacedby": {
+    "Heath ministry (Q5693589)": [
+      "Third Wilson ministry (Q9362219)",
+      "Labour government, 1974–1979 (Q6467422)"
+    ]
+  }
+}
