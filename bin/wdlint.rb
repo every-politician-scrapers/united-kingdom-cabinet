@@ -47,6 +47,7 @@ cabinets = CSV.table('wikidata/results/all-cabinets.csv')
 warnings = {}
 
 by_id = cabinets.group_by(&:id)
+by_item = cabinets.group_by(&:item)
 
 #---------------------------
 # No ordinal (but others do)
@@ -118,12 +119,36 @@ warnings[:multiple_replacedby] = multiple_replacedby.map { |id, rows| [id, rows.
 # replaces != follows
 #--------------------
 mmr = cabinets.select { |row| row.replaces && row.follows && row.replaces != row.follows }
-warnings[:mismatched_replaces] = mmr.map { |row| [row.id, [row.replaces_str, row.follows_str]] }.to_h
+warnings[:replaces_ne_follows] = mmr.map { |row| [row.id, [row.replaces_str, row.follows_str]] }.to_h
 
 #-------------------------
 # replacedby != followedby
 #-------------------------
 mmrb = cabinets.select { |row| row.replacedby && row.followedby && row.replacedby != row.followedby }
-warnings[:mismatched_replacedby] = mmrb.map { |row| [row.id, [row.replacedby_str, row.followedby_str]] }.to_h
+warnings[:replacedby_ne_followedby] = mmrb.map { |row| [row.id, [row.replacedby_str, row.followedby_str]] }.to_h
+
+#---------------------
+# replaces not present
+#---------------------
+warnings[:replaces_not_present] = (cabinets.map(&:replaces) - cabinets.map(&:item)).compact
+
+#-----------------------
+# replacedby not present
+#-----------------------
+warnings[:replacedby_not_present] = (cabinets.map(&:replacedby) - cabinets.map(&:item)).compact
+
+#-----------------------------
+# replacedby.replacees != self
+#-----------------------------
+mismatch = cabinets.select { |cabinet| cabinet.replacedby && by_item[cabinet.replacedby]&.first&.replaces && (cabinet.item != by_item[cabinet.replacedby].first.replaces) }
+warnings[:replacedby_doesnt_reciprocate] = mismatch.map { |row| [row.id, [row.replacedby_str, by_item[row.replacedby]&.first&.replaces]] }
+
+#----------------------------
+# replaces.replacedby != self
+#----------------------------
+mismatch = cabinets.select { |cabinet| cabinet.replaces && by_item[cabinet.replaces]&.first&.replacedby && (cabinet.item != by_item[cabinet.replaces].first.replacedby) }
+warnings[:replaces_doesnt_reciprocate] = mismatch.map { |row| [row.id, [row.replaces_str, by_item[row.replaces]&.first&.replacedby_str]] }
+
+# TODO: date overlaps
 
 puts JSON.pretty_generate(warnings)

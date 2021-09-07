@@ -123,13 +123,13 @@
   },
   "multiple_replacedby": {
   },
-  "mismatched_replaces": {
+  "replaces_ne_follows": {
     "Heath ministry (Q5693589)": [
       "Second Wilson ministry (Q47528850)",
       "Labour government, 1964–1970 (Q2709714)"
     ]
   },
-  "mismatched_replacedby": {
+  "replacedby_ne_followedby": {
     "Heath ministry (Q5693589)": [
       "Third Wilson ministry (Q9362219)",
       "Labour government, 1974–1979 (Q6467422)"
@@ -142,5 +142,37 @@
   "replacedby_not_present": [
     "Q30765564",
     "Q30765565"
+  ],
+  "replacedby_doesnt_reciprocate": [
+    [
+      "First Blair Ministry (Q25416711)",
+      [
+        "Second Blair Ministry (Q30765571)",
+        "Q30765564"
+      ]
+    ],
+    [
+      "Third Blair ministry (Q17335522)",
+      [
+        "Brown ministry (Q1646006)",
+        "Q30765565"
+      ]
+    ]
+  ],
+  "replaces_doesnt_reciprocate": [
+    [
+      "First Blair Ministry (Q25416711)",
+      [
+        "Second Major ministry (Q27957665)",
+        "Q30765564 (Q30765564)"
+      ]
+    ],
+    [
+      "Third Blair ministry (Q17335522)",
+      [
+        "Second Blair Ministry (Q30765571)",
+        "Q30765565 (Q30765565)"
+      ]
+    ]
   ]
 }
