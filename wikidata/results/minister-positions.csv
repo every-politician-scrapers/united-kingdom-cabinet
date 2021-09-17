@@ -1,68 +1,68 @@
 item,itemLabel,itemDescription,inception,abolition,partOf,partOfLabel,partStart,partEnd,isa,isaLabel,ministry,ministryLabel
-Q2631987,Attorney General for England and Wales,law officer of the Monarch of England and Wales,1277-01-01T00:00:00Z,,Q112014,Cabinet of the United Kingdom,,,Q1501926,attorney general,,
-Q2631987,Attorney General for England and Wales,law officer of the Monarch of England and Wales,1277-01-01T00:00:00Z,,Q112014,Cabinet of the United Kingdom,,,Q1778154,Law Officer of the Crown,,
+Q2631987,Attorney General for England and Wales,law officer of the Monarch of England and Wales,1277-01-01,,Q112014,Cabinet of the United Kingdom,,,Q1501926,attorney general,,
+Q2631987,Attorney General for England and Wales,law officer of the Monarch of England and Wales,1277-01-01,,Q112014,Cabinet of the United Kingdom,,,Q1778154,Law Officer of the Crown,,
 Q105544176,Banking Reform Committee,UK government Cabinet committee,,,Q112014,Cabinet of the United Kingdom,,,,,,
-Q108045009,COP26 President,UK ministerial position,2020-02-13T00:00:00Z,,Q112014,Cabinet of the United Kingdom,,,Q83307,minister,,
-Q162754,Chancellor of the Duchy of Lancaster,ministerial office in Her Majesty's Government,1361-01-01T00:00:00Z,,Q112014,Cabinet of the United Kingdom,,,Q83307,minister,Q2914544,Duchy of Lancaster
-Q531471,Chancellor of the Exchequer,position in the British Cabinet responsible for economic and financial matters,1316-06-30T00:00:00Z,,Q112014,Cabinet of the United Kingdom,,,Q3315109,Minister of the Crown,Q578269,HM Treasury
-Q531471,Chancellor of the Exchequer,position in the British Cabinet responsible for economic and financial matters,1316-06-30T00:00:00Z,,Q112014,Cabinet of the United Kingdom,,,Q7614320,finance minister,Q578269,HM Treasury
-Q5096927,Chief Secretary to the Treasury,Senior minister in the British Treasury,1961-10-08T00:00:00Z,,Q112014,Cabinet of the United Kingdom,,,Q83307,minister,,
-Q5152526,Commercial Secretary to the Treasury,,2010-05-01T00:00:00Z,,,,,,Q3492070,Parliamentary Under-Secretary of State,,
+Q108045009,COP26 President,UK ministerial position,2020-02-13,,Q112014,Cabinet of the United Kingdom,,,Q83307,minister,,
+Q162754,Chancellor of the Duchy of Lancaster,ministerial office in Her Majesty's Government,1361-01-01,,Q112014,Cabinet of the United Kingdom,,,Q83307,minister,Q2914544,Duchy of Lancaster
+Q531471,Chancellor of the Exchequer,position in the British Cabinet responsible for economic and financial matters,1316-06-30,,Q112014,Cabinet of the United Kingdom,,,Q3315109,Minister of the Crown,Q578269,HM Treasury
+Q531471,Chancellor of the Exchequer,position in the British Cabinet responsible for economic and financial matters,1316-06-30,,Q112014,Cabinet of the United Kingdom,,,Q7614320,finance minister,Q578269,HM Treasury
+Q5096927,Chief Secretary to the Treasury,Senior minister in the British Treasury,1961-10-08,,Q112014,Cabinet of the United Kingdom,,,Q83307,minister,,
+Q5152526,Commercial Secretary to the Treasury,,2010-05-01,,,,,,Q3492070,Parliamentary Under-Secretary of State,,
 Q105544177,Constitutional Reform Committee,UK government Cabinet committee,,,Q112014,Cabinet of the United Kingdom,,,,,,
-Q1507619,Deputy Prime Minister of the United Kingdom,position,1942-02-19T00:00:00Z,,,,,,Q877955,deputy prime minister,,
+Q1507619,Deputy Prime Minister of the United Kingdom,position,1942-02-19,,,,,,Q877955,deputy prime minister,,
 Q105544180,EU Exit and Trade Committee,UK government Cabinet committee,,,Q112014,Cabinet of the United Kingdom,,,,,,
-Q5333410,Economic Secretary to the Treasury,Junior minister in the British Treasury,1947-12-01T00:00:00Z,,,,,,Q83307,minister,,
+Q5333410,Economic Secretary to the Treasury,Junior minister in the British Treasury,1947-12-01,,,,,,Q83307,minister,,
 Q105544178,Economy and Industrial Strategy Committee,UK government Cabinet committee,,,Q112014,Cabinet of the United Kingdom,,,,,,
-Q5449647,Financial Secretary to the Treasury,Junior minister in the British Treasury,1711-06-11T00:00:00Z,,,,,,Q83307,minister,,
-Q609884,First Lord of the Treasury,head of the commission exercising the ancient office of Lord High Treasurer in the United Kingdom,1126-01-01T00:00:00Z,,Q112014,Cabinet of the United Kingdom,,,Q524778,commissioner,,
-Q3068024,First Secretary of State,Senior ministerial office of the United Kingdom,1962-07-13T00:00:00Z,,Q112014,Cabinet of the United Kingdom,,,Q14214,Secretary of State,,
+Q5449647,Financial Secretary to the Treasury,Junior minister in the British Treasury,1711-06-11,,,,,,Q83307,minister,,
+Q609884,First Lord of the Treasury,head of the commission exercising the ancient office of Lord High Treasurer in the United Kingdom,1126-01-01,,Q112014,Cabinet of the United Kingdom,,,Q524778,commissioner,,
+Q3068024,First Secretary of State,Senior ministerial office of the United Kingdom,1962-07-13,,Q112014,Cabinet of the United Kingdom,,,Q14214,Secretary of State,,
 Q105544181,Growth and Enterprise Committee,UK government Cabinet committee,,,Q112014,Cabinet of the United Kingdom,,,,,,
-Q2484309,Home Secretary,United Kingdom government cabinet minister,1782-01-01T00:00:00Z,,Q112014,Cabinet of the United Kingdom,,,Q17578116,interior minister,Q763388,Home Office
-Q2484309,Home Secretary,United Kingdom government cabinet minister,1782-01-01T00:00:00Z,,Q112014,Cabinet of the United Kingdom,,,Q14214,Secretary of State,Q763388,Home Office
-Q2636053,Leader of the House of Commons,responsible for arranging government business in the House of Commons,1721-04-04T00:00:00Z,,Q112014,Cabinet of the United Kingdom,,,Q62523341,Parliamentary affairs minister,,
-Q2012061,Leader of the House of Lords,member of the Cabinet of the United Kingdom,1721-01-01T00:00:00Z,,Q112014,Cabinet of the United Kingdom,,,Q83307,minister,Q17101024,Office of the Leader of the House of Lords
+Q2484309,Home Secretary,United Kingdom government cabinet minister,1782-01-01,,Q112014,Cabinet of the United Kingdom,,,Q17578116,interior minister,Q763388,Home Office
+Q2484309,Home Secretary,United Kingdom government cabinet minister,1782-01-01,,Q112014,Cabinet of the United Kingdom,,,Q14214,Secretary of State,Q763388,Home Office
+Q2636053,Leader of the House of Commons,responsible for arranging government business in the House of Commons,1721-04-04,,Q112014,Cabinet of the United Kingdom,,,Q62523341,Parliamentary affairs minister,,
+Q2012061,Leader of the House of Lords,member of the Cabinet of the United Kingdom,1721-01-01,,Q112014,Cabinet of the United Kingdom,,,Q83307,minister,Q17101024,Office of the Leader of the House of Lords
 Q105544183,Local Growth Committee,UK government Cabinet committee,,,Q112014,Cabinet of the United Kingdom,,,,,,
-Q217217,Lord Chancellor,senior and important functionary in the government of the United Kingdom,1066-01-01T00:00:00Z,,Q112014,Cabinet of the United Kingdom,,,Q1544356,Great Officer of State,Q614305,Courts of England and Wales
-Q217217,Lord Chancellor,senior and important functionary in the government of the United Kingdom,1066-01-01T00:00:00Z,,Q112014,Cabinet of the United Kingdom,,,Q294414,public office,Q614305,Courts of England and Wales
-Q217217,Lord Chancellor,senior and important functionary in the government of the United Kingdom,1066-01-01T00:00:00Z,,Q112014,Cabinet of the United Kingdom,,,Q14214,Secretary of State,Q614305,Courts of England and Wales
-Q1846056,Lord Chancellor of Ireland,the highest judicial office in Ireland until the establishment of the Irish Free State in 1922,1200-01-01T00:00:00Z,1922-01-01T00:00:00Z,Q112014,Cabinet of the United Kingdom,,,Q294414,public office,,
-Q943379,Lord President of the Council,cabinet minister in the United Kingdom,1530-01-01T00:00:00Z,,Q112014,Cabinet of the United Kingdom,,,Q1544356,Great Officer of State,Q2928395,Privy Council Office
-Q910308,Lord Privy Seal,sinecure office of state in the UK,1307-01-01T00:00:00Z,,Q112014,Cabinet of the United Kingdom,,,Q1544356,Great Officer of State,,
+Q217217,Lord Chancellor,senior and important functionary in the government of the United Kingdom,1066-01-01,,Q112014,Cabinet of the United Kingdom,,,Q1544356,Great Officer of State,Q614305,Courts of England and Wales
+Q217217,Lord Chancellor,senior and important functionary in the government of the United Kingdom,1066-01-01,,Q112014,Cabinet of the United Kingdom,,,Q294414,public office,Q614305,Courts of England and Wales
+Q217217,Lord Chancellor,senior and important functionary in the government of the United Kingdom,1066-01-01,,Q112014,Cabinet of the United Kingdom,,,Q14214,Secretary of State,Q614305,Courts of England and Wales
+Q1846056,Lord Chancellor of Ireland,the highest judicial office in Ireland until the establishment of the Irish Free State in 1922,1200-01-01,1922-01-01,Q112014,Cabinet of the United Kingdom,,,Q294414,public office,,
+Q943379,Lord President of the Council,cabinet minister in the United Kingdom,1530-01-01,,Q112014,Cabinet of the United Kingdom,,,Q1544356,Great Officer of State,Q2928395,Privy Council Office
+Q910308,Lord Privy Seal,sinecure office of state in the UK,1307-01-01,,Q112014,Cabinet of the United Kingdom,,,Q1544356,Great Officer of State,,
 Q104878753,Minister for Africa,,,,,,,,Q3315100,Minister of State (United Kingdom),,
 Q105063624,Minister for Agriculture and Food,British government minister,,,,,,,Q3315100,Minister of State (United Kingdom),,
 Q6865755,Minister for Children,minister of the British Government for children,,,,,,,Q3492070,Parliamentary Under-Secretary of State,,
-Q6865766,Minister for Co-ordination of Defence,,1936-01-01T00:00:00Z,1940-01-01T00:00:00Z,,,,,Q2518691,defence minister,,
+Q6865766,Minister for Co-ordination of Defence,,1936-01-01,1940-01-01,,,,,Q2518691,defence minister,,
 Q108558652,Minister for Constitutional Reform,UK government position,,,,,,,Q83307,minister,,
 Q25909926,Minister for Culture and Tourism,UK minister,,,,,,,Q15722501,tourism minister,,
 Q25909926,Minister for Culture and Tourism,UK minister,,,,,,,Q2621182,minister of culture,,
 Q23641739,"Minister for Defence Personnel, Welfare and Veterans",UK minister,,,,,,,Q83307,minister,,
 Q24284260,Minister for Pensions and Ageing Society,UK ministerial role,,,,,,,Q83307,minister,,
 Q96393330,Minister for Prisons,,,,,,,,Q3315100,Minister of State (United Kingdom),,
-Q6865953,Minister for Social Exclusion,British government minister; 2005–2007,2005-05-09T00:00:00Z,2007-06-27T00:00:00Z,,,,,Q83307,minister,,
-Q6865965,"Minister for Sport, Civil Society and Loneliness",,1962-01-01T00:00:00Z,,,,,,Q7579929,sports minister,,
+Q6865953,Minister for Social Exclusion,British government minister; 2005–2007,2005-05-09,2007-06-27,,,,,Q83307,minister,,
+Q6865965,"Minister for Sport, Civil Society and Loneliness",,1962-01-01,,,,,,Q7579929,sports minister,,
 Q104830004,Minister for Veterans,British government minister,,,,,,,Q3315100,Minister of State (United Kingdom),,
 Q25906165,Minister for Welfare Reform,UK ministerial role,,,,,,,Q83307,minister,,
-Q3315134,Minister for Women and Equalities,,2007-06-28T00:00:00Z,,Q6063,Government of the United Kingdom,,,Q83307,minister,Q533601,Government Equalities Office
-Q3315134,Minister for Women and Equalities,,2007-06-28T00:00:00Z,,Q112014,Cabinet of the United Kingdom,,,Q83307,minister,Q533601,Government Equalities Office
+Q3315134,Minister for Women and Equalities,,2007-06-28,,Q6063,Government of the United Kingdom,,,Q83307,minister,Q533601,Government Equalities Office
+Q3315134,Minister for Women and Equalities,,2007-06-28,,Q112014,Cabinet of the United Kingdom,,,Q83307,minister,Q533601,Government Equalities Office
 Q108443210,Minister for Yorkshire and the Humber,,,,,,,,Q7309225,Regional minister,,
 Q6865995,Minister for the Cabinet Office,British government office,,,Q5995,Cabinet Office,,,Q83307,minister,,
 Q6865995,Minister for the Cabinet Office,British government office,,,Q112014,Cabinet of the United Kingdom,,,Q83307,minister,,
-Q3315116,Minister for the Civil Service,Ministerial position in the Government of the United Kingdom,1968-11-01T00:00:00Z,,Q112014,Cabinet of the United Kingdom,,,Q83307,minister,,
+Q3315116,Minister for the Civil Service,Ministerial position in the Government of the United Kingdom,1968-11-01,,Q112014,Cabinet of the United Kingdom,,,Q83307,minister,,
 Q23304225,Minister for the East Midlands,UK minister,,,,,,,Q83307,minister,,
 Q6866009,Minister for the Olympics,,,,,,,,Q83307,minister,,
 Q65988624,Minister for the Union,Ministerial position in the Government of the United Kingdom,,,Q112014,Cabinet of the United Kingdom,,,,,,
 Q6866025,"Minister of Agriculture, Fisheries and Food",,,,,,,,Q10495779,minister of fisheries,Q6866602,"Ministry of Agriculture, Fisheries and Food"
 Q6866025,"Minister of Agriculture, Fisheries and Food",,,,,,,,Q10540834,agriculture minister,Q6866602,"Ministry of Agriculture, Fisheries and Food"
-Q6866042,Minister of Aircraft Production,British government minister; 1940–1945,1940-05-14T00:00:00Z,1945-07-26T00:00:00Z,,,,,Q83307,minister,,
-Q3387159,Minister of Defence,former position in the United Kingdom,1940-05-10T00:00:00Z,1964-04-01T00:00:00Z,,,,,Q2518691,defence minister,,
-Q1446566,Minister of Munitions,"position in the British government, 1915-1921",1915-05-25T00:00:00Z,1921-03-31T00:00:00Z,,,,,Q83307,minister,Q98080090,Ministry of Munitions
-Q105485789,Minister of Posts and Telecommunications,UK government position (1969-1974),1969-01-01T00:00:00Z,1974-04-17T00:00:00Z,,,,,Q83307,minister,Q105485805,Ministry of Posts and Telecommunications
-Q6866286,Minister of Production,British government minister; 1942–1945,1942-02-04T00:00:00Z,1945-07-27T00:00:00Z,,,,,Q83307,minister,,
+Q6866042,Minister of Aircraft Production,British government minister; 1940–1945,1940-05-14,1945-07-26,,,,,Q83307,minister,,
+Q3387159,Minister of Defence,former position in the United Kingdom,1940-05-10,1964-04-01,,,,,Q2518691,defence minister,,
+Q1446566,Minister of Munitions,"position in the British government, 1915-1921",1915-05-25,1921-03-31,,,,,Q83307,minister,Q98080090,Ministry of Munitions
+Q105485789,Minister of Posts and Telecommunications,UK government position (1969-1974),1969-01-01,1974-04-17,,,,,Q83307,minister,Q105485805,Ministry of Posts and Telecommunications
+Q6866286,Minister of Production,British government minister; 1942–1945,1942-02-04,1945-07-27,,,,,Q83307,minister,,
 Q6866304,Minister of Reconstruction,cabinet minister of the United Kingdom,,,,,,,Q83307,minister,,
 Q3315100,Minister of State (United Kingdom),member of the British government,,,,,,,Q2632935,minister of state,,
 Q108046681,Minister of State at the Cabinet Office,United Kingdom government position,,,,,,,Q3315100,Minister of State (United Kingdom),,
 Q104878740,Minister of State for Asia,,,,,,,,Q3315100,Minister of State (United Kingdom),,
-Q104760411,"Minister of State for Business, Energy and Clean Growth",,2004-09-10T00:00:00Z,,,,,,Q3315100,Minister of State (United Kingdom),,
+Q104760411,"Minister of State for Business, Energy and Clean Growth",,2004-09-10,,,,,,Q3315100,Minister of State (United Kingdom),,
 Q25906282,Minister of State for Care Services,UK minister of state,,,,,,,Q3315100,Minister of State (United Kingdom),,
 Q25935122,Minister of State for Children and Families,UK minister of state,,,,,,,Q3315100,Minister of State (United Kingdom),,
 Q25906156,Minister of State for Children in Northern Ireland,UK minister of state,,,,,,,Q3315100,Minister of State (United Kingdom),,
@@ -71,7 +71,7 @@ Q25906279,Minister of State for Climate Change,UK minister of state,,,,,,,Q33151
 Q6866342,Minister of State for Commonwealth Affairs,,,,,,,,Q3315100,Minister of State (United Kingdom),,
 Q6866344,Minister of State for Commonwealth Relations,,,,,,,,Q3315100,Minister of State (United Kingdom),,
 Q6866346,Minister of State for Communities and Local Government,,,,,,,,Q3315100,Minister of State (United Kingdom),,
-Q6866348,Minister of State for Competitiveness,,2007-07-12T00:00:00Z,2010-05-11T00:00:00Z,,,,,Q3315100,Minister of State (United Kingdom),,
+Q6866348,Minister of State for Competitiveness,,2007-07-12,2010-05-11,,,,,Q3315100,Minister of State (United Kingdom),,
 Q108554330,Minister of State for Courts and Justice,UK junior ministerial position,,,,,,,Q3315100,Minister of State (United Kingdom),,
 Q6865933,Minister of State for Crime and Policing,UK government position,,,,,,,Q3315100,Minister of State (United Kingdom),,
 Q108554817,Minister of State for Decentralisation,UK government position,,,,,,,Q3315100,Minister of State (United Kingdom),,
@@ -79,7 +79,7 @@ Q104830549,Minister of State for Defence,British government minister,,,,,,,Q3315
 Q108418111,Minister of State for Employment,UK government position,,,,,,,Q3315100,Minister of State (United Kingdom),,
 Q25196293,Minister of State for Energy,,,,,,,,Q3315100,Minister of State (United Kingdom),,
 Q108555483,Minister of State for Environment and Rural Opportunity,UK government position,,,,,,,Q3315100,Minister of State (United Kingdom),,
-Q6865827,Minister of State for Europe,,1979-01-01T00:00:00Z,,,,,,Q3315100,Minister of State (United Kingdom),,
+Q6865827,Minister of State for Europe,,1979-01-01,,,,,,Q3315100,Minister of State (United Kingdom),,
 Q105162416,Minister of State for Exiting the European Union,,,,,,,,Q3315100,Minister of State (United Kingdom),,
 Q25358560,Minister of State for Farming and the Environment,UK junior minister,,,,,,,Q3315100,Minister of State (United Kingdom),,
 Q4146869,Minister of State for Foreign Affairs,junior ministerial position in the British government,,,,,,,Q3315100,Minister of State (United Kingdom),,
@@ -90,7 +90,7 @@ Q108558665,Minister of State for Industry and the Regions,UK government position
 Q25906161,"Minister of State for Innovation, Universities and Skills",UK minister of state,,,,,,,Q3315100,Minister of State (United Kingdom),,
 Q25910299,Minister of State for International Development,UK minister of state,,,,,,,Q3315100,Minister of State (United Kingdom),,
 Q25906291,Minister of State for Justice,UK minister of state,,,,,,,Q3315100,Minister of State (United Kingdom),,
-Q97327472,Minister of State for Justice and Civil Liberties,UK junior minister role,2013-01-01T00:00:00Z,2015-01-01T00:00:00Z,Q2983190,Ministry of Justice,,,Q3315100,Minister of State (United Kingdom),,
+Q97327472,Minister of State for Justice and Civil Liberties,UK junior minister role,2013-01-01,2015-01-01,Q2983190,Ministry of Justice,,,Q3315100,Minister of State (United Kingdom),,
 Q105044274,Minister of State for Media and Data,,,,,,,,Q3315100,Minister of State (United Kingdom),,
 Q104867213,"Minister of State for Mental Health, Suicide Prevention and Patient Safety",,,,,,,,Q3315100,Minister of State (United Kingdom),,
 Q104865893,Minister of State for Middle East and North Africa,,,,,,,,Q3315100,Minister of State (United Kingdom),,
@@ -98,17 +98,17 @@ Q25906212,Minister of State for Pensions,UK minister of state,,,,,,,Q3315100,Min
 Q23304231,Minister of State for Public Health,UK minister,,,,,,,Q3315100,Minister of State (United Kingdom),,
 Q25917392,Minister of State for School Reform,UK minister of state,,,,,,,Q3315100,Minister of State (United Kingdom),,
 Q25917383,Minister of State for Schools,UK minister of state,,,,,,,Q3315100,Minister of State (United Kingdom),,
-Q6865949,Minister of State for Security,UK ministerial position,2010-05-12T00:00:00Z,2014-02-08T00:00:00Z,Q6063,Government of the United Kingdom,,,Q3315100,Minister of State (United Kingdom),,
+Q6865949,Minister of State for Security,UK ministerial position,2010-05-12,2014-02-08,Q6063,Government of the United Kingdom,,,Q3315100,Minister of State (United Kingdom),,
 Q104865603,Minister of State for Social Care,,,,,,,,Q3315100,Minister of State (United Kingdom),,
 Q25906153,"Minister of State for Sustainable Food, Farming and Animal Health",UK minister of state,,,,,,,Q3315100,Minister of State (United Kingdom),,
 Q6866372,Minister of State for Trade,,,,,,,,Q3315100,Minister of State (United Kingdom),,
 Q6866372,Minister of State for Trade,,,,,,,,Q4115952,commerce minister,,
 Q15109454,Minister of State for Transport,,,,,,,,Q3315100,Minister of State (United Kingdom),,
-Q6866379,Minister of State for the Armed Forces,,1981-01-01T00:00:00Z,,,,,,Q3315100,Minister of State (United Kingdom),,
-Q6866404,Minister of Supply,British government minister; 1939–1959,1939-07-14T00:00:00Z,1959-10-22T00:00:00Z,,,,,Q83307,minister,,
-Q10564336,Minister of Technology,UK Cabinet position,1964-10-01T00:00:00Z,,,,,,Q83307,minister,,
-Q61412205,Minister without Portfolio,cabinet position in the United Kingdom,1805-01-01T00:00:00Z,,Q112014,Cabinet of the United Kingdom,,,Q1937160,minister without portfolio,,
-Q7139041,Parliamentary Secretary to the Treasury,,1660-01-01T00:00:00Z,,Q112014,Cabinet of the United Kingdom,,,Q3477319,Parliamentary Secretary,,
+Q6866379,Minister of State for the Armed Forces,,1981-01-01,,,,,,Q3315100,Minister of State (United Kingdom),,
+Q6866404,Minister of Supply,British government minister; 1939–1959,1939-07-14,1959-10-22,,,,,Q83307,minister,,
+Q10564336,Minister of Technology,UK Cabinet position,1964-10-01,,,,,,Q83307,minister,,
+Q61412205,Minister without Portfolio,cabinet position in the United Kingdom,1805-01-01,,Q112014,Cabinet of the United Kingdom,,,Q1937160,minister without portfolio,,
+Q7139041,Parliamentary Secretary to the Treasury,,1660-01-01,,Q112014,Cabinet of the United Kingdom,,,Q3477319,Parliamentary Secretary,,
 Q85792279,"Parliamentary Under Secretary of State for Arts, Heritage and Tourism",,,,,,,,Q83307,minister,,
 Q25906269,Parliamentary Under-Secretary for Creative Industries,UK parliamentary under-secretary,,,,,,,Q3492070,Parliamentary Under-Secretary of State,,
 Q25906270,Parliamentary Under-Secretary for Further Education,UK parliamentary under-secretary,,,,,,,Q3492070,Parliamentary Under-Secretary of State,,
@@ -135,56 +135,56 @@ Q25358150,Parliamentary Under-Secretary of State for Transport,junior transport 
 Q62681208,Parliamentary Under-Secretary of State for Wales,UK junior minister,,,Q6063,Government of the United Kingdom,,,Q3492070,Parliamentary Under-Secretary of State,,
 Q65086960,Parliamentary Under-Secretary of State for Wales,junior office of the British government,,,,,,,Q3492070,Parliamentary Under-Secretary of State,,
 Q108558756,Parliamentary Under-Secretary of State for the Fire Services,UK government position,,,,,,,Q3492070,Parliamentary Under-Secretary of State,,
-Q1060844,Paymaster General,former ministerial position in the United Kingdom,1836-04-27T00:00:00Z,,,,,,Q83307,minister,,
-Q7241340,President of the Local Government Board,"ministerial post, frequently a Cabinet position, in the United Kingdom",1871-01-01T00:00:00Z,1919-01-01T00:00:00Z,,,,,Q83307,minister,,
-Q14211,Prime Minister of the United Kingdom,head of Her Majesty's Government in the United Kingdom,1721-04-04T00:00:00Z,,Q112014,Cabinet of the United Kingdom,,,Q1544356,Great Officer of State,,
-Q14211,Prime Minister of the United Kingdom,head of Her Majesty's Government in the United Kingdom,1721-04-04T00:00:00Z,,Q112014,Cabinet of the United Kingdom,,,Q14212,prime minister,,
+Q1060844,Paymaster General,former ministerial position in the United Kingdom,1836-04-27,,,,,,Q83307,minister,,
+Q7241340,President of the Local Government Board,"ministerial post, frequently a Cabinet position, in the United Kingdom",1871-01-01,1919-01-01,,,,,Q83307,minister,,
+Q14211,Prime Minister of the United Kingdom,head of Her Majesty's Government in the United Kingdom,1721-04-04,,Q112014,Cabinet of the United Kingdom,,,Q1544356,Great Officer of State,,
+Q14211,Prime Minister of the United Kingdom,head of Her Majesty's Government in the United Kingdom,1721-04-04,,Q112014,Cabinet of the United Kingdom,,,Q14212,prime minister,,
 Q7309225,Regional minister,,,,,,,,Q83307,minister,,
-Q7444267,Secretary for Mines,,1920-08-22T00:00:00Z,1945-01-01T00:00:00Z,Q112014,Cabinet of the United Kingdom,,,Q14214,Secretary of State,,
-Q3858507,"Secretary of State for Business, Energy and Industrial Strategy",United Kingdom government cabinet minister,1963-10-20T00:00:00Z,,Q112014,Cabinet of the United Kingdom,,,Q4115952,commerce minister,Q25927629,"Department for Business, Energy and Industrial Strategy"
-Q3858507,"Secretary of State for Business, Energy and Industrial Strategy",United Kingdom government cabinet minister,1963-10-20T00:00:00Z,,Q112014,Cabinet of the United Kingdom,,,Q14214,Secretary of State,Q25927629,"Department for Business, Energy and Industrial Strategy"
-Q7444335,"Secretary of State for Children, Schools and Families",United Kingdom government cabinet minister; 2007–2010,2007-06-28T00:00:00Z,2010-05-11T00:00:00Z,Q112014,Cabinet of the United Kingdom,,,Q14214,Secretary of State,,
-Q3297079,"Secretary of State for Culture, Media and Sport",United Kingdom government cabinet minister,1992-04-11T00:00:00Z,,Q112014,Cabinet of the United Kingdom,,,Q2621182,minister of culture,Q910019,"Department for Digital, Culture, Media and Sport"
-Q3297079,"Secretary of State for Culture, Media and Sport",United Kingdom government cabinet minister,1992-04-11T00:00:00Z,,Q112014,Cabinet of the United Kingdom,,,Q7579929,sports minister,Q910019,"Department for Digital, Culture, Media and Sport"
-Q3297079,"Secretary of State for Culture, Media and Sport",United Kingdom government cabinet minister,1992-04-11T00:00:00Z,,Q112014,Cabinet of the United Kingdom,,,Q14214,Secretary of State,Q910019,"Department for Digital, Culture, Media and Sport"
-Q2747647,Secretary of State for Defence,United Kingdom government cabinet minister,1964-04-01T00:00:00Z,,Q112014,Cabinet of the United Kingdom,,,Q2518691,defence minister,Q1143261,Ministry of Defence
-Q2747647,Secretary of State for Defence,United Kingdom government cabinet minister,1964-04-01T00:00:00Z,,Q112014,Cabinet of the United Kingdom,,,Q14214,Secretary of State,Q1143261,Ministry of Defence
-Q7444340,Secretary of State for Dominion Affairs,United Kingdom government cabinet minister; 1925–1947,1925-06-11T00:00:00Z,,Q112014,Cabinet of the United Kingdom,,,Q14214,Secretary of State,,
-Q611513,Secretary of State for Economic Affairs,position,1964-10-19T00:00:00Z,,,,,,Q7614320,finance minister,,
-Q611513,Secretary of State for Economic Affairs,position,1964-10-19T00:00:00Z,,,,,,Q14214,Secretary of State,,
-Q3477306,Secretary of State for Education,United Kingdom government cabinet minister,1992-04-10T00:00:00Z,,Q112014,Cabinet of the United Kingdom,,,Q4018482,education minister,Q2612019,Department for Education
-Q3477306,Secretary of State for Education,United Kingdom government cabinet minister,1992-04-10T00:00:00Z,,Q112014,Cabinet of the United Kingdom,,,Q14214,Secretary of State,Q2612019,Department for Education
-Q7444342,Secretary of State for Employment,former position in the Cabinet of the United Kingdom,,1995-01-01T00:00:00Z,Q112014,Cabinet of the United Kingdom,,,Q14214,Secretary of State,,
-Q19968043,Secretary of State for Energy,United Kingdom government cabinet minister; 1974–1992,1974-01-08T00:00:00Z,1992-04-11T00:00:00Z,Q112014,Cabinet of the United Kingdom,,,Q1126271,energy minister,Q262509,Department of Energy
-Q19968043,Secretary of State for Energy,United Kingdom government cabinet minister; 1974–1992,1974-01-08T00:00:00Z,1992-04-11T00:00:00Z,Q112014,Cabinet of the United Kingdom,,,Q14214,Secretary of State,Q262509,Department of Energy
-Q7444345,Secretary of State for Energy and Climate Change,United Kingdom government cabinet minister,2008-10-03T00:00:00Z,,Q112014,Cabinet of the United Kingdom,,,Q1126271,energy minister,,
-Q7444345,Secretary of State for Energy and Climate Change,United Kingdom government cabinet minister,2008-10-03T00:00:00Z,,Q112014,Cabinet of the United Kingdom,,,Q14214,Secretary of State,,
-Q14984399,"Secretary of State for Environment, Food and Rural Affairs",United Kingdom government cabinet minister,2001-06-08T00:00:00Z,,Q112014,Cabinet of the United Kingdom,,,Q4574084,environment minister,Q3044721,"Department for Environment, Food and Rural Affairs"
-Q14984399,"Secretary of State for Environment, Food and Rural Affairs",United Kingdom government cabinet minister,2001-06-08T00:00:00Z,,Q112014,Cabinet of the United Kingdom,,,Q14214,Secretary of State,Q3044721,"Department for Environment, Food and Rural Affairs"
-Q25860233,Secretary of State for Exiting the European Union,secretary of state responsible for the United Kingdom's withdrawal from the European Union,2016-07-13T00:00:00Z,2020-01-31T00:00:00Z,Q112014,Cabinet of the United Kingdom,,,Q14214,Secretary of State,Q25907383,Department for Exiting the European Union
-Q1371091,Secretary of State for Foreign and Commonwealth Affairs,United Kingdom government cabinet minister heading the Foreign and Commonwealth Office,1782-01-01T00:00:00Z,,Q112014,Cabinet of the United Kingdom,,,Q7330070,foreign minister,Q358834,"Foreign, Commonwealth and Development Office"
-Q1371091,Secretary of State for Foreign and Commonwealth Affairs,United Kingdom government cabinet minister heading the Foreign and Commonwealth Office,1782-01-01T00:00:00Z,,Q112014,Cabinet of the United Kingdom,,,Q14214,Secretary of State,Q358834,"Foreign, Commonwealth and Development Office"
-Q3397406,Secretary of State for Health and Social Care,United Kingdom government cabinet minister,1854-10-14T00:00:00Z,,Q112014,Cabinet of the United Kingdom,,,Q3273722,health minister,Q3044742,Department of Health and Social Care
-Q3397406,Secretary of State for Health and Social Care,United Kingdom government cabinet minister,1854-10-14T00:00:00Z,,Q112014,Cabinet of the United Kingdom,,,Q14214,Secretary of State,Q3044742,Department of Health and Social Care
+Q7444267,Secretary for Mines,,1920-08-22,1945-01-01,Q112014,Cabinet of the United Kingdom,,,Q14214,Secretary of State,,
+Q3858507,"Secretary of State for Business, Energy and Industrial Strategy",United Kingdom government cabinet minister,1963-10-20,,Q112014,Cabinet of the United Kingdom,,,Q4115952,commerce minister,Q25927629,"Department for Business, Energy and Industrial Strategy"
+Q3858507,"Secretary of State for Business, Energy and Industrial Strategy",United Kingdom government cabinet minister,1963-10-20,,Q112014,Cabinet of the United Kingdom,,,Q14214,Secretary of State,Q25927629,"Department for Business, Energy and Industrial Strategy"
+Q7444335,"Secretary of State for Children, Schools and Families",United Kingdom government cabinet minister; 2007–2010,2007-06-28,2010-05-11,Q112014,Cabinet of the United Kingdom,,,Q14214,Secretary of State,,
+Q3297079,"Secretary of State for Culture, Media and Sport",United Kingdom government cabinet minister,1992-04-11,,Q112014,Cabinet of the United Kingdom,,,Q2621182,minister of culture,Q910019,"Department for Digital, Culture, Media and Sport"
+Q3297079,"Secretary of State for Culture, Media and Sport",United Kingdom government cabinet minister,1992-04-11,,Q112014,Cabinet of the United Kingdom,,,Q7579929,sports minister,Q910019,"Department for Digital, Culture, Media and Sport"
+Q3297079,"Secretary of State for Culture, Media and Sport",United Kingdom government cabinet minister,1992-04-11,,Q112014,Cabinet of the United Kingdom,,,Q14214,Secretary of State,Q910019,"Department for Digital, Culture, Media and Sport"
+Q2747647,Secretary of State for Defence,United Kingdom government cabinet minister,1964-04-01,,Q112014,Cabinet of the United Kingdom,,,Q2518691,defence minister,Q1143261,Ministry of Defence
+Q2747647,Secretary of State for Defence,United Kingdom government cabinet minister,1964-04-01,,Q112014,Cabinet of the United Kingdom,,,Q14214,Secretary of State,Q1143261,Ministry of Defence
+Q7444340,Secretary of State for Dominion Affairs,United Kingdom government cabinet minister; 1925–1947,1925-06-11,,Q112014,Cabinet of the United Kingdom,,,Q14214,Secretary of State,,
+Q611513,Secretary of State for Economic Affairs,position,1964-10-19,,,,,,Q7614320,finance minister,,
+Q611513,Secretary of State for Economic Affairs,position,1964-10-19,,,,,,Q14214,Secretary of State,,
+Q3477306,Secretary of State for Education,United Kingdom government cabinet minister,1992-04-10,,Q112014,Cabinet of the United Kingdom,,,Q4018482,education minister,Q2612019,Department for Education
+Q3477306,Secretary of State for Education,United Kingdom government cabinet minister,1992-04-10,,Q112014,Cabinet of the United Kingdom,,,Q14214,Secretary of State,Q2612019,Department for Education
+Q7444342,Secretary of State for Employment,former position in the Cabinet of the United Kingdom,,1995-01-01,Q112014,Cabinet of the United Kingdom,,,Q14214,Secretary of State,,
+Q19968043,Secretary of State for Energy,United Kingdom government cabinet minister; 1974–1992,1974-01-08,1992-04-11,Q112014,Cabinet of the United Kingdom,,,Q1126271,energy minister,Q262509,Department of Energy
+Q19968043,Secretary of State for Energy,United Kingdom government cabinet minister; 1974–1992,1974-01-08,1992-04-11,Q112014,Cabinet of the United Kingdom,,,Q14214,Secretary of State,Q262509,Department of Energy
+Q7444345,Secretary of State for Energy and Climate Change,United Kingdom government cabinet minister,2008-10-03,,Q112014,Cabinet of the United Kingdom,,,Q1126271,energy minister,,
+Q7444345,Secretary of State for Energy and Climate Change,United Kingdom government cabinet minister,2008-10-03,,Q112014,Cabinet of the United Kingdom,,,Q14214,Secretary of State,,
+Q14984399,"Secretary of State for Environment, Food and Rural Affairs",United Kingdom government cabinet minister,2001-06-08,,Q112014,Cabinet of the United Kingdom,,,Q4574084,environment minister,Q3044721,"Department for Environment, Food and Rural Affairs"
+Q14984399,"Secretary of State for Environment, Food and Rural Affairs",United Kingdom government cabinet minister,2001-06-08,,Q112014,Cabinet of the United Kingdom,,,Q14214,Secretary of State,Q3044721,"Department for Environment, Food and Rural Affairs"
+Q25860233,Secretary of State for Exiting the European Union,secretary of state responsible for the United Kingdom's withdrawal from the European Union,2016-07-13,2020-01-31,Q112014,Cabinet of the United Kingdom,,,Q14214,Secretary of State,Q25907383,Department for Exiting the European Union
+Q1371091,Secretary of State for Foreign and Commonwealth Affairs,United Kingdom government cabinet minister heading the Foreign and Commonwealth Office,1782-01-01,,Q112014,Cabinet of the United Kingdom,,,Q7330070,foreign minister,Q358834,"Foreign, Commonwealth and Development Office"
+Q1371091,Secretary of State for Foreign and Commonwealth Affairs,United Kingdom government cabinet minister heading the Foreign and Commonwealth Office,1782-01-01,,Q112014,Cabinet of the United Kingdom,,,Q14214,Secretary of State,Q358834,"Foreign, Commonwealth and Development Office"
+Q3397406,Secretary of State for Health and Social Care,United Kingdom government cabinet minister,1854-10-14,,Q112014,Cabinet of the United Kingdom,,,Q3273722,health minister,Q3044742,Department of Health and Social Care
+Q3397406,Secretary of State for Health and Social Care,United Kingdom government cabinet minister,1854-10-14,,Q112014,Cabinet of the United Kingdom,,,Q14214,Secretary of State,Q3044742,Department of Health and Social Care
 Q4122328,Secretary of State for Health and Social Services,former cabinet position in the United Kingdom (1968–1988),,,Q112014,Cabinet of the United Kingdom,,,Q14214,Secretary of State,,
-Q11781526,"Secretary of State for Housing, Communities and Local Government",United Kingdom government cabinet minister,2006-05-06T00:00:00Z,,Q112014,Cabinet of the United Kingdom,,,Q14214,Secretary of State,Q601819,"Ministry of Housing, Communities & Local Government"
-Q7444350,"Secretary of State for Innovation, Universities and Skills",United Kingdom government cabinet minister; 2007–2009,2007-06-28T00:00:00Z,2009-06-05T00:00:00Z,Q112014,Cabinet of the United Kingdom,,,Q14214,Secretary of State,Q5260119,"Department for Innovation, Universities and Skills"
-Q7444352,Secretary of State for International Development,United Kingdom government cabinet minister,1964-10-18T00:00:00Z,,Q112014,Cabinet of the United Kingdom,,,Q14214,Secretary of State,Q2748702,Department for International Development
-Q25863345,Secretary of State for International Trade,,2016-07-13T00:00:00Z,,Q112014,Cabinet of the United Kingdom,,,Q4115952,commerce minister,Q25991767,Department for International Trade
-Q25863345,Secretary of State for International Trade,,2016-07-13T00:00:00Z,,Q112014,Cabinet of the United Kingdom,,,Q14214,Secretary of State,Q25991767,Department for International Trade
-Q3477307,Secretary of State for Justice,United Kingdom government cabinet minister,2007-05-09T00:00:00Z,,Q112014,Cabinet of the United Kingdom,,,Q17763739,justice minister,Q2983190,Ministry of Justice
-Q3477307,Secretary of State for Justice,United Kingdom government cabinet minister,2007-05-09T00:00:00Z,,Q112014,Cabinet of the United Kingdom,,,Q14214,Secretary of State,Q2983190,Ministry of Justice
-Q1369302,Secretary of State for Northern Ireland,United Kingdom government cabinet minister,1972-03-24T00:00:00Z,,Q112014,Cabinet of the United Kingdom,,,Q14214,Secretary of State,Q218886,Northern Ireland Office
-Q111784,Secretary of State for Scotland,United Kingdom government cabinet minister with responsibilities for Scotland,1705-02-03T00:00:00Z,,Q112014,Cabinet of the United Kingdom,,,Q14214,Secretary of State,Q277020,Office of the Secretary of State for Scotland
-Q3246797,Secretary of State for Transport,United Kingdom government cabinet minister,1919-05-19T00:00:00Z,,Q112014,Cabinet of the United Kingdom,,,Q12339722,transport minister,Q2982287,Department for Transport
-Q3246797,Secretary of State for Transport,United Kingdom government cabinet minister,1919-05-19T00:00:00Z,,Q112014,Cabinet of the United Kingdom,,,Q14214,Secretary of State,Q2982287,Department for Transport
-Q1846384,Secretary of State for Wales,United Kingdom government cabinet minister,1964-10-18T00:00:00Z,,Q112014,Cabinet of the United Kingdom,,,Q14214,Secretary of State,Q281113,Office of the Secretary of State for Wales
-Q7444357,Secretary of State for Work and Pensions,United Kingdom government cabinet minister,1916-12-10T00:00:00Z,,Q112014,Cabinet of the United Kingdom,,,Q14214,Secretary of State,Q1191394,Department for Work and Pensions
-Q4122313,Secretary of State for the Environment,United Kingdom government cabinet minister; 1970–1997,1970-01-01T00:00:00Z,1997-01-01T00:00:00Z,Q112014,Cabinet of the United Kingdom,,,Q4574084,environment minister,,
-Q4122313,Secretary of State for the Environment,United Kingdom government cabinet minister; 1970–1997,1970-01-01T00:00:00Z,1997-01-01T00:00:00Z,Q112014,Cabinet of the United Kingdom,,,Q14214,Secretary of State,,
-Q16974879,"Secretary of State for the Environment, Transport and the Regions",United Kingdom government cabinet minister; 1997–2001,1997-01-01T00:00:00Z,2001-01-01T00:00:00Z,Q112014,Cabinet of the United Kingdom,,,Q12339722,transport minister,,
-Q16974879,"Secretary of State for the Environment, Transport and the Regions",United Kingdom government cabinet minister; 1997–2001,1997-01-01T00:00:00Z,2001-01-01T00:00:00Z,Q112014,Cabinet of the United Kingdom,,,Q4574084,environment minister,,
-Q16974879,"Secretary of State for the Environment, Transport and the Regions",United Kingdom government cabinet minister; 1997–2001,1997-01-01T00:00:00Z,2001-01-01T00:00:00Z,Q112014,Cabinet of the United Kingdom,,,Q14214,Secretary of State,,
+Q11781526,"Secretary of State for Housing, Communities and Local Government",United Kingdom government cabinet minister,2006-05-06,,Q112014,Cabinet of the United Kingdom,,,Q14214,Secretary of State,Q601819,"Ministry of Housing, Communities & Local Government"
+Q7444350,"Secretary of State for Innovation, Universities and Skills",United Kingdom government cabinet minister; 2007–2009,2007-06-28,2009-06-05,Q112014,Cabinet of the United Kingdom,,,Q14214,Secretary of State,Q5260119,"Department for Innovation, Universities and Skills"
+Q7444352,Secretary of State for International Development,United Kingdom government cabinet minister,1964-10-18,,Q112014,Cabinet of the United Kingdom,,,Q14214,Secretary of State,Q2748702,Department for International Development
+Q25863345,Secretary of State for International Trade,,2016-07-13,,Q112014,Cabinet of the United Kingdom,,,Q4115952,commerce minister,Q25991767,Department for International Trade
+Q25863345,Secretary of State for International Trade,,2016-07-13,,Q112014,Cabinet of the United Kingdom,,,Q14214,Secretary of State,Q25991767,Department for International Trade
+Q3477307,Secretary of State for Justice,United Kingdom government cabinet minister,2007-05-09,,Q112014,Cabinet of the United Kingdom,,,Q17763739,justice minister,Q2983190,Ministry of Justice
+Q3477307,Secretary of State for Justice,United Kingdom government cabinet minister,2007-05-09,,Q112014,Cabinet of the United Kingdom,,,Q14214,Secretary of State,Q2983190,Ministry of Justice
+Q1369302,Secretary of State for Northern Ireland,United Kingdom government cabinet minister,1972-03-24,,Q112014,Cabinet of the United Kingdom,,,Q14214,Secretary of State,Q218886,Northern Ireland Office
+Q111784,Secretary of State for Scotland,United Kingdom government cabinet minister with responsibilities for Scotland,1705-02-03,,Q112014,Cabinet of the United Kingdom,,,Q14214,Secretary of State,Q277020,Office of the Secretary of State for Scotland
+Q3246797,Secretary of State for Transport,United Kingdom government cabinet minister,1919-05-19,,Q112014,Cabinet of the United Kingdom,,,Q12339722,transport minister,Q2982287,Department for Transport
+Q3246797,Secretary of State for Transport,United Kingdom government cabinet minister,1919-05-19,,Q112014,Cabinet of the United Kingdom,,,Q14214,Secretary of State,Q2982287,Department for Transport
+Q1846384,Secretary of State for Wales,United Kingdom government cabinet minister,1964-10-18,,Q112014,Cabinet of the United Kingdom,,,Q14214,Secretary of State,Q281113,Office of the Secretary of State for Wales
+Q7444357,Secretary of State for Work and Pensions,United Kingdom government cabinet minister,1916-12-10,,Q112014,Cabinet of the United Kingdom,,,Q14214,Secretary of State,Q1191394,Department for Work and Pensions
+Q4122313,Secretary of State for the Environment,United Kingdom government cabinet minister; 1970–1997,1970-01-01,1997-01-01,Q112014,Cabinet of the United Kingdom,,,Q4574084,environment minister,,
+Q4122313,Secretary of State for the Environment,United Kingdom government cabinet minister; 1970–1997,1970-01-01,1997-01-01,Q112014,Cabinet of the United Kingdom,,,Q14214,Secretary of State,,
+Q16974879,"Secretary of State for the Environment, Transport and the Regions",United Kingdom government cabinet minister; 1997–2001,1997-01-01,2001-01-01,Q112014,Cabinet of the United Kingdom,,,Q12339722,transport minister,,
+Q16974879,"Secretary of State for the Environment, Transport and the Regions",United Kingdom government cabinet minister; 1997–2001,1997-01-01,2001-01-01,Q112014,Cabinet of the United Kingdom,,,Q4574084,environment minister,,
+Q16974879,"Secretary of State for the Environment, Transport and the Regions",United Kingdom government cabinet minister; 1997–2001,1997-01-01,2001-01-01,Q112014,Cabinet of the United Kingdom,,,Q14214,Secretary of State,,
 Q105544184,Social Justice Committee,UK government Cabinet committee,,,Q112014,Cabinet of the United Kingdom,,,,,,
 Q105545109,Social Reform Committee,UK government Cabinet committee,,,Q112014,Cabinet of the United Kingdom,,,,,,
 Q7883051,Under-Secretary of State for War and the Colonies,junior Ministerial post in the United Kingdom government,,,,,,,Q83307,minister,,
