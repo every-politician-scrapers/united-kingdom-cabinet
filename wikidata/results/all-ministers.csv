@@ -28,7 +28,7 @@ Q128976,Alec Douglas-Home,Q14211,Prime Minister of the United Kingdom,1963-10-19
 Q128976,Alec Douglas-Home,Q1371091,Secretary of State for Foreign and Commonwealth Affairs,1960-07-27,1963-10-18,,,,Q333080,Selwyn Lloyd,Q182035,Rab Butler,,,,,,Q128976-F8376D3F-0BF5-43DF-916B-8E6E5634F5E0
 Q128976,Alec Douglas-Home,Q1371091,Secretary of State for Foreign and Commonwealth Affairs,1970-06-20,1974-03-04,,,,Q333773,"Michael Stewart, Baron Stewart of Fulham",Q9576,James Callaghan,,,,,,Q128976-E1CEB1EC-0AB8-4C90-913F-15293AF7678A
 Q19956858,Alex Chalk,Q96393330,Minister for Prisons,2021-03-04,2021-09-10,,,,Q19957811,Lucy Frazer,Q19957811,Lucy Frazer,,,,,,Q19956858-1B7EB0B9-5E24-4E85-911E-B5352F7065C9
-Q19956858,Alex Chalk,Q104882515,Parliamentary Under-Secretary of State for Justice,2020-02-14,,,,,Q19917814,Wendy Morton,,,,,,,,Q19956858-C592F1F1-404A-42D2-80B0-37D0E161E3BA
+Q19956858,Alex Chalk,Q104882515,Parliamentary Under-Secretary of State for Justice,2020-02-14,2021-09-16,,,,Q19917814,Wendy Morton,Q19956787,James Cartlidge,,,,,,Q19956858-C592F1F1-404A-42D2-80B0-37D0E161E3BA
 Q4718450,"Alexander Bruce, 6th Lord Balfour of Burleigh",Q111784,Secretary of State for Scotland,1895-06-29,1903-10-09,,,,Q333808,"Sir George Trevelyan, 2nd Baronet",Q1844725,"Andrew Murray, 1st Viscount Dunedin",,,,,,Q4718450-80BF3EE1-71BE-49B9-9B67-0E9BAED56740
 Q4720351,"Alexander Wedderburn, 1st Earl of Rosslyn",Q2631987,Attorney General for England and Wales,1778-01-01,1780-01-01,,,,Q44599,"Edward Thurlow, 1st Baron Thurlow",Q6145050,James Wallace,,,,,,Q4720351-3EE6A4BE-9A3C-44DF-A5C4-64B24120E650
 Q4720351,"Alexander Wedderburn, 1st Earl of Rosslyn",Q217217,Lord Chancellor,1793-01-01,1801-01-01,,,,,,Q337737,"John Scott, 1st Earl of Eldon",,,,,,Q4720351-6A518AF1-3913-44C0-8D10-850F6832B07B
@@ -46,6 +46,7 @@ Q296639,Alistair Darling,Q7444357,Secretary of State for Work and Pensions,1998-
 Q30165682,Alister Jack,Q111784,Secretary of State for Scotland,2019-07-24,,,,,Q333520,David Mundell,,,,,https://www.gov.uk/government/ministers,Alister Jack,Secretary of State for Scotland,Q30165682-a0602052-4868-7d07-333f-cc031984387c
 Q478531,Alok Sharma,Q108045009,COP26 President,2020-02-13,,Q78347457,Second Johnson ministry,,,,,,,,https://www.gov.uk/government/ministers/cop26-president,,,Q478531-70ABDD8F-19CC-4A4D-AAD3-8B37FD34A74B
 Q478531,Alok Sharma,Q104878740,Minister of State for Asia,2016-07-17,2017-06-13,,,,Q1710027,"Joyce Anelay, Baroness Anelay of St Johns",Q304450,Mark Field,,,,,,Q478531-5B655295-A780-4FAC-964D-22FEF54BA364
+Q478531,Alok Sharma,Q105070637,Minister of State for Housing,2017-06-14,2018-01-09,,,,Q260651,Gavin Barwell,Q268584,Dominic Raab,,,,,,Q478531-FF9B9713-EA66-4BB6-BAFC-BB39480C5619
 Q478531,Alok Sharma,Q3858507,"Secretary of State for Business, Energy and Industrial Strategy",2020-02-13,2021-01-08,,,,Q750091,Andrea Leadsom,Q750204,Kwasi Kwarteng,,,,,,Q478531-082EFD0A-2B5D-4CA6-9CB7-BBC2A2A01109
 Q478531,Alok Sharma,Q7444352,Secretary of State for International Development,2019-07-24,2020-02-13,,,,Q328892,Rory Stewart,Q20648244,Anne-Marie Trevelyan,,,,,,Q478531-C2BC9180-700F-43A2-AD55-10A75D8106D0
 Q268030,Alun Cairns,Q1846384,Secretary of State for Wales,2016-03-19,2019-11-06,,,,Q291393,Stephen Crabb,Q478345,Simon Hart,,,,,,Q268030-ebe6816d-4d27-5e80-76de-fc36c8442232
@@ -68,9 +69,9 @@ Q750091,Andrea Leadsom,Q14984399,"Secretary of State for Environment, Food and R
 Q337156,"Andrew Adonis, Baron Adonis",Q3246797,Secretary of State for Transport,2009-06-05,2010-05-11,,,,Q332385,Geoff Hoon,Q332987,Philip Hammond,,,,,,Q337156-F8AF9361-1FB0-461C-A068-4F94F5CD09FD
 Q391058,"Andrew Cavendish, 11th Duke of Devonshire",Q6866344,Minister of State for Commonwealth Relations,1962-01-01,1964-01-01,,,,Q3007930,"Cuthbert Alport, Baron Alport",Q333652,"Cledwyn Hughes, Baron Cledwyn of Penrhos",,,,,,Q391058-831F4A15-942F-4496-B58A-BBE2B10BC7B9
 Q20011247,Andrew Dunlop,Q3492070,Parliamentary Under-Secretary of State,2015-01-01,,,,,,,,,,,,,,Q20011247-00b27e2a-4fe9-e880-ba50-a06e562208a0
+Q392149,Andrew Griffiths,Q108574843,"Minister for Small Business, Consumers and Corporate Responsibility",2018-01-09,2018-07-13,,,,Q727347,Margot James,Q20055581,Kelly Tolhurst,,,,,,Q392149-52A06BA0-5CB1-4BEF-A11E-EC8887B92CB0
 Q333276,Andrew Lansley,Q2636053,Leader of the House of Commons,2012-09-04,2014-07-14,,,,Q259836,Sir George Young,Q58282,William Hague,,,,,,Q333276-e4b630a7-4000-661d-bc00-587801e3c4ae
 Q333276,Andrew Lansley,Q910308,Lord Privy Seal,2012-09-04,2014-07-14,,,,Q259836,Sir George Young,Q2435579,"Tina Stowell, Baroness Stowell of Beeston",,,,,,Q333276-c87456ca-4206-e3e1-c84b-f0f4304ca3fb
-Q333276,Andrew Lansley,Q6865995,Minister for the Cabinet Office,1999-06-15,2001-09-18,,,,,,,,,,,,,Q333276-3B0B34F8-099E-4B4E-8F28-068BE43167A4
 Q333276,Andrew Lansley,Q3397406,Secretary of State for Health and Social Care,2010-05-12,2012-09-04,,,,Q269909,Andy Burnham,Q333533,Jeremy Hunt,,,,,,Q333276-cc922f0a-4d1d-5a71-d652-0c49226bbaf8
 Q333261,Andrew Mitchell,Q7139041,Parliamentary Secretary to the Treasury,2012-09-04,2012-10-19,,,,Q333267,Patrick McLoughlin,Q259836,Sir George Young,,,,,,Q333261-a80935a3-4b69-cb71-9fbb-9b942b9d3cde
 Q333261,Andrew Mitchell,Q7444352,Secretary of State for International Development,2010-05-12,2012-09-04,,,,Q259106,Douglas Alexander,Q333012,Justine Greening,,,,,,Q333261-42415f60-4d5d-50d0-8a70-9af8a6917f26
@@ -96,7 +97,9 @@ Q168606,"Angela Smith, Baroness Smith of Basildon",Q108558756,Parliamentary Unde
 Q332890,Angus Maude,Q1060844,Paymaster General,,,,,,,,,,,,,,,Q332890-2C580283-7D66-40DE-AC4B-72E44B497451
 Q332843,"Ann Taylor, Baroness Taylor of Bolton",Q2636053,Leader of the House of Commons,1997-05-02,1998-07-27,,,,Q333068,"Tony Newton, Baron Newton of Braintree",Q232639,Margaret Beckett,,,,,,Q332843-8F8A8A4E-A973-4C53-9E18-F49833988FB9
 Q298846,Ann Widdecombe,Q96393330,Minister for Prisons,1995-02-28,1997-05-02,,,,,,Q137911,"Joyce Quin, Baroness Quin",,,,,,Q298846-3A8AC060-7933-48F0-B3F7-DCA7AB6493FB
-Q389855,Anna Soubry,Q23641739,"Minister for Defence Personnel, Welfare and Veterans",,,,,,,,,,,,,,,Q389855-0a0b8995-4699-9a5e-71dc-af4f8e46a762
+Q389855,Anna Soubry,Q108574843,"Minister for Small Business, Consumers and Corporate Responsibility",2015-05-11,2016-07-15,,,,Q478161,Matt Hancock,Q727347,Margot James,,,,,,Q389855-6373D717-B4D9-46F5-8908-E3B798C60A46
+Q389855,Anna Soubry,Q23641739,Minister for Veterans,2013-10-07,2015-05-11,,,,Q390869,Mark Francois,Q750161,Mark Lancaster,,,,,,Q389855-7ACFEF25-2568-40CA-B58E-55CECDB8B790
+Q389855,Anna Soubry,Q104865605,"Parliamentary Under-Secretary of State for Prevention, Public Health and Primary Care",2012-09-04,2013-10-07,,,,Q580784,Anne Milton,Q303157,Jane Ellison,,,,,,Q389855-432DC4A6-586D-4C92-881D-CD5EFB29AD82
 Q544742,Annabel Goldie,Q104830549,Minister of State for Defence,2019-07-26,,,,,Q977967,"Frederick Curzon, 7th Earl Howe",,,,,,,,Q544742-C84F562B-BFCD-4EE0-9807-847DC706602C
 Q580784,Anne Milton,Q23304231,Minister of State for Public Health,,,,,,,,,,,,,,,Q580784-5311297b-4f7b-fbb5-a6b6-add3c7b91750
 Q20648244,Anne-Marie Trevelyan,Q104760411,"Minister of State for Business, Energy and Clean Growth",2021-01-08,2021-09-15,,,,Q750204,Kwasi Kwarteng,,,,,,,,Q20648244-a6b12d89-4913-49e0-4936-027f4d3b32ba
@@ -213,11 +216,13 @@ Q180589,Boris Johnson,Q1371091,Secretary of State for Foreign and Commonwealth A
 Q180589,Boris Johnson,Q1371091,Secretary of State for Foreign and Commonwealth Affairs,2016-07-13,2018-07-09,,,,Q332987,Philip Hammond,Q333533,Jeremy Hunt,,,https://www.theguardian.com/politics/2018/jul/09/boris-johnson-resigns-as-foreign-secretary-brexit,,,Q180589-49598f13-4c4b-75c7-d819-dd5f68e6d12f
 Q180589,Boris Johnson,Q1371091,Secretary of State for Foreign and Commonwealth Affairs,2016-07-13,2018-07-09,,,,Q332987,Philip Hammond,Q333533,Jeremy Hunt,,,https://www.gov.uk/government/news/new-ministerial-appointment-july-2016-foreign-secretary,,,Q180589-49598f13-4c4b-75c7-d819-dd5f68e6d12f
 Q749687,Brandon Lewis,Q6865933,Minister of State for Crime and Policing,2016-07-16,2017-06-11,,,,Q575593,Mike Penning,Q691299,Nick Hurd,,,,,,Q749687-D91BCD9D-8293-425B-B66A-5C4DF6F8759D
+Q749687,Brandon Lewis,Q105070637,Minister of State for Housing,2014-07-15,2016-07-16,,,,Q689452,Kris Hopkins,Q260651,Gavin Barwell,,,,,,Q749687-E7DE78A1-92B7-4350-838F-1DDD5D91DB53
 Q749687,Brandon Lewis,Q6865949,Minister of State for Security,2019-07-24,2020-02-13,,,,Q263166,Ben Wallace,Q265140,James Brokenshire,,,,,,Q749687-B85908A7-C457-4A8A-841D-601B863FFF18
 Q749687,Brandon Lewis,Q61412205,Minister without Portfolio,2018-01-08,2019-07-24,,,,Q392375,Robert Halfon,Q6131460,James Cleverly,,,,,,Q749687-9C64171A-270E-480E-8123-EEFD1E340016
 Q749687,Brandon Lewis,Q108046539,Parliamentary Under-Secretary of State for Communities and Local Government,2012-09-04,2014-07-15,,,,Q577771,Bob Neill,Q689452,Kris Hopkins,,,,,,Q749687-7A66EF68-8B3F-4B1B-B0E5-6FE3CAFA7F51
 Q749687,Brandon Lewis,Q1369302,Secretary of State for Northern Ireland,2020-02-13,,,,22,Q390794,Julian Smith,,,,,https://www.gov.uk/government/ministers,Brandon Lewis,Secretary of State for Northern Ireland,Q749687-80b88a46-4927-2424-3165-7c7aecc9ff9d
 Q333410,"Brian Mawhinney, Baron Mawhinney",Q23304196,Minister of State for Health,1992-04-14,1994-07-20,,,,Q332696,Virginia Bottomley,Q5552860,Gerry Malone,,,,,,Q333410-63F623CC-A94E-4BBD-8EF7-25DA2007A7E0
+Q333410,"Brian Mawhinney, Baron Mawhinney",Q61412205,Minister without Portfolio,1995-07-05,1997-05-02,,,,Q333159,Jeremy Hanley,Q310046,Peter Mandelson,,,,,,Q333410-914F2679-94CC-4C4C-B707-8D8001F2A795
 Q333410,"Brian Mawhinney, Baron Mawhinney",Q3246797,Secretary of State for Transport,1994-07-20,1995-07-05,,,,Q332940,"John MacGregor, Baron MacGregor of Pulham Market",Q259836,Sir George Young,,,,,,Q333410-E697510E-AD0C-464F-984D-905BCF9E4F9A
 Q338231,Brian Wilson,Q4146869,Minister of State for Foreign Affairs,2001-01-24,2001-06-11,,,,Q333165,Peter Hain,Q695061,Denis MacShane,,,,,,Q338231-72822B63-3367-440C-94E1-70D4F9F6E93C
 Q338231,Brian Wilson,Q6866372,Minister of State for Trade,1998-07-28,1999-07-28,,,,,,,,,,,,,Q338231-2D244C04-CBF4-4753-B9A4-6A217CF79658
@@ -230,7 +235,6 @@ Q251095,Caroline Flint,Q23304231,Minister of State for Public Health,2005-05-10,
 Q251095,Caroline Flint,Q108443202,Parliamentary Under-Secretary of State for Home Affairs,2003-06-13,2005-05-10,,,,Q186770,"Geoffrey Filkin, Baron Filkin",Q269909,Andy Burnham,,,,,,Q251095-98CBF370-9728-4A7E-907A-D781D0C8C602
 Q251095,Caroline Flint,Q11781526,"Secretary of State for Housing, Communities and Local Government",2010-10-08,2011-10-07,,,,Q300069,John Denham,Q262742,Hilary Benn,,,,,,Q251095-FE4DF28E-EC16-4402-8727-A494AAD2DFA9
 Q332954,Caroline Spelman,Q14984399,"Secretary of State for Environment, Food and Rural Affairs",2010-05-12,2012-09-04,,,,Q262742,Hilary Benn,Q197894,Owen Paterson,,,,,,Q332954-762425D1-992E-41F2-BB65-7C85EC83F811
-Q332954,Caroline Spelman,Q11781526,"Secretary of State for Housing, Communities and Local Government",2009-01-19,2010-05-12,,,,Q333493,Eric Pickles,Q300069,John Denham,,,,,,Q332954-C09BE136-FE2D-4D8E-AE59-D347CA77E955
 Q105667,Catherine Ashton,Q2012061,Leader of the House of Lords,2007-06-27,2008-10-03,,,,Q335698,"Valerie Amos, Baroness Amos",Q336236,"Janet Royall, Baroness Royall of Blaisdon",,,,,,Q105667-7B0ADD68-6253-4236-BD9C-7941D9040435
 Q327810,Cecil Parkinson,Q162754,Chancellor of the Duchy of Lancaster,1982-04-06,1983-06-11,,,,Q335926,"Janet Young, Baroness Young",Q336598,"Arthur Cockfield, Baron Cockfield",,,,,,Q327810-4BB6C32F-3BE5-46E4-BE32-06D8305B1267
 Q327810,Cecil Parkinson,Q1060844,Paymaster General,1981-09-14,1983-06-11,,,,Q332759,Francis Pym,Q333635,John Gummer,,,,,,Q327810-4052D76F-5C68-4271-8724-BEDB4FF2EEBC
@@ -244,6 +248,7 @@ Q5075471,Charles Bathurst,Q162754,Chancellor of the Duchy of Lancaster,1812-01-0
 Q337635,"Charles Brandon, 1st Duke of Suffolk",Q943379,Lord President of the Council,1530-01-01,1545-01-01,,,,,,Q8016685,"William Paulet, 1st Marquess of Winchester",,,,,,Q337635-86CA9E7F-5DBF-4E85-A9BF-36F66273A95B
 Q333758,Charles Clarke,Q2484309,Home Secretary,2004-12-15,2006-05-05,,,,Q264196,David Blunkett,Q333461,"John Reid, Baron Reid of Cardowan",,,https://www.nytimes.com/2005/08/25/world/europe/britain-lists-offenses-in-effort-to-bar-or-deport-foreign.html,,,Q333758-F91BEFF5-15CD-4983-9C75-CA15A08882AF
 Q333758,Charles Clarke,Q96393330,Minister for Prisons,1999-07-01,2001-06-01,,,,Q325417,"Gareth Williams, Baron Williams of Mostyn",Q334213,"Keith Bradley, Baron Bradley",,,,,,Q333758-7F11B69D-E241-4C75-86C8-7B5D42F7E810
+Q333758,Charles Clarke,Q61412205,Minister without Portfolio,2001-06-09,2002-10-24,,,,Q310046,Peter Mandelson,Q333461,"John Reid, Baron Reid of Cardowan",,,,,,Q333758-9F348393-BE9E-4C1B-BDF6-8D2D6FCE8F68
 Q333758,Charles Clarke,Q3477306,Secretary of State for Education,2002-10-24,2004-12-15,,,,Q333326,"Estelle Morris, Baroness Morris of Yardley",Q272644,Ruth Kelly,,,,,,Q333758-90937073-8FC3-41BC-8D4E-E1F8D5B775D7
 Q337704,"Charles Cripps, 1st Baron Parmoor",Q2012061,Leader of the House of Lords,1929-06-07,1931-08-24,,,,Q4381482,"James Gascoyne-Cecil, 4th Marquess of Salisbury",Q336036,"Rufus Isaacs, 1st Marquess of Reading",,,,,,Q337704-54D9FD4E-FEBB-417F-971F-CDC2218AFB89
 Q337117,"Charles Falconer, Baron Falconer of Thoroton",Q217217,Lord Chancellor,2003-06-12,2007-06-28,,,,Q337121,"Derry Irvine, Baron Irvine of Lairg",Q311278,Jack Straw,,,,,,Q337117-4644F9EB-1FEE-41E0-AB98-5EB8763BDAD2
@@ -328,6 +333,8 @@ Q333431,Christopher Chataway,Q105485789,Minister of Posts and Telecommunications
 Q336050,Christopher Soames,Q2012061,Leader of the House of Lords,1979-05-05,1981-09-14,,,,Q333371,"Fred Peart, Baron Peart",Q335926,"Janet Young, Baroness Young",,,,,,Q336050-25483EC0-3441-4F16-8AC1-06DCB9F7351B
 Q336050,Christopher Soames,Q943379,Lord President of the Council,1979-05-05,1981-09-14,,,,Q332419,Michael Foot,Q332759,Francis Pym,,,,,,Q336050-6BE55578-EA76-41E2-A9DC-6514601ECA05
 Q336050,Christopher Soames,Q6866025,"Minister of Agriculture, Fisheries and Food",1960-07-27,1964-10-16,,,,Q6237766,"John Hare, 1st Viscount Blakenham",Q333371,"Fred Peart, Baron Peart",,,,,,Q336050-8CB48686-5937-4925-802E-E137A5CE617F
+Q575452,Claire Perry,Q104760411,"Minister of State for Business, Energy and Clean Growth",2017-06-12,2019-07-24,,,,Q691299,Nick Hurd,Q750204,Kwasi Kwarteng,,,,,,Q575452-EF83EAC4-B683-4D63-A1DA-8C5DE05C1A42
+Q575452,Claire Perry,Q108575022,Parliamentary Under-Secretary of State for Rail,2014-07-15,2016-07-14,,,,Q332979,Stephen Hammond,Q694881,Paul Maynard,,,,,,Q575452-3FB4E039-5344-4783-BCAE-9EE77633717A
 Q333550,Clare Short,Q7444352,Secretary of State for International Development,1997-05-02,2003-05-12,,,,Q1878797,"Lynda, Baroness Chalker of Wallasey",Q335698,"Valerie Amos, Baroness Amos",,,http://news.bbc.co.uk/1/hi/uk_politics/229643.stm,,,Q333550-FA88968F-B790-496B-9EEB-8BD095ABBECA
 Q333652,"Cledwyn Hughes, Baron Cledwyn of Penrhos",Q1846384,Secretary of State for Wales,1966-04-05,1968-04-05,,,,Q333834,Jim Griffiths,Q333919,"George Thomas, 1st Viscount Tonypandy",,,,,,Q333652-BA773026-1F24-488E-9C37-DBDBAEBA2ECD
 Q129006,Clement Attlee,Q162754,Chancellor of the Duchy of Lancaster,1930-05-23,1931-03-13,,,,Q332400,Oswald Mosley,Q336479,"Arthur Ponsonby, 1st Baron Ponsonby of Shulbrede",,,,,,Q129006-4271EC1D-FE79-4FFA-95D8-1AF331AA0D7B
@@ -338,6 +345,7 @@ Q129006,Clement Attlee,Q14211,Prime Minister of the United Kingdom,1945-07-26,19
 Q129006,Clement Attlee,Q2747647,Secretary of State for Defence,1945-07-27,1946-12-20,,,,Q8016,Winston Churchill,Q964833,"A. V. Alexander, 1st Earl Alexander of Hillsborough",,,,,,Q129006-F561BAF4-079D-4843-BBF7-3FB0F4A215C7
 Q129006,Clement Attlee,Q7444340,Secretary of State for Dominion Affairs,1942-02-15,1943-09-24,,,,Q333205,"Robert Gascoyne-Cecil, 5th Marquess of Salisbury",Q333205,"Robert Gascoyne-Cecil, 5th Marquess of Salisbury",,,,,,Q129006-935A0680-496F-4618-9355-ED63237D375B
 Q129679,"Colin Moynihan, 4th Baron Moynihan",Q6865965,"Minister for Sport, Civil Society and Loneliness",1987-06-22,1990-07-26,,,,Q7329532,Richard Tracey,Q333736,Robert Atkins,,,,,,Q129679-52805EC7-3855-442A-90BC-3FFDC747AEF2
+Q269925,Conor Burns,Q104829980,"Minister of State, Northern Ireland",2021-09-16,,,,,Q263076,Robin Walker,,,,,,,,Q269925-1727592B-CA0A-458D-A2CB-02A51ECEA9B6
 Q338153,"Constantine Phipps, 1st Marquess of Normanby",Q2484309,Home Secretary,1839-08-30,1841-08-30,,,,Q157259,"John Russell, 1st Earl Russell",Q333983,"Sir James Graham, 2nd Baronet",,,,,,Q338153-3ABDFA18-F358-4E59-987D-324FDED85F2D
 Q338153,"Constantine Phipps, 1st Marquess of Normanby",Q910308,Lord Privy Seal,1834-07-01,1834-12-01,,,,,,,,,,,,,Q338153-3600dd6b-47a5-a9de-cfe3-8bbe1731806b
 Q264305,Crispin Blunt,Q96393330,Minister for Prisons,2010-05-06,2012-09-04,,,,,,Q260489,Jeremy Wright,,,,,,Q264305-4080581A-D864-4E04-9708-97E3BEE60D3A
@@ -360,7 +368,6 @@ Q333397,"David Clark, Baron Clark of Windermere",Q162754,Chancellor of the Duchy
 Q333397,"David Clark, Baron Clark of Windermere",Q6865995,Minister for the Cabinet Office,1997-05-02,1998-07-27,,,,Q332859,"Roger Freeman, Baron Freeman",Q336214,"Jack Cunningham, Baron Cunningham of Felling",,,,,,Q333397-0F72752D-25FC-4E13-9175-373DFB4E0E9A
 Q333397,"David Clark, Baron Clark of Windermere",Q6866025,"Minister of Agriculture, Fisheries and Food",1987-07-13,1992-07-18,,,,Q332859,"Roger Freeman, Baron Freeman",Q336214,"Jack Cunningham, Baron Cunningham of Felling",,,,,,Q333397-3A113380-CAA9-4DF9-B06D-BD2F7458A286
 Q338176,David Curry,Q6866025,"Minister of Agriculture, Fisheries and Food",1997-06-11,1997-12-01,,,,Q333964,Douglas Hogg,Q259961,Tim Yeo,,,,,,Q338176-3F973853-5C82-4A96-8160-AC8238B87EF0
-Q338176,David Curry,Q11781526,"Secretary of State for Housing, Communities and Local Government",2003-11-11,2004-03-15,,,,Q300023,David Davis,Q332954,Caroline Spelman,,,,,,Q338176-8F60D722-BA81-485A-9776-F4F363020E72
 Q300023,David Davis,Q6865827,Minister of State for Europe,1994-07-20,1997-05-02,,,,Q333039,David Heathcoat-Amory,Q5300550,Doug Henderson,,,http://www.globalpost.com/article/6782395/2016/07/13/david-davis-sas-hardman-britains-brexit-minister,,,Q300023-9E526CC9-3054-4936-B32A-2D5F1400F418
 Q300023,David Davis,Q25860233,Secretary of State for Exiting the European Union,2016-07-13,2018-07-08,,,,,,Q268584,Dominic Raab,,,http://www.bbc.co.uk/news/uk-politics-36785814,,,Q300023-e71cf777-4c73-d708-e5ac-b37a08749045
 Q300023,David Davis,Q25860233,Secretary of State for Exiting the European Union,2016-07-13,2018-07-08,,,,,,Q268584,Dominic Raab,,,https://www.gov.uk/government/news/new-ministerial-appointment-july-2016-secretary-of-state-for-exiting-the-european-union,,,Q300023-e71cf777-4c73-d708-e5ac-b37a08749045
@@ -457,6 +464,7 @@ Q268584,Dominic Raab,Q1507619,Deputy Prime Minister of the United Kingdom,2021-0
 Q268584,Dominic Raab,Q3068024,First Secretary of State,2019-07-24,,,,,Q391960,Damian Green,,,,,https://www.gov.uk/government/ministers,Dominic Raab,First Secretary of State,Q268584-cb5721a3-40c4-f756-9e36-6fdd9aed3b05
 Q268584,Dominic Raab,Q217217,Lord Chancellor,2021-09-15,,,,,Q269853,Robert Buckland,,,,,,,,Q268584-dc1548d4-4bf2-96bf-5b16-52d4c63e5c14
 Q268584,Dominic Raab,Q108554330,Minister of State for Courts and Justice,2017-06-12,2018-01-09,,,,Q478711,Oliver Heald,Q328892,Rory Stewart,,,,,,Q268584-5395DB37-DE47-4D3B-89BA-99B10DCA9A11
+Q268584,Dominic Raab,Q105070637,Minister of State for Housing,2018-01-09,2018-07-09,,,,Q478531,Alok Sharma,Q6417459,Kit Malthouse,,,,,,Q268584-F62D8A1F-0280-4E8E-BA44-BADD6ACDD00A
 Q268584,Dominic Raab,Q104882515,Parliamentary Under-Secretary of State for Justice,2015-05-12,2016-07-16,,,,Q334313,Simon Hughes,Q750061,Phillip Lee,,,,,,Q268584-E5B7C4A3-9254-41FA-BB53-63C267BEAE78
 Q268584,Dominic Raab,Q25860233,Secretary of State for Exiting the European Union,2018-07-09,2018-11-15,,,,Q300023,David Davis,Q260546,Stephen Barclay,,,https://www.bbc.co.uk/news/uk-46241693,,,Q268584-917118d4-4892-c823-4a11-784dfbc519b8
 Q268584,Dominic Raab,Q25860233,Secretary of State for Exiting the European Union,2018-07-09,2018-11-15,,,,Q300023,David Davis,Q260546,Stephen Barclay,,,https://twitter.com/DominicRaab/status/1062992019449098241,,,Q268584-917118d4-4892-c823-4a11-784dfbc519b8
@@ -677,8 +685,8 @@ Q333128,Gavin Strang,Q6866025,"Minister of Agriculture, Fisheries and Food",1993
 Q333128,Gavin Strang,Q15109454,Minister of State for Transport,1997-05-02,1998-06-18,,,,,,Q333461,"John Reid, Baron Reid of Cardowan",,,,,,Q333128-92FF7005-367C-461B-AE2F-29DC5A0E3A80
 Q262409,Gavin Williamson,Q7139041,Parliamentary Secretary to the Treasury,2016-07-14,2017-11-02,,,,Q478276,Mark Harper,,,,,https://www.gov.uk/government/news/new-ministerial-appointment-july-2016-parliamentary-secretary-to-the-treasury-chief-whip,,,Q262409-0aaf8de0-4b25-7494-a432-72699f9bea90
 Q262409,Gavin Williamson,Q2747647,Secretary of State for Defence,2017-11-02,2019-05-01,,,,Q304095,Michael Fallon,Q580464,Penny Mordaunt,,,https://www.bbc.co.uk/news/uk-politics-48126974,,,Q262409-c7c546e0-4962-7940-c08e-7cef20598383
-Q262409,Gavin Williamson,Q3477306,Secretary of State for Education,2019-07-24,2021-09-15,,,,Q676947,Damian Hinds,,,,,https://www.gov.uk/government/ministers,Gavin Williamson,Secretary of State for Education,Q262409-4d5a4467-495e-522a-a047-d7c88da09369
-Q262409,Gavin Williamson,Q3477306,Secretary of State for Education,2019-07-24,2021-09-15,,,,Q676947,Damian Hinds,,,,,https://www.bbc.com/news/uk-politics-58571935,,,Q262409-4d5a4467-495e-522a-a047-d7c88da09369
+Q262409,Gavin Williamson,Q3477306,Secretary of State for Education,2019-07-24,2021-09-15,,,,Q676947,Damian Hinds,Q259361,Nadhim Zahawi,,,https://www.gov.uk/government/ministers,Gavin Williamson,Secretary of State for Education,Q262409-4d5a4467-495e-522a-a047-d7c88da09369
+Q262409,Gavin Williamson,Q3477306,Secretary of State for Education,2019-07-24,2021-09-15,,,,Q676947,Damian Hinds,Q259361,Nadhim Zahawi,,,https://www.bbc.com/news/uk-politics-58571935,,,Q262409-4d5a4467-495e-522a-a047-d7c88da09369
 Q332385,Geoff Hoon,Q2636053,Leader of the House of Commons,2005-05-06,2006-05-05,,,,Q333165,Peter Hain,Q311278,Jack Straw,,,,,,Q332385-762BF957-7BAC-4ECD-A0FA-059E1A6C2E04
 Q332385,Geoff Hoon,Q6865827,Minister of State for Europe,2006-05-05,2007-06-27,,,,Q259106,Douglas Alexander,Q333702,Jim Murphy,,,,,,Q332385-BB115EB5-38FF-4D09-9E98-FB43FB117A5B
 Q332385,Geoff Hoon,Q4146869,Minister of State for Foreign Affairs,1999-05-09,1999-07-28,,,,Q5261951,Derek Fatchett,Q333165,Peter Hain,,,,,,Q332385-3B33085F-10EC-40DB-973D-7AF10262CB5E
@@ -774,6 +782,7 @@ Q333145,"George Younger, 4th Viscount Younger of Leckie",Q2747647,Secretary of S
 Q333145,"George Younger, 4th Viscount Younger of Leckie",Q111784,Secretary of State for Scotland,1979-05-04,1986-01-07,,,,Q333293,Bruce Millan,Q333487,Malcolm Rifkind,,,,,,Q333145-F9AE2A58-60F6-4BC4-B361-ACB5F7A8DF77
 Q335370,"Gerald Gardiner, Baron Gardiner",Q217217,Lord Chancellor,1964-10-16,1970-06-19,,,,Q2271478,"Reginald Manningham-Buller, 1st Viscount Dilhorne",Q175366,"Quintin Hogg, Baron Hailsham of St Marylebone",,,,,,Q335370-A2B725AA-6627-4B62-AA1E-91606ECAF3F6
 Q328557,Gerry Sutcliffe,Q6865965,"Minister for Sport, Civil Society and Loneliness",,,,,,,,,,,,,,,Q328557-2377F8CA-BAFE-449F-B3BC-2D0ED3DF65F5
+Q30232942,Gillian Keegan,Q104865603,Minister of State for Social Care,2021-09-16,,,,,Q20747098,Helen Whately,,,,,,,,Q30232942-2E6C87BB-E0A5-4BA7-86F5-D4ECF637372B
 Q740654,Gillian Merron,Q23304225,Minister for the East Midlands,2007-06-28,2008-01-24,,,,,,Q7182018,Phil Hope,,,,,,Q740654-3F00A59F-0C5C-40F1-A532-4C537DD7672A
 Q740654,Gillian Merron,Q23304231,Minister of State for Public Health,2009-06-08,2010-05-11,,,,Q575217,Dawn Primarolo,Q580784,Anne Milton,,,,,,Q740654-685CC9CC-81F9-472F-B335-5B0C90A9E5BC
 Q740654,Gillian Merron,Q23304253,Parliamentary Under-Secretary of State for International Development,2008-01-24,2008-10-05,,,,Q1793381,"Shriti Vadera, Baroness Vadera",Q749659,Ivan Lewis,,,,,,Q740654-4FB1A11F-380F-41C7-B5F2-38DE4D0FA143
@@ -790,6 +799,7 @@ Q10648,Gordon Brown,Q3315116,Minister for the Civil Service,2007-06-27,2010-05-1
 Q10648,Gordon Brown,Q14211,Prime Minister of the United Kingdom,2007-06-27,2010-05-11,,,74,Q9545,Tony Blair,Q192,David Cameron,,,,,,Q10648-1ac74192-46b5-7b90-fee7-eb78433fae26
 Q5584953,"Gordon Campbell, Baron Campbell of Croy",Q111784,Secretary of State for Scotland,1970-06-20,1974-03-04,,,,Q333404,"Willie Ross, Baron Ross of Marnock",Q333404,"Willie Ross, Baron Ross of Marnock",,,,,,Q5584953-6801FF7F-2DCC-4676-84CB-2308749D1698
 Q334177,"Gordon Hewart, 1st Viscount Hewart",Q2631987,Attorney General for England and Wales,1919-01-10,1922-03-06,,,,Q333683,"F. E. Smith, 1st Earl of Birkenhead",Q13530025,"Ernest Pollock, 1st Viscount Hanworth",,,,,,Q334177-7BF09874-42B1-48F5-8149-43E39777C4F8
+Q478596,Grant Shapps,Q105070637,Minister of State for Housing,2010-05-13,2012-09-04,,,,Q615077,John Healey,Q575205,Mark Prisk,,,,,,Q478596-93047604-4997-43CB-B5FD-9CDBC5BE82B1
 Q478596,Grant Shapps,Q25910299,Minister of State for International Development,2015-05-11,2015-11-28,,,,Q327823,Desmond Swayne,Q691299,Nick Hurd,,,,,,Q478596-F7AAD842-3E04-47DA-8C9D-DCC74EF0EA75
 Q478596,Grant Shapps,Q61412205,Minister without Portfolio,2012-09-04,2015-05-11,,,,Q336455,"Sayeeda Warsi, Baroness Warsi",Q392375,Robert Halfon,,,,,,Q478596-35A48D51-DFBF-4EEB-8B23-19794FFD04B8
 Q478596,Grant Shapps,Q3246797,Secretary of State for Transport,2019-07-24,,,,,Q337453,Chris Grayling,,,,,https://www.gov.uk/government/ministers,Grant Shapps,Secretary of State for Transport,Q478596-ec799617-4c4c-b4ad-cf7c-6f0f47767499
@@ -855,13 +865,14 @@ Q15452587,Harry Gosling,Q3246797,Secretary of State for Transport,1924-01-24,192
 Q5671733,"Harry Primrose, 6th Earl of Rosebery",Q111784,Secretary of State for Scotland,1945-05-25,1945-07-26,,,,Q255340,Tom Johnston,Q6287870,Joseph Westwood,,,,,,Q5671733-63B5FD48-DD79-4EB8-9E0E-1EC1E05A0C5E
 Q334142,Hartley Shawcross,Q2631987,Attorney General for England and Wales,1945-08-04,1951-04-24,,,,Q334337,"David Maxwell Fyfe, 1st Earl of Kilmuir",Q333387,"Frank Soskice, Baron Stow Hill",,,,,,Q334142-1B89184B-5C80-4A3D-901B-310D80FBAD0B
 Q6305458,Hastings Lees-Smith,Q3477306,Secretary of State for Education,1931-03-02,1931-08-24,,,,Q333358,"Sir Charles Trevelyan, 3rd Baronet",Q5294786,Donald Maclean,,,,,,Q6305458-1AB825AF-9DFA-4B74-B2EB-CABABC31F22C
+Q264023,Hazel Blears,Q61412205,Minister without Portfolio,2006-05-05,2007-06-27,,,,Q333318,Ian McCartney,Q336455,"Sayeeda Warsi, Baroness Warsi",,,,,,Q264023-3374FB5A-4E06-4BF1-BEAC-E46622BE1DB2
 Q264023,Hazel Blears,Q11781526,"Secretary of State for Housing, Communities and Local Government",2007-06-27,2009-06-05,,,,Q272644,Ruth Kelly,Q300069,John Denham,,,,,,Q264023-AC53283C-ACA4-4646-82C0-3AEA3D4E520D
 Q3428035,Hector McNeil,Q111784,Secretary of State for Scotland,1950-02-28,1951-10-26,,,,Q4800743,Arthur Woodburn,Q6143784,"James Stuart, 1st Viscount Stuart of Findhorn",,,,,,Q3428035-BF09CCB7-1605-458F-94F3-9955936196C6
 Q335747,"Hector Monro, Baron Monro of Langholm",Q6865965,"Minister for Sport, Civil Society and Loneliness",1979-01-01,1981-01-01,,,,Q904004,"Denis Howell, Baron Howell",Q6988906,Neil Macfarlane,,,,,,Q335747-B62AABE9-2033-4657-9003-06128BFDB561
 Q334128,"Helen Liddell, Baroness Liddell of Coatdyke",Q5333410,Economic Secretary to the Treasury,1997-05-03,1998-07-27,,,,Q4762477,Angela Knight,Q332799,Patricia Hewitt,,,,,,Q334128-6212B478-FC8E-47C3-90C3-EEA70B9241A6
 Q334128,"Helen Liddell, Baroness Liddell of Coatdyke",Q15109454,Minister of State for Transport,1999-05-17,1999-07-29,,,,Q333461,"John Reid, Baron Reid of Cardowan",Q1555319,Gus Macdonald,,,,,,Q334128-B75DD153-C244-4C89-AF56-1F2287FD9678
 Q334128,"Helen Liddell, Baroness Liddell of Coatdyke",Q111784,Secretary of State for Scotland,2001-01-25,2003-06-12,,,,Q333461,"John Reid, Baron Reid of Cardowan",Q296639,Alistair Darling,,,,,,Q334128-B4A77ED1-109A-48D8-B141-22CD6D006432
-Q20747098,Helen Whately,Q104865603,Minister of State for Social Care,2020-02-13,,,,,Q300107,Caroline Dinenage,,,,,,,,Q20747098-B421A27C-A4A3-41B4-A4A8-277299F0D302
+Q20747098,Helen Whately,Q104865603,Minister of State for Social Care,2020-02-13,2021-09-16,,,,Q300107,Caroline Dinenage,Q30232942,Gillian Keegan,,,,,,Q20747098-B421A27C-A4A3-41B4-A4A8-277299F0D302
 Q20747098,Helen Whately,Q85792279,"Parliamentary Under Secretary of State for Arts, Heritage and Tourism",2019-09-10,2020-02-13,,,,Q20647855,Rebecca Pow,Q16211496,Nigel Huddleston,,,,,,Q20747098-5D0BA253-B342-4224-AFCF-412FE2055F07
 Q312577,"Henry Addington, 1st Viscount Sidmouth",Q531471,Chancellor of the Exchequer,1801-03-17,1804-05-10,,,,Q128902,William Pitt the Younger,Q128902,William Pitt the Younger,,,,,,Q312577-31DC0CED-436E-4429-95F1-18F924071C41
 Q312577,"Henry Addington, 1st Viscount Sidmouth",Q2484309,Home Secretary,1812-06-08,1822-01-17,,,,Q7328800,Richard Ryder,Q181875,Robert Peel,,,,,,Q312577-071F78CE-1525-4E7E-B8A8-B3DF68F676DC
@@ -1024,6 +1035,7 @@ Q9576,James Callaghan,Q2484309,Home Secretary,1967-11-30,1970-06-19,,,,Q323488,R
 Q9576,James Callaghan,Q14211,Prime Minister of the United Kingdom,1976-04-05,1979-05-04,,,70,Q128956,Harold Wilson,Q7416,Margaret Thatcher,,,,,,Q9576-8B6FC17E-A8B7-4479-B520-4E4671431E8D
 Q9576,James Callaghan,Q1371091,Secretary of State for Foreign and Commonwealth Affairs,1974-03-05,1976-04-05,,,,Q128976,Alec Douglas-Home,Q301252,Anthony Crosland,,,,,,Q9576-C299A3AC-74B4-4DB0-A20E-5B6050206A49
 Q1680124,"James Campbell, 1st Baron Glenavy",Q1846056,Lord Chancellor of Ireland,1918-06-01,1921-06-01,,,,,,,,,,,,,Q1680124-4AD18AFE-7531-465E-A0F1-FE3AAFA55587
+Q19956787,James Cartlidge,Q104882515,Parliamentary Under-Secretary of State for Justice,2021-09-17,,,,,Q19956858,Alex Chalk,,,,,,,,Q19956787-07E3D4BB-2695-4C92-87D4-A479B98EF395
 Q334318,James Chuter Ede,Q2484309,Home Secretary,1945-08-03,1951-10-26,,,,Q3737152,"Donald Somervell, Baron Somervell of Harrow",Q334337,"David Maxwell Fyfe, 1st Earl of Kilmuir",,,,,,Q334318-90CD73B7-72B0-4878-A455-2C5DC0AAFEB0
 Q334318,James Chuter Ede,Q2636053,Leader of the House of Commons,1951-03-16,1951-10-26,,,,Q335791,Herbert Morrison,Q333345,"Harry Crookshank, 1st Viscount Crookshank",,,,,,Q334318-31CA5337-D43A-4D77-A6B2-F790EDF6E03F
 Q6131460,James Cleverly,Q25910299,Minister of State for International Development,2020-02-13,2020-09-02,,,,Q578234,Andrew Murrison,,,,,,,,Q6131460-7BDD9C74-6085-449E-BBE0-862AA2F88FAA
@@ -1065,6 +1077,8 @@ Q326126,James Stansfeld,Q5449647,Financial Secretary to the Treasury,1869-11-02,
 Q6143784,"James Stuart, 1st Viscount Stuart of Findhorn",Q111784,Secretary of State for Scotland,1951-10-30,1957-01-13,,,,Q3428035,Hector McNeil,Q6246292,"John Maclay, 1st Viscount Muirshiel",,,,,,Q6143784-E933EF06-5588-40D9-96F7-457A25045072
 Q6143797,"James Stuart-Wortley, 1st Baron Wharncliffe",Q943379,Lord President of the Council,1841-09-03,1845-12-19,,,,Q332639,"Henry Petty-Fitzmaurice, 3rd Marquess of Lansdowne",Q2702418,"Walter Montagu Douglas Scott, 5th Duke of Buccleuch",,,,,,Q6143797-A40884AB-6694-4438-988F-D9763EBF576A
 Q6143797,"James Stuart-Wortley, 1st Baron Wharncliffe",Q910308,Lord Privy Seal,1834-12-15,1835-04-08,,,,Q338153,"Constantine Phipps, 1st Marquess of Normanby",Q6253138,"John Ponsonby, 4th Earl of Bessborough",,,,,,Q6143797-77F56079-7E1A-4E53-9080-FD27CE81D718
+Q264337,James Wharton,Q23304253,Parliamentary Under-Secretary of State for International Development,2016-07-17,2017-06-08,,,,Q691299,Nick Hurd,Q391562,Zac Goldsmith,,,,,,Q264337-014ED49A-6B51-47B8-8A0C-741131772F05
+Q264337,James Wharton,Q108046619,Parliamentary Under-Secretary of State for the Northern Powerhouse,2015-05-11,2016-07-17,,,,Q580464,Penny Mordaunt,Q575493,Andrew Percy,,,,,,Q264337-162EC6DE-FBE6-4848-A16B-3389676A0D09
 Q94765,James Wilson,Q5449647,Financial Secretary to the Treasury,1853-01-05,1858-02-21,,,,Q5536154,George Alexander Hamilton,Q5536154,George Alexander Hamilton,,,,,,Q94765-5693D3F9-E675-46D4-8FDB-4885481C122B
 Q94765,James Wilson,Q1060844,Paymaster General,1859-06-18,1859-08-12,,,,Q337686,"Algernon Percy, 6th Duke of Northumberland",Q8007204,"William Cowper-Temple, 1st Baron Mount Temple",,,,,,Q94765-63BD8C0C-5B9A-490D-886A-A0656C08716F
 Q303157,Jane Ellison,Q5449647,Financial Secretary to the Treasury,2016-07-15,2017-06-09,,,,Q391256,David Gauke,Q328769,Mel Stride,,,,,,Q303157-44862860-DFF0-443F-A3E2-D29578F13B73
@@ -1166,6 +1180,7 @@ Q333635,John Gummer,Q6866025,"Minister of Agriculture, Fisheries and Food",1989-
 Q333635,John Gummer,Q4122313,Secretary of State for the Environment,1993-05-27,1997-05-02,,,,Q325381,Michael Howard,Q332393,John Prescott,,,,,,Q333635-6C6E6A87-8BAE-4A99-AD47-01AC2A1CEE82
 Q6237766,"John Hare, 1st Viscount Blakenham",Q162754,Chancellor of the Duchy of Lancaster,1963-10-20,1964-10-16,,,,Q333182,Iain Macleod,Q5301612,"Douglas Houghton, Baron Houghton of Sowerby",,,,,,Q6237766-48186555-F65F-412D-9220-3685E8269B81
 Q11727899,"John Hay, 4th Marquess of Tweeddale",Q111784,Secretary of State for Scotland,1742-02-16,1746-01-03,,,,Q603499,"John Ker, 1st Duke of Roxburghe",Q333488,"Charles Gordon-Lennox, 6th Duke of Richmond",,,,,,Q11727899-1441CDC8-17E5-40FD-A0D6-BCA84CB77D60
+Q478686,John Hayes,Q61412205,Minister without Portfolio,2013-03-28,2014-07-15,,,,Q336455,"Sayeeda Warsi, Baroness Warsi",Q392375,Robert Halfon,,,,,,Q478686-97CA85A0-120A-4350-B2B0-DC28E8F64E4D
 Q615077,John Healey,Q5333410,Economic Secretary to the Treasury,2002-12-15,2005-05-06,,,,Q272644,Ruth Kelly,Q260464,Ed Balls,,,,,,Q615077-35DA4A7C-B5E0-48D9-A761-665E7D5D46B3
 Q615077,John Healey,Q5449647,Financial Secretary to the Treasury,2005-05-06,2007-06-28,,,,Q272346,Stephen Timms,Q6152441,Jane Kennedy,,,,,,Q615077-FEE4F0F0-F18C-4026-8C9C-3AE17BAA8604
 Q615077,John Healey,Q6866346,Minister of State for Communities and Local Government,2009-06-05,2010-05-11,,,,Q232639,Margaret Beckett,Q478596,Grant Shapps,,,,,,Q615077-A8B5A4FC-A179-4EFE-8DB0-120E04F96DC8
@@ -1223,6 +1238,7 @@ Q6251908,John Parker,Q5449647,Financial Secretary to the Treasury,1846-07-07,184
 Q175162,"John Patten, Baron Patten",Q3477306,Secretary of State for Education,1992-04-10,1994-07-20,,,,Q271889,Kenneth Clarke,Q333058,Gillian Shephard,,,,,,Q175162-FBE4A9D1-9717-4E06-ACD0-6C440DD14603
 Q175162,"John Patten, Baron Patten",Q4122313,Secretary of State for the Environment,1985-09-02,1987-06-13,,,,Q1655520,Ian Gow,Q332864,"William Waldegrave, Baron Waldegrave of North Hill",,,,,,Q175162-BFBC1444-2F31-4C16-92CD-2E10F0B21115
 Q575513,John Penrose,Q108558652,Minister for Constitutional Reform,2015-05-11,2016-07-17,,,,Q392241,Sam Gyimah,Q391526,Chris Skidmore,,,,,,Q575513-BD0AF900-A0D5-4233-8FAF-D10E18353EBB
+Q575513,John Penrose,Q104829980,"Minister of State, Northern Ireland",2018-11-16,2019-07-25,,,,Q267234,Shailesh Vara,Q691299,Nick Hurd,,,,,,Q575513-4F4228AE-DBE7-41B2-AA2E-CBDE4090B7B4
 Q575513,John Penrose,Q85792279,"Parliamentary Under Secretary of State for Arts, Heritage and Tourism",2010-05-13,2012-09-04,,,,Q688913,Margaret Hodge,,,,,,,,Q575513-731DC439-79B7-4306-99F8-FBF0F0177543
 Q1701413,"John Peyton, Baron Peyton of Yeovil",Q6866025,"Minister of Agriculture, Fisheries and Food",,,,,,,,,,,,,,,Q1701413-247018F6-F640-422F-99FA-D0AA6FDCA006
 Q1701413,"John Peyton, Baron Peyton of Yeovil",Q3246797,Secretary of State for Transport,1970-06-23,1970-10-15,,,,Q334362,Fred Mulley,Q333858,"Peter Walker, Baron Walker of Worcester",,,,,,Q1701413-5CA85ACE-7262-4E51-BEF4-0653C47C4427
@@ -1279,7 +1295,6 @@ Q333091,"John Simon, 1st Viscount Simon",Q1371091,Secretary of State for Foreign
 Q11727985,"John Sinclair, 1st Baron Pentland",Q111784,Secretary of State for Scotland,1905-12-10,1912-02-13,,,,Q335178,"John Hope, 1st Marquess of Linlithgow",Q7792331,McKinnon Wood,,,,,,Q11727985-9CB20255-2D25-473A-ACCA-53464B00502F
 Q6258265,John Smith,Q531471,Chancellor of the Exchequer,1699-01-01,1701-01-01,,,,,,,,,,,,,Q6258265-4c1c8176-4d15-ab0a-9d12-a2ef905d1ec0
 Q6258265,John Smith,Q531471,Chancellor of the Exchequer,1708-01-01,1710-01-01,,,,,,,,,,,,,Q6258265-cfc044c1-430b-c258-40a0-82491892f7f5
-Q332377,John Smith,Q3858507,"Secretary of State for Business, Energy and Industrial Strategy",1979-05-04,1982-11-24,,,,Q981574,Edmund Dell,Q333406,John Nott,,,,,,Q332377-26A26BE8-4A7A-48D5-99CB-543233BFCB41
 Q2855776,"John Somers, 1st Baron Somers",Q217217,Lord Chancellor,1693-01-01,1697-01-01,,,,,,,,,,,,,Q2855776-CA9A06E3-F2C9-43D4-93FA-33D87F894374
 Q2855776,"John Somers, 1st Baron Somers",Q217217,Lord Chancellor,1697-01-01,1700-01-01,,,,,,,,,,,,,Q2855776-E1F4A63C-31E2-48FB-95C4-8901C509D825
 Q2855776,"John Somers, 1st Baron Somers",Q943379,Lord President of the Council,1708-11-25,1710-09-21,,,,Q334112,"Thomas Herbert, 8th Earl of Pembroke",Q3827905,"Laurence Hyde, 1st Earl of Rochester",,,,,,Q2855776-14C4342D-288C-498C-B553-CFEEBD1D53E6
@@ -1308,7 +1323,7 @@ Q335342,"John Wodehouse, 1st Earl of Kimberley",Q162754,Chancellor of the Duchy 
 Q335342,"John Wodehouse, 1st Earl of Kimberley",Q2012061,Leader of the House of Lords,1892-08-18,1894-03-05,,,,Q243705,"Robert Gascoyne-Cecil, 3rd Marquess of Salisbury",Q244620,"Archibald Primrose, 5th Earl of Rosebery",,,,,,Q335342-23109FB3-F9FC-4219-818A-14BA13112716
 Q335342,"John Wodehouse, 1st Earl of Kimberley",Q943379,Lord President of the Council,1892-08-18,1894-03-10,,,,Q5527395,"Gathorne Gathorne-Hardy, 1st Earl of Cranbrook",Q244620,"Archibald Primrose, 5th Earl of Rosebery",,,,,,Q335342-71A4E915-E777-4B10-99DF-8435CA307949
 Q335342,"John Wodehouse, 1st Earl of Kimberley",Q1371091,Secretary of State for Foreign and Commonwealth Affairs,1894-03-10,1895-06-21,,,,Q244620,"Archibald Primrose, 5th Earl of Rosebery",Q243705,"Robert Gascoyne-Cecil, 3rd Marquess of Salisbury",,,,,,Q335342-404B528E-CFA4-4ACA-8738-9C67A1220246
-Q20127929,Johnny Mercer,Q104830004,Minister for Veterans,2019-07-28,2021-04-20,,,,Q303299,Tobias Ellwood,Q30234245,Leo Docherty,,,,,,Q20127929-389F9CF9-9573-4054-BC4F-F42250ED17D5
+Q20127929,Johnny Mercer,Q23641739,Minister for Veterans,2019-07-28,2021-04-20,,,,Q303299,Tobias Ellwood,Q30234245,Leo Docherty,,,,,,Q20127929-389F9CF9-9573-4054-BC4F-F42250ED17D5
 Q272234,Jon Trickett,Q6865995,Minister for the Cabinet Office,2011-10-07,2013-10-07,,,,Q272642,Tessa Jowell,Q302363,Michael Dugher,,,,,,Q272234-151DD889-1876-45FF-AA7E-AB033BEE592F
 Q332881,Jonathan Aitken,Q5096927,Chief Secretary to the Treasury,1994-07-20,1995-07-05,,,,Q333525,Michael Portillo,Q332864,"William Waldegrave, Baron Waldegrave of North Hill",,,,,,Q332881-EDDF25AE-E888-4E1B-9699-636D702B23DE
 Q303716,Jonathan Evans,Q3858507,"Secretary of State for Business, Energy and Industrial Strategy",1994-10-25,1995-11-29,,,,Q3337819,Neil Hamilton,Q12731414,John Mark Taylor,,,,,,Q303716-E0D1CA12-8121-4F28-A821-4788E95097B4
@@ -1325,7 +1340,7 @@ Q30174734,Julia Lopez,Q105044274,Minister of State for Media and Data,2021-09-15
 Q390794,Julian Smith,Q7139041,Parliamentary Secretary to the Treasury,2017-11-02,2019-07-24,,,,,,,,,,,,,Q390794-2fe6b6f9-4e50-f45e-921d-11536638c6bd
 Q390794,Julian Smith,Q1369302,Secretary of State for Northern Ireland,2019-07-24,2020-02-13,,,21,Q264560,Karen Bradley,Q749687,Brandon Lewis,,,,,,Q390794-a2bdd4d4-4948-5ccd-182e-46d357441ec9
 Q1712531,Julius Caesar,Q531471,Chancellor of the Exchequer,1606-01-01,1614-01-01,,,,Q5540704,"George Home, 1st Earl of Dunbar",Q2373798,"Fulke Greville, 1st Baron Brooke",,,,,,Q1712531-7354EBDD-B3E6-4237-8F2A-D8B665A720FB
-Q272288,Justin Tomlinson,Q108558696,"Parliamentary Under-Secretary of State for Family Support, Housing and Child Maintenance",2018-07-09,2019-04-04,,,,Q6417459,Kit Malthouse,Q16751766,Will Quimby,,,,,,Q272288-40CA400A-81BE-4A83-9A39-355211D41306
+Q272288,Justin Tomlinson,Q108558696,"Parliamentary Under-Secretary of State for Family Support, Housing and Child Maintenance",2018-07-09,2019-04-04,,,,Q6417459,Kit Malthouse,Q16751766,Will Quince,,,,,,Q272288-40CA400A-81BE-4A83-9A39-355211D41306
 Q333012,Justine Greening,Q5333410,Economic Secretary to the Treasury,2010-05-13,2011-10-14,,,,Q5982575,Ian Pearson,Q333680,Chloe Smith,,,,,,Q333012-4BE409D3-124E-4EA8-BE65-2E0D45DC03FE
 Q333012,Justine Greening,Q3315134,Minister for Women and Equalities,2016-07-14,2018-01-08,,,,Q580375,Nicky Morgan,Q479171,Amber Rudd,,,https://www.gov.uk/government/news/new-ministerial-appointment-july-2016-secretary-of-state-for-education,,,Q333012-88b463a8-4d23-afc8-c825-35e41db4d0a2
 Q333012,Justine Greening,Q3477306,Secretary of State for Education,2016-07-14,2018-01-08,,,,Q580375,Nicky Morgan,Q676947,Damian Hinds,,,http://www.bbc.co.uk/news/uk-politics-36785814,,,Q333012-b8edb9d8-49bb-e2e9-548e-f8b2c8182116
@@ -1333,6 +1348,7 @@ Q333012,Justine Greening,Q3477306,Secretary of State for Education,2016-07-14,20
 Q333012,Justine Greening,Q3477306,Secretary of State for Education,2016-07-14,2018-01-08,,,,Q580375,Nicky Morgan,Q676947,Damian Hinds,,,https://www.gov.uk/government/news/new-ministerial-appointment-july-2016-secretary-of-state-for-education,,,Q333012-b8edb9d8-49bb-e2e9-548e-f8b2c8182116
 Q333012,Justine Greening,Q7444352,Secretary of State for International Development,2012-09-04,2016-07-14,,,,,,,,,,,,,Q333012-F9869518-A365-4084-9838-C7978DF9BBC3
 Q333012,Justine Greening,Q3246797,Secretary of State for Transport,2011-10-14,2012-09-04,,,,Q332987,Philip Hammond,Q333267,Patrick McLoughlin,,,,,,Q333012-3d42bda6-4440-bdeb-df99-a144286aad21
+Q264560,Karen Bradley,Q108574783,"Parliamentary Under-Secretary of State for Preventing Abuse, Exploitation and Crime",2014-02-08,2016-07-14,,,,,,Q577362,Sarah Newton,,,,,,Q264560-ACD52904-41BE-4C36-AC8A-34C167B456B6
 Q264560,Karen Bradley,Q3297079,"Secretary of State for Culture, Media and Sport",2016-07-14,2018-01-08,,,,Q264684,John Whittingdale,Q478161,Matt Hancock,,,http://www.bbc.co.uk/news/uk-politics-36785814,,,Q264560-c72c2fa2-4031-9693-111c-b6d214ee94ab
 Q264560,Karen Bradley,Q3297079,"Secretary of State for Culture, Media and Sport",2016-07-14,2018-01-08,,,,Q264684,John Whittingdale,Q478161,Matt Hancock,,,https://www.gov.uk/government/news/new-ministerial-appointment-secretary-of-state-for-culture-media-and-sport,,,Q264560-c72c2fa2-4031-9693-111c-b6d214ee94ab
 Q264560,Karen Bradley,Q1369302,Secretary of State for Northern Ireland,2018-01-08,2019-07-24,,,20,Q265140,James Brokenshire,Q390794,Julian Smith,,,http://www.bbc.co.uk/news/entertainment-arts-42609019,,,Q264560-07497c11-49f5-feab-973f-5df7d6822a06
@@ -1353,6 +1369,7 @@ Q271889,Kenneth Clarke,Q162754,Chancellor of the Duchy of Lancaster,1987-07-13,1
 Q271889,Kenneth Clarke,Q531471,Chancellor of the Exchequer,1993-05-27,1997-05-02,,,,Q332546,Norman Lamont,Q10648,Gordon Brown,,,,,,Q271889-F4D38C6F-26F2-4A6C-8441-849542A14CFF
 Q271889,Kenneth Clarke,Q2484309,Home Secretary,1992-04-10,1993-05-27,,,,Q333390,"Kenneth Baker, Baron Baker of Dorking",Q325381,Michael Howard,,,,,,Q271889-447EC2CA-25D2-4E76-8AE4-824ADE7B4424
 Q271889,Kenneth Clarke,Q217217,Lord Chancellor,2010-05-12,2012-09-04,,,,Q311278,Jack Straw,Q337453,Chris Grayling,,,,,,Q271889-A547AEBC-6C1C-4CD5-8513-EDB3D0DDD91D
+Q271889,Kenneth Clarke,Q61412205,Minister without Portfolio,2012-09-04,2014-07-14,,,,Q336455,"Sayeeda Warsi, Baroness Warsi",Q392375,Robert Halfon,,,,,,Q271889-DE2D73EC-7651-47DC-9C77-6E9521BB5322
 Q271889,Kenneth Clarke,Q1060844,Paymaster General,1985-09-02,1987-07-13,,,,Q333635,John Gummer,Q334257,"Peter Brooke, Baron Brooke of Sutton Mandeville",,,,,,Q271889-007497cc-4186-5f3f-96ae-747cb0ffea19
 Q271889,Kenneth Clarke,Q3477306,Secretary of State for Education,1990-11-02,1992-04-10,,,,Q332940,"John MacGregor, Baron MacGregor of Pulham Market",Q175162,"John Patten, Baron Patten",,,,,,Q271889-A8AC0508-3F69-4B2B-86BE-BFCC8C190104
 Q271889,Kenneth Clarke,Q3397406,Secretary of State for Health and Social Care,1988-07-25,1990-11-02,,,,Q93557,"John Moore, Baron Moore of Lower Marsh",Q332864,"William Waldegrave, Baron Waldegrave of North Hill",,,,,,Q271889-d7512637-4f7e-1687-3f44-db0c652f9ce2
@@ -1366,13 +1383,14 @@ Q2518614,Kingsley Wood,Q531471,Chancellor of the Exchequer,1940-05-12,1943-09-21
 Q2518614,Kingsley Wood,Q910308,Lord Privy Seal,1940-04-03,1940-05-12,,,,Q333429,"Samuel Hoare, 1st Viscount Templewood",Q129006,Clement Attlee,,,,,,Q2518614-9FA8365F-85B6-4896-866B-26C15A127AC9
 Q2518614,Kingsley Wood,Q3397406,Secretary of State for Health and Social Care,1935-06-07,1938-05-16,,,,Q9292296,"Hilton Young, 1st Baron Kennet",Q7964761,Walter Elliot,,,,,,Q2518614-6CE41680-52AF-4F12-8095-441C6E63119E
 Q6417459,Kit Malthouse,Q6865933,Minister of State for Crime and Policing,2019-07-25,,,,,Q691299,Nick Hurd,,,,,,,,Q6417459-AB134E02-29AB-47A1-9539-D0ED97283DFA
+Q6417459,Kit Malthouse,Q105070637,Minister of State for Housing,2018-07-09,2019-07-25,,,,Q268584,Dominic Raab,Q584062,Esther McVey,,,,,,Q6417459-884F06D2-9908-42F2-BD76-29EEF406EB7B
 Q6418606,Kitty Ussher,Q5333410,Economic Secretary to the Treasury,2007-06-29,2008-10-05,,,,Q260464,Ed Balls,Q5982575,Ian Pearson,,,,,,Q6418606-5454B3DA-6AEE-492C-B676-694E526F9FA9
 Q750204,Kwasi Kwarteng,Q104760411,"Minister of State for Business, Energy and Clean Growth",2019-07-24,2021-01-08,,,,Q575452,Claire Perry,Q20648244,Anne-Marie Trevelyan,,,,,,Q750204-459EA851-67F1-40AF-86C4-5A244EF78AD6
 Q750204,Kwasi Kwarteng,Q58799999,Parliamentary Under-Secretary of State for Exiting the European Union,2018-11-16,2019-07-24,,,,Q19957769,Suella Braverman,,,,,https://www.bbc.co.uk/news/uk-46241693,,,Q750204-06c9b467-428a-741a-2783-6387d1261db9
 Q750204,Kwasi Kwarteng,Q3858507,"Secretary of State for Business, Energy and Industrial Strategy",2021-01-08,,,,,Q478531,Alok Sharma,,,,,https://www.gov.uk/government/ministers,Kwasi Kwarteng,"Secretary of State for Business, Energy and Industrial Strategy",Q750204-b9054947-4669-87aa-d445-522f745a795a
 Q3827905,"Laurence Hyde, 1st Earl of Rochester",Q609884,First Lord of the Treasury,,,,,,Q2714210,"Arthur Capell, 1st Earl of Essex",Q947776,"Sidney Godolphin, 1st Earl of Godolphin",,,,,,Q3827905-E6F010D5-C6D2-4360-B054-24ADFBC35D31
 Q3827905,"Laurence Hyde, 1st Earl of Rochester",Q943379,Lord President of the Council,,,,,,Q6255053,"John Robartes, 1st Earl of Radnor",Q335280,"George Savile, 1st Marquess of Halifax",,,,,,Q3827905-9643B6E1-36E0-4B08-B05A-D6E102E6048D
-Q30234245,Leo Docherty,Q104830004,Minister for Veterans,2021-04-20,,,,,Q20127929,Johnny Mercer,,,,,,,,Q30234245-3F109118-4953-47DC-A29C-C605AE0DB44E
+Q30234245,Leo Docherty,Q23641739,Minister for Veterans,2021-04-20,,,,,Q20127929,Johnny Mercer,,,,,,,,Q30234245-3F109118-4953-47DC-A29C-C605AE0DB44E
 Q332607,Leon Brittan,Q5096927,Chief Secretary to the Treasury,1981-01-05,1983-06-11,,,,Q332691,John Biffen,Q336515,"Peter Rees, Baron Rees",,,,,,Q332607-b3b83338-4225-5c1c-b42e-211c81d96b74
 Q332607,Leon Brittan,Q2484309,Home Secretary,1983-06-11,1985-09-02,,,,Q333963,Willie Whitelaw,Q337375,Douglas Hurd,,,,,,Q332607-453e7ec0-45a0-24a5-bea1-ec383e5ef57b
 Q332607,Leon Brittan,Q3858507,"Secretary of State for Business, Energy and Industrial Strategy",1985-09-02,1986-01-24,,,,Q336011,Norman Tebbit,Q3069915,"Paul Channon, Baron Kelvedon",,,,,,Q332607-2e645349-4da9-12d0-0dc3-51222fb83357
@@ -1434,16 +1452,17 @@ Q7416,Margaret Thatcher,Q609884,First Lord of the Treasury,1979-05-04,1990-11-28
 Q7416,Margaret Thatcher,Q3315116,Minister for the Civil Service,1979-05-04,1990-11-28,,,,,,,,,,,,,Q7416-5314F34B-3973-488A-8C2D-1738B832C323
 Q7416,Margaret Thatcher,Q14211,Prime Minister of the United Kingdom,1979-05-04,1990-11-28,,,71,Q9576,James Callaghan,Q9559,John Major,,,http://data.bnf.fr/ark:/12148/cb121412696,,,q7416-61A2DF4C-338B-4F36-B07E-9F0CF51EB78F
 Q7416,Margaret Thatcher,Q3477306,Secretary of State for Education,1970-06-20,1974-03-04,,,,Q333944,"Edward Short, Baron Glenamara",Q4816857,"Reg Prentice, Baron Prentice",,,,,,q7416-84849b76-4112-2f41-767d-6f640da45b24
+Q727347,Margot James,Q108574843,"Minister for Small Business, Consumers and Corporate Responsibility",2016-07-17,2018-01-09,,,,Q389855,Anna Soubry,Q392149,Andrew Griffiths,,,,,,Q727347-894019EC-3367-489A-97C1-8F3B33838D6C
 Q302815,Maria Eagle,Q6865755,Minister for Children,2005-06-17,2006-05-08,,,,Q688913,Margaret Hodge,Q775059,Beverley Hughes,,,,,,Q302815-10588050-5C89-400A-85A4-13168B8A0C0A
 Q334261,Maria Miller,Q3315134,Minister for Women and Equalities,2012-09-04,2014-04-09,,,,,,,,,,,,,Q334261-17851313-485c-81d3-db3e-68b0b7d1ba61
 Q334261,Maria Miller,Q3297079,"Secretary of State for Culture, Media and Sport",2012-09-04,2014-04-09,,,,,,,,,,,,,Q334261-ABB56092-610C-4758-A1EA-63B45E79EC26
 Q6767006,Mark Carlisle,Q3477306,Secretary of State for Education,1979-05-05,1981-09-14,,,,Q333250,Shirley Williams,Q333694,Keith Joseph,,,,,,Q6767006-9D73FE17-7827-4F0E-83B8-89779E314D0D
-Q390869,Mark Francois,Q23641739,"Minister for Defence Personnel, Welfare and Veterans",2012-09-04,2013-10-07,,,,Q501089,Andrew Robathan,Q389855,Anna Soubry,,,,,,Q390869-7ABC623D-8801-4CB6-96D7-786A5A13350B
+Q390869,Mark Francois,Q23641739,Minister for Veterans,2012-09-04,2013-10-07,,,,Q501089,Andrew Robathan,Q389855,Anna Soubry,,,,,,Q390869-7ABC623D-8801-4CB6-96D7-786A5A13350B
 Q390869,Mark Francois,Q6865827,Minister of State for Europe,2007-05-29,2010-05-11,,,,Q264662,Graham Brady,Q266146,Chris Bryant,,,,,,Q390869-85C3CB45-66BE-4CDE-A13F-0F45D096A9F1
 Q390869,Mark Francois,Q6866379,Minister of State for the Armed Forces,2013-10-07,2015-05-11,,,,Q501089,Andrew Robathan,Q580464,Penny Mordaunt,,,,,,Q390869-BEF29D49-3F8F-4E03-84B1-B5BCE2EFA4D7
 Q478276,Mark Harper,Q7139041,Parliamentary Secretary to the Treasury,2015-05-09,2016-07-14,,,,Q333937,Michael Gove,Q262409,Gavin Williamson,,,,,,Q478276-2163f26d-4a6f-01fc-d462-ddc761850ba5
 Q677068,Mark Hoban,Q5449647,Financial Secretary to the Treasury,2010-05-13,2012-09-04,,,,Q272346,Stephen Timms,Q271800,Greg Clark,,,,,,Q677068-285B36B8-7535-413D-8292-B22C2550B847
-Q750161,Mark Lancaster,Q104830004,Minister for Veterans,2015-05-12,2017-06-13,,,,Q389855,Anna Soubry,Q303299,Tobias Ellwood,,,,,,Q750161-2280224A-6837-44A5-AD9C-FE1E17FD9220
+Q750161,Mark Lancaster,Q23641739,Minister for Veterans,2015-05-12,2017-06-13,,,,Q389855,Anna Soubry,Q303299,Tobias Ellwood,,,,,,Q750161-2280224A-6837-44A5-AD9C-FE1E17FD9220
 Q750161,Mark Lancaster,Q6866379,Minister of State for the Armed Forces,2017-06-13,2019-12-16,,,,Q575593,Mike Penning,Q20648244,Anne-Marie Trevelyan,,,,,,Q750161-75C7D61D-2A66-4A4B-AAC8-B3BE3F4FE34C
 Q389189,Mark Spencer,Q7139041,Parliamentary Secretary to the Treasury,2019-07-24,,,,,,,,,,,https://www.gov.uk/government/ministers,Mark Spencer,Parliamentary Secretary to the Treasury (Chief Whip),Q389189-8539db11-4c0a-f9b9-cb44-72880c52397e
 Q478161,Matt Hancock,Q3297079,"Secretary of State for Culture, Media and Sport",2018-01-08,2018-07-08,,,,Q264560,Karen Bradley,,,,,https://www.bbc.co.uk/news/uk-politics-44774702,,,Q478161-94d63a5f-4367-967d-8148-e013f97c4e80
@@ -1570,6 +1589,10 @@ Q391300,Nick Gibb,Q25917383,Minister of State for Schools,2010-05-13,2012-09-04,
 Q391300,Nick Gibb,Q25917383,Minister of State for Schools,2015-05-12,2021-09-15,,,,Q333663,David Laws,Q263076,Robin Walker,,,,,,Q391300-C660C590-B585-4F3D-BE76-008BEA643EF7
 Q478369,Nick Harvey,Q6866379,Minister of State for the Armed Forces,2010-05-13,2012-09-04,,,,Q767696,Bill Rammell,Q501089,Andrew Robathan,,,,,,Q478369-A7D0D6D5-B03E-4F63-8189-87A7F40BD7BF
 Q333283,Nick Herbert,Q6865933,Minister of State for Crime and Policing,,,,,,,,,,,,,,,Q333283-608A4D9B-2D8B-4320-A3A6-10FA9C8C8065
+Q691299,Nick Hurd,Q104760411,"Minister of State for Business, Energy and Clean Growth",2016-07-16,2017-06-12,,,,Q750091,Andrea Leadsom,Q575452,Claire Perry,,,,,,Q691299-1F367E34-7A96-4DEC-BFF3-09CC11E37B21
+Q691299,Nick Hurd,Q6865933,Minister of State for Crime and Policing,2017-06-12,2019-07-25,,,,Q749687,Brandon Lewis,Q6417459,Kit Malthouse,,,,,,Q691299-E2C2549F-E76B-4FF8-92F3-7FF63E0FC7F0
+Q691299,Nick Hurd,Q104829980,"Minister of State, Northern Ireland",2019-07-25,2019-12-16,,,,Q575513,John Penrose,Q263076,Robin Walker,,,,,,Q691299-F33702D1-768D-463E-B636-8CFBDE27223B
+Q691299,Nick Hurd,Q23304253,Parliamentary Under-Secretary of State for International Development,2015-11-28,2016-07-16,,,,Q478596,Grant Shapps,Q264337,James Wharton,,,,,,Q691299-41612A71-96E4-4FAF-85CE-934E927E3614
 Q580375,Nicky Morgan,Q5333410,Economic Secretary to the Treasury,2013-10-07,2014-04-09,,,,Q727798,Sajid Javid,Q750091,Andrea Leadsom,,,,,,Q580375-83B446D2-409E-4B8F-A3EE-F6FC5FF6BB2E
 Q580375,Nicky Morgan,Q5449647,Financial Secretary to the Treasury,2014-04-09,2014-07-15,,,,Q727798,Sajid Javid,Q391256,David Gauke,,,,,,Q580375-8FF73029-06AE-470D-92D6-A422DA96DA9B
 Q580375,Nicky Morgan,Q3315134,Minister for Women and Equalities,2014-07-15,2016-07-13,,,,,,,,,,,,,Q580375-8b2f9a43-4564-cadd-a6ae-490f92508a19
@@ -1862,6 +1885,8 @@ Q7351090,Robert William Hanbury,Q5449647,Financial Secretary to the Treasury,189
 Q311214,Robin Cook,Q2636053,Leader of the House of Commons,2001-06-08,2003-03-17,,,,Q232639,Margaret Beckett,Q333461,"John Reid, Baron Reid of Cardowan",,,,,,Q311214-D3F3B963-11CC-46C0-A596-885CDA5F090D
 Q311214,Robin Cook,Q1371091,Secretary of State for Foreign and Commonwealth Affairs,1997-05-02,2001-06-08,,,,Q333487,Malcolm Rifkind,Q311278,Jack Straw,,,,,,Q311214-136AB34B-C4D8-4091-910E-A2AA928B5B4E
 Q7352835,"Robin Turton, Baron Tranmire",Q3397406,Secretary of State for Health and Social Care,1955-12-20,1957-01-16,,,,Q333182,Iain Macleod,Q5259036,"Dennis Vosper, Baron Runcorn",,,,,,Q7352835-B5DA44FE-315C-42D0-BF7A-BC00809C1540
+Q263076,Robin Walker,Q25917383,Minister of State for Schools,2021-09-16,,,,,Q391300,Nick Gibb,,,,,,,,Q263076-BE923AD6-6FD4-4F35-9A87-7BD0486F967A
+Q263076,Robin Walker,Q104829980,"Minister of State, Northern Ireland",2019-07-26,2021-09-16,,,,Q691299,Nick Hurd,Q269925,Conor Burns,,,,,,Q263076-DBE66CF4-5437-40F9-811D-0ADAA26A7F83
 Q263076,Robin Walker,Q58799999,Parliamentary Under-Secretary of State for Exiting the European Union,2016-07-17,2019-07-26,,,,,,Q302309,James Duddridge,,,,,,Q263076-F1C9BF02-BF7B-45AE-8CC6-535B72D9F58A
 Q332859,"Roger Freeman, Baron Freeman",Q162754,Chancellor of the Duchy of Lancaster,1995-06-26,1997-05-02,,,,Q333909,"David Hunt, Baron Hunt of Wirral",Q333397,"David Clark, Baron Clark of Windermere",,,,,,Q332859-45DAD85D-E68A-4588-99A0-35CA7943F8CE
 Q1666546,Roger le Poer,Q217217,Lord Chancellor,1135-01-01,1139-06-01,,,,Q2159284,Robert de Sigello,Q2086520,Philip de Harcourt,,,,,,Q1666546-065FA05E-6AD9-49A5-97A6-69D93634F5EC
@@ -1914,6 +1939,7 @@ Q333429,"Samuel Hoare, 1st Viscount Templewood",Q2484309,Home Secretary,1937-05-
 Q333429,"Samuel Hoare, 1st Viscount Templewood",Q1371091,Secretary of State for Foreign and Commonwealth Affairs,1935-06-07,1935-12-18,,,,Q333091,"John Simon, 1st Viscount Simon",Q128995,Anthony Eden,,,,,,Q333429-7F148B32-F419-4A37-A322-C4B94EF1556D
 Q7411962,Samuel Laing,Q5449647,Financial Secretary to the Treasury,1859-06-24,1860-01-01,,,,Q332650,"Stafford Northcote, 1st Earl of Iddesleigh",Q5498541,Frederick Peel,,,,,,Q7411962-25E439C9-9531-4B78-9FD5-EA2E2A871AE2
 Q7412628,"Samuel Silkin, Baron Silkin of Dulwich",Q2631987,Attorney General for England and Wales,1974-03-07,1979-05-04,,,,Q7176544,"Peter Rawlinson, Baron Rawlinson of Ewell",Q333350,"Michael Havers, Baron Havers",,,,,,Q7412628-0C312CD6-596C-4A03-8005-0F7DD9429956
+Q577362,Sarah Newton,Q104878824,Parliamentary Under-Secretary of State for Safeguarding,2016-07-17,2017-11-09,,,,Q264560,Karen Bradley,Q19938362,Victoria Atkins,,,,,,Q577362-AA266CA8-08B7-49A1-9EB9-5D2552C4A13F
 Q272500,Sarah Teather,Q6865755,Minister for Children,2010-05-13,2012-09-04,,,,Q575217,Dawn Primarolo,Q272201,Elizabeth Truss,,,,,,Q272500-637B876F-ED47-416C-BAC0-D89243C4462F
 Q272500,Sarah Teather,Q25935122,Minister of State for Children and Families,2010-05-13,2012-09-04,,,,Q575217,Dawn Primarolo,Q272201,Elizabeth Truss,,,,,,Q272500-455F4A8A-978D-4C58-99DD-A2E713AFF22E
 Q2782520,"Schomberg Kerr, 9th Marquess of Lothian",Q111784,Secretary of State for Scotland,1887-03-11,1887-03-11,,,,Q19008,Arthur Balfour,Q333808,"Sir George Trevelyan, 2nd Baronet",,,,,,Q2782520-DF79DB2A-3575-42E3-B0B0-B2E3E98AA787
@@ -2029,6 +2055,7 @@ Q19957769,Suella Braverman,Q2631987,Attorney General for England and Wales,2020-
 Q19957769,Suella Braverman,Q2631987,Attorney General for England and Wales,2021-09-10,,,,,Q303085,Michael Ellis,,,,,https://www.gov.uk/government/ministers,Suella Braverman,Attorney General,Q19957769-ba5d0c91-45bf-0ff2-5e49-79ed4ac53ffc
 Q19957769,Suella Braverman,Q58799999,Parliamentary Under-Secretary of State for Exiting the European Union,2018-01-09,2018-11-15,,,,,,Q750204,Kwasi Kwarteng,,,,,,Q19957769-472ececd-4aa5-533b-9a04-738fec23ea64
 Q332968,Susan Kramer,Q15109454,Minister of State for Transport,2013-10-07,2015-05-08,,,,Q260082,Norman Baker,Q728119,Andrew Jones,,,,,,Q332968-7699A2B1-EAD6-4C24-880B-83CA49FA336E
+Q15720642,"Susan Williams, Baroness Williams of Trafford",Q108046619,Parliamentary Under-Secretary of State for the Northern Powerhouse,2015-05-11,2016-07-17,,,,Q1237673,"Tariq Ahmad, Baron Ahmad of Wimbledon",Q575493,Andrew Percy,,,,,,Q15720642-C556724E-B0B7-49EA-8E7D-79876E0AB238
 Q1237673,"Tariq Ahmad, Baron Ahmad of Wimbledon",Q108046539,Parliamentary Under-Secretary of State for Communities and Local Government,2014-07-15,2015-05-11,,,,Q2435579,"Tina Stowell, Baroness Stowell of Beeston",Q15720642,"Susan Williams, Baroness Williams of Trafford",,,,,,Q1237673-3D2479AA-14A3-4555-98BB-CFDBC92457CE
 Q1237673,"Tariq Ahmad, Baron Ahmad of Wimbledon",Q25358150,Parliamentary Under-Secretary of State for Transport,2015-05-11,2017-06-11,,,,Q575452,Claire Perry,Q1230084,Martin Callanan,,,,,,Q1237673-2F4D7E43-842A-4784-A9CB-8622A84820E6
 Q333439,"Terence Higgins, Baron Higgins",Q5449647,Financial Secretary to the Treasury,1972-04-07,1974-03-04,,,,Q24082,Patrick Jenkin,Q1700212,"John Gilbert, Baron Gilbert",,,,,,Q333439-935CBE9D-FF00-465E-9522-9AFE872FA4BA
@@ -2106,7 +2133,7 @@ Q259961,Tim Yeo,Q6866025,"Minister of Agriculture, Fisheries and Food",1997-12-0
 Q2435579,"Tina Stowell, Baroness Stowell of Beeston",Q2012061,Leader of the House of Lords,2014-07-15,2016-07-14,,,,Q1703194,"Jonathan Hill, Baron Hill of Oareford",Q18210190,"Natalie Evans, Baroness Evans",,,,,,Q2435579-34590C7F-E1E9-4A25-BF25-36F1A09C64D2
 Q2435579,"Tina Stowell, Baroness Stowell of Beeston",Q910308,Lord Privy Seal,2014-07-15,2016-07-14,,,,Q333276,Andrew Lansley,Q18210190,"Natalie Evans, Baroness Evans",,,,,,Q2435579-1522D41A-BB2B-40F7-96D7-490BA6CFE2D7
 Q303299,Tobias Ellwood,Q104878753,Minister for Africa,2016-07-16,2017-06-13,,,,Q302309,James Duddridge,Q328892,Rory Stewart,,,,,,Q303299-06CA7075-8210-4551-A47A-4F45296AC4FF
-Q303299,Tobias Ellwood,Q104830004,Minister for Veterans,2017-06-14,2019-07-26,,,,Q750161,Mark Lancaster,Q20127929,Johnny Mercer,,,,,,Q303299-AC4C176D-F50C-4DCF-8283-18CB1F242544
+Q303299,Tobias Ellwood,Q23641739,Minister for Veterans,2017-06-14,2019-07-26,,,,Q750161,Mark Lancaster,Q20127929,Johnny Mercer,,,,,,Q303299-AC4C176D-F50C-4DCF-8283-18CB1F242544
 Q303299,Tobias Ellwood,Q104865893,Minister of State for Middle East and North Africa,2014-07-15,2017-06-13,,,,Q480170,Hugh Robertson,Q270009,Alistair Burt,,,,,,Q303299-13F54AD3-72E8-43C5-8D21-5319B3560961
 Q7814996,"Tom Boardman, Baron Boardman",Q5096927,Chief Secretary to the Treasury,1974-01-08,1974-03-04,,,,Q24082,Patrick Jenkin,Q333079,"Joel Barnett, Baron Barnett",,,,,,Q7814996-D58731FF-8EBC-4AAC-A208-84E79022E095
 Q478319,Tom Harris,Q25358150,Parliamentary Under-Secretary of State for Transport,2006-09-07,2008-10-04,,,,Q306169,Jim Fitzpatrick,Q5609445,Paul Clark,,,,,,Q478319-5d0d6c0e-4fd2-804b-d6f6-7fb673c28c97
@@ -2117,7 +2144,7 @@ Q333312,"Tom King, Baron King of Bridgwater",Q7444342,Secretary of State for Emp
 Q333312,"Tom King, Baron King of Bridgwater",Q1369302,Secretary of State for Northern Ireland,1985-09-03,1989-07-24,,,8,Q337375,Douglas Hurd,Q334257,"Peter Brooke, Baron Brooke of Sutton Mandeville",,,,,,Q333312-241F8A36-6A16-4E08-8051-A0CD36C9F473
 Q333312,"Tom King, Baron King of Bridgwater",Q3246797,Secretary of State for Transport,1983-06-11,1983-10-16,,,,Q333046,"David Howell, Baron Howell of Guildford",Q324805,"Nicholas Ridley, Baron Ridley of Liddesdale",,,,,,Q333312-7F6A3D26-1678-480F-822F-B0BB6AC5A829
 Q333312,"Tom King, Baron King of Bridgwater",Q4122313,Secretary of State for the Environment,1983-01-06,1983-06-11,,,,Q332314,Michael Heseltine,Q24082,Patrick Jenkin,,,,,,Q333312-EEDB7F49-9C60-4082-A5F6-83E599CE95CB
-Q263802,Tom Watson,Q104830004,Minister for Veterans,2006-05-05,2006-09-06,,,,Q334278,Don Touhig,Q272098,Derek Twigg,,,,,,Q263802-23B05267-2DD3-413A-813F-7DC8F9D9FC25
+Q263802,Tom Watson,Q23641739,Minister for Veterans,2006-05-05,2006-09-06,,,,Q334278,Don Touhig,Q272098,Derek Twigg,,,,,,Q263802-23B05267-2DD3-413A-813F-7DC8F9D9FC25
 Q263802,Tom Watson,Q3315116,Minister for the Civil Service,2008-01-25,2009-06-05,,,,,,Q1793381,"Shriti Vadera, Baroness Vadera",,,,,,Q263802-6FEB41A7-E291-4242-B516-5DE6307B6FF5
 Q333584,"Tony Banks, Baron Stratford",Q6865965,"Minister for Sport, Civil Society and Loneliness",1997-05-02,1999-10-20,,,,Q1655384,Iain Sproat,Q689166,Kate Hoey,,,,,,Q333584-6E4A2FE9-51C7-4DF8-94F2-F0686598CA9F
 Q332412,Tony Benn,Q10564336,Minister of Technology,1966-07-04,1970-06-19,,,,Q3751795,Frank Cousins,Q5534874,Geoffrey Rippon,,,,,,Q332412-12576D3A-55D3-48B8-B4D8-67266AAD646E
@@ -2158,6 +2185,7 @@ Q2546913,Walter de Gray,Q217217,Lord Chancellor,1205-01-01,1214-01-01,,,,Q620877
 Q296716,Wayne David,Q6865827,Minister of State for Europe,2010-10-11,2011-10-07,,,,Q390869,Mark Francois,Q501942,Emma Reynolds,,,,,,Q296716-7CF57650-9F66-44B7-B27D-DA4BA9AB8712
 Q19917814,Wendy Morton,Q104882515,Parliamentary Under-Secretary of State for Justice,2019-07-26,2020-02-13,,,,Q694881,Paul Maynard,Q19956858,Alex Chalk,,,,,,Q19917814-5159CDB7-D041-480A-923E-5A1481E76D36
 Q13529783,"Wilfrid Ashley, 1st Baron Mount Temple",Q3246797,Secretary of State for Transport,1924-11-11,1929-06-04,,,,Q15452587,Harry Gosling,Q335791,Herbert Morrison,,,,,,Q13529783-22BA579F-E32F-4529-B372-2E78FC8BDC69
+Q16751766,Will Quince,Q108558680,Parliamentary Under-Secretary of State for Childcare and Education,2021-09-17,,,,,,,,,,,,,,Q16751766-B5FC7D78-71AD-4035-9A37-CC984975FDB9
 Q337459,William Adamson,Q111784,Secretary of State for Scotland,1924-01-22,1924-11-03,,,,Q1386511,"Ronald Munro Ferguson, 1st Viscount Novar",Q5759238,"Sir John Gilmour, 2nd Baronet",,,,,,Q337459-AECA43C6-17D0-4AAB-89F0-70603A290B26
 Q337459,William Adamson,Q111784,Secretary of State for Scotland,1929-06-07,1931-08-24,,,,Q5759238,"Sir John Gilmour, 2nd Baronet",Q4786520,"Archibald Sinclair, 1st Viscount Thurso",,,,,,Q337459-403DFBAD-AC48-4310-9EB0-7F6D9F050D70
 Q739556,"William Astor, 4th Viscount Astor",Q3492070,Parliamentary Under-Secretary of State,1993-09-16,1995-07-06,,,,,,,,,,,,,Q739556-eb3963bc-4dcd-4d2e-ff90-001c8127f2d9
