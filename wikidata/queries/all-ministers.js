@@ -5,7 +5,7 @@ let meta = JSON.parse(rawmeta);
 module.exports = function () {
   return `SELECT DISTINCT ?item ?itemLabel
           ?position ?positionLabel ?start ?end ?cabinet ?cabinetLabel
-          ?ordinal ?replaces ?replacesLabel ?replacedBy ?replacedByLabel
+          ?ordinal ?replaces ?replacedBy
           ?nature ?natureLabel
           ?source ?sourceName ?statedName
          (STRAFTER(STR(?held), '/statement/') AS ?psid)
