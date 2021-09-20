@@ -1,0 +1,53 @@
+item,itemLabel,start,end,predecessor,successor
+Q396266,Admiralty,1709-01-01,1964-01-01,,Q1143261
+Q407586,Air Ministry,1918-01-01,1964-01-01,,Q1143261
+Q2928396,Attorney General's Office,1315-01-01,,,
+Q5995,Cabinet Office,1916-12-01,,,
+Q2612027,"Department for Business, Innovation and Skills",2009-06-05,2016-07-14,,
+Q5260113,Department for Constitutional Affairs,,2007-05-09,,
+Q910019,"Department for Digital, Culture, Media and Sport",1997-01-01,,,
+Q2612019,Department for Education,2010-01-01,,,
+Q5260118,Department for Education and Skills,2001-01-01,2007-06-28,,
+Q3044721,"Department for Environment, Food and Rural Affairs",2001-01-01,,Q6866602,
+Q25907383,Department for Exiting the European Union,2016-07-13,2020-01-31,,
+Q5260119,"Department for Innovation, Universities and Skills",2007-06-28,2009-06-01,,
+Q2748702,Department for International Development,1997-05-01,2020-09-01,Q91062379,
+Q25991767,Department for International Trade,2016-07-13,,,
+Q2982287,Department for Transport,2002-01-01,,Q67642646,
+Q1191394,Department for Work and Pensions,2001-06-08,,Q5260487,
+Q1191394,Department for Work and Pensions,2001-06-08,,Q5260118,
+Q67643073,Department of Education and Science,1964-01-01,1992-01-01,,
+Q262509,Department of Energy,1974-01-01,1992-04-11,,
+Q3044733,Department of Energy and Climate Change,2008-01-01,2016-07-14,,
+Q3044742,Department of Health and Social Care,1988-01-01,,Q5260328,
+Q5260457,Department of Prices and Consumer Protection,1974-01-01,1979-01-01,,
+Q67642646,"Department of the Environment, Transport and the Regions",2001-01-01,2002-01-01,,Q2982287
+Q58211956,Foreign Office,1782-01-01,1968-01-01,,Q358834
+Q358834,"Foreign, Commonwealth and Development Office",1968-01-01,,Q58255454,
+Q358834,"Foreign, Commonwealth and Development Office",1968-01-01,,Q58211956,
+Q358834,"Foreign, Commonwealth and Development Office",1968-01-01,,Q1110907,
+Q533601,Government Equalities Office,2007-01-01,,,
+Q578269,HM Treasury,1066-01-01,,,
+Q763388,Home Office,1782-01-01,,,
+Q769779,India Office,1858-01-01,1947-01-01,,
+Q6034804,Inland Revenue,1849-01-01,2005-01-01,,Q166559
+Q6679033,Lord Chancellor's Department,,,,
+Q1143261,Ministry of Defence,1964-01-01,,Q2060703,
+Q1143261,Ministry of Defence,1964-01-01,,Q598332,
+Q1143261,Ministry of Defence,1964-01-01,,Q407586,
+Q1143261,Ministry of Defence,1964-01-01,,Q396266,
+Q6867155,Ministry of Housing and Local Government,1951-01-01,1970-01-01,,
+Q601819,"Ministry of Housing, Communities & Local Government",2006-05-01,,Q67912408,
+Q2983190,Ministry of Justice,2007-01-01,,,
+Q6867341,Ministry of Labour,1916-01-01,1968-01-01,,
+Q58255454,Ministry of Overseas Development,1964-01-01,1970-01-01,,Q358834
+Q105485805,Ministry of Posts and Telecommunications,1969-01-01,1974-04-17,,
+Q218886,Northern Ireland Office,1972-01-01,,,
+Q16010864,Office of the Advocate General for Scotland,1999-01-01,,,
+Q67912408,Office of the Deputy Prime Minister,2001-01-01,2006-01-01,,Q601819
+Q7079377,Office of the Leader of the House of Commons,,,,
+Q17101024,Office of the Leader of the House of Lords,1721-04-04,,,
+Q277020,Office of the Secretary of State for Scotland,1998-01-01,,Q11311619,
+Q281113,Office of the Secretary of State for Wales,1998-01-01,,Q515268,
+Q4158541,UK Export Finance,1919-01-01,,,
+Q2060703,War Office,1684-01-01,1964-01-01,,Q1143261
