@@ -408,7 +408,7 @@ Q271800,Greg Clark,British politician (born 1967),Q6581097,male,1967-08-28,11,,
 Q478227,Greg Hands,British politician (born 1965),Q6581097,male,1965-11-14,11,,
 Q750219,Greg Knight,British politician (born 1949),Q6581097,male,1949-04-04,11,,
 Q260562,Gregory Barker,British politician (born 1966),Q6581097,male,1966-03-08,11,,
-Q5608241,"Grey Ruthven, 2nd Earl of Gowrie",Earl of Gowrie (born 1939-2021),Q6581097,male,1939-11-26,11,2021-09-24,11
+Q5608241,"Grey Ruthven, 2nd Earl of Gowrie",Earl of Gowrie (1939–2021),Q6581097,male,1939-11-26,11,2021-09-24,11
 Q1555319,Gus Macdonald,British politician (born 1940),Q6581097,male,1940-08-20,11,,
 Q333823,"Gwilym Lloyd George, 1st Viscount Tenby",British politician (1894-1967),Q6581097,male,1894-12-04,11,1967-02-14,11
 Q166714,H. H. Asquith,former Prime Minister of the United Kingdom (1852-1928),Q6581097,male,1852-09-12,11,1928-02-15,11
@@ -428,6 +428,7 @@ Q333345,"Harry Crookshank, 1st Viscount Crookshank",British politician (1893-196
 Q15452587,Harry Gosling,British politician (1861-1930),Q6581097,male,1861-06-09,11,1930-10-24,11
 Q5671733,"Harry Primrose, 6th Earl of Rosebery",British politician (1882-1974),Q6581097,male,1882-01-08,11,1974-05-31,11
 Q334142,Hartley Shawcross,British politician (1902-2003),Q6581097,male,1902-02-04,11,2003-07-10,11
+Q335004,"Hastings Ismay, 1st Baron Ismay","British army officer and diplomat, 1st Secretary General of NATO (1887-1965)",Q6581097,male,1887-06-21,11,1965-12-17,11
 Q6305458,Hastings Lees-Smith,British politician (1878-1941),Q6581097,male,1878-01-26,11,1941-12-18,11
 Q264023,Hazel Blears,British politician (born 1956),Q6581072,female,1956-05-14,11,,
 Q3428035,Hector McNeil,British politician (1907-1955),Q6581097,male,1907-03-10,11,1955-10-11,11
@@ -874,6 +875,7 @@ Q302546,Philip Dunne,British politician (born 1958),Q6581097,male,1958-08-14,11,
 Q332987,Philip Hammond,British politician (born 1955),Q6581097,male,1955-12-04,11,,
 Q7183808,"Philip Inman, 1st Baron Inman",Lord Privy Seal,Q6581097,male,1892-06-12,11,1979-08-26,11
 Q957575,"Philip Kerr, 11th Marquess of Lothian","British politician, diplomat and newspaper editor (1882-1940)",Q6581097,male,1882-04-18,11,1940-12-12,11
+Q211856,"Philip Noel-Baker, Baron Noel-Baker","British athlete, politician, Cabinet minister, life peer and Nobel Peace Prize winner (1889-1982)",Q6581097,male,1889-11-01,11,1982-10-08,11
 Q337483,"Philip Snowden, 1st Viscount Snowden",British politician (1864-1937),Q6581097,male,1864-07-18,11,1937-05-15,11
 Q332487,"Philip Stanhope, 4th Earl of Chesterfield",British statesman and man of letters (1694-1773),Q6581097,male,1694-09-22,11,1773-03-24,11
 Q2708598,"Philip Yorke, 1st Earl of Hardwicke",English lawyer and politician who served as Lord Chancellor (1690-1764),Q6581097,male,1690-12-01,11,1764-03-06,11
@@ -1184,12 +1186,14 @@ Q208663,"William Pitt, 1st Earl of Chatham",British politician (1708-1778),Q6581
 Q18784049,William Rawlinson,English lawyer,Q6581097,male,1640-01-01,9,1703-05-11,11
 Q1766011,"William Robson, Baron Robson",British politician (1852-1918),Q6581097,male,1852-09-10,11,1918-09-11,11
 Q333259,William Rodgers,British politician (born 1928),Q6581097,male,1928-10-28,11,,
+Q333824,"William Sidney, 1st Viscount De L'Isle",Recipient of the Victoria Cross (1909-1991),Q6581097,male,1909-05-23,11,1991-04-05,11
 Q8018720,"William Stanhope, 1st Earl of Harrington",British politician,Q6581097,male,1690-01-01,9,1756-12-08,11
 Q8018954,William Sturges Bourne,British politician,Q6581097,male,1769-11-07,11,1845-02-01,11
 Q8018980,William Sutherland,British politician (1880-1949),Q6581097,male,1880-03-04,11,1949-09-19,11
 Q775821,William Vernon Harcourt,British politician (1827-1904),Q6581097,male,1827-10-14,11,1904-10-01,11
 Q332864,"William Waldegrave, Baron Waldegrave of North Hill",British politician (born 1946),Q6581097,male,1946-08-15,11,,
 Q8019954,"William Walrond, 1st Baron Waleran",British politician (1849-1925),Q6581097,male,1849-02-26,11,1925-05-17,11
+Q677902,"William Wedgwood Benn, 1st Viscount Stansgate",British politician (1877-1960),Q6581097,male,1877-05-10,11,1960-11-17,11
 Q285868,"William Wood, 1st Baron Hatherley",Lord Chancellor of Great Britain (1801-1881),Q6581097,male,1801-11-29,11,1881-07-10,11
 Q312596,"William Wyndham Grenville, 1st Baron Grenville","British Prime Minister, politician (1759-1834)",Q6581097,male,1759-10-25,11,1834-01-12,11
 Q8020714,William Zouche,Treasury official and Archbishop of York,Q6581097,male,1299-01-01,9,1352-07-27,11
