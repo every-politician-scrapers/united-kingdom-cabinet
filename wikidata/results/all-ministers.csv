@@ -73,6 +73,7 @@ Q750091,Andrea Leadsom,Q14984399,"Secretary of State for Environment, Food and R
 Q337156,"Andrew Adonis, Baron Adonis",Q3246797,Secretary of State for Transport,2009-06-05,2010-05-11,,,,Q332385,Q332987,,,,,,Q337156-F8AF9361-1FB0-461C-A068-4F94F5CD09FD
 Q391058,"Andrew Cavendish, 11th Duke of Devonshire",Q6866344,Minister of State for Commonwealth Relations,1962-01-01,1964-01-01,,,,Q3007930,Q333652,,,,,,Q391058-831F4A15-942F-4496-B58A-BBE2B10BC7B9
 Q20011247,Andrew Dunlop,Q105274642,Parliamentary Under-Secretary of State for Northern Ireland,2015-05-11,2017-06-10,,,,Q333520,Q7026799,,,,,,Q20011247-5DAA5AF4-B08F-4625-9926-B89C3553957D
+Q20011247,Andrew Dunlop,Q7883048,Parliamentary Under-Secretary of State for Scotland,2015-05-11,2017-06-10,,,,Q333520,Q16976820,,,,,,Q20011247-56317F8B-066D-4522-AE3A-B60BC9F5D59A
 Q392149,Andrew Griffiths,Q108574843,"Minister for Small Business, Consumers and Corporate Responsibility",2018-01-09,2018-07-13,,,,Q727347,Q20055581,,,,,,Q392149-52A06BA0-5CB1-4BEF-A11E-EC8887B92CB0
 Q333276,Andrew Lansley,Q2636053,Leader of the House of Commons,2012-09-04,2014-07-14,,,,Q259836,Q58282,,,,,,Q333276-e4b630a7-4000-661d-bc00-587801e3c4ae
 Q333276,Andrew Lansley,Q910308,Lord Privy Seal,2012-09-04,2014-07-14,,,,Q259836,Q2435579,,,,,,Q333276-c87456ca-4206-e3e1-c84b-f0f4304ca3fb
@@ -100,6 +101,7 @@ Q4762477,Angela Knight,Q5333410,Economic Secretary to the Treasury,1995-07-05,19
 Q168606,"Angela Smith, Baroness Smith of Basildon",Q108558760,Parliamentary Under-Secretary of State for Economy of Northern Ireland,2002-10-14,2006-05-05,,,,Q391169,Q302815,,,,,,Q168606-E5ADECA9-3CB1-4E31-BBB9-7106E3C81160
 Q168606,"Angela Smith, Baroness Smith of Basildon",Q108558756,Parliamentary Under-Secretary of State for the Fire Services,2006-05-05,2007-06-28,,,,Q306169,Q5621232,,,,,,Q168606-EC8B1B04-EE24-4B39-A9AE-5A10F1B88F6C
 Q332890,Angus Maude,Q1060844,Paymaster General,,,,,,,,,,,,,Q332890-2C580283-7D66-40DE-AC4B-72E44B497451
+Q3411330,Ann McKechin,Q7883048,Parliamentary Under-Secretary of State for Scotland,2008-09-16,2010-05-11,,,,Q3275,Q333520,,,,,,Q3411330-0DF21D08-D6D2-4343-9E50-98187F40FB99
 Q332843,"Ann Taylor, Baroness Taylor of Bolton",Q2636053,Leader of the House of Commons,1997-05-02,1998-07-27,,,,Q333068,Q232639,,,,,,Q332843-8F8A8A4E-A973-4C53-9E18-F49833988FB9
 Q298846,Ann Widdecombe,Q96393330,Minister for Prisons,1995-02-28,1997-05-02,,,,,Q137911,,,,,,Q298846-3A8AC060-7933-48F0-B3F7-DCA7AB6493FB
 Q389855,Anna Soubry,Q108574843,"Minister for Small Business, Consumers and Corporate Responsibility",2015-05-11,2016-07-15,,,,Q478161,Q727347,,,,,,Q389855-6373D717-B4D9-46F5-8908-E3B798C60A46
@@ -388,8 +390,8 @@ Q264305,Crispin Blunt,Q96393330,Minister for Prisons,2010-05-06,2012-09-04,,,,,Q
 Q391960,Damian Green,Q3068024,First Secretary of State,2017-06-11,2017-12-20,,,,Q332493,,,,https://www.theguardian.com/politics/2017/dec/20/damian-green-resigns-as-first-secretary-of-state-after-porn-allegations,,,Q391960-9883F5BF-CAE3-49F2-AA61-43837E5C83D3
 Q391960,Damian Green,Q6865995,Minister for the Cabinet Office,2017-06-11,2017-12-20,,,,Q392174,Q748837,,,https://www.theguardian.com/politics/2017/dec/20/damian-green-resigns-as-first-secretary-of-state-after-porn-allegations,,,Q391960-306C9B39-E263-4D1B-B069-24B83EC46B4C
 Q391960,Damian Green,Q6865933,Minister of State for Crime and Policing,2012-09-04,2014-07-14,,,,Q333283,Q575593,,,,,,Q391960-2F47E614-CE81-4FA4-A7DA-CA0404F338C1
-Q391960,Damian Green,Q7444357,Secretary of State for Work and Pensions,2016-07-14,2017-06-11,,,,Q291393,Q391256,,,http://www.bbc.co.uk/news/uk-politics-36785814,,,Q391960-ff6cd42f-41d1-31db-35a1-4712a5c4da11
 Q391960,Damian Green,Q7444357,Secretary of State for Work and Pensions,2016-07-14,2017-06-11,,,,Q291393,Q391256,,,https://www.gov.uk/government/news/new-ministerial-appointment-july-2016-secretary-of-state-for-work-and-pensions,,,Q391960-ff6cd42f-41d1-31db-35a1-4712a5c4da11
+Q391960,Damian Green,Q7444357,Secretary of State for Work and Pensions,2016-07-14,2017-06-11,,,,Q291393,Q391256,,,http://www.bbc.co.uk/news/uk-politics-36785814,,,Q391960-ff6cd42f-41d1-31db-35a1-4712a5c4da11
 Q676947,Damian Hinds,Q3477306,Secretary of State for Education,2018-01-08,2019-07-24,,,,Q333012,Q262409,,,https://twitter.com/Number10gov/status/950458597682663424,,,Q676947-afb15672-4c5f-114d-9278-26897bcbc041
 Q2619683,"Daniel Finch, 2nd Earl of Nottingham",Q943379,Lord President of the Council,,,,,,Q2736244,Q337510,,,,,,Q2619683-B88B82AD-73F9-4DB4-B9A1-D1D4876748FC
 Q259082,Danny Alexander,Q5096927,Chief Secretary to the Treasury,2010-05-29,2015-05-08,,,,Q333663,Q478227,,,,,,Q259082-0EA2D232-4F77-4BBC-B1F7-D1F9F5AB3100
@@ -397,6 +399,7 @@ Q259082,Danny Alexander,Q111784,Secretary of State for Scotland,2010-05-12,2010-
 Q264196,David Blunkett,Q2484309,Home Secretary,2001-06-08,2004-12-15,,,,Q311278,Q333758,,,,,,Q264196-4849f8f3-4b58-2af5-c4c5-09e13e401ba2
 Q264196,David Blunkett,Q3477306,Secretary of State for Education,1997-05-02,2001-06-08,,,,Q333058,Q333326,,,,,,Q264196-2ff78641-4a12-9ce9-9e44-2207f606a12d
 Q264196,David Blunkett,Q7444357,Secretary of State for Work and Pensions,2005-05-06,2005-11-02,,,,,,,,,,,Q264196-1ba54309-4a0d-5899-3bd3-a4a674aacbcf
+Q3275,David Cairns,Q7883048,Parliamentary Under-Secretary of State for Scotland,2007-07-01,2008-09-16,,,,Q1507362,Q3411330,,,,,,Q3275-1503CEDC-2617-4AFC-8331-786CDB0B609A
 Q192,David Cameron,Q609884,First Lord of the Treasury,2010-05-11,2016-07-13,,,,Q10648,Q264766,,,,,,q192-CC0CEF20-4181-44F9-A7E5-31272C9446F2
 Q192,David Cameron,Q3315116,Minister for the Civil Service,2010-05-11,2016-07-13,,,,Q10648,Q264766,,,,,,q192-5A3DB956-C332-4FFB-A19F-230DECFDA39B
 Q192,David Cameron,Q14211,Prime Minister of the United Kingdom,2010-05-11,2016-07-13,,,75,Q10648,Q264766,,,,,,q192-B9FDB1AD-7E30-4647-877B-9495B84BE039
@@ -408,6 +411,7 @@ Q300023,David Davis,Q6865827,Minister of State for Europe,1994-07-20,1997-05-02,
 Q300023,David Davis,Q25860233,Secretary of State for Exiting the European Union,2016-07-13,2018-07-08,,,,,Q268584,,,http://www.bbc.co.uk/news/uk-politics-36785814,,,Q300023-e71cf777-4c73-d708-e5ac-b37a08749045
 Q300023,David Davis,Q25860233,Secretary of State for Exiting the European Union,2016-07-13,2018-07-08,,,,,Q268584,,,https://www.gov.uk/government/news/new-ministerial-appointment-july-2016-secretary-of-state-for-exiting-the-european-union,,,Q300023-e71cf777-4c73-d708-e5ac-b37a08749045
 Q300023,David Davis,Q25860233,Secretary of State for Exiting the European Union,2016-07-13,2018-07-08,,,,,Q268584,,,https://www.theguardian.com/politics/live/2018/jul/09/david-davis-resigns-as-brexit-secretary-live-updates,,,Q300023-e71cf777-4c73-d708-e5ac-b37a08749045
+Q30176559,David Duguid,Q7883048,Parliamentary Under-Secretary of State for Scotland,2020-06-02,2021-09-16,,,,Q24039769,Q107280370,,,,,,Q30176559-E3BD4434-B41A-48DF-8AE1-2521DFA135F8
 Q332914,"David Eccles, 1st Viscount Eccles",Q3477306,Secretary of State for Education,1954-10-18,1957-01-13,,,,Q334280,Q175366,,,,,,Q332914-36C670B0-C1E8-4815-9494-00BB70813423
 Q332914,"David Eccles, 1st Viscount Eccles",Q3477306,Secretary of State for Education,1959-10-14,1962-07-13,,,,Q3101091,Q5341978,,,,,,Q332914-E6E1E8CC-C9FD-44D7-A59A-02E5DF05C12F
 Q5233398,"David Ennals, Baron Ennals",Q3397406,Secretary of State for Health and Social Care,1976-04-08,1979-05-04,,,,Q2883936,Q24082,,,,,,Q5233398-92201846-5147-4FDF-956C-884AD192A622
@@ -462,6 +466,7 @@ Q333537,David Mellor,Q3297079,"Secretary of State for Culture, Media and Sport",
 Q272670,David Miliband,Q6866346,Minister of State for Communities and Local Government,2005-05-05,2006-05-05,,,,,Q272644,,,,,,Q272670-fdb28a57-41d2-d980-37ce-600388ccf866
 Q272670,David Miliband,Q14984399,"Secretary of State for Environment, Food and Rural Affairs",2006-05-05,2007-06-28,,,,Q232639,Q262742,,,,,,Q272670-ba9f1dc6-45a6-6af9-cff2-46885fd9c521
 Q272670,David Miliband,Q1371091,Secretary of State for Foreign and Commonwealth Affairs,2007-06-28,2010-05-11,,,,Q232639,Q58282,,,,,,Q272670-7b16135e-41fd-98ad-0436-ab2f78d44e88
+Q333520,David Mundell,Q7883048,Parliamentary Under-Secretary of State for Scotland,2010-05-11,2015-05-11,,,,Q3411330,Q20011247,,,,,,Q333520-9CEBC595-4A34-4100-AE9E-69461D683573
 Q333520,David Mundell,Q111784,Secretary of State for Scotland,2015-05-11,2019-07-24,,,,Q269124,Q30165682,,,,,,Q333520-d0f5d9c0-449f-ee30-8cfa-30f3a1334361
 Q1968514,"David Murray, 2nd Earl of Mansfield",Q2012061,Leader of the House of Lords,1779-11-01,1782-03-01,,,,Q38308,Q312573,,,,,,Q1968514-0E09867C-E782-4D29-99D3-B7C2506AFF46
 Q1968514,"David Murray, 2nd Earl of Mansfield",Q943379,Lord President of the Council,,,,,,Q8009134,Q335642,,,,,,Q1968514-5CE83505-6D17-4897-ADBA-27D45FB019C6
@@ -503,6 +508,7 @@ Q332587,"Des Browne, Baron Browne of Ladyton",Q2747647,Secretary of State for De
 Q332587,"Des Browne, Baron Browne of Ladyton",Q111784,Secretary of State for Scotland,2007-06-28,2008-10-03,,,,Q259106,Q333702,,,,,,Q332587-155B2D74-23F2-47AA-AD7F-F2976FB9B556
 Q327823,Desmond Swayne,Q7444352,Secretary of State for International Development,2014-07-14,2016-07-17,,,,Q302417,Q328892,,,,,,Q327823-40822D85-8D73-43F5-989F-D5A8DD65C7FC
 Q333706,Dick Taverne,Q5449647,Financial Secretary to the Treasury,1969-10-13,1970-06-19,,,,Q333321,Q24082,,,,,,Q333706-59F9F744-87CB-49F7-BC29-FCDD3BADB369
+Q1210156,Dickson Mabon,Q7883048,Parliamentary Under-Secretary of State for Scotland,,,,,,,,,,,,,Q1210156-42591C88-AF0E-4057-B75D-4C8D22EAD35E
 Q24039,Digby Jones,Q6866372,Minister of State for Trade,2007-06-29,2008-10-03,,,,Q333318,Q272452,,,,,,Q24039-0995E65D-C7F4-45F7-A50B-58A3BE48DE24
 Q332994,Dominic Grieve,Q2631987,Attorney General for England and Wales,2010-05-12,2014-07-15,,,,Q194713,Q260489,,,,,,Q332994-3ad2b708-4a26-40b6-2c40-964bcbc1e508
 Q268584,Dominic Raab,Q1507619,Deputy Prime Minister of the United Kingdom,2021-09-15,,,,,,,,,https://www.gov.uk/government/ministers,Dominic Raab,Deputy Prime Minister,Q268584-06169dd7-4c8e-9cc3-a2c0-ecd023280002
@@ -545,6 +551,10 @@ Q337375,Douglas Hurd,Q1369302,Secretary of State for Northern Ireland,1984-09-27
 Q5301661,"Douglas Jay, Baron Jay",Q5333410,Economic Secretary to the Treasury,1947-11-13,1950-02-23,,,,,Q1699943,,,,,,Q5301661-EF004906-2F6E-4C48-995C-5566DB8BDBF9
 Q5301661,"Douglas Jay, Baron Jay",Q5449647,Financial Secretary to the Treasury,1950-03-02,1951-10-26,,,,Q5569398,Q333334,,,,,,Q5301661-3DA222F1-1F9F-4C34-8E37-BABB7C13868F
 Q5301689,Douglas King,Q7444267,Secretary for Mines,1928-01-13,1929-06-01,,,,Q5541526,Q4886592,,,,,,Q5301689-CAE6E469-478A-4CA4-8959-0CE258FE19F5
+Q24039769,Douglas Ross,Q7883048,Parliamentary Under-Secretary of State for Scotland,2019-12-17,2020-05-26,,,,Q30174601,Q30176559,,,,,,Q24039769-A83DFEF8-DD06-4F78-91F6-34D8DA7D77FA
+Q24039769,Douglas Ross,Q7883048,Parliamentary Under-Secretary of State for Scotland,2019-12-17,2020-05-26,,,,Q263076,Q30176559,,,,,,Q24039769-A83DFEF8-DD06-4F78-91F6-34D8DA7D77FA
+Q24039769,Douglas Ross,Q7883048,Parliamentary Under-Secretary of State for Scotland,2019-12-17,2020-05-26,,,,Q30174601,Q328953,,,,,,Q24039769-A83DFEF8-DD06-4F78-91F6-34D8DA7D77FA
+Q24039769,Douglas Ross,Q7883048,Parliamentary Under-Secretary of State for Scotland,2019-12-17,2020-05-26,,,,Q263076,Q328953,,,,,,Q24039769-A83DFEF8-DD06-4F78-91F6-34D8DA7D77FA
 Q333011,"Dudley Ryder, 1st Earl of Harrowby",Q162754,Chancellor of the Duchy of Lancaster,1805-07-10,1806-02-12,,,,Q333417,Q333496,,,,,,Q333011-34D0C437-81D9-4D56-8D36-0A1C97B2FC05
 Q333011,"Dudley Ryder, 1st Earl of Harrowby",Q943379,Lord President of the Council,1812-06-11,1827-08-17,,,,Q312577,Q128336,,,,,,Q333011-32C45B62-8C30-4585-BDC8-CA0F51AAD6A8
 Q333011,"Dudley Ryder, 1st Earl of Harrowby",Q1371091,Secretary of State for Foreign and Commonwealth Affairs,1804-05-14,1805-01-11,,,,Q312569,Q332654,,,,,,Q333011-81F7C25D-8074-4697-BFD2-DA1BF7D8BC5A
@@ -787,6 +797,7 @@ Q334073,"George Brown, Baron George-Brown",Q1507619,Deputy Prime Minister of the
 Q334073,"George Brown, Baron George-Brown",Q3068024,First Secretary of State,1964-10-16,1966-08-11,,,,Q182035,Q333773,,,,,,Q334073-527F0B8C-2C38-4503-8B48-773B71B6481A
 Q334073,"George Brown, Baron George-Brown",Q611513,Secretary of State for Economic Affairs,1964-10-16,1966-08-11,,,,,Q333773,,,,,,Q334073-AA06B48F-5EC2-4F72-BD6A-3E4B678E7FC5
 Q334073,"George Brown, Baron George-Brown",Q1371091,Secretary of State for Foreign and Commonwealth Affairs,1966-08-11,1968-03-15,,,,Q333773,Q333773,,,,,,Q334073-48016ACE-A8E1-4111-8A11-7FD39D9B261E
+Q5537384,George Buchanan,Q7883048,Parliamentary Under-Secretary of State for Scotland,1945-08-04,1947-10-07,,,,,,,,,,,Q5537384-EDB40B9C-2B2D-4A8B-B924-E7F89373718E
 Q5537384,George Buchanan,Q7444357,Secretary of State for Work and Pensions,1947-10-07,1948-07-02,,,,Q1699462,Q1618119,,,,,,Q5537384-8C354965-C5E9-49F9-8FE6-006880ABAE1C
 Q3760457,"George Cadogan, 5th Earl Cadogan",Q910308,Lord Privy Seal,1886-08-03,1892-08-11,,,,Q160852,Q160852,,,,,,Q3760457-CC571F58-9C57-4343-9466-9859C7503695
 Q335300,"George Campbell, 8th Duke of Argyll",Q910308,Lord Privy Seal,1853-01-04,1855-12-07,,,,Q2479905,Q5311965,,,,,,Q335300-C99F6D75-B520-42C7-B1D0-53CBBE5BC7F4
@@ -969,6 +980,7 @@ Q264023,Hazel Blears,Q61412205,Minister without Portfolio,2006-05-05,2007-06-27,
 Q264023,Hazel Blears,Q11781526,"Secretary of State for Levelling Up, Housing and Communities",2007-06-27,2009-06-05,,,,Q272644,Q300069,,,,,,Q264023-AC53283C-ACA4-4646-82C0-3AEA3D4E520D
 Q3428035,Hector McNeil,Q111784,Secretary of State for Scotland,1950-02-28,1951-10-26,,,,Q4800743,Q6143784,,,,,,Q3428035-BF09CCB7-1605-458F-94F3-9955936196C6
 Q335747,"Hector Monro, Baron Monro of Langholm",Q6865965,"Minister for Sport, Civil Society and Loneliness",1979-01-01,1981-01-01,,,,Q904004,Q6988906,,,,,,Q335747-B62AABE9-2033-4657-9003-06128BFDB561
+Q335747,"Hector Monro, Baron Monro of Langholm",Q7883048,Parliamentary Under-Secretary of State for Scotland,1992-04-14,1995-07-06,,,,Q335576,Q335679,,,,,,Q335747-9FBCF888-915E-444C-8178-725F23C4EEB0
 Q334128,"Helen Liddell, Baroness Liddell of Coatdyke",Q5333410,Economic Secretary to the Treasury,1997-05-03,1998-07-27,,,,Q4762477,Q332799,,,,,,Q334128-6212B478-FC8E-47C3-90C3-EEA70B9241A6
 Q334128,"Helen Liddell, Baroness Liddell of Coatdyke",Q15109454,Minister of State for Transport,1999-05-17,1999-07-29,,,,Q333461,Q1555319,,,,,,Q334128-B75DD153-C244-4C89-AF56-1F2287FD9678
 Q334128,"Helen Liddell, Baroness Liddell of Coatdyke",Q111784,Secretary of State for Scotland,2001-01-25,2003-06-12,,,,Q333461,Q296639,,,,,,Q334128-B4A77ED1-109A-48D8-B141-22CD6D006432
@@ -1023,6 +1035,7 @@ Q333378,Henry Lowry-Corry,Q3477306,Secretary of State for Education,1866-06-26,1
 Q5725120,"Henry Lowther, 3rd Viscount Lonsdale",Q910308,Lord Privy Seal,1733-05-05,1735-05-16,,,,Q2400397,Q716347,,,,,,Q5725120-16e7ee33-4391-1a33-59a8-ef4d2c31e9ea
 Q5725455,"Henry Marney, 1st Baron Marney",Q162754,Chancellor of the Duchy of Lancaster,,,,,,,,,,,,,Q5725455-a665291e-c364-4ba2-83d4-d759377a4ed1
 Q3132951,"Henry Matthews, 1st Viscount Llandaff",Q2484309,Home Secretary,1886-08-03,1892-08-15,,,,Q1217502,Q166714,,,,,,Q3132951-1A15580A-D08E-4871-A240-3210A92E0F1E
+Q333820,Henry McLeish,Q7883048,Parliamentary Under-Secretary of State for Scotland,1997-05-06,1999-06-29,,,,Q333795,Q338231,,,,,,Q333820-4D4508FA-C66A-4715-AF85-536F685F8999
 Q5725963,"Henry Montagu, 1st Earl of Manchester",Q910308,Lord Privy Seal,,,,,,,,,,,,,Q5725963-a20d68a4-4592-07c6-57e1-4a1f1484aa59
 Q244766,Henry Pelham,Q531471,Chancellor of the Exchequer,1743-12-12,1754-03-06,,,,Q3471224,Q8014418,,,,,,Q244766-04305A5E-3566-4016-8731-3167478E132A
 Q244766,Henry Pelham,Q2636053,Leader of the House of Commons,1743-08-27,1754-03-06,,,,Q3471224,Q337754,,,,,,Q244766-477D708E-64C0-4D81-A246-955CDAFD686B
@@ -1102,6 +1115,8 @@ Q333182,Iain Macleod,Q3397406,Secretary of State for Health and Social Care,1952
 Q1655384,Iain Sproat,Q6865965,"Minister for Sport, Civil Society and Loneliness",,,,,,,,,,,,,Q1655384-22E0F552-3FEB-47B0-8F78-4BCF9D30C59D
 Q16976820,Ian Duncan,Q108558782,Parliamentary Under-Secretary of State for Climate Change,2019-07-26,2020-02-13,,,,Q1764746,Q1230084,,,,,,Q16976820-F48F9DD1-82F8-4D10-B3AD-2FEE5CCEEED2
 Q16976820,Ian Duncan,Q105274642,Parliamentary Under-Secretary of State for Northern Ireland,2017-10-27,2020-02-13,,,,Q7026799,,,,,,,Q16976820-B9D982D0-2F96-4935-A010-0C31E9E7AFC7
+Q16976820,Ian Duncan,Q7883048,Parliamentary Under-Secretary of State for Scotland,2017-06-15,2019-07-26,,,,Q20011247,Q30174601,,,,,,Q16976820-19765C77-8A71-475E-AC8B-434CD26484AE
+Q16976820,Ian Duncan,Q7883048,Parliamentary Under-Secretary of State for Scotland,2017-06-15,2019-07-26,,,,Q20011247,Q263076,,,,,,Q16976820-19765C77-8A71-475E-AC8B-434CD26484AE
 Q16976820,Ian Duncan,Q62681208,Parliamentary Under-Secretary of State for Wales,2017-06-17,2017-10-27,,,,Q7026799,Q7026799,,,,,,Q16976820-B6F72E88-9457-4CFC-AD96-10C98C5FAADB
 Q333362,"Ian Gilmour, Baron Gilmour of Craigmillar",Q910308,Lord Privy Seal,1979-05-04,1981-09-11,,,,Q333371,Q333095,,,,,,Q333362-CD341EEE-05BF-4644-ACA6-8C34FE2B3944
 Q333362,"Ian Gilmour, Baron Gilmour of Craigmillar",Q2747647,Secretary of State for Defence,1974-01-08,1974-03-04,,,,Q335038,Q333700,,,,,,Q333362-1D15E74C-0CD0-402F-BFD4-6C61F4BD0312
@@ -1342,6 +1357,7 @@ Q332940,"John MacGregor, Baron MacGregor of Pulham Market",Q2636053,Leader of th
 Q332940,"John MacGregor, Baron MacGregor of Pulham Market",Q6866025,"Minister of Agriculture, Fisheries and Food",1987-06-13,1989-07-24,,,,Q332875,Q333635,,,,,,Q332940-FBB7CAE7-3634-4E78-9FD5-3987DC7359C5
 Q332940,"John MacGregor, Baron MacGregor of Pulham Market",Q3477306,Secretary of State for Education,1989-07-24,1990-11-02,,,,Q333390,Q271889,,,,,,Q332940-21239210-5C89-4A00-9EC8-D19E5D4DC377
 Q332940,"John MacGregor, Baron MacGregor of Pulham Market",Q3246797,Secretary of State for Transport,1992-04-11,1994-07-20,,,,Q333487,Q333410,,,,,,Q332940-D1E49200-537A-4B69-9A36-B6BE6C70BE4B
+Q6246107,"John MacKay, Baron MacKay of Ardbrecknish",Q7883048,Parliamentary Under-Secretary of State for Scotland,,,,,,,,,,,,,Q6246107-0427EEA7-EF03-457C-915C-95D11FB2C181
 Q6246292,"John Maclay, 1st Viscount Muirshiel",Q111784,Secretary of State for Scotland,1957-01-13,1962-07-13,,,,Q6143784,Q6833078,,,,,,Q6246292-4C108C5E-BD16-40FF-8F05-D5E754BACA25
 Q6246292,"John Maclay, 1st Viscount Muirshiel",Q3246797,Secretary of State for Transport,1951-10-31,1952-05-07,,,,Q4722296,Q4707145,,,,,,Q6246292-407BCFC5-DB0C-446E-B086-4765FC9AF24C
 Q9559,John Major,Q531471,Chancellor of the Exchequer,1989-10-26,1990-11-28,,,,Q335078,Q332546,,,,,,Q9559-06CF993B-2B3F-493E-BA02-B33D8CE43A43
@@ -1581,6 +1597,7 @@ Q1878797,"Lynda, Baroness Chalker of Wallasey",Q7444352,Secretary of State for I
 Q304302,Lynne Featherstone,Q3315134,Minister for Women and Equalities,2010-05-13,2012-09-04,,,,Q302815,Q391792,,,,,,Q304302-EE540C44-A0DA-4055-80F9-746BDF56F927
 Q333737,"Lyon Playfair, 1st Baron Playfair",Q3477306,Secretary of State for Education,1886-02-13,1886-07-20,,,,Q4499092,Q4499092,,,,,,Q333737-12E61E25-E462-4E5F-84A3-12A3E7D1370E
 Q333507,Malcolm MacDonald,Q3397406,Secretary of State for Health and Social Care,1940-05-13,1941-02-08,,,,Q7964761,Q5392836,,,,,,Q333507-93D42DEC-7B09-4731-A5EB-FCFBD11BF35C
+Q107280370,Malcolm Offord,Q7883048,Parliamentary Under-Secretary of State for Scotland,2021-09-30,,,,,Q30176559,,,,https://www.heraldscotland.com/politics/19616893.unelected-millionaire-tory-donor-made-scotland-office-minister/,,,Q107280370-ffb343d1-4985-cd8e-9020-45007e05fc41
 Q333487,Malcolm Rifkind,Q6865827,Minister of State for Europe,1983-06-09,1986-01-11,,,,Q337375,Q1878797,,,,,,Q333487-38DFBF3C-8483-4357-A1CA-6C415C6D86C4
 Q333487,Malcolm Rifkind,Q2747647,Secretary of State for Defence,1992-04-10,1995-07-05,,,,Q333312,Q333525,,,,,,Q333487-201E89E9-C139-459B-9B14-DBFA46740EB2
 Q333487,Malcolm Rifkind,Q1371091,Secretary of State for Foreign and Commonwealth Affairs,1995-07-05,1997-05-02,,,,Q337375,Q311214,,,,,,Q333487-293359C8-C788-4CC4-A199-A7817A51EBB0
@@ -1663,6 +1680,7 @@ Q304095,Michael Fallon,Q2747647,Secretary of State for Defence,2014-07-15,2017-1
 Q332419,Michael Foot,Q2636053,Leader of the House of Commons,1976-04-08,1979-05-04,,,,Q333944,Q333578,,,,,,Q332419-00E4BFC1-DFAC-432A-8CD4-8C37E6886560
 Q332419,Michael Foot,Q943379,Lord President of the Council,1976-04-08,1979-05-04,,,,Q333944,Q336050,,,,,,Q332419-06C95718-3320-442F-80FD-426F7318897E
 Q332419,Michael Foot,Q7444342,Secretary of State for Employment,1974-03-05,1976-04-08,,,,Q333963,Q262749,,,,,,Q332419-ED9156C1-135C-46AB-A1B1-8E7C93F59487
+Q334357,"Michael Forsyth, Baron Forsyth of Drumlean",Q7883048,Parliamentary Under-Secretary of State for Scotland,1990-09-07,1992-04-14,,,,Q1066006,Q2074969,,,,,,Q334357-1D251C8D-0E0F-45E2-8F85-059485DC5BCB
 Q334357,"Michael Forsyth, Baron Forsyth of Drumlean",Q111784,Secretary of State for Scotland,1995-07-05,1997-05-01,,,,Q333030,Q333158,,,,,,Q334357-F446D49D-BE2E-4B11-98CB-35F9D338D1F1
 Q333937,Michael Gove,Q162754,Chancellor of the Duchy of Lancaster,2019-07-24,2021-09-15,,,,Q748837,,,,https://www.gov.uk/government/ministers,Michael Gove,Chancellor of the Duchy of Lancaster,Q333937-96f93e23-4088-751c-a443-640fabc29489
 Q333937,Michael Gove,Q217217,Lord Chancellor,2015-05-09,2016-07-14,,,,Q337453,Q272201,,,,,,Q333937-C6412E55-E326-44E8-85C6-06640F334175
@@ -2100,6 +2118,7 @@ Q7352835,"Robin Turton, Baron Tranmire",Q3397406,Secretary of State for Health a
 Q263076,Robin Walker,Q25917383,Minister of State for Schools,2021-09-16,,,,,Q391300,,,,,,,Q263076-BE923AD6-6FD4-4F35-9A87-7BD0486F967A
 Q263076,Robin Walker,Q104829980,"Minister of State, Northern Ireland",2019-07-26,2021-09-16,,,,Q691299,Q269925,,,,,,Q263076-DBE66CF4-5437-40F9-811D-0ADAA26A7F83
 Q263076,Robin Walker,Q58799999,Parliamentary Under-Secretary of State for Exiting the European Union,2016-07-17,2019-07-26,,,,,Q302309,,,,,,Q263076-F1C9BF02-BF7B-45AE-8CC6-535B72D9F58A
+Q263076,Robin Walker,Q7883048,Parliamentary Under-Secretary of State for Scotland,2019-07-26,2019-12-16,,,,Q16976820,Q24039769,,,,,,Q263076-3EE46068-FA4F-4AAA-8101-3BB65AC53B87
 Q7356340,Rod Richards,Q62681208,Parliamentary Under-Secretary of State for Wales,1992-04-09,1997-04-08,,,,Q7526020,,,,,,,Q7356340-92967FFD-4A78-430E-9884-D071AA269711
 Q7356340,Rod Richards,Q62681208,Parliamentary Under-Secretary of State for Wales,1994-07-20,1996-06-02,,,,Q13529849,Q303716,,,,,,Q7356340-F3636BB0-939F-46BE-92BE-84ECC1B5C530
 Q332859,"Roger Freeman, Baron Freeman",Q162754,Chancellor of the Duchy of Lancaster,1995-06-26,1997-05-02,,,,Q333909,Q333397,,,,,,Q332859-45DAD85D-E68A-4588-99A0-35CA7943F8CE
