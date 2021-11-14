@@ -64,7 +64,7 @@ Q105485789,Minister of Posts and Telecommunications,UK government position (1969
 Q6866286,Minister of Production,British government minister; 1942–1945,1942-02-04,1945-07-27,,,,,Q83307,minister,,
 Q6866304,Minister of Reconstruction,cabinet minister of the United Kingdom,,,,,,,Q83307,minister,,
 Q3315100,Minister of State (United Kingdom),member of the British government,,,,,,,Q2632935,minister of state,,
-Q108046681,Minister of State at the Cabinet Office,United Kingdom government position,,,,,,,Q3315100,Minister of State (United Kingdom),,
+Q108046681,Minister of State at the Cabinet Office,United Kingdom government position,,,Q112014,Cabinet of the United Kingdom,,,Q3315100,Minister of State (United Kingdom),,
 Q104878740,Minister of State for Asia,,,,,,,,Q3315100,Minister of State (United Kingdom),,
 Q104760411,"Minister of State for Business, Energy and Clean Growth",,2004-09-10,,,,,,Q3315100,Minister of State (United Kingdom),,
 Q25906282,Minister of State for Care Services,UK minister of state,,,,,,,Q3315100,Minister of State (United Kingdom),,
