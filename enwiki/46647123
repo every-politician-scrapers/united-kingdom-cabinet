@@ -1,0 +1,1011 @@
+{
+  "title": "Oliver Dowden",
+  "pageID": 46647123,
+  "categories": [
+    "Living people",
+    "1978 births",
+    "People from Hertfordshire",
+    "People from St Albans (district)",
+    "People educated at Parmiter's School, Garston",
+    "Alumni of Trinity Hall, Cambridge",
+    "British special advisers",
+    "Conservative Party (UK) MPs for English constituencies",
+    "UK MPs 2015–2017",
+    "UK MPs 2017–2019",
+    "UK MPs 2019–present",
+    "Commanders of the Order of the British Empire",
+    "Members of the Privy Council of the United Kingdom"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Oliver James Dowden (born 1 August 1978) is a British politician serving as Co-Chairman of the Conservative Party alongside Ben Elliot since 2021.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Chairman of the Conservative Party"
+                },
+                {
+                  "type": "internal",
+                  "page": "Ben Elliot"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Oliver James Dowden"
+                ]
+              }
+            },
+            {
+              "text": "He also serves as Minister without Portfolio.",
+              "links": [
+                {
+                  "text": "Minister without Portfolio",
+                  "type": "internal",
+                  "page": "Minister without portfolio (United Kingdom)"
+                }
+              ]
+            },
+            {
+              "text": "He previously served as Minister for the Cabinet Office from 2019 to 2020 and Secretary of State for Digital, Culture, Media and Sport from 2020 to 2021.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Minister for the Cabinet Office"
+                },
+                {
+                  "type": "internal",
+                  "page": "Secretary of State for Digital, Culture, Media and Sport"
+                }
+              ]
+            },
+            {
+              "text": "He has been Member of Parliament (MP) for Hertsmere since 2015.",
+              "links": [
+                {
+                  "text": "Member of Parliament",
+                  "type": "internal",
+                  "page": "Member of Parliament (United Kingdom)"
+                },
+                {
+                  "text": "Hertsmere",
+                  "type": "internal",
+                  "page": "Hertsmere (UK Parliament constituency)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "British Conservative politician, Chairman of the Conservative Party",
+          "template": "short description"
+        },
+        {
+          "date": "November 2019",
+          "template": "use british english"
+        },
+        {
+          "date": "November 2019",
+          "template": "use dmy dates"
+        },
+        {
+          "country": "GBR",
+          "size": "100%",
+          "list": [
+            "CBE",
+            "MP"
+          ],
+          "template": "post-nominals"
+        },
+        {
+          "year": "1978",
+          "month": "8",
+          "day": "1",
+          "df": "y",
+          "template": "birth date and age"
+        },
+        {
+          "country": "GBR",
+          "size": "100%",
+          "list": [
+            "CBE"
+          ],
+          "template": "post-nominals"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific-prefix": {
+            "text": "The Right Honourable",
+            "links": [
+              {
+                "type": "internal",
+                "page": "The Right Honourable"
+              }
+            ]
+          },
+          "name": {
+            "text": "Oliver Dowden"
+          },
+          "image": {
+            "text": "Official portrait of Rt Hon Oliver Dowden MP crop 2.jpg"
+          },
+          "office": {
+            "text": "Chairman of the Conservative Party",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Chairman of the Conservative Party"
+              }
+            ]
+          },
+          "alongside": {
+            "text": "Ben Elliot",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ben Elliot"
+              }
+            ]
+          },
+          "leader": {
+            "text": "Boris Johnson",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Boris Johnson"
+              }
+            ]
+          },
+          "termstart": {
+            "text": "15 September 2021"
+          },
+          "predecessor": {
+            "text": "Amanda Milling",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Amanda Milling"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Minister without Portfolio",
+            "links": [
+              {
+                "text": "Minister without Portfolio",
+                "type": "internal",
+                "page": "Minister without portfolio (United Kingdom)"
+              }
+            ]
+          },
+          "primeminister1": {
+            "text": "Boris Johnson",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Boris Johnson"
+              }
+            ]
+          },
+          "termstart1": {
+            "text": "15 September 2021"
+          },
+          "predecessor1": {
+            "text": "Amanda Milling",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Amanda Milling"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Secretary of State for Digital, Culture, Media and Sport",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Secretary of State for Digital, Culture, Media and Sport"
+              }
+            ]
+          },
+          "primeminister2": {
+            "text": "Boris Johnson",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Boris Johnson"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "13 February 2020"
+          },
+          "term_end2": {
+            "text": "15 September 2021"
+          },
+          "predecessor2": {
+            "text": "The Baroness Morgan of Cotes",
+            "links": [
+              {
+                "text": "The Baroness Morgan of Cotes",
+                "type": "internal",
+                "page": "Nicky Morgan"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Nadine Dorries",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Nadine Dorries"
+              }
+            ]
+          },
+          "office3": {
+            "text": "Minister for the Cabinet Office",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Minister for the Cabinet Office"
+              }
+            ]
+          },
+          "primeminister3": {
+            "text": "Boris Johnson",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Boris Johnson"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "24 July 2019"
+          },
+          "term_end3": {
+            "text": "13 February 2020"
+          },
+          "predecessor3": {
+            "text": "David Lidington",
+            "links": [
+              {
+                "type": "internal",
+                "page": "David Lidington"
+              }
+            ]
+          },
+          "successor3": {
+            "text": "Michael Gove",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Michael Gove"
+              }
+            ]
+          },
+          "office4": {
+            "text": "Paymaster General",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Paymaster General"
+              }
+            ]
+          },
+          "primeminister4": {
+            "text": "Boris Johnson",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Boris Johnson"
+              }
+            ]
+          },
+          "term_start4": {
+            "text": "24 July 2019"
+          },
+          "term_end4": {
+            "text": "13 February 2020"
+          },
+          "predecessor4": {
+            "text": "Jesse Norman",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jesse Norman"
+              }
+            ]
+          },
+          "successor4": {
+            "text": "Penny Mordaunt",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Penny Mordaunt"
+              }
+            ]
+          },
+          "office5": {
+            "text": "Parliamentary Secretary for the Cabinet Office",
+            "links": [
+              {
+                "text": "Parliamentary Secretary for the Cabinet Office",
+                "type": "internal",
+                "page": "Cabinet Office"
+              }
+            ]
+          },
+          "primeminister5": {
+            "text": "Theresa May",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Theresa May"
+              }
+            ]
+          },
+          "term_start5": {
+            "text": "9 January 2018"
+          },
+          "term_end5": {
+            "text": "24 July 2019"
+          },
+          "predecessor5": {
+            "text": "Caroline Nokes",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Caroline Nokes"
+              }
+            ]
+          },
+          "successor5": {
+            "text": "Johnny Mercer",
+            "links": [
+              {
+                "text": "Johnny Mercer",
+                "type": "internal",
+                "page": "Johnny Mercer (politician)"
+              }
+            ]
+          },
+          "office6": {
+            "text": "Member of Parliament\nfor Hertsmere",
+            "links": [
+              {
+                "text": "Member of Parliament",
+                "type": "internal",
+                "page": "Member of Parliament (United Kingdom)"
+              },
+              {
+                "text": "Hertsmere",
+                "type": "internal",
+                "page": "Hertsmere (UK Parliament constituency)"
+              }
+            ]
+          },
+          "term_start6": {
+            "text": "7 May 2015"
+          },
+          "predecessor6": {
+            "text": "James Clappison",
+            "links": [
+              {
+                "type": "internal",
+                "page": "James Clappison"
+              }
+            ]
+          },
+          "majority6": {
+            "text": "21,313 (40.8%)"
+          },
+          "birth_name": {
+            "text": "Oliver James Dowden"
+          },
+          "birth_date": {
+            "text": "August 1, 1978"
+          },
+          "birth_place": {
+            "text": "Park Street, Hertfordshire, England",
+            "links": [
+              {
+                "text": "Park Street",
+                "type": "internal",
+                "page": "Park Street, Hertfordshire"
+              },
+              {
+                "type": "internal",
+                "page": "Hertfordshire"
+              }
+            ]
+          },
+          "party": {
+            "text": "Conservative",
+            "links": [
+              {
+                "text": "Conservative",
+                "type": "internal",
+                "page": "Conservative Party (UK)"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Blythe"
+          },
+          "children": {
+            "text": "2",
+            "number": 2
+          },
+          "education": {
+            "text": "Parmiter's School",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Parmiter's School"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Trinity Hall, Cambridge",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Trinity Hall, Cambridge"
+              }
+            ]
+          },
+          "caption": {
+            "text": "Official portrait, 2020"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Early life and education",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Dowden was born on 1 August 1978."
+            },
+            {
+              "text": "He grew up in Bricket Wood, Hertfordshire, being educated at Parmiter's School, a partially selective state comprehensive school in Garston, Watford.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Bricket Wood"
+                },
+                {
+                  "type": "internal",
+                  "page": "Hertfordshire"
+                },
+                {
+                  "type": "internal",
+                  "page": "Parmiter's School"
+                },
+                {
+                  "text": "Garston",
+                  "type": "internal",
+                  "page": "Garston, Hertfordshire"
+                },
+                {
+                  "type": "internal",
+                  "page": "Watford"
+                }
+              ]
+            },
+            {
+              "text": "He attests to having received an \"excellent state education\", before going to Trinity Hall, Cambridge, where he read law.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Trinity Hall, Cambridge"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://researchbriefings.files.parliament.uk/documents/CBP-8256/CBP-8256.pdf",
+          "last1": "Watson",
+          "first1": "Chris",
+          "last2": "Fawcett",
+          "first2": "Mark",
+          "title": "Members of the House of Commons since 1979",
+          "publisher": "House of Commons Library",
+          "date": "13 March 2018",
+          "access-date": "19 February 2020",
+          "page": "62",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.oliverdowden.com/about-oliver",
+          "title": "About Oliver Dowden",
+          "publisher": "Oliverdowden.com",
+          "access-date": "9 May 2015",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.borehamwoodtimes.co.uk/news/11522018._This_is_like_coming_home____Oliver_Dowden_announced_as_Conservative_candidate_for_Hertsmere/?ref=mr",
+          "title": "'This is like coming home' – Oliver Dowden announced as Conservative candidate for Hertsmere",
+          "first": "Victoria",
+          "last": "Oliphant",
+          "work": "Borehamwood Times",
+          "date": "8 October 2014",
+          "access-date": "9 May 2015",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Dowden joined the Conservative Research Department in 2004, moving to PR company Hill & Knowlton in 2007, before returning to the Conservative Party in 2009.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Conservative Research Department"
+                },
+                {
+                  "text": "PR",
+                  "type": "internal",
+                  "page": "public relations"
+                },
+                {
+                  "type": "internal",
+                  "page": "Hill & Knowlton"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He then worked as a special adviser and David Cameron's deputy chief of staff, where he said most of his time was spent on \"day-to-day crisis management\".",
+              "links": [
+                {
+                  "text": "special adviser",
+                  "type": "internal",
+                  "page": "Special advisers (UK government)"
+                },
+                {
+                  "type": "internal",
+                  "page": "David Cameron"
+                }
+              ]
+            },
+            {
+              "text": "Dowden was regarded as having expertise in the attacking form of political communications, leading to comparisons with Alastair Campbell."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He was elected MP for Hertsmere in the 2015 general election, with a majority of 18,461 votes.",
+              "links": [
+                {
+                  "text": "Hertsmere",
+                  "type": "internal",
+                  "page": "Hertsmere (UK Parliament constituency)"
+                },
+                {
+                  "text": "2015 general election",
+                  "type": "internal",
+                  "page": "2015 United Kingdom general election"
+                }
+              ]
+            },
+            {
+              "text": "While standing, among the policy priorities he highlighted in his campaign were improving transport infrastructure, preserving green belt land and improving education."
+            },
+            {
+              "text": "He made his maiden speech on 17 June 2015.",
+              "links": [
+                {
+                  "text": "maiden speech",
+                  "type": "internal",
+                  "page": "maiden speech"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Dowden was appointed a Commander of the Order of the British Empire (CBE) in the 2015 Dissolution Honours List on 27 August 2015.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Commander of the Order of the British Empire"
+                },
+                {
+                  "text": "2015 Dissolution Honours List",
+                  "type": "internal",
+                  "page": "2015 Dissolution Honours"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He opposed Brexit prior to the 2016 referendum.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Brexit"
+                },
+                {
+                  "text": "2016 referendum",
+                  "type": "internal",
+                  "page": "2016 United Kingdom European Union membership referendum"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In January 2018, Dowden was promoted to parliamentary secretary to the Cabinet Office, as part of Theresa May's cabinet reshuffle.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Cabinet Office"
+                },
+                {
+                  "text": "Theresa May's cabinet reshuffle",
+                  "type": "internal",
+                  "page": "2018 British cabinet reshuffle"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Appointed Minister for the Cabinet Office and Paymaster General by incoming Prime Minister Boris Johnson on 24 July 2019, Dowden was appointed a member of the Privy Council the next day.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Minister for the Cabinet Office"
+                },
+                {
+                  "type": "internal",
+                  "page": "Paymaster General"
+                },
+                {
+                  "type": "internal",
+                  "page": "Boris Johnson"
+                },
+                {
+                  "text": "Privy Council",
+                  "type": "internal",
+                  "page": "Privy Council of the United Kingdom"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On 13 February 2020, Dowden was appointed Secretary of State for Digital, Culture, Media and Sport, succeeding Baroness Morgan of Cotes, who resigned from the cabinet.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Secretary of State for Digital, Culture, Media and Sport"
+                },
+                {
+                  "text": "Baroness Morgan of Cotes",
+                  "type": "internal",
+                  "page": "Nicky Morgan"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On 15 September 2021, Johnson appointed Dowden as an unpaid Minister without Portfolio and Conservative Party Co-Chairman during a cabinet reshuffle.",
+              "links": [
+                {
+                  "text": "Minister without Portfolio",
+                  "type": "internal",
+                  "page": "Minister without portfolio (United Kingdom)"
+                },
+                {
+                  "text": "Conservative Party Co-Chairman",
+                  "type": "internal",
+                  "page": "Chairman of the Conservative Party"
+                },
+                {
+                  "text": "a cabinet reshuffle",
+                  "type": "internal",
+                  "page": "2021 British cabinet reshuffle"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.telegraph.co.uk/news/newsvideo/uk-politics-video/9624396/David-Camerons-special-adviser-in-US-television-gaffe.html",
+          "archive-url": "https://web.archive.org/web/20121022115501/http://www.telegraph.co.uk/news/newsvideo/uk-politics-video/9624396/David-Camerons-special-adviser-in-US-television-gaffe.html",
+          "url-status": "dead",
+          "archive-date": "22 October 2012",
+          "title": "David Cameron's special adviser in US television gaffe",
+          "date": "22 October 2012",
+          "website": "www.telegraph.co.uk",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Hertsmere (Constituency) 2015 results - General election results - UK Parliament",
+          "url": "https://electionresults.parliament.uk/election/2015-05-07/results/Location/Constituency/Hertsmere",
+          "access-date": "2020-09-09",
+          "website": "electionresults.parliament.uk",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www1.dehavilland.co.uk/election-blog/meet-mps-profiling-conservative-2015-intake",
+          "title": "Meet the MPs: Profiling the Conservative 2015 intake &#124; Dehavilland",
+          "website": "www1.dehavilland.co.uk",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.gov.uk/government/news/dissolution-honours-2015",
+          "title": "Press release Dissolution Honours 2015",
+          "work": "Gov.uk",
+          "author": "Prime Minister's Office",
+          "date": "27 August 2015",
+          "access-date": "30 August 2015",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.whtimes.co.uk/news/hertsmere-mp-oliver-dowden-promoted-in-cabinet-reshuffle-1-5348961",
+          "title": "Potters Bar's MP 'delighted' after scooping promotion",
+          "first": "Chris",
+          "last": "Flanagan",
+          "website": "Welwyn Hatfield Times",
+          "date": "10 January 2018",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://privycouncil.independent.gov.uk/wp-content/uploads/2019/07/2019-07-25-List-of-Business.pdf",
+          "date": "2019",
+          "title": "ORDERS APPROVED AND BUSINESS TRANSACTED AT THE PRIVY COUNCIL HELD BY THE QUEEN AT BUCKINGHAM PALACE ON 25TH JULY 2019",
+          "publisher": "Privy Council Office",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.gov.uk/government/people/dowden",
+          "title": "The Rt Hon Oliver Dowden CBE MP",
+          "website": "GOV.UK",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "number": "1438166904967991307",
+          "user": "10DowningStreet",
+          "title": "The Rt Hon Oliver Dowden @OliverDowden has been appointed Minister without Portfolio, Cabinet Office.",
+          "date": "15 September 2021",
+          "access-date": "22 September 2021",
+          "author": "UK Prime Minister",
+          "template": "citation",
+          "type": "tweet"
+        },
+        {
+          "url": "https://www.independent.co.uk/news/uk/politics/olive-in-charge-after-no-10-shakeup-8210440.html",
+          "title": "'Olive' in charge after No 10 shake-up",
+          "first": "Jane",
+          "last": "Merrick",
+          "work": "The Independent",
+          "date": "14 October 2012",
+          "access-date": "29 August 2015",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Goodenough",
+          "first1": "Tom",
+          "title": "Which Tory MPs back Brexit, who doesn't and who is still on the fence?",
+          "url": "http://blogs.spectator.co.uk/2016/02/which-tory-mps-back-brexit-who-doesnt-and-who-is-still-on-the-fence/",
+          "access-date": "11 October 2016",
+          "work": "The Spectator",
+          "date": "16 February 2016",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Personal life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Dowden is married and has two children."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "templates": [
+        {
+          "parliament": "oliver-dowden/4441",
+          "publicwhip": "Oliver_Dowden&mpc=Hertsmere&house=commons",
+          "theywork": "25323/oliver_dowden/hertsmere",
+          "bbc": "92550.stm",
+          "template": "uk mp links"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "list": [
+            "uk"
+          ],
+          "template": "s-par"
+        },
+        {
+          "before": "James Clappison",
+          "template": "s-bef"
+        },
+        {
+          "title": "Member of Parliament\nfor Hertsmere",
+          "years": "2015–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "template": "s-off"
+        },
+        {
+          "before": "Caroline Nokes",
+          "template": "s-bef"
+        },
+        {
+          "title": "Parliamentary Secretary for the Cabinet Office",
+          "years": "2018–2019",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Johnny Mercer",
+          "template": "s-aft"
+        },
+        {
+          "before": "David Lidington",
+          "template": "s-bef"
+        },
+        {
+          "title": "Minister for the Cabinet Office",
+          "years": "2019–2020",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Michael Gove",
+          "template": "s-aft"
+        },
+        {
+          "before": "Jesse Norman",
+          "template": "s-bef"
+        },
+        {
+          "title": "Paymaster General",
+          "years": "2019–2020",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Penny Mordaunt",
+          "template": "s-aft"
+        },
+        {
+          "before": "The Baroness Morgan of Cotes",
+          "template": "s-bef"
+        },
+        {
+          "title": "Secretary of State for Digital, Culture, Media and Sport",
+          "years": "2020–2021",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Nadine Dorries",
+          "template": "s-aft"
+        },
+        {
+          "before": "Amanda Milling",
+          "template": "s-bef"
+        },
+        {
+          "title": "Minister without Portfolio",
+          "years": "2021–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "template": "s-ppo"
+        },
+        {
+          "before": "Amanda Milling\nBen Elliot",
+          "template": "s-bef"
+        },
+        {
+          "title": "Chairman of the Conservative Party\nServing with Ben Elliot",
+          "years": "2021–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "template": "johnson cabinet"
+        },
+        {
+          "template": "secretary of state for culture"
+        },
+        {
+          "template": "british special advisers"
+        },
+        {
+          "template": "east of england conservative party mps"
+        },
+        {
+          "template": "minister for the cabinet office"
+        },
+        {
+          "template": "authority control"
+        }
+      ]
+    }
+  ]
+}

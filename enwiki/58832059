@@ -1,0 +1,337 @@
+{
+  "title": "Martyn Roper",
+  "pageID": 58832059,
+  "categories": [
+    "1965 births",
+    "Alumni of the Open University",
+    "Alumni of the University of Hull",
+    "Ambassadors of the United Kingdom to Algeria",
+    "Governors of the Cayman Islands",
+    "Living people",
+    "People educated at Heath Grammar School"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Martyn Keith Roper (born 8 June 1965) is a British diplomat and civil servant who has been Governor of the Cayman Islands since 29 October 2018.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Governor of the Cayman Islands"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Martyn Keith Roper"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Roper was the British Ambassador to Algeria from 2010 to 2014.",
+              "links": [
+                {
+                  "text": "British Ambassador to Algeria",
+                  "type": "internal",
+                  "page": "List of ambassadors of the United Kingdom to Algeria"
+                }
+              ]
+            },
+            {
+              "text": "He was appointed OBE in 2013 \"for services to UK interests in Algeria, particularly the UK response to the In Amenas hostage crisis\".",
+              "links": [
+                {
+                  "text": "OBE",
+                  "type": "internal",
+                  "page": "Order of the British Empire"
+                },
+                {
+                  "type": "internal",
+                  "page": "In Amenas hostage crisis"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Before taking up his position as the Governor of the Cayman Islands, Roper served as the Deputy Head of Mission at the British Embassy in Beijing, China.",
+              "links": [
+                {
+                  "text": "Deputy Head of Mission",
+                  "type": "internal",
+                  "page": "Deputy chief of mission"
+                },
+                {
+                  "text": "British Embassy in Beijing, China",
+                  "type": "internal",
+                  "page": "Embassy of the United Kingdom, Beijing"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "date": "October 2018",
+          "template": "use dmy dates"
+        },
+        {
+          "date": "October 2018",
+          "template": "use british english"
+        },
+        {
+          "country": "GBR",
+          "size": "100%",
+          "list": [
+            "OBE"
+          ],
+          "template": "post-nominals"
+        },
+        {
+          "year": "1965",
+          "month": "6",
+          "day": "8",
+          "df": "y",
+          "template": "birth date and age"
+        },
+        {
+          "country": "GBR",
+          "size": "100%",
+          "list": [
+            "OBE"
+          ],
+          "template": "post-nominals"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Martyn Roper"
+          },
+          "honorific-prefix": {
+            "text": "His Excellency",
+            "links": [
+              {
+                "type": "internal",
+                "page": "His Excellency"
+              }
+            ]
+          },
+          "image": {
+            "text": "Martyn Roper (cropped).jpg"
+          },
+          "office": {
+            "text": "Governor of the Cayman Islands",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Governor of the Cayman Islands"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "29 October 2018"
+          },
+          "predecessor": {
+            "text": "Anwar Choudhury",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Anwar Choudhury"
+              }
+            ]
+          },
+          "monarch": {
+            "text": "Elizabeth II",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Elizabeth II"
+              }
+            ]
+          },
+          "office1": {
+            "text": "British Ambassador to Algeria",
+            "links": [
+              {
+                "text": "British Ambassador to Algeria",
+                "type": "internal",
+                "page": "List of ambassadors of the United Kingdom to Algeria"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "2010",
+            "number": 2010
+          },
+          "term_end1": {
+            "text": "2014",
+            "number": 2014
+          },
+          "predecessor1": {
+            "text": "Andrew Henderson",
+            "links": [
+              {
+                "text": "Andrew Henderson",
+                "type": "internal",
+                "page": "Andrew Henderson (diplomat)"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Andrew Noble",
+            "links": [
+              {
+                "text": "Andrew Noble",
+                "type": "internal",
+                "page": "Andrew Noble (diplomat)"
+              }
+            ]
+          },
+          "monarch1": {
+            "text": "Elizabeth II",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Elizabeth II"
+              }
+            ]
+          },
+          "primeminister1": {
+            "text": "David Cameron",
+            "links": [
+              {
+                "type": "internal",
+                "page": "David Cameron"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "June 8, 1965"
+          },
+          "birth_place": {
+            "text": "Halifax, West Yorkshire, England",
+            "links": [
+              {
+                "text": "Halifax",
+                "type": "internal",
+                "page": "Halifax, West Yorkshire"
+              },
+              {
+                "type": "internal",
+                "page": "West Yorkshire"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.ukwhoswho.com/view/10.1093/ww/9780199540884.001.0001/ww-9780199540884-e-251657",
+          "title": "Roper, Martyn Keith",
+          "work": "Who's Who",
+          "date": "1 December 2017",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "url": "https://www.gov.uk/government/news/change-of-governor-of-the-cayman-islands-in-october-2018",
+          "title": "Change of Governor of the Cayman Islands",
+          "work": "Press release",
+          "publisher": "Foreign & Commonwealth Office",
+          "date": "19 October 2018",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-dip"
+        },
+        {
+          "before": "Andrew Henderson",
+          "template": "s-bef"
+        },
+        {
+          "title": "British Ambassador to Algeria",
+          "years": "2010–2014",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Andrew Noble",
+          "template": "s-aft"
+        },
+        {
+          "template": "s-gov"
+        },
+        {
+          "before": "Anwar Choudhury",
+          "template": "s-bef"
+        },
+        {
+          "title": "Governor of the Cayman Islands",
+          "years": "2018–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "template": "uk-diplomat-stub"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Cayman Islands Government Web Site",
+            "links": [
+              {
+                "text": "Cayman Islands Government Web Site",
+                "type": "external",
+                "site": "http://www.gov.ky"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}

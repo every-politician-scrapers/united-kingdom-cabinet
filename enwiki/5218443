@@ -1,0 +1,914 @@
+{
+  "title": "Anwar Choudhury",
+  "pageID": 5218443,
+  "categories": [
+    "1959 births",
+    "Living people",
+    "Bangladeshi Muslims",
+    "British Muslims",
+    "Bangladeshi emigrants to England",
+    "Governors of the Cayman Islands",
+    "British people of Bangladeshi descent",
+    "Naturalised citizens of the United Kingdom",
+    "High Commissioners of the United Kingdom to Bangladesh",
+    "Ambassadors of the United Kingdom to Peru",
+    "Civil servants in the Ministry of Defence (United Kingdom)",
+    "Civil servants in the Cabinet Office",
+    "People from Jagannathpur Upazila",
+    "People from Aylesbury",
+    "Alumni of Durham University",
+    "Alumni of the University of Salford"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Anwar Bakht Choudhury (আনোয়ার বখত চৌধুরী; born 15 June 1959) is a British diplomat of Bangladeshi origin, who is currently Director for Consular Strategy.",
+              "links": [
+                {
+                  "text": "Bangladeshi",
+                  "type": "internal",
+                  "page": "Bangladesh"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Anwar Bakht Choudhury"
+                ]
+              }
+            },
+            {
+              "text": "He was Governor of the Cayman Islands until he was recalled in June 2018 after less than three months in post.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Governor of the Cayman Islands"
+                }
+              ]
+            },
+            {
+              "text": "Prior to that, he was British Ambassador to Peru, Director of International Institutions at the Foreign & Commonwealth Office and High Commissioner to Bangladesh.",
+              "links": [
+                {
+                  "text": "British Ambassador to Peru",
+                  "type": "internal",
+                  "page": "List of diplomats of the United Kingdom to Peru"
+                },
+                {
+                  "type": "internal",
+                  "page": "Foreign & Commonwealth Office"
+                },
+                {
+                  "text": "High Commissioner to Bangladesh",
+                  "type": "internal",
+                  "page": "List of High Commissioners of the United Kingdom to Bangladesh"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "Anwar Chowdhry"
+          ],
+          "template": "distinguish"
+        },
+        {
+          "date": "December 2017",
+          "template": "use dmy dates"
+        },
+        {
+          "date": "October 2018",
+          "template": "use british english"
+        },
+        {
+          "df": "y",
+          "year": "1959",
+          "month": "6",
+          "day": "15",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Anwar Choudhury"
+          },
+          "image": {
+            "text": "Anwar Choudhury (Cayman governor portrait) (cropped).jpg"
+          },
+          "office": {
+            "text": "Governor of the Cayman Islands",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Governor of the Cayman Islands"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "26 March 2018"
+          },
+          "term_end": {
+            "text": "20 September 2018"
+          },
+          "monarch": {
+            "text": "Elizabeth II",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Elizabeth II"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Helen Kilpatrick",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Helen Kilpatrick"
+              }
+            ]
+          },
+          "successor": {
+            "text": "Martyn Roper",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Martyn Roper"
+              }
+            ]
+          },
+          "office2": {
+            "text": "British Ambassador to Peru",
+            "links": [
+              {
+                "text": "British Ambassador to Peru",
+                "type": "internal",
+                "page": "List of diplomats of the United Kingdom to Peru"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "2014",
+            "number": 2014
+          },
+          "term_end2": {
+            "text": "2018",
+            "number": 2018
+          },
+          "monarch2": {
+            "text": "Elizabeth II",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Elizabeth II"
+              }
+            ]
+          },
+          "primeminister2": {
+            "text": "David Cameron\nTheresa May",
+            "links": [
+              {
+                "type": "internal",
+                "page": "David Cameron"
+              },
+              {
+                "type": "internal",
+                "page": "Theresa May"
+              }
+            ]
+          },
+          "predecessor2": {
+            "text": "James Dauris"
+          },
+          "successor2": {
+            "text": "Kate Harrisson"
+          },
+          "office3": {
+            "text": "British High Commissioner to Bangladesh",
+            "links": [
+              {
+                "text": "British High Commissioner to Bangladesh",
+                "type": "internal",
+                "page": "List of High Commissioners of the United Kingdom to Bangladesh"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "2004",
+            "number": 2004
+          },
+          "term_end3": {
+            "text": "2008",
+            "number": 2008
+          },
+          "monarch3": {
+            "text": "Elizabeth II",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Elizabeth II"
+              }
+            ]
+          },
+          "primeminister3": {
+            "text": "Tony Blair\nGordon Brown",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Tony Blair"
+              },
+              {
+                "type": "internal",
+                "page": "Gordon Brown"
+              }
+            ]
+          },
+          "predecessor3": {
+            "text": "David Carter",
+            "links": [
+              {
+                "text": "David Carter",
+                "type": "internal",
+                "page": "David Carter (diplomat)"
+              }
+            ]
+          },
+          "successor3": {
+            "text": "Stephen Evans",
+            "links": [
+              {
+                "text": "Stephen Evans",
+                "type": "internal",
+                "page": "Stephen Evans (diplomat)"
+              }
+            ]
+          },
+          "birth_name": {
+            "text": "Anwar Bakht Choudhury"
+          },
+          "birth_date": {
+            "text": "June 15, 1959"
+          },
+          "birth_place": {
+            "text": "Jagannathpur, Sylhet, East Pakistan, Pakistan",
+            "links": [
+              {
+                "text": "Jagannathpur",
+                "type": "internal",
+                "page": "Jagannathpur Upazila"
+              },
+              {
+                "text": "Sylhet",
+                "type": "internal",
+                "page": "Sylhet Division"
+              },
+              {
+                "type": "internal",
+                "page": "East Pakistan"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "British"
+          },
+          "spouse": {
+            "text": "Momina Choudhury"
+          },
+          "children": {
+            "text": "4",
+            "number": 4
+          },
+          "residence": {
+            "text": "Aylesbury, Buckinghamshire, England",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Aylesbury"
+              },
+              {
+                "type": "internal",
+                "page": "Buckinghamshire"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "University of Salford\nDurham University",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of Salford"
+              },
+              {
+                "type": "internal",
+                "page": "Durham University"
+              }
+            ]
+          },
+          "profession": {
+            "text": "Diplomat"
+          },
+          "caption": {
+            "text": "Official Portrait, 2017"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Early life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Choudhury was born in East Pakistan (now Bangladesh).",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "East Pakistan"
+                },
+                {
+                  "type": "internal",
+                  "page": "Bangladesh"
+                }
+              ]
+            },
+            {
+              "text": "His family is originally from the village of Prabhakarpur, Patli Union, Jagannathpur, Sunamganj, and moved to the United Kingdom when he was young.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Patli Union"
+                },
+                {
+                  "text": "Jagannathpur",
+                  "type": "internal",
+                  "page": "Jagannathpur Upazila"
+                },
+                {
+                  "text": "Sunamganj",
+                  "type": "internal",
+                  "page": "Sunamganj District"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "date": "December 2020",
+          "template": "ciation needed"
+        }
+      ],
+      "references": [
+        {
+          "title": "Profile: Anwar Choudhury",
+          "url": "http://news.bbc.co.uk/2/hi/south_asia/3735225.stm",
+          "url-status": "live",
+          "publisher": "BBC News",
+          "date": "21 May 2004",
+          "archive-url": "https://web.archive.org/web/20081227174304/http://news.bbc.co.uk/2/hi/south_asia/3735225.stm",
+          "archive-date": "27 December 2008",
+          "access-date": "14 December 2008",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Education",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Choudhury followed an unusual route into the Diplomatic Service; in 1985, he attained a BSc in Electrical and Electronic Engineering from the University of Salford.",
+              "links": [
+                {
+                  "text": "Diplomatic Service",
+                  "type": "internal",
+                  "page": "Her Majesty's Diplomatic Service"
+                },
+                {
+                  "text": "BSc",
+                  "type": "internal",
+                  "page": "Bachelor of Science"
+                },
+                {
+                  "text": "Electrical and Electronic Engineering",
+                  "type": "internal",
+                  "page": "Electrical engineering"
+                },
+                {
+                  "type": "internal",
+                  "page": "University of Salford"
+                }
+              ]
+            },
+            {
+              "text": "He worked at Siemens Plessey, before entering the Civil Service as an engineering strategist with the Royal Air Force.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Siemens Plessey"
+                },
+                {
+                  "type": "internal",
+                  "page": "Royal Air Force"
+                }
+              ]
+            },
+            {
+              "text": "In 1995, he graduated with a Master of Business Administration from Durham University.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Master of Business Administration"
+                },
+                {
+                  "type": "internal",
+                  "page": "Durham University"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.fco.gov.uk/Files/kfile/EthnicMinoritiesinBritain%5B2%5D,0.pdf",
+          "title": "Ethnic Minorities in Britain",
+          "publisher": "Foreign and Commonwealth Office",
+          "access-date": "22 June 2006",
+          "archive-url": "https://web.archive.org/web/20060612181627/http://www.fco.gov.uk/Files/kfile/EthnicMinoritiesinBritain%5B2%5D%2C0.pdf",
+          "archive-date": "12 June 2006",
+          "url-status": "dead",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Choudhury was promoted through the Ministry of Defence until 2000, when he was recruited by the Cabinet Office, before being headhunted for the position of High Commissioner to Bangladesh.",
+              "links": [
+                {
+                  "text": "Ministry of Defence",
+                  "type": "internal",
+                  "page": "Ministry of Defence (United Kingdom)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Cabinet Office"
+                },
+                {
+                  "text": "headhunted",
+                  "type": "internal",
+                  "page": "recruitment"
+                },
+                {
+                  "text": "High Commissioner to Bangladesh",
+                  "type": "internal",
+                  "page": "List of High Commissioners of the United Kingdom to Bangladesh"
+                }
+              ]
+            },
+            {
+              "text": "He was succeeded in 2008 by Stephen Evans.",
+              "links": [
+                {
+                  "text": "Stephen Evans",
+                  "type": "internal",
+                  "page": "Stephen Evans (diplomat)"
+                }
+              ]
+            },
+            {
+              "text": "When he was appointed as High Commissioner to Bangladesh in 2004, he became one of the first two British ambassadors from ethnic minority backgrounds to be appointed in modern times (the other being Alp Mehmet, who was appointed Ambassador to Iceland).",
+              "links": [
+                {
+                  "text": "ethnic minority",
+                  "type": "internal",
+                  "page": "ethnic minority"
+                },
+                {
+                  "type": "internal",
+                  "page": "Alp Mehmet"
+                }
+              ]
+            },
+            {
+              "text": "He was sworn in as Governor of the Cayman Islands on 26 March 2018.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Governor of the Cayman Islands"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.caymancompass.com/2018/03/26/governor-choudhury-sworn-in/",
+          "title": "Governor Choudhury sworn in",
+          "publisher": "Cayman Compass",
+          "access-date": "2018-03-27",
+          "archive-url": "https://web.archive.org/web/20180327072322/https://www.caymancompass.com/2018/03/26/governor-choudhury-sworn-in/",
+          "archive-date": "2018-03-27",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.fco.gov.uk/resources/en/pdf/pdf12/fco_race-equalityscheme",
+          "title": "Foreign and Commonwealth Office Race Equality Scheme 2005–2008",
+          "location": "London",
+          "publisher": "Foreign and Commonwealth Office",
+          "page": "5",
+          "access-date": "4 May 2014",
+          "archive-url": "https://web.archive.org/web/20120925225340/http://www.fco.gov.uk/resources/en/pdf/pdf12/fco_race-equalityscheme",
+          "archive-date": "25 September 2012",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Grenade attack",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "On 21 May 2004, Choudhury was targeted in a failed grenade attack, in which he was wounded and two bystanders were killed.",
+              "links": [
+                {
+                  "text": "grenade",
+                  "type": "internal",
+                  "page": "grenade"
+                }
+              ]
+            },
+            {
+              "text": "The attempted assassination came as he was leaving the Dargah-e-Shah Jalal mosque in Sylhet Division, his home province, following Jumu'ah (Friday prayers).",
+              "links": [
+                {
+                  "text": "Dargah-e-Shah Jalal",
+                  "type": "internal",
+                  "page": "Shah Jalal Dargah"
+                },
+                {
+                  "type": "internal",
+                  "page": "Sylhet Division"
+                },
+                {
+                  "type": "internal",
+                  "page": "Jumu'ah"
+                }
+              ]
+            },
+            {
+              "text": "In December 2008, three attackers were sentenced to death",
+              "links": [
+                {
+                  "text": "sentenced to death",
+                  "type": "internal",
+                  "page": "Capital punishment"
+                }
+              ]
+            },
+            {
+              "text": "and two others to life in prison for the attack."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "2004 Shah Jalal bombing"
+          ],
+          "template": "main"
+        }
+      ],
+      "references": [
+        {
+          "title": "Blast at Shahjalal shrine injures British HC, kills 2",
+          "url": "http://archive.thedailystar.net/2004/05/22/d4052201011.htm",
+          "volume": "4",
+          "issue": "348",
+          "work": "The Daily Star",
+          "location": "Bangladesh",
+          "date": "22 May 2004",
+          "access-date": "24 December 2008",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Three to die for UK envoy attack",
+          "url": "http://news.bbc.co.uk/1/hi/world/south_asia/7797096.stm",
+          "url-status": "live",
+          "publisher": "BBC News",
+          "date": "23 December 2008",
+          "archive-url": "https://web.archive.org/web/20081224015040/http://news.bbc.co.uk/1/hi/world/south_asia/7797096.stm",
+          "archive-date": "24 December 2008",
+          "access-date": "23 December 2008",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last": "Percival",
+          "first": "Jenny",
+          "date": "23 December 2008",
+          "title": "Death sentences for Bangladesh grenade attack on British envoy",
+          "url": "https://www.theguardian.com/world/2008/dec/23/bangladesh-diplomat-grenade-sentence",
+          "work": "The Guardian",
+          "access-date": "24 December 2008",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Grenade atack [sic] on Anwar Choudhury: Mufti Hannan among four indicted",
+          "url": "http://www.sylhettimes.com/2007/08/01/grenade-atack-on-anwar-choudhury-mufti-hannan-among-four-indicted-2/",
+          "work": "The Sylhet Times",
+          "date": "1 August 2007",
+          "access-date": "24 December 2008",
+          "archive-url": "https://web.archive.org/web/20160821212328/http://www.sylhettimes.com/2007/08/01/grenade-atack-on-anwar-choudhury-mufti-hannan-among-four-indicted-2/",
+          "archive-date": "21 August 2016",
+          "url-status": "dead",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Recall to London",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Choudhury was recalled to London in June 2018 for multiple allegations of misconduct."
+            },
+            {
+              "text": "On 20 September 2018 it was announced that he would not be returning to the Cayman Islands."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "last": "Ford",
+          "first": "Richard",
+          "date": "25 June 2018",
+          "title": "Governor of Caymans 'asked maid for massage'",
+          "url": "https://www.thetimes.co.uk/article/governor-of-caymans-anwar-choudhury-asked-maid-for-massage-kmsgrdrrc",
+          "work": "The Times",
+          "access-date": "2019-05-28",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.theguardian.com/us-news/2018/jun/14/cayman-islands-governor-recalled-anwar-choudhury",
+          "title": "UK recalls Cayman Islands governor over unspecified allegations",
+          "last": "Wintour",
+          "first": "Patrick",
+          "date": "2018-06-14",
+          "website": "The Guardian",
+          "language": "en",
+          "access-date": "2018-06-24",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Choudhury removed as Cayman Islands governor",
+          "url": "https://www.caymancompass.com/2018/09/20/breaking-choudhury-removed-as-cayman-islands-governor/",
+          "newspaper": "Cayman Compass",
+          "date": "20 September 2018",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Personal life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Choudhury is a Muslim.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Muslim"
+                }
+              ]
+            },
+            {
+              "text": "His main interests include folk music of Bengal (baul).",
+              "links": [
+                {
+                  "text": "baul",
+                  "type": "internal",
+                  "page": "baul"
+                }
+              ]
+            },
+            {
+              "text": "He is also passionate about community integration and protection of the UK abroad."
+            },
+            {
+              "text": "He is married to Momina Choudhury and has three daughters."
+            },
+            {
+              "text": "He also has a son from his first marriage."
+            },
+            {
+              "text": "He has three brothers."
+            },
+            {
+              "text": "His hobbies include playing cricket, bridge and Bangladeshi cuisine.",
+              "links": [
+                {
+                  "text": "cricket",
+                  "type": "internal",
+                  "page": "cricket"
+                },
+                {
+                  "text": "bridge",
+                  "type": "internal",
+                  "page": "bridge (game)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Bangladeshi cuisine"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Choudhury has dismissed suggestions of a conflict of loyalty, stating that he would support the English cricket team against the one in Bangladesh.",
+              "links": [
+                {
+                  "text": "he would support",
+                  "type": "internal",
+                  "page": "Cricket test"
+                },
+                {
+                  "type": "internal",
+                  "page": "English cricket team"
+                },
+                {
+                  "text": "the one in Bangladesh",
+                  "type": "internal",
+                  "page": "Bangladeshi cricket team"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "last": "Roy",
+          "first": "Amit",
+          "date": "15 December 2003",
+          "title": "Bangladeshi-born Briton for Dhaka",
+          "url": "https://www.telegraph.co.uk/news/main.jhtml?xml=%2Fnews%2F2003%2F12%2F15%2Fndhaka15.xml",
+          "work": "The Daily Telegraph",
+          "archive-url": "https://web.archive.org/web/20050319163650/http://www.telegraph.co.uk/news/main.jhtml?xml=%2Fnews%2F2003%2F12%2F15%2Fndhaka15.xml",
+          "archive-date": "19 March 2005",
+          "url-status": "dead",
+          "access-date": "4 May 2014",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "See also",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "British Bangladeshi",
+            "links": [
+              {
+                "type": "internal",
+                "page": "British Bangladeshi"
+              }
+            ]
+          },
+          {
+            "text": "List of British Bangladeshis",
+            "links": [
+              {
+                "type": "internal",
+                "page": "List of British Bangladeshis"
+              }
+            ]
+          },
+          {
+            "text": "List of High Commissioners of the United Kingdom to Bangladesh",
+            "links": [
+              {
+                "type": "internal",
+                "page": "List of High Commissioners of the United Kingdom to Bangladesh"
+              }
+            ]
+          },
+          {
+            "text": "List of diplomats of the United Kingdom to Peru",
+            "links": [
+              {
+                "type": "internal",
+                "page": "List of diplomats of the United Kingdom to Peru"
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "commons category-inline"
+        },
+        {
+          "template": "twitter"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-dip"
+        },
+        {
+          "before": "David Carter",
+          "template": "s-bef"
+        },
+        {
+          "title": "British High Commissioner to Bangladesh",
+          "years": "2004–2008",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Stephen Evans",
+          "template": "s-aft"
+        },
+        {
+          "before": "James Dauris",
+          "template": "s-bef"
+        },
+        {
+          "title": "British Ambassador to Peru",
+          "years": "2014–2018",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Kate Harrisson",
+          "template": "s-aft"
+        }
+      ]
+    }
+  ]
+}
