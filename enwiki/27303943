@@ -1276,6 +1276,13 @@
               ]
             }
           ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In March 2021 he was criticised for dissolving the Industrial Strategy Council, the advisery body seeking to regenerate Britain’s regions."
+            }
+          ]
         }
       ],
       "images": [
@@ -1331,6 +1338,12 @@
           "date": "8 May 2021",
           "template": "citation",
           "type": "news"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
         }
       ]
     },

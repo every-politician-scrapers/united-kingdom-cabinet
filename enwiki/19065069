@@ -816,8 +816,8 @@
           "relatives": {
             "text": "Rachel Johnson (sister)\n\nJo Johnson (brother)\n\nJulia Johnson (half-sister)\n\nJames Fawcett (grandfather)\n\nEdmund Fawcett (uncle)\n\nAli Kemal (great grandfather)\n\nElias Avery Lowe (great grandfather)\n\nHelen Tracy Lowe-Porter (great grandmother)"
           },
-          "alma_mater": {
-            "text": "Eton College (K.Schol) Balliol College, Oxford (BA)",
+          "education": {
+            "text": "Eton College (K.Schol)",
             "links": [
               {
                 "type": "internal",
@@ -827,7 +827,12 @@
                 "text": "K.Schol",
                 "type": "internal",
                 "page": "King's Scholar"
-              },
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Balliol College, Oxford (BA)",
+            "links": [
               {
                 "type": "internal",
                 "page": "Balliol College, Oxford"
@@ -11994,6 +11999,16 @@
             },
             {
               "text": "Paterson announced his resignation as an MP the same day."
+            },
+            {
+              "text": "At a meeting of the 1922 Committee, Johnson said that he made a mistake over his handling of the affair, and that \"On a clear road I crashed the car into a ditch\".",
+              "links": [
+                {
+                  "text": "1922 Committee",
+                  "type": "internal",
+                  "page": "1922 Committee"
+                }
+              ]
             }
           ]
         }
@@ -12048,6 +12063,20 @@
           "access-date": "4 November 2021",
           "work": "BBC News",
           "date": "4 November 2021",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Riley-Smith",
+          "first1": "Ben",
+          "last2": "Fisher",
+          "first2": "Lucy",
+          "last3": "Diver",
+          "first3": "Tony",
+          "title": "I crashed the car over Owen Paterson case, admits Boris Johnson",
+          "url": "https://www.telegraph.co.uk/politics/2021/11/17/crashed-car-owen-paterson-case-admits-boris-johnson/",
+          "work": "The Telegraph",
+          "date": "17 November 2021",
           "template": "citation",
           "type": "news"
         }
@@ -12188,8 +12217,11 @@
                 },
                 {
                   "text": "tosser",
-                  "type": "internal",
-                  "page": ":wikt:tosser"
+                  "type": "interwiki",
+                  "wiki": {
+                    "wiki": "",
+                    "lang": "wikt"
+                  }
                 }
               ],
               "formatting": {

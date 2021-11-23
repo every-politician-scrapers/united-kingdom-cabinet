@@ -82,6 +82,16 @@
                   "page": "European Research Group"
                 }
               ]
+            },
+            {
+              "text": "She formerly practiced as a barrister.",
+              "links": [
+                {
+                  "text": "barrister",
+                  "type": "internal",
+                  "page": "barrister"
+                }
+              ]
             }
           ]
         }
