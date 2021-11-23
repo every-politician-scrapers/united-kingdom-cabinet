@@ -263,6 +263,11 @@
           "template": "birth date and age"
         },
         {
+          "abbr": "div.",
+          "meaning": "divorced",
+          "template": "abbr"
+        },
+        {
           "spouse": "Tracy-Jane Newall",
           "from": "1996",
           "to": "2005",

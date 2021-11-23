@@ -446,6 +446,11 @@
           "template": "birth date and age"
         },
         {
+          "abbr": "sep.",
+          "meaning": "separated",
+          "template": "abbr"
+        },
+        {
           "spouse": "Sarah Vine",
           "from": "2001",
           "to": "2021",
