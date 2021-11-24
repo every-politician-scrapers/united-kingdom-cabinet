@@ -16,7 +16,8 @@
     "21st-century British women politicians",
     "Ministers for Universities (United Kingdom)",
     "21st-century English women",
-    "21st-century English people"
+    "21st-century English people",
+    "Members of the Privy Council of the United Kingdom"
   ],
   "sections": [
     {
@@ -788,6 +789,59 @@
               ]
             }
           ]
+        }
+      ]
+    },
+    {
+      "title": "Honours",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "date": "November 2021",
+          "template": "expand list"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "She was sworn in as a member of Her Majesty's Most Honourable Privy Council on 20 September 2021 at Balmoral Castle. This gave her the Honorific Prefix \"The Right Honourable\" for Life.",
+            "links": [
+              {
+                "text": "Her Majesty's Most Honourable Privy Council",
+                "type": "internal",
+                "page": "Privy Council of the United Kingdom"
+              },
+              {
+                "type": "internal",
+                "page": "Balmoral Castle"
+              },
+              {
+                "text": "Honorific Prefix",
+                "type": "internal",
+                "page": "Style (form of address)"
+              },
+              {
+                "type": "internal",
+                "page": "The Right Honourable"
+              }
+            ]
+          }
+        ]
+      ],
+      "references": [
+        {
+          "title": "ORDERS APPROVED AND BUSINESS TRANSACTED AT THE PRIVY COUNCIL HELD BY THE QUEEN AT BALMORAL ON 20TH SEPTEMBER 2021",
+          "url": "https://privycouncil.independent.gov.uk/wp-content/uploads/2021/09/2021-09-20-List-of-Business.pdf",
+          "website": "Privy Council Office",
+          "access-date": "23 November 2021",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
         }
       ]
     },

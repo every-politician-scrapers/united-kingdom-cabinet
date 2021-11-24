@@ -3236,11 +3236,27 @@
             },
             {
               "text": "Subsequently, Dorries' sister was taken on as \"senior secretary\" with a salary of £30,000–35,000."
+            },
+            {
+              "text": "In reply to an enquiry by Ben Glaze, Deputy Political Editor of the Daily Mirror, about the employment of her daughter, Dorries tweeted: “Be seen within a mile of my daughters and I will nail your balls to the floor… using your own front teeth."
+            },
+            {
+              "text": "Do you get that?”."
             }
           ]
         }
       ],
       "references": [
+        {
+          "title": "Tory MP tells Sunday Mirror reporter 'I'll nail your balls to the floor' in Twitter rant",
+          "website": "Press Gazette",
+          "url": "https://pressgazette.co.uk/tory-mp-tells-sunday-mirror-reporter-ill-nail-your-testicles-floor-twitter-rant-over-doorstep/",
+          "first": "Darren",
+          "last": "Boyle",
+          "date": "24 November 2013",
+          "template": "citation",
+          "type": "web"
+        },
         {
           "url": "https://www.telegraph.co.uk/news/newstopics/mps-expenses/10306675/MPs-expenses-surpass-pre-scandal-levels-as-150-give-jobs-to-family.html",
           "title": "MPs' expenses surpass pre-scandal levels as 150 give jobs to family",
@@ -3639,7 +3655,7 @@
               ]
             },
             {
-              "text": "It is unknown exactly when she contracted the disease but it was reported that she had attended Parliament and visited 10 Downing Street before being required to self-isolate."
+              "text": "It is not known exactly when she contracted the disease, but it was reported that she had attended Parliament and visited 10 Downing Street before being required to self-isolate."
             }
           ]
         }
@@ -4059,6 +4075,59 @@
           "url-status": "live",
           "template": "citation",
           "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Honours",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "date": "November 2021",
+          "template": "expand list"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "She was sworn in as a member of Her Majesty's Most Honourable Privy Council on 20 September 2021 at Balmoral Castle. This gave her the Honorific Prefix \"The Right Honourable\" for Life.",
+            "links": [
+              {
+                "text": "Her Majesty's Most Honourable Privy Council",
+                "type": "internal",
+                "page": "Privy Council of the United Kingdom"
+              },
+              {
+                "type": "internal",
+                "page": "Balmoral Castle"
+              },
+              {
+                "text": "Honorific Prefix",
+                "type": "internal",
+                "page": "Style (form of address)"
+              },
+              {
+                "type": "internal",
+                "page": "The Right Honourable"
+              }
+            ]
+          }
+        ]
+      ],
+      "references": [
+        {
+          "title": "ORDERS APPROVED AND BUSINESS TRANSACTED AT THE PRIVY COUNCIL HELD BY THE QUEEN AT BALMORAL ON 20TH SEPTEMBER 2021",
+          "url": "https://privycouncil.independent.gov.uk/wp-content/uploads/2021/09/2021-09-20-List-of-Business.pdf",
+          "website": "Privy Council Office",
+          "access-date": "23 November 2021",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
         }
       ]
     },
