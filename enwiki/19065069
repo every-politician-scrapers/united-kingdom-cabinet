@@ -61,7 +61,7 @@
         {
           "sentences": [
             {
-              "text": "Alexander Boris de Pfeffel Johnson (born 19 June 1964) is a British politician and writer serving as prime minister of the United Kingdom and Leader of the Conservative Party since July 2019.",
+              "text": "Alexander Boris de Pfeffel Johnson (born 19 June 1964) is a British politician and writer serving as the prime minister of the United Kingdom and leader of the Conservative Party since July 2019.",
               "links": [
                 {
                   "text": "prime minister of the United Kingdom",
@@ -69,7 +69,7 @@
                   "page": "prime minister of the United Kingdom"
                 },
                 {
-                  "text": "Leader of the Conservative Party",
+                  "text": "leader of the Conservative Party",
                   "type": "internal",
                   "page": "Leader of the Conservative Party (UK)"
                 }
@@ -81,23 +81,25 @@
               }
             },
             {
-              "text": "He was Secretary of State for Foreign and Commonwealth Affairs from 2016 to 2018 and Mayor of London from 2008 to 2016.",
+              "text": "He was the secretary of state for foreign and Commonwealth affairs from 2016 to 2018 and the mayor of London from 2008 to 2016.",
               "links": [
                 {
+                  "text": "secretary of state for foreign and Commonwealth affairs",
                   "type": "internal",
                   "page": "Secretary of State for Foreign and Commonwealth Affairs"
                 },
                 {
+                  "text": "mayor of London",
                   "type": "internal",
-                  "page": "Mayor of London"
+                  "page": "mayor of London"
                 }
               ]
             },
             {
-              "text": "Johnson has been Member of Parliament (MP) for Uxbridge and South Ruislip since 2015 and was previously MP for Henley from 2001 to 2008.",
+              "text": "Johnson has been a member of Parliament (MP) for Uxbridge and South Ruislip since 2015 and was previously MP for Henley from 2001 to 2008.",
               "links": [
                 {
-                  "text": "Member of Parliament",
+                  "text": "member of Parliament",
                   "type": "internal",
                   "page": "Member of Parliament (United Kingdom)"
                 },
@@ -11175,15 +11177,6 @@
           "type": "web"
         },
         {
-          "title": "Dominic Raab defends Boris Johnson after PM is pictured not wearing mask on hospital visit",
-          "url": "https://news.sky.com/story/dominic-raab-defends-boris-johnson-after-pm-is-pictured-not-wearing-mask-on-hospital-visit-12464422",
-          "access-date": "2021-11-09",
-          "website": "Sky News",
-          "language": "en",
-          "template": "citation",
-          "type": "web"
-        },
-        {
           "last": "Siad",
           "first": "Analysis by Arnaud",
           "title": "Analysis: A short list of Boris Johnson's U-turns on the pandemic",
@@ -12662,7 +12655,7 @@
         {
           "sentences": [
             {
-              "text": "According to TheyWorkForYou, Johnson \"generally voted against\" what it described as \"measures to prevent climate change\".",
+              "text": "According to TheyWorkForYou, Johnson \"generally voted against\" what it described as \"measures to prevent climate change\" while MP.",
               "links": [
                 {
                   "type": "internal",
@@ -12707,11 +12700,20 @@
               ]
             },
             {
-              "text": "While Mayor, Johnson wrote several columns that were described by The Week as climate skeptical.",
+              "text": "While Mayor, Johnson wrote several columns that were described by The Week and Bob Ward in the New Statesman as climate skeptical.",
               "links": [
                 {
                   "type": "internal",
                   "page": "The Week"
+                },
+                {
+                  "text": "Bob Ward",
+                  "type": "internal",
+                  "page": "Bob Ward (communications director)"
+                },
+                {
+                  "type": "internal",
+                  "page": "New Statesman"
                 },
                 {
                   "text": "climate skeptical",
@@ -12721,12 +12723,13 @@
               ],
               "formatting": {
                 "italic": [
-                  "The Week"
+                  "The Week",
+                  "New Statesman"
                 ]
               }
             },
             {
-              "text": "In two Daily Telegraph columns published in 2012 and 2013 he conflated the distinction between weather and climate and highlighted a factually incorrect claim by weather forecaster and conspiracy theorist Piers Corbyn that reduced solar activity could lead to a \"mini-Ice Age\".",
+              "text": "In two Daily Telegraph columns published in 2012 and 2013, he conflated the distinction between weather and climate and highlighted a factually incorrect claim by weather forecaster and conspiracy theorist Piers Corbyn that reduced solar activity could lead to a \"mini-Ice Age\".",
               "links": [
                 {
                   "type": "internal",
@@ -12939,17 +12942,6 @@
           "type": "web"
         },
         {
-          "last1": "Ward",
-          "first1": "Bob",
-          "title": "Boris Johnson's climate change \"scepticism\" is an embarrassment to London's scientists",
-          "url": "https://www.newstatesman.com/politics/2013/01/boris-johnsons-climate-change-scepticism-embarrassment-londons-scientists",
-          "access-date": "18 November 2021",
-          "work": "New Statesman",
-          "date": "10 June 2021",
-          "template": "citation",
-          "type": "news"
-        },
-        {
           "last1": "Vaughan",
           "first1": "Adam",
           "title": "UK commits to reduce greenhouse gas emissions to net zero by 2050",
@@ -13128,6 +13120,17 @@
           "work": "Bloomberg.com",
           "url": "https://www.bloomberg.com/news/articles/2020-02-05/what-does-boris-johnson-really-think-about-climate-change",
           "access-date": "1 January 2021",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Ward",
+          "first1": "Bob",
+          "title": "Boris Johnson's climate change \"scepticism\" is an embarrassment to London's scientists",
+          "url": "https://www.newstatesman.com/politics/2013/01/boris-johnsons-climate-change-scepticism-embarrassment-londons-scientists",
+          "access-date": "18 November 2021",
+          "work": "New Statesman",
+          "date": "10 June 2021",
           "template": "citation",
           "type": "news"
         }
@@ -13398,10 +13401,12 @@
           "type": "news"
         },
         {
+          "url": "https://www.bbc.com/news/uk-northern-ireland-58574878.amp",
+          "title": "Northern Ireland to Scotland bridge plans 'put to bed'",
+          "url-status": "live",
+          "access-date": "23 November 2021",
           "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
+          "type": "news"
         },
         {
           "title": "Don't fall for Boris Johnson's big lie about the Internal Market Bill and its effect on devolution",

@@ -15,7 +15,8 @@
     "UK MPs 2015–2017",
     "UK MPs 2017–2019",
     "UK MPs 2019–present",
-    "Ministers of State for Housing (UK)"
+    "Ministers of State for Housing (UK)",
+    "Members of the Privy Council of the United Kingdom"
   ],
   "sections": [
     {
@@ -1525,6 +1526,59 @@
               "text": "He also has a son from a previous marriage."
             }
           ]
+        }
+      ]
+    },
+    {
+      "title": "Honours",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "date": "November 2021",
+          "template": "expand list"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "He was sworn in as a member of Her Majesty's Most Honourable Privy Council on 20 September 2021 at Balmoral Castle. This gave him the Honorific Prefix \"The Right Honourable\" for Life.",
+            "links": [
+              {
+                "text": "Her Majesty's Most Honourable Privy Council",
+                "type": "internal",
+                "page": "Privy Council of the United Kingdom"
+              },
+              {
+                "type": "internal",
+                "page": "Balmoral Castle"
+              },
+              {
+                "text": "Honorific Prefix",
+                "type": "internal",
+                "page": "Style (form of address)"
+              },
+              {
+                "type": "internal",
+                "page": "The Right Honourable"
+              }
+            ]
+          }
+        ]
+      ],
+      "references": [
+        {
+          "title": "ORDERS APPROVED AND BUSINESS TRANSACTED AT THE PRIVY COUNCIL HELD BY THE QUEEN AT BALMORAL ON 20TH SEPTEMBER 2021",
+          "url": "https://privycouncil.independent.gov.uk/wp-content/uploads/2021/09/2021-09-20-List-of-Business.pdf",
+          "website": "Privy Council Office",
+          "access-date": "23 November 2021",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
         }
       ]
     },

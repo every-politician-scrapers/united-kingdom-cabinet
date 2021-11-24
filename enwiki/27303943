@@ -1340,10 +1340,12 @@
           "type": "news"
         },
         {
+          "url": "https://www.theguardian.com/business/2021/mar/04/business-leaders-condemn-decision-axe-uk-industry-strategy-panel",
+          "title": "UK business leaders condemn 'sad and bad' axing of industrial strategy panel",
+          "website": "TheGuardian.com",
+          "date": "4 March 2021",
           "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
+          "type": "web"
         }
       ]
     },
