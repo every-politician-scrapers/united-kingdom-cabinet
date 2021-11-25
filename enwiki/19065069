@@ -167,11 +167,6 @@
                 {
                   "type": "internal",
                   "page": "Eurosceptic"
-                },
-                {
-                  "text": "right-wing",
-                  "type": "internal",
-                  "page": "right-wing"
                 }
               ],
               "formatting": {
@@ -761,13 +756,7 @@
             "text": "June 19, 1964"
           },
           "birth_place": {
-            "text": "New York City, New York, US",
-            "links": [
-              {
-                "type": "internal",
-                "page": "New York City"
-              }
-            ]
+            "text": "New York City, US"
           },
           "citizenship": {
             "text": "United Kingdom\n\nUnited States (1964–2016)"
