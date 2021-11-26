@@ -16070,6 +16070,54 @@
               "text": "Johnson declined to apologise, stating that his remarks had come as part of a \"strong liberal defence of everybody's right to wear whatever they want.\""
             }
           ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "According to Dave Hill in The Guardian, Johnson's views on Islam have evolved.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "The Guardian"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "The Guardian"
+                ]
+              }
+            },
+            {
+              "text": "After the 2005 bombings, he questioned the loyalty of British Muslims and said Islamophobia was a \"natural reaction\".",
+              "links": [
+                {
+                  "text": "2005 bombings",
+                  "type": "internal",
+                  "page": "7 July 2005 London bombings"
+                },
+                {
+                  "type": "internal",
+                  "page": "British Muslims"
+                },
+                {
+                  "type": "internal",
+                  "page": "Islamophobia"
+                }
+              ]
+            },
+            {
+              "text": "But by 2008, he blamed terrorism on a minority of Muslims who distort the Qur'an.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Qur'an"
+                }
+              ]
+            },
+            {
+              "text": "And in 2009, he urged Britons to visit their local mosques and learn more about Islam."
+            }
+          ]
         }
       ],
       "templates": [
@@ -16195,6 +16243,14 @@
           "title": "Boris Johnson faces stinging attack over 'derogatory, racist and Islamophobic' remarks",
           "url": "https://www.independent.co.uk/news/uk/politics/boris-johnson-islamophobia-pmqs-tanmanjeet-singh-dhesi-muslim-letterbox-racist-a9091506.html",
           "website": "The Independent",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "author": "Dave Hill",
+          "title": "Boris Johnson converts to Islam",
+          "url": "https://www.theguardian.com/uk/davehillblog/2009/sep/08/boris-johnson-islam-east-london-mosque",
+          "publisher": "The Guardian",
           "template": "citation",
           "type": "news"
         }

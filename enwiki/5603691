@@ -2704,33 +2704,6 @@
               "text": "In the December general election, she was re-elected as MP for Witham with an increased majority of 24,082 (48.8%) votes."
             }
           ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "In January 2020, a report by the Youth Empowerment and Innovation Project said that Patel's approach to tackling youth radicalisation was \"madness\" and the Home Office had been \"disengaged\"."
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "In February 2020, Patel launched a points-based immigration system, which took effect from 1 January 2021.",
-              "links": [
-                {
-                  "text": "points-based immigration system",
-                  "type": "internal",
-                  "page": "Points-based immigration system (United Kingdom)"
-                }
-              ]
-            },
-            {
-              "text": "The system aims to reduce the number of immigrants to the UK by requiring visa applicants to meet a set of criteria, such as a salary threshold, ability to speak English, academic qualifications and working in an understaffed industry."
-            },
-            {
-              "text": "In Parliament on 13 July 2020, Patel said the system \"will enable us to attract the brightest and best – a firmer and fairer system that will take back control of our borders, crack down on foreign criminals and unleash our country’s true potential. We are building a brighter future for Britain and signalling to the world that we are open for business\"."
-            }
-          ]
         }
       ],
       "images": [
@@ -2771,7 +2744,60 @@
           "url-status": "live",
           "template": "citation",
           "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Police and crime",
+      "depth": 2,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "In January 2020, a report by the Youth Empowerment and Innovation Project said that Patel's approach to tackling youth radicalisation was \"madness\" and the Home Office had been \"disengaged\"."
+            }
+          ]
         },
+        {
+          "sentences": [
+            {
+              "text": "After the killing of David Amess, Patel asked all police forces in the United Kingdom to review security arrangements for Members of Parliament.",
+              "links": [
+                {
+                  "text": "killing of David Amess",
+                  "type": "internal",
+                  "page": "killing of David Amess"
+                },
+                {
+                  "text": "police forces in the United Kingdom",
+                  "type": "internal",
+                  "page": "police forces in the United Kingdom"
+                },
+                {
+                  "text": "Members of Parliament",
+                  "type": "internal",
+                  "page": "Member of Parliament (United Kingdom)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Following claims of increased drink spiking in October and November 2021, including via injection, Patel requested an urgent update from the police in relation to the alleged incidents.",
+              "links": [
+                {
+                  "text": "claims of increased drink spiking",
+                  "type": "internal",
+                  "page": "2021 spiking by injection allegations"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
         {
           "last1": "Townsend",
           "first1": "Mark",
@@ -2786,6 +2812,61 @@
           "template": "citation",
           "type": "web"
         },
+        {
+          "date": "2021-10-15",
+          "title": "Man dies in Clayton-le-Woods house collapse blast",
+          "language": "en-GB",
+          "work": "BBC News",
+          "url": "https://www.bbc.com/news/uk-england-lancashire-58918786",
+          "url-status": "live",
+          "access-date": "2021-10-15",
+          "archive-url": "https://web.archive.org/web/20211015211243/https://www.bbc.com/news/uk-england-lancashire-58918786",
+          "archive-date": "15 October 2021",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Wickham",
+          "first1": "Alex",
+          "date": "20 October 2021",
+          "title": "London Playbook: Spike warning — No Plan B for now — Hero to net zero",
+          "work": "Politico",
+          "url": "https://www.politico.eu/newsletter/london-playbook/spike-warning-no-plan-b-for-now-hero-to-net-zero/",
+          "url-status": "live",
+          "access-date": "3 November 2021",
+          "archive-url": "https://web.archive.org/web/20211030234147/https://www.politico.eu/newsletter/london-playbook/spike-warning-no-plan-b-for-now-hero-to-net-zero/",
+          "archive-date": "30 October 2021",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Immigration",
+      "depth": 2,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "In February 2020, Patel launched a points-based immigration system, which took effect from 1 January 2021.",
+              "links": [
+                {
+                  "text": "points-based immigration system",
+                  "type": "internal",
+                  "page": "Points-based immigration system (United Kingdom)"
+                }
+              ]
+            },
+            {
+              "text": "The system aims to reduce the number of immigrants to the UK by requiring visa applicants to meet a set of criteria, such as a salary threshold, ability to speak English, academic qualifications and working in an understaffed industry."
+            },
+            {
+              "text": "In Parliament on 13 July 2020, Patel said the system \"will enable us to attract the brightest and best – a firmer and fairer system that will take back control of our borders, crack down on foreign criminals and unleash our country’s true potential. We are building a brighter future for Britain and signalling to the world that we are open for business\"."
+            }
+          ]
+        }
+      ],
+      "references": [
         {
           "url": "https://www.gov.uk/government/news/home-secretary-announces-new-uk-points-based-immigration-system",
           "title": "UK announces new points-based immigration system",
@@ -2823,8 +2904,380 @@
       ]
     },
     {
-      "title": "Allegations of bullying and of breach of ministerial code",
+      "title": "Asylum Seekers",
+      "depth": 3,
+      "paragraphs": [
+        {
+          "sentences": []
+        },
+        {
+          "sentences": [
+            {
+              "text": "In September 2020 Patel asked officials to look at asylum policies which had been successful in other countries."
+            },
+            {
+              "text": "It was suggested that Ascension Island, more than 4000 mi from the UK, could be used to build an asylum processing centre.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ascension Island"
+                }
+              ]
+            },
+            {
+              "text": "Labour's shadow home secretary Nick Thomas-Symonds said: \"This ludicrous idea is inhumane, completely impractical and wildly expensive - so it seems entirely plausible this Tory government came up with it.\"",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Nick Thomas-Symonds"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In April 2021, 192 refugee, human rights, legal and faith groups signed a letter which condemned a six-week consultation, organised by the Home Office, on proposals to reform the immigration system."
+            },
+            {
+              "text": "Signatories of the letter described the consultation as \"vague, unworkable, cruel and potentially unlawful\"."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In May 2021, a high court judge criticised Patel in court and said he found it \"extremely troubling\" that one of her officials admitted the Home Office may have acted unlawfully in changing its asylum accommodation policy during the COVID-19 pandemic.",
+              "links": [
+                {
+                  "text": "COVID-19 pandemic",
+                  "type": "internal",
+                  "page": "COVID-19 pandemic in the United Kingdom"
+                }
+              ]
+            },
+            {
+              "text": "Following the judge's comments, a solicitor representing Patel apologised on her behalf."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In June 2021, a High Court judge ruled that the Home Office acted unlawfully by housing asylum seekers in an \"unsafe\" and \"squalid\" former army barracks."
+            },
+            {
+              "text": "The judge found that the Home Office failed to look after vulnerable people and noted that a lack of safety measures had contributed to a \"significant\" risk of injury and death from fires or from coronavirus."
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "file": "File:HS Patel and Interior minister Castaner.jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/HS_Patel_and_Interior_minister_Castaner.jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/HS_Patel_and_Interior_minister_Castaner.jpg",
+          "caption": "Patel meets with the French Interior Minister Christophe Castaner in 2019 to discuss the English Channel migrant crossings",
+          "links": []
+        }
+      ],
+      "references": [
+        {
+          "date": "30 September 2020",
+          "title": "Ascension Island: Priti Patel considered outpost for UK asylum centre location",
+          "work": "BBC News",
+          "url": "https://www.bbc.co.uk/news/uk-politics-54349796",
+          "url-status": "live",
+          "access-date": "18 July 2021",
+          "archive-url": "https://web.archive.org/web/20210608152013/https://www.bbc.co.uk/news/uk-politics-54349796",
+          "archive-date": "8 June 2021",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last": "Taylor",
+          "first": "Diane",
+          "date": "2021-04-30",
+          "title": "'Sham': 200 groups criticise UK government consultation on refugee policy",
+          "url": "http://www.theguardian.com/world/2021/apr/30/sham-200-groups-criticise-uk-government-consultation-on-refugee-policy",
+          "url-status": "live",
+          "archive-url": "https://web.archive.org/web/20210519200805/https://www.theguardian.com/world/2021/apr/30/sham-200-groups-criticise-uk-government-consultation-on-refugee-policy",
+          "archive-date": "19 May 2021",
+          "access-date": "2021-05-19",
+          "website": "The Guardian",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Silva",
+          "first": "Chantal Da",
+          "date": "30 April 2021",
+          "title": "UK Accused Of Hosting 'Sham' Consultation On Refugee Policy In Letter Signed By Nearly 200 Groups",
+          "url": "https://www.forbes.com/sites/chantaldasilva/2021/04/30/uk-accused-of-hosting-sham-consultation-on-refugee-policy-in-letter-signed-by-nearly-200-groups/",
+          "url-status": "live",
+          "archive-url": "https://web.archive.org/web/20210519200800/https://www.forbes.com/sites/chantaldasilva/2021/04/30/uk-accused-of-hosting-sham-consultation-on-refugee-policy-in-letter-signed-by-nearly-200-groups/",
+          "archive-date": "19 May 2021",
+          "website": "Forbes",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Taylor",
+          "first": "Diane",
+          "date": "2021-05-06",
+          "title": "Judge criticises Priti Patel over policy for asylum seekers in pandemic",
+          "url": "http://www.theguardian.com/uk-news/2021/may/06/judge-criticises-priti-patel-over-evictions-of-asylum-seekers-in-pandemic",
+          "url-status": "live",
+          "archive-url": "https://web.archive.org/web/20210516033351/https://www.theguardian.com/uk-news/2021/may/06/judge-criticises-priti-patel-over-evictions-of-asylum-seekers-in-pandemic",
+          "archive-date": "16 May 2021",
+          "access-date": "2021-05-19",
+          "website": "The Guardian",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "3 June 2021",
+          "title": "High Court rules Priti Patel's Home Office acted unlawfully by housing asylum seekers in \"filthy\" and \"overcrowded\" army barracks",
+          "url": "https://bywire.news/articles/high-court-rules-priti-patels-home-office-acted-unlawfully-by-housing-asylum-seekers-in-filthy-and-overcrowded-army-barracks",
+          "url-status": "live",
+          "archive-url": "https://web.archive.org/web/20210603130741/https://bywire.news/articles/high-court-rules-priti-patels-home-office-acted-unlawfully-by-housing-asylum-seekers-in-filthy-and-overcrowded-army-barracks",
+          "archive-date": "3 June 2021",
+          "website": "bywire news",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2021-06-03",
+          "title": "Napier Barracks: Housing migrants at barracks unlawful, court rules",
+          "language": "en-GB",
+          "work": "BBC News",
+          "url": "https://www.bbc.com/news/uk-england-kent-57335499",
+          "url-status": "live",
+          "access-date": "2021-06-03",
+          "archive-url": "https://web.archive.org/web/20210603131041/https://www.bbc.com/news/uk-england-kent-57335499",
+          "archive-date": "3 June 2021",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Protests and Cultural issues",
       "depth": 2,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "In June 2020, Patel urged the public not to partake in the UK protests brought along by the murder of George Floyd in the United States, due to the coronavirus outbreak.",
+              "links": [
+                {
+                  "text": "UK protests brought along by the murder of George Floyd in the United States",
+                  "type": "internal",
+                  "page": "George Floyd protests in the United Kingdom"
+                }
+              ]
+            },
+            {
+              "text": "She criticised Black Lives Matter demonstrators in Bristol for toppling the statue of Edward Colston, calling it \"utterly disgraceful\".",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Black Lives Matter"
+                },
+                {
+                  "type": "internal",
+                  "page": "Bristol"
+                },
+                {
+                  "text": "statue of Edward Colston",
+                  "type": "internal",
+                  "page": "statue of Edward Colston"
+                }
+              ]
+            },
+            {
+              "text": "In February 2021, she described the Black Lives Matter protests that occurred in the UK in 2020 as \"dreadful\" and said she did not agree with the gesture of taking the knee."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In June 2021, Patel criticised the England national football team for kneeling against racism before their Euro 2020 games, describing it as \"gesture politics\".",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "England national football team"
+                },
+                {
+                  "text": "kneeling against racism",
+                  "type": "internal",
+                  "page": "taking the knee"
+                },
+                {
+                  "text": "Euro 2020",
+                  "type": "internal",
+                  "page": "UEFA Euro 2020"
+                }
+              ]
+            },
+            {
+              "text": "She further said that spectators had the \"choice\" to boo the players for doing so."
+            },
+            {
+              "text": "In July 2021, after England lost the final match, Patel condemned the racist abuse of England players on social media as \"vile\" and called for police action.",
+              "links": [
+                {
+                  "text": "final match",
+                  "type": "internal",
+                  "page": "UEFA Euro 2020 Final"
+                }
+              ]
+            },
+            {
+              "text": "England player Tyrone Mings criticised Patel as having \"stoke[d] the fire\" with her earlier comment, and then said that she was \"pretend[ing] to be disgusted when the very thing [the national team was] campaigning against happens.\"",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Tyrone Mings"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In September 2020, in a speech at the annual conference of the Police Superintendents' Association, Patel described Extinction Rebellion protesters as \"so-called eco-crusaders turned criminals\" and said Extinction Rebellion was an \"emerging threat\" who were \"attempting to thwart the media's right to publish without fear nor favour\" and that the protests were a \"shameful attack on our way of life, our economy and the livelihoods of the hard-working majority\".",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Police Superintendents' Association"
+                },
+                {
+                  "type": "internal",
+                  "page": "Extinction Rebellion"
+                }
+              ]
+            },
+            {
+              "text": "She also called for a police crackdown, saying she \"refuses point blank to allow that kind of anarchy on our streets\" and \"the very criminals who disrupt our free society must be stopped\"."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "last": "Clifton",
+          "first": "Katy",
+          "date": "6 June 2020",
+          "title": "Priti Patel urges people not to join George Floyd protests and says UK 'must put public health first'",
+          "newspaper": "Evening Standard",
+          "url": "https://www.standard.co.uk/news/uk/priti-patel-george-floyd-protest-uk-a4461681.html",
+          "url-status": "live",
+          "access-date": "7 June 2020",
+          "archive-url": "https://web.archive.org/web/20200607180939/https://www.standard.co.uk/news/uk/priti-patel-george-floyd-protest-uk-a4461681.html",
+          "archive-date": "7 June 2020",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Diver",
+          "first1": "Tony",
+          "date": "7 June 2020",
+          "title": "Statue of slave trader Edward Colston pulled down and thrown into harbour by Bristol protesters",
+          "newspaper": "The Daily Telegraph",
+          "url": "https://www.telegraph.co.uk/news/2020/06/07/edward-colston-statue-pulled-bristol-black-lives-matter-protesters/",
+          "url-status": "live",
+          "access-date": "7 June 2020",
+          "archive-url": "https://web.archive.org/web/20200607170534/https://www.telegraph.co.uk/news/2020/06/07/edward-colston-statue-pulled-bristol-black-lives-matter-protesters/",
+          "archive-date": "7 June 2020",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "date": "7 June 2020",
+          "title": "Priti Patel: Toppling Edward Colston statue 'utterly disgraceful'",
+          "url": "https://news.sky.com/video/priti-patel-toppling-edward-colston-statue-utterly-disgraceful-12002452",
+          "url-status": "live",
+          "archive-url": "https://web.archive.org/web/20200607174047/https://news.sky.com/video/priti-patel-toppling-edward-colston-statue-utterly-disgraceful-12002452",
+          "archive-date": "7 June 2020",
+          "access-date": "7 June 2020",
+          "work": "Sky News",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Parveen",
+          "first": "Nazia",
+          "date": "12 February 2021",
+          "title": "Priti Patel describes Black Lives Matter protests as 'dreadful'",
+          "language": "en",
+          "work": "The Guardian",
+          "url": "http://www.theguardian.com/politics/2021/feb/12/priti-patel-hits-out-at-dreadful-black-lives-matters-protests",
+          "url-status": "live",
+          "access-date": "20 February 2021",
+          "archive-url": "https://web.archive.org/web/20210219121136/https://www.theguardian.com/politics/2021/feb/12/priti-patel-hits-out-at-dreadful-black-lives-matters-protests",
+          "archive-date": "19 February 2021",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Zaffman",
+          "first1": "Henry",
+          "date": "15 June 2021",
+          "title": "England team playing gesture politics by taking the knee, says Priti Patel",
+          "work": "The Times",
+          "url": "https://www.thetimes.co.uk/article/priti-patel-will-not-condemn-booing-fans-kgmln2765",
+          "url-status": "live",
+          "access-date": "13 July 2021",
+          "archive-url": "https://web.archive.org/web/20210713031030/https://www.thetimes.co.uk/article/priti-patel-will-not-condemn-booing-fans-kgmln2765",
+          "archive-date": "13 July 2021",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Elgot",
+          "first1": "Jessica",
+          "date": "13 July 2021",
+          "title": "England's Tyrone Mings criticises Priti Patel over racism remarks",
+          "work": "The Guardian",
+          "url": "https://www.theguardian.com/politics/2021/jul/13/england-tyrone-mings-criticises-priti-patel-over-racism-remarks",
+          "url-status": "live",
+          "access-date": "13 July 2021",
+          "archive-url": "https://web.archive.org/web/20210713071818/https://www.theguardian.com/politics/2021/jul/13/england-tyrone-mings-criticises-priti-patel-over-racism-remarks",
+          "archive-date": "13 July 2021",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last": "Dearden",
+          "first": "Lizzie",
+          "date": "8 September 2020",
+          "title": "Priti Patel calls Extinction Rebellion 'eco-crusaders turned criminals'",
+          "work": "The Independent",
+          "url": "https://www.independent.co.uk/news/uk/home-news/priti-patel-extinction-rebellion-newspapers-protest-sun-climate-crisis-b418295.html",
+          "url-status": "live",
+          "access-date": "9 September 2020",
+          "archive-url": "https://web.archive.org/web/20201021013112/https://www.independent.co.uk/news/uk/home-news/priti-patel-extinction-rebellion-newspapers-protest-sun-climate-crisis-b418295.html",
+          "archive-date": "21 October 2020",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Other Controversies",
+      "depth": 2
+    },
+    {
+      "title": "Allegations of bullying and of breach of ministerial code",
+      "depth": 3,
       "paragraphs": [
         {
           "sentences": [
@@ -3105,221 +3558,8 @@
       ]
     },
     {
-      "title": "Black Lives Matter and anti-racism protests",
-      "depth": 2,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "In June 2020, Patel urged the public not to partake in the UK protests brought along by the murder of George Floyd in the United States, due to the coronavirus outbreak.",
-              "links": [
-                {
-                  "text": "UK protests brought along by the murder of George Floyd in the United States",
-                  "type": "internal",
-                  "page": "George Floyd protests in the United Kingdom"
-                }
-              ]
-            },
-            {
-              "text": "She criticised Black Lives Matter demonstrators in Bristol for toppling the statue of Edward Colston, calling it \"utterly disgraceful\".",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Black Lives Matter"
-                },
-                {
-                  "type": "internal",
-                  "page": "Bristol"
-                },
-                {
-                  "text": "statue of Edward Colston",
-                  "type": "internal",
-                  "page": "statue of Edward Colston"
-                }
-              ]
-            },
-            {
-              "text": "In February 2021, she described the Black Lives Matter protests that occurred in the UK in 2020 as \"dreadful\" and said she did not agree with the gesture of taking the knee."
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "In June 2021, Patel criticised the England national football team for kneeling against racism before their Euro 2020 games, describing it as \"gesture politics\".",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "England national football team"
-                },
-                {
-                  "text": "kneeling against racism",
-                  "type": "internal",
-                  "page": "taking the knee"
-                },
-                {
-                  "text": "Euro 2020",
-                  "type": "internal",
-                  "page": "UEFA Euro 2020"
-                }
-              ]
-            },
-            {
-              "text": "She further said that spectators had the \"choice\" to boo the players for doing so."
-            },
-            {
-              "text": "In July 2021, after England lost the final match, Patel condemned the racist abuse of England players on social media as \"vile\" and called for police action.",
-              "links": [
-                {
-                  "text": "final match",
-                  "type": "internal",
-                  "page": "UEFA Euro 2020 Final"
-                }
-              ]
-            },
-            {
-              "text": "England player Tyrone Mings criticised Patel as having \"stoke[d] the fire\" with her earlier comment, and then said that she was \"pretend[ing] to be disgusted when the very thing [the national team was] campaigning against happens.\"",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Tyrone Mings"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "references": [
-        {
-          "url": "https://www.standard.co.uk/news/uk/priti-patel-george-floyd-protest-uk-a4461681.html",
-          "title": "Priti Patel urges people not to join George Floyd protests and says UK 'must put public health first'",
-          "newspaper": "Evening Standard",
-          "last": "Clifton",
-          "first": "Katy",
-          "date": "6 June 2020",
-          "access-date": "7 June 2020",
-          "archive-date": "7 June 2020",
-          "archive-url": "https://web.archive.org/web/20200607180939/https://www.standard.co.uk/news/uk/priti-patel-george-floyd-protest-uk-a4461681.html",
-          "url-status": "live",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "last1": "Diver",
-          "first1": "Tony",
-          "title": "Statue of slave trader Edward Colston pulled down and thrown into harbour by Bristol protesters",
-          "url": "https://www.telegraph.co.uk/news/2020/06/07/edward-colston-statue-pulled-bristol-black-lives-matter-protesters/",
-          "access-date": "7 June 2020",
-          "newspaper": "The Daily Telegraph",
-          "date": "7 June 2020",
-          "archive-date": "7 June 2020",
-          "archive-url": "https://web.archive.org/web/20200607170534/https://www.telegraph.co.uk/news/2020/06/07/edward-colston-statue-pulled-bristol-black-lives-matter-protesters/",
-          "url-status": "live",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "https://news.sky.com/video/priti-patel-toppling-edward-colston-statue-utterly-disgraceful-12002452",
-          "title": "Priti Patel: Toppling Edward Colston statue 'utterly disgraceful'",
-          "date": "7 June 2020",
-          "work": "Sky News",
-          "access-date": "7 June 2020",
-          "archive-date": "7 June 2020",
-          "archive-url": "https://web.archive.org/web/20200607174047/https://news.sky.com/video/priti-patel-toppling-edward-colston-statue-utterly-disgraceful-12002452",
-          "url-status": "live",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "date": "12 February 2021",
-          "title": "Priti Patel describes Black Lives Matter protests as 'dreadful'",
-          "url": "http://www.theguardian.com/politics/2021/feb/12/priti-patel-hits-out-at-dreadful-black-lives-matters-protests",
-          "access-date": "20 February 2021",
-          "work": "The Guardian",
-          "last": "Parveen",
-          "first": "Nazia",
-          "language": "en",
-          "archive-date": "19 February 2021",
-          "archive-url": "https://web.archive.org/web/20210219121136/https://www.theguardian.com/politics/2021/feb/12/priti-patel-hits-out-at-dreadful-black-lives-matters-protests",
-          "url-status": "live",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "last1": "Zaffman",
-          "first1": "Henry",
-          "title": "England team playing gesture politics by taking the knee, says Priti Patel",
-          "url": "https://www.thetimes.co.uk/article/priti-patel-will-not-condemn-booing-fans-kgmln2765",
-          "access-date": "13 July 2021",
-          "work": "The Times",
-          "date": "15 June 2021",
-          "archive-date": "13 July 2021",
-          "archive-url": "https://web.archive.org/web/20210713031030/https://www.thetimes.co.uk/article/priti-patel-will-not-condemn-booing-fans-kgmln2765",
-          "url-status": "live",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "last1": "Elgot",
-          "first1": "Jessica",
-          "title": "England's Tyrone Mings criticises Priti Patel over racism remarks",
-          "url": "https://www.theguardian.com/politics/2021/jul/13/england-tyrone-mings-criticises-priti-patel-over-racism-remarks",
-          "access-date": "13 July 2021",
-          "work": "The Guardian",
-          "date": "13 July 2021",
-          "archive-date": "13 July 2021",
-          "archive-url": "https://web.archive.org/web/20210713071818/https://www.theguardian.com/politics/2021/jul/13/england-tyrone-mings-criticises-priti-patel-over-racism-remarks",
-          "url-status": "live",
-          "template": "citation",
-          "type": "news"
-        }
-      ]
-    },
-    {
-      "title": "Extinction Rebellion protests",
-      "depth": 2,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "In September 2020, in a speech at the annual conference of the Police Superintendents' Association, Patel described Extinction Rebellion protesters as \"so-called eco-crusaders turned criminals\" and said Extinction Rebellion was an \"emerging threat\" who were \"attempting to thwart the media's right to publish without fear nor favour\" and that the protests were a \"shameful attack on our way of life, our economy and the livelihoods of the hard-working majority\".",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Police Superintendents' Association"
-                },
-                {
-                  "type": "internal",
-                  "page": "Extinction Rebellion"
-                }
-              ]
-            },
-            {
-              "text": "She also called for a police crackdown, saying she \"refuses point blank to allow that kind of anarchy on our streets\" and \"the very criminals who disrupt our free society must be stopped\"."
-            }
-          ]
-        }
-      ],
-      "references": [
-        {
-          "title": "Priti Patel calls Extinction Rebellion 'eco-crusaders turned criminals'",
-          "url": "https://www.independent.co.uk/news/uk/home-news/priti-patel-extinction-rebellion-newspapers-protest-sun-climate-crisis-b418295.html",
-          "date": "8 September 2020",
-          "access-date": "9 September 2020",
-          "work": "The Independent",
-          "last": "Dearden",
-          "first": "Lizzie",
-          "archive-date": "21 October 2020",
-          "archive-url": "https://web.archive.org/web/20201021013112/https://www.independent.co.uk/news/uk/home-news/priti-patel-extinction-rebellion-newspapers-protest-sun-climate-crisis-b418295.html",
-          "url-status": "live",
-          "template": "citation",
-          "type": "news"
-        }
-      ]
-    },
-    {
       "title": "Comments on the legal profession",
-      "depth": 2,
+      "depth": 3,
       "paragraphs": [
         {
           "sentences": [
@@ -3480,12 +3720,9 @@
       ]
     },
     {
-      "title": "Migrants in the English Channel",
-      "depth": 2,
+      "title": "Comments on motives of English channel crossers",
+      "depth": 3,
       "paragraphs": [
-        {
-          "sentences": []
-        },
         {
           "sentences": [
             {
@@ -3498,15 +3735,6 @@
               "text": "Patel has vowed to make the Channel \"unviable\" for migrant boats."
             }
           ]
-        }
-      ],
-      "images": [
-        {
-          "file": "File:HS Patel and Interior minister Castaner.jpg",
-          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/HS_Patel_and_Interior_minister_Castaner.jpg?width=300",
-          "url": "https://wikipedia.org/wiki/Special:Redirect/file/HS_Patel_and_Interior_minister_Castaner.jpg",
-          "caption": "Patel meets with the French Interior Minister Christophe Castaner in 2019 to discuss the English Channel migrant crossings",
-          "links": []
         }
       ],
       "templates": [
@@ -3547,159 +3775,8 @@
       ]
     },
     {
-      "title": "Asylum seekers",
-      "depth": 2,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "In September 2020 Patel asked officials to look at asylum policies which had been successful in other countries."
-            },
-            {
-              "text": "It was suggested that Ascension Island, more than 4000 mi from the UK, could be used to build an asylum processing centre.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Ascension Island"
-                }
-              ]
-            },
-            {
-              "text": "Labour's shadow home secretary Nick Thomas-Symonds said: \"This ludicrous idea is inhumane, completely impractical and wildly expensive - so it seems entirely plausible this Tory government came up with it.\"",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Nick Thomas-Symonds"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "In April 2021, 192 refugee, human rights, legal and faith groups signed a letter which condemned a six-week consultation, organised by the Home Office, on proposals to reform the immigration system."
-            },
-            {
-              "text": "Signatories of the letter described the consultation as \"vague, unworkable, cruel and potentially unlawful\"."
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "In May 2021, a high court judge criticised Patel in court and said he found it \"extremely troubling\" that one of her officials admitted the Home Office may have acted unlawfully in changing its asylum accommodation policy during the COVID-19 pandemic.",
-              "links": [
-                {
-                  "text": "COVID-19 pandemic",
-                  "type": "internal",
-                  "page": "COVID-19 pandemic in the United Kingdom"
-                }
-              ]
-            },
-            {
-              "text": "Following the judge's comments, a solicitor representing Patel apologised on her behalf."
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "In June 2021, a High Court judge ruled that the Home Office acted unlawfully by housing asylum seekers in an \"unsafe\" and \"squalid\" former army barracks."
-            },
-            {
-              "text": "The judge found that the Home Office failed to look after vulnerable people and noted that a lack of safety measures had contributed to a \"significant\" risk of injury and death from fires or from coronavirus."
-            }
-          ]
-        }
-      ],
-      "references": [
-        {
-          "url": "https://www.bbc.co.uk/news/uk-politics-54349796",
-          "title": "Ascension Island: Priti Patel considered outpost for UK asylum centre location",
-          "work": "BBC News",
-          "date": "30 September 2020",
-          "access-date": "18 July 2021",
-          "archive-date": "8 June 2021",
-          "archive-url": "https://web.archive.org/web/20210608152013/https://www.bbc.co.uk/news/uk-politics-54349796",
-          "url-status": "live",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "date": "2021-04-30",
-          "title": "'Sham': 200 groups criticise UK government consultation on refugee policy",
-          "url": "http://www.theguardian.com/world/2021/apr/30/sham-200-groups-criticise-uk-government-consultation-on-refugee-policy",
-          "access-date": "2021-05-19",
-          "website": "The Guardian",
-          "last": "Taylor",
-          "first": "Diane",
-          "language": "en",
-          "archive-date": "19 May 2021",
-          "archive-url": "https://web.archive.org/web/20210519200805/https://www.theguardian.com/world/2021/apr/30/sham-200-groups-criticise-uk-government-consultation-on-refugee-policy",
-          "url-status": "live",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "last": "Silva",
-          "first": "Chantal Da",
-          "title": "UK Accused Of Hosting 'Sham' Consultation On Refugee Policy In Letter Signed By Nearly 200 Groups",
-          "url": "https://www.forbes.com/sites/chantaldasilva/2021/04/30/uk-accused-of-hosting-sham-consultation-on-refugee-policy-in-letter-signed-by-nearly-200-groups/",
-          "date": "30 April 2021",
-          "website": "Forbes",
-          "language": "en",
-          "archive-date": "19 May 2021",
-          "archive-url": "https://web.archive.org/web/20210519200800/https://www.forbes.com/sites/chantaldasilva/2021/04/30/uk-accused-of-hosting-sham-consultation-on-refugee-policy-in-letter-signed-by-nearly-200-groups/",
-          "url-status": "live",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "date": "2021-05-06",
-          "title": "Judge criticises Priti Patel over policy for asylum seekers in pandemic",
-          "url": "http://www.theguardian.com/uk-news/2021/may/06/judge-criticises-priti-patel-over-evictions-of-asylum-seekers-in-pandemic",
-          "access-date": "2021-05-19",
-          "website": "The Guardian",
-          "last": "Taylor",
-          "first": "Diane",
-          "language": "en",
-          "archive-date": "16 May 2021",
-          "archive-url": "https://web.archive.org/web/20210516033351/https://www.theguardian.com/uk-news/2021/may/06/judge-criticises-priti-patel-over-evictions-of-asylum-seekers-in-pandemic",
-          "url-status": "live",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "High Court rules Priti Patel's Home Office acted unlawfully by housing asylum seekers in \"filthy\" and \"overcrowded\" army barracks",
-          "url": "https://bywire.news/articles/high-court-rules-priti-patels-home-office-acted-unlawfully-by-housing-asylum-seekers-in-filthy-and-overcrowded-army-barracks",
-          "date": "3 June 2021",
-          "website": "bywire news",
-          "language": "en",
-          "archive-date": "3 June 2021",
-          "archive-url": "https://web.archive.org/web/20210603130741/https://bywire.news/articles/high-court-rules-priti-patels-home-office-acted-unlawfully-by-housing-asylum-seekers-in-filthy-and-overcrowded-army-barracks",
-          "url-status": "live",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "date": "2021-06-03",
-          "title": "Napier Barracks: Housing migrants at barracks unlawful, court rules",
-          "language": "en-GB",
-          "work": "BBC News",
-          "url": "https://www.bbc.com/news/uk-england-kent-57335499",
-          "access-date": "2021-06-03",
-          "archive-date": "3 June 2021",
-          "archive-url": "https://web.archive.org/web/20210603131041/https://www.bbc.com/news/uk-england-kent-57335499",
-          "url-status": "live",
-          "template": "citation",
-          "type": "news"
-        }
-      ]
-    },
-    {
       "title": "COVID-19 contracts",
-      "depth": 2,
+      "depth": 3,
       "paragraphs": [
         {
           "sentences": [
@@ -3784,6 +3861,34 @@
           "archive-date": "19 May 2021",
           "archive-url": "https://web.archive.org/web/20210519200801/https://www.theguardian.com/politics/2021/may/15/priti-patel-accused-of-lobbying-for-get-rich-quick-20m-ppe-deal",
           "url-status": "live",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Apology as a result of libel claim",
+      "depth": 3,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "In November 2021, Patel apologised to a Muslim man who had been falsely accused in a government press release of being an extremist hate preacher."
+            },
+            {
+              "text": "As a result of his action for libel, the government agreed to delete his name from the press release, and to pay him compensation and his legal costs."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "last1": "Siddique",
+          "first1": "Haroon",
+          "title": "Priti Patel apologises to man falsely described as extremist hate preacher 15 November 2021",
+          "url": "https://www.theguardian.com/politics/2021/nov/15/priti-patel-apologises-to-man-falsely-described-as-extremist-hate-preacher",
+          "access-date": "15 November 2021",
+          "website": "Guardian",
           "template": "citation",
           "type": "web"
         }
@@ -3983,123 +4088,6 @@
           "archive-date": "1 June 2021",
           "archive-url": "https://web.archive.org/web/20210601092613/https://andrewgwynne.co.uk/gwynne-writes-to-pm-over-human-rights-abuses-in-bahrain/",
           "url-status": "live",
-          "template": "citation",
-          "type": "web"
-        }
-      ]
-    },
-    {
-      "title": "Security",
-      "depth": 2,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "After the killing of David Amess, Patel asked all police forces in the United Kingdom to review security arrangements for Members of Parliament.",
-              "links": [
-                {
-                  "text": "killing of David Amess",
-                  "type": "internal",
-                  "page": "killing of David Amess"
-                },
-                {
-                  "text": "police forces in the United Kingdom",
-                  "type": "internal",
-                  "page": "police forces in the United Kingdom"
-                },
-                {
-                  "text": "Members of Parliament",
-                  "type": "internal",
-                  "page": "Member of Parliament (United Kingdom)"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "references": [
-        {
-          "date": "2021-10-15",
-          "title": "Man dies in Clayton-le-Woods house collapse blast",
-          "language": "en-GB",
-          "work": "BBC News",
-          "url": "https://www.bbc.com/news/uk-england-lancashire-58918786",
-          "access-date": "2021-10-15",
-          "archive-date": "15 October 2021",
-          "archive-url": "https://web.archive.org/web/20211015211243/https://www.bbc.com/news/uk-england-lancashire-58918786",
-          "url-status": "live",
-          "template": "citation",
-          "type": "news"
-        }
-      ]
-    },
-    {
-      "title": "Drink spiking",
-      "depth": 2,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Following claims of increased drink spiking in October and November 2021, including via injection, Patel requested an urgent update from the police in relation to the alleged incidents.",
-              "links": [
-                {
-                  "text": "drink spiking",
-                  "type": "internal",
-                  "page": "drink spiking"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "list": [
-            "2021 spiking by injection allegations"
-          ],
-          "template": "main"
-        }
-      ],
-      "references": [
-        {
-          "last1": "Wickham",
-          "first1": "Alex",
-          "title": "London Playbook: Spike warning — No Plan B for now — Hero to net zero",
-          "url": "https://www.politico.eu/newsletter/london-playbook/spike-warning-no-plan-b-for-now-hero-to-net-zero/",
-          "work": "Politico",
-          "date": "20 October 2021",
-          "access-date": "3 November 2021",
-          "archive-date": "30 October 2021",
-          "archive-url": "https://web.archive.org/web/20211030234147/https://www.politico.eu/newsletter/london-playbook/spike-warning-no-plan-b-for-now-hero-to-net-zero/",
-          "url-status": "live",
-          "template": "citation",
-          "type": "news"
-        }
-      ]
-    },
-    {
-      "title": "Apology as a result of libel claim",
-      "depth": 2,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "In November 2021, Patel apologised to a Muslim man who had been falsely accused in a government press release of being an extremist hate preacher."
-            },
-            {
-              "text": "As a result of his action for libel, the government agreed to delete his name from the press release, and to pay him compensation and his legal costs."
-            }
-          ]
-        }
-      ],
-      "references": [
-        {
-          "last1": "Siddique",
-          "first1": "Haroon",
-          "title": "Priti Patel apologises to man falsely described as extremist hate preacher 15 November 2021",
-          "url": "https://www.theguardian.com/politics/2021/nov/15/priti-patel-apologises-to-man-falsely-described-as-extremist-hate-preacher",
-          "website": "Guardian",
-          "access-date": "15 November 2021",
           "template": "citation",
           "type": "web"
         }
