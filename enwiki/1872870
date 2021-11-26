@@ -275,6 +275,10 @@
           "template": "short description"
         },
         {
+          "small": "yes",
+          "template": "pp-blp"
+        },
+        {
           "date": "September 2019",
           "template": "use british english"
         },
