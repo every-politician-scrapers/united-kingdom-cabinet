@@ -2971,6 +2971,19 @@
               "text": "The judge found that the Home Office failed to look after vulnerable people and noted that a lack of safety measures had contributed to a \"significant\" risk of injury and death from fires or from coronavirus."
             }
           ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In November 2021, following the November 2021 English Channel disaster, the French government withdrew an invitation to Patel, to attend a meeting about the Channel boats crisis after Boris Johnson called on France to take back people who crossed the Channel to the UK in small boats.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "November 2021 English Channel disaster"
+                }
+              ]
+            }
+          ]
         }
       ],
       "images": [
@@ -3063,6 +3076,12 @@
           "archive-date": "3 June 2021",
           "template": "citation",
           "type": "news"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
         }
       ]
     },
