@@ -3855,6 +3855,33 @@
               ]
             }
           ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Dorries was criticised in the Digital, Culture, Media and Sport Select Committee by John Nicolson due to her previous tweets towards LBC journalist James O'Brien.",
+              "links": [
+                {
+                  "text": "Digital, Culture, Media and Sport Select Committee",
+                  "type": "internal",
+                  "page": "Digital, Culture, Media and Sport Committee"
+                },
+                {
+                  "type": "internal",
+                  "page": "John Nicolson"
+                },
+                {
+                  "type": "internal",
+                  "page": "LBC"
+                },
+                {
+                  "text": "James O'Brien",
+                  "type": "internal",
+                  "page": "James O'Brien (broadcaster)"
+                }
+              ]
+            }
+          ]
         }
       ],
       "references": [
@@ -3883,6 +3910,19 @@
           "access-date": "12 October 2021",
           "template": "citation",
           "type": "news"
+        },
+        {
+          "last": "Crace",
+          "first": "John",
+          "date": "2021-11-23",
+          "title": "See-nothing, say-nothing Nadine Dorries tests her powers of self-censorship",
+          "url": "https://www.theguardian.com/politics/2021/nov/23/see-nothing-say-nothing-nadine-dorries-tests-her-powers-of-self-censorship",
+          "url-status": "live",
+          "access-date": "2021-11-26",
+          "website": "The Guardian",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
         }
       ]
     },
