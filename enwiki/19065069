@@ -86,7 +86,7 @@
                 {
                   "text": "secretary of state for foreign and Commonwealth affairs",
                   "type": "internal",
-                  "page": "Secretary of State for Foreign and Commonwealth Affairs"
+                  "page": "Foreign Secretary"
                 },
                 {
                   "text": "mayor of London",
@@ -165,8 +165,9 @@
                   "page": "The Daily Telegraph"
                 },
                 {
+                  "text": "Eurosceptic",
                   "type": "internal",
-                  "page": "Eurosceptic"
+                  "page": "Euroscepticism in the United Kingdom"
                 }
               ],
               "formatting": {
@@ -534,6 +535,43 @@
       ],
       "infoboxes": [
         {
+          "embed": {
+            "text": "yes"
+          },
+          "genre": {
+            "text": "Non-fiction"
+          },
+          "notable_works": {
+            "text": "Friends, Voters, Countrymen (2002)\n\nSeventy-Two Virgins (2004)\n\nThe Dream of Rome (2006)\n\nThe Churchill Factor (2014)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Friends, Voters, Countrymen"
+              },
+              {
+                "type": "internal",
+                "page": "Seventy-Two Virgins"
+              },
+              {
+                "type": "internal",
+                "page": "The Dream of Rome"
+              },
+              {
+                "type": "internal",
+                "page": "The Churchill Factor"
+              }
+            ],
+            "formatting": {
+              "italic": [
+                "Friends, Voters, Countrymen",
+                "Seventy-Two Virgins",
+                "The Dream of Rome",
+                "The Churchill Factor"
+              ]
+            }
+          }
+        },
+        {
           "honorific-prefix": {
             "text": "The Right Honourable",
             "links": [
@@ -756,13 +794,7 @@
             "text": "June 19, 1964"
           },
           "birth_place": {
-            "text": "New York City, US",
-            "links": [
-              {
-                "type": "internal",
-                "page": "New York City"
-              }
-            ]
+            "text": "New York City, US"
           },
           "citizenship": {
             "text": "United Kingdom\n\nUnited States (1964–2016)"
@@ -781,7 +813,7 @@
             "text": "Allegra Mostyn-Owen (m. 1987-1993)\n\nMarina Wheeler (m. 1993-2020)\n\nCarrie Symonds (m. 29 May 2021)"
           },
           "children": {
-            "text": "6, including Lara",
+            "text": "6, including Lara (by Wheeler)",
             "links": [
               {
                 "text": "Lara",
