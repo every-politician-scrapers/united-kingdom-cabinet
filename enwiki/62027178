@@ -209,27 +209,6 @@
           "type": "web"
         }
       ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "templates": [
-        {
-          "template": "reflist"
-        },
-        {
-          "template": "bot and crown dependency heads of governments"
-        },
-        {
-          "template": "current heads of government in the uk and dependencies"
-        },
-        {
-          "template": "montserratpms"
-        },
-        {
-          "template": "montserrat-politician-stub"
-        }
-      ]
     }
   ]
 }

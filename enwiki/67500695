@@ -117,56 +117,6 @@
           "type": "web"
         }
       ]
-    },
-    {
-      "title": "Biography",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Panton is an attorney who served as a managing partner for Walkers."
-            },
-            {
-              "text": "Before becoming Premier of the Cayman Islands, Wayne Panton, served as a Minister in the 2013–2017 PPM administration led by former Premier Alden McLaughlin.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Alden McLaughlin"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "references": [
-        {
-          "last": "April 23",
-          "first": "ohtadmin {{!}} on",
-          "last2": "2021",
-          "title": "Attorney Wayne Panton sworn in as Cayman Premier {{!}} New York Carib News",
-          "url": "https://www.nycaribnews.com/articles/attorney-wayne-panton-sworn-in-as-cayman-premier/",
-          "access-date": "2021-04-25",
-          "website": "www.nycaribnews.com",
-          "template": "citation",
-          "type": "web"
-        }
-      ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "templates": [
-        {
-          "template": "reflist"
-        },
-        {
-          "template": "caymanpms"
-        },
-        {
-          "template": "caymans-bio-stub"
-        }
-      ]
     }
   ]
 }

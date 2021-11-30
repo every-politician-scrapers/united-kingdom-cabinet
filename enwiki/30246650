@@ -1,0 +1,208 @@
+{
+  "title": "Nicholas True, Baron True",
+  "pageID": 30246650,
+  "categories": [
+    "Living people",
+    "1951 births",
+    "People educated at Nottingham High School",
+    "Alumni of Peterhouse, Cambridge",
+    "Commanders of the Order of the British Empire",
+    "Conservative Party (UK) councillors",
+    "Conservative Party (UK) life peers",
+    "Councillors in the London Borough of Richmond upon Thames",
+    "Leaders of local authorities of England"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Nicholas Edward True, Baron True (born 31 July 1951) is a British Conservative politician and a member of the House of Lords.",
+              "links": [
+                {
+                  "text": "Conservative",
+                  "type": "internal",
+                  "page": "Conservative Party (UK)"
+                },
+                {
+                  "type": "internal",
+                  "page": "House of Lords"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Nicholas Edward True, Baron True"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "British politician, member House of Lords",
+          "template": "short description"
+        },
+        {
+          "date": "December 2017",
+          "template": "blp sources"
+        },
+        {
+          "date": "December 2017",
+          "template": "use british english"
+        },
+        {
+          "date": "December 2017",
+          "template": "use dmy dates"
+        },
+        {
+          "country": "GBR",
+          "size": "100%",
+          "list": [
+            "CBE"
+          ],
+          "template": "post-nominals"
+        },
+        {
+          "year": "1951",
+          "month": "7",
+          "day": "31",
+          "df": "y",
+          "template": "birth date and age"
+        },
+        {
+          "spouse": "Anne-Marie Elena Kathleen Blanco Hood",
+          "from": "1979",
+          "template": "marriage"
+        },
+        {
+          "country": "GBR",
+          "size": "100%",
+          "list": [
+            "CBE"
+          ],
+          "template": "post-nominals"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific-prefix": {
+            "text": "The Right Honourable",
+            "links": [
+              {
+                "type": "internal",
+                "page": "The Right Honourable"
+              }
+            ]
+          },
+          "name": {
+            "text": "The Lord True"
+          },
+          "image": {
+            "text": "Official portrait of Lord True crop 2.jpg"
+          },
+          "caption": {
+            "text": "True in 2017"
+          },
+          "party": {
+            "text": "Conservative",
+            "links": [
+              {
+                "text": "Conservative",
+                "type": "internal",
+                "page": "Conservative Party (UK)"
+              }
+            ]
+          },
+          "office": {
+            "text": "Minister of State at the Cabinet Office",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Minister of State at the Cabinet Office"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Boris Johnson",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Boris Johnson"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "14 February 2020"
+          },
+          "predecessor": {
+            "text": "David Laws (2015)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "David Laws"
+              }
+            ]
+          },
+          "office4": {
+            "text": "Member of the House of Lords Lord Temporal",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Member of the House of Lords"
+              },
+              {
+                "text": "Lord Temporal",
+                "type": "internal",
+                "page": "Lords Temporal"
+              }
+            ]
+          },
+          "term_start4": {
+            "text": "11 January 2011 Life Peerage",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Life Peerage"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "July 31, 1951"
+          },
+          "nationality": {
+            "text": "British"
+          },
+          "education": {
+            "text": "Nottingham High School",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Nottingham High School"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Peterhouse, Cambridge",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Peterhouse, Cambridge"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Anne-Marie Elena Kathleen Blanco Hood (m. 1979)"
+          },
+          "children": {
+            "text": "3",
+            "number": 3
+          }
+        }
+      ]
+    }
+  ]
+}
