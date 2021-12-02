@@ -820,11 +820,16 @@
             ]
           },
           "alma_mater": {
-            "text": "University of Exeter",
+            "text": "University of Exeter (BA)",
             "links": [
               {
                 "type": "internal",
                 "page": "University of Exeter"
+              },
+              {
+                "text": "BA",
+                "type": "internal",
+                "page": "Bachelor of Arts"
               }
             ]
           },
