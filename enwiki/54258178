@@ -324,6 +324,15 @@
                 "page": "University College, Oxford"
               }
             ]
+          },
+          "education": {
+            "text": "Red House School",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Red House School"
+              }
+            ]
           }
         }
       ],
