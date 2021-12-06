@@ -61,11 +61,12 @@
         {
           "sentences": [
             {
-              "text": "Alexander Boris de Pfeffel Johnson (born 19 June 1964) is a British politician and writer serving as Prime Minister of the United Kingdom and Leader of the Conservative Party since 2019.",
+              "text": "Alexander Boris de Pfeffel Johnson (born 19 June 1964) is a British politician and writer serving as prime minister of the United Kingdom and Leader of the Conservative Party since 2019.",
               "links": [
                 {
+                  "text": "prime minister of the United Kingdom",
                   "type": "internal",
-                  "page": "Prime Minister of the United Kingdom"
+                  "page": "prime minister of the United Kingdom"
                 },
                 {
                   "text": "Leader of the Conservative Party",

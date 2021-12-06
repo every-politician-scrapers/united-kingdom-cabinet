@@ -342,13 +342,6 @@
       ],
       "templates": [
         {
-          "list": [
-            "Rees-Mogg",
-            "Mogg"
-          ],
-          "template": "british barrelled name"
-        },
-        {
           "description": "British Conservative politician",
           "template": "short description"
         },
