@@ -469,6 +469,14 @@
         },
         {
           "list": [
+            "Allegra Mostyn-Owen (m. 1987-1993)",
+            "Marina Wheeler (m. 1993-2020)",
+            "Carrie Symonds (m. 29 May 2021)"
+          ],
+          "template": "unbulleted list"
+        },
+        {
+          "list": [
             "Rachel Johnson (sister)",
             "Jo Johnson (brother)",
             "Julia Johnson (half-sister)",
@@ -810,7 +818,7 @@
             "text": "Allegra Mostyn-Owen (m. 1987-1993)\n\nMarina Wheeler (m. 1993-2020)\n\nCarrie Symonds (m. 29 May 2021)"
           },
           "children": {
-            "text": "6, including Lara (by Wheeler)",
+            "text": "7, including Lara",
             "links": [
               {
                 "text": "Lara",
@@ -903,6 +911,18 @@
           "access-date": "25 September 2020",
           "website": "Newsweek",
           "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last1": "Grylls",
+          "first1": "George",
+          "title": "Boris Johnson to take time off with Carrie after birth of their second baby",
+          "url": "https://www.thetimes.co.uk/article/boris-and-carrie-johnson-announce-birth-of-second-baby-bpnkf9f78",
+          "website": "The Times & Sunday Times",
+          "publisher": "The Times",
+          "date": "9 December 2021",
+          "access-date": "9 December 2021",
           "template": "citation",
           "type": "web"
         },

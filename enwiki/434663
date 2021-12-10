@@ -158,12 +158,17 @@
             "text": "Lindsay Hoyle"
           },
           "honorific-suffix": {
-            "text": "MP",
+            "text": "MP PC",
             "links": [
               {
                 "text": "MP",
                 "type": "internal",
                 "page": "Member of Parliament (United Kingdom)"
+              },
+              {
+                "text": "PC",
+                "type": "internal",
+                "page": "Privy Council of the United Kingdom "
               }
             ]
           },
