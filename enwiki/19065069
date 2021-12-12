@@ -390,7 +390,7 @@
               "text": "Supporters have praised him as humorous and entertaining, with an appeal stretching beyond traditional Conservative voters."
             },
             {
-              "text": "Conversely, his critics have accused him of elitism, cronyism, lying and bigotry.",
+              "text": "Conversely, his critics have accused him of elitism, cronyism, and bigotry.",
               "links": [
                 {
                   "text": "cronyism",
@@ -818,7 +818,7 @@
             "text": "Allegra Mostyn-Owen (m. 1987-1993)\n\nMarina Wheeler (m. 1993-2020)\n\nCarrie Symonds (m. 29 May 2021)"
           },
           "children": {
-            "text": "At least 7; including Lara Johnson-Wheeler",
+            "text": "7, including Lara Johnson-Wheeler",
             "links": [
               {
                 "type": "internal",
@@ -916,12 +916,16 @@
         {
           "last1": "Grylls",
           "first1": "George",
+          "date": "9 December 2021",
           "title": "Boris Johnson to take time off with Carrie after birth of their second baby",
           "url": "https://www.thetimes.co.uk/article/boris-and-carrie-johnson-announce-birth-of-second-baby-bpnkf9f78",
+          "url-status": "live",
           "website": "The Times & Sunday Times",
           "publisher": "The Times",
-          "date": "9 December 2021",
-          "access-date": "9 December 2021",
+          "access-date": "11 December 2021",
+          "archive-url": "https://archive.today/TszqC",
+          "archive-date": "9 December 2021",
+          "url-access": "limited",
           "template": "citation",
           "type": "web"
         },

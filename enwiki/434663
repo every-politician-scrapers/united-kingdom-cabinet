@@ -158,17 +158,12 @@
             "text": "Lindsay Hoyle"
           },
           "honorific-suffix": {
-            "text": "MP PC",
+            "text": "MP",
             "links": [
               {
                 "text": "MP",
                 "type": "internal",
                 "page": "Member of Parliament (United Kingdom)"
-              },
-              {
-                "text": "PC",
-                "type": "internal",
-                "page": "Privy Council of the United Kingdom "
               }
             ]
           },
@@ -342,7 +337,14 @@
             "text": "Lynda Anne Fowler (m. 1974-1982)\n\nCatherine Swindley (m. 1993)"
           },
           "party": {
-            "text": "None (2019–present)"
+            "text": "Speaker (2019–present)",
+            "links": [
+              {
+                "text": "Speaker",
+                "type": "internal",
+                "page": "Speaker of the House of Commons (United Kingdom)"
+              }
+            ]
           },
           "otherparty": {
             "text": "Labour (before 2019)",
