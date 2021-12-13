@@ -37,7 +37,7 @@
         {
           "sentences": [
             {
-              "text": "Priti Sushil Patel (born 29 March 1972) is a British politician who has been Home Secretary since 2019.",
+              "text": "Priti Sushil Patel (born 29 March 1972) is a British politician who has served as Home Secretary since 2019.",
               "links": [
                 {
                   "type": "internal",
@@ -51,8 +51,13 @@
               }
             },
             {
-              "text": "She was Secretary of State for International Development from 2016 to 2017.",
+              "text": "A member of the Conservative Party, she was Secretary of State for International Development from 2016 to 2017.",
               "links": [
+                {
+                  "text": "Conservative Party",
+                  "type": "internal",
+                  "page": "Conservative Party (UK)"
+                },
                 {
                   "type": "internal",
                   "page": "Secretary of State for International Development"
@@ -60,13 +65,8 @@
               ]
             },
             {
-              "text": "A member of the Conservative Party, she has been Member of Parliament (MP) for Witham since 2010.",
+              "text": "Patel has been the Member of Parliament (MP) for Witham since 2010.",
               "links": [
-                {
-                  "text": "Conservative Party",
-                  "type": "internal",
-                  "page": "Conservative Party (UK)"
-                },
                 {
                   "text": "Member of Parliament",
                   "type": "internal",
@@ -76,11 +76,16 @@
                   "text": "Witham",
                   "type": "internal",
                   "page": "Witham (UK Parliament constituency)"
+                },
+                {
+                  "text": "2010",
+                  "type": "internal",
+                  "page": "2010 United Kingdom general election"
                 }
               ]
             },
             {
-              "text": "She is ideologically on the right wing of the Conservative Party, and considers herself to be a Thatcherite.",
+              "text": "She is ideologically on the right wing of the Conservative Party; she considers herself to be a Thatcherite.",
               "links": [
                 {
                   "text": "Thatcherite",
@@ -292,7 +297,7 @@
       ],
       "templates": [
         {
-          "description": "British Conservative politician, UK Home Secretary",
+          "description": "UK Home Secretary",
           "template": "short description"
         },
         {
@@ -528,7 +533,12 @@
             "text": "6 May 2010"
           },
           "predecessor4": {
-            "text": "Constituency established"
+            "text": "Constituency established",
+            "formatting": {
+              "italic": [
+                "Constituency established"
+              ]
+            }
           },
           "majority4": {
             "text": "24,082 (48.8%)"
