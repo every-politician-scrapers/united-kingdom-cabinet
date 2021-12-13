@@ -10,7 +10,7 @@
     "20th-century English non-fiction writers",
     "21st-century Anglicans",
     "21st-century British journalists",
-    "21st-century English writers",
+    "21st-century English non-fiction writers",
     "21st-century prime ministers of the United Kingdom",
     "Alumni of Balliol College, Oxford",
     "Alumni of the European Schools",
@@ -25,7 +25,6 @@
     "English Anglicans",
     "English libertarians",
     "English magazine editors",
-    "English male non-fiction writers",
     "English people of American descent",
     "English people of Circassian descent",
     "English people of German descent",
@@ -51,7 +50,28 @@
     "UK MPs 2019–present",
     "Writers from London",
     "Charters Symonds family",
-    "Bullingdon Club members"
+    "Bullingdon Club members",
+    "21st-century English male writers",
+    "21st-century English novelists",
+    "English columnists",
+    "English male journalists",
+    "English male novelists",
+    "English political journalists",
+    "English satirists",
+    "Journalists from London",
+    "Journalists from New York City",
+    "Journalists from Washington, D.C.",
+    "Novelists from Connecticut",
+    "Novelists from Washington, D.C.",
+    "People from Maida Vale",
+    "People from Notting Hill",
+    "People from the London Borough of Camden",
+    "People from the Upper East Side",
+    "Politicians from Manhattan",
+    "Politicians from Norwalk, Connecticut",
+    "Politicians from Washington, D.C.",
+    "Writers from Manhattan",
+    "Writers from Norwalk, Connecticut"
   ],
   "sections": [
     {
@@ -390,7 +410,7 @@
               "text": "Supporters have praised him as humorous and entertaining, with an appeal stretching beyond traditional Conservative voters."
             },
             {
-              "text": "Conversely, his critics have accused him of elitism, cronyism, and bigotry.",
+              "text": "Conversely, his critics have accused him of elitism, lying, cronyism, and bigotry.",
               "links": [
                 {
                   "text": "cronyism",
