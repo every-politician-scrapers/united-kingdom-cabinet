@@ -838,9 +838,10 @@
             "text": "Allegra Mostyn-Owen (m. 1987-1993)\n\nMarina Wheeler (m. 1993-2020)\n\nCarrie Symonds (m. 29 May 2021)"
           },
           "children": {
-            "text": "at least 7, including Lara Johnson-Wheeler",
+            "text": "7, including Lara",
             "links": [
               {
+                "text": "Lara",
                 "type": "internal",
                 "page": "Lara Johnson-Wheeler"
               }
@@ -946,6 +947,15 @@
           "archive-url": "https://archive.today/TszqC",
           "archive-date": "9 December 2021",
           "url-access": "limited",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Boris and Carrie Johnson announce name of new daughter",
+          "url": "https://www.bbc.com/news/uk-politics-59686354",
+          "website": "BBC News",
+          "publisher": "BBC",
+          "access-date": "16 December 2021",
           "template": "citation",
           "type": "web"
         },
