@@ -952,12 +952,12 @@
         },
         {
           "title": "Boris and Carrie Johnson announce name of new daughter",
+          "work": "BBC News",
+          "date": "16 December 2021",
           "url": "https://www.bbc.com/news/uk-politics-59686354",
-          "website": "BBC News",
-          "publisher": "BBC",
           "access-date": "16 December 2021",
           "template": "citation",
-          "type": "web"
+          "type": "news"
         },
         {
           "litigants": "R (on the application of Miller) (Appellant) v The Prime Minister (Respondent)",
