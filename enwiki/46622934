@@ -87,21 +87,16 @@
         {
           "sentences": [
             {
-              "text": "Born in Southampton to Punjabi Hindu parents who had emigrated from East Africa, Sunak was educated at Winchester College.",
+              "text": "Born in Southampton to British Indian parents who had emigrated from East Africa, Sunak was educated at Winchester College.",
               "links": [
                 {
                   "type": "internal",
                   "page": "Southampton"
                 },
                 {
-                  "text": "Punjabi",
+                  "text": "British Indian",
                   "type": "internal",
-                  "page": "Punjabis"
-                },
-                {
-                  "text": "Hindu",
-                  "type": "internal",
-                  "page": "Hindus"
+                  "page": "British Indians"
                 },
                 {
                   "text": "East Africa",
