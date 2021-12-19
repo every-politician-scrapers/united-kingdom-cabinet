@@ -227,7 +227,7 @@
               ]
             },
             {
-              "text": "When Amber Rudd resigned as a result of the Windrush scandal in 2018, Javid was appointed as her successor as Home Secretary, becoming the first British Asian and the first person of colour to hold one of the Great Offices of State.",
+              "text": "When Amber Rudd resigned as a result of the Windrush scandal in 2018, Javid was appointed as her successor as Home Secretary, becoming the first British Asian to hold one of the great offices of state.",
               "links": [
                 {
                   "type": "internal",
@@ -246,13 +246,9 @@
                   "page": "British Asian"
                 },
                 {
-                  "text": "person of colour",
+                  "text": "great offices of state",
                   "type": "internal",
-                  "page": "person of colour"
-                },
-                {
-                  "type": "internal",
-                  "page": "Great Offices of State"
+                  "page": "great offices of state"
                 }
               ]
             }
@@ -261,10 +257,10 @@
         {
           "sentences": [
             {
-              "text": "After May's resignation, Javid stood for the leadership of the Conservative Party in the 2019 leadership contest, finishing in fourth place.",
+              "text": "After May's resignation, Javid stood for election as leader of the Conservative Party in the 2019 leadership contest, finishing in fourth place.",
               "links": [
                 {
-                  "text": "the leadership of the Conservative Party",
+                  "text": "leader of the Conservative Party",
                   "type": "internal",
                   "page": "Leader of the Conservative Party (UK)"
                 },
@@ -313,20 +309,18 @@
               ]
             },
             {
-              "text": "This made him a prominent figure in the government's response to the COVID-19 pandemic from this point onward, where he supported an end to most generalised public health restrictions such as face mask mandates until the emergence of the Omicron variant in November 2021, and expanded the vaccination programme.",
+              "text": "This made him a prominent figure in the British government response to the COVID-19 pandemic in the United Kingdom.",
               "links": [
                 {
-                  "text": "government's response",
                   "type": "internal",
-                  "page": "British government response to the COVID-19 pandemic"
-                },
+                  "page": "British government response to the COVID-19 pandemic in the United Kingdom"
+                }
+              ]
+            },
+            {
+              "text": "He supported an end to most generalised public health restrictions such as Face masks during the COVID-19 pandemic until emergence of the Omicron variant in November 2021, and expanded the vaccination programme.",
+              "links": [
                 {
-                  "text": "COVID-19 pandemic",
-                  "type": "internal",
-                  "page": "COVID-19 pandemic in the United Kingdom"
-                },
-                {
-                  "text": "face mask mandates",
                   "type": "internal",
                   "page": "Face masks during the COVID-19 pandemic"
                 },
