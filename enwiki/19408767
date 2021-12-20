@@ -24,7 +24,7 @@
         {
           "sentences": [
             {
-              "text": "David George Hamilton Frost, Baron Frost, (born 21 February 1965), is a British diplomat, politician and life peer who served as Minister of State at the Cabinet Office between March and December 2021.",
+              "text": "David George Hamilton Frost, Baron Frost, (born 21 February 1965), is a British diplomat, politician and life peer who was a Minister of State at the Cabinet Office between March and December 2021.",
               "links": [
                 {
                   "text": "life peer",
@@ -43,7 +43,7 @@
               }
             },
             {
-              "text": "Frost served as Chief Negotiator of Task Force Europe from January 2020 until his resignation.",
+              "text": "Frost was Chief Negotiator of Task Force Europe from January 2020 until his resignation in December 2021.",
               "links": [
                 {
                   "text": "Chief Negotiator of Task Force Europe",
@@ -75,7 +75,7 @@
               ]
             },
             {
-              "text": "He served as special adviser to Boris Johnson when the latter served as Foreign Secretary in Theresa May's government.",
+              "text": "He was a special adviser to Boris Johnson when the latter was Foreign Secretary in Theresa May's government.",
               "links": [
                 {
                   "text": "special adviser",
@@ -101,7 +101,7 @@
         {
           "sentences": [
             {
-              "text": "After Johnson was appointed Prime Minister, Frost served as SecretChief Negotiator for Exiting the European Union from 2019 to 2020 and as the Prime Minister's Europe Adviser from 2019 to 2021.",
+              "text": "After Johnson was appointed Prime Minister, Frost was SecretChief Negotiator for Exiting the European Union from 2019 to 2020 and the Prime Minister's Europe Adviser from 2019 to 2021.",
               "links": [
                 {
                   "text": "SecretChief Negotiator for Exiting the European Union",
@@ -211,7 +211,7 @@
             ]
           },
           "name": {
-            "text": "Lord Frost"
+            "text": "The Lord Frost"
           },
           "image": {
             "text": "The Lord Frost (cropped).jpg"
@@ -277,6 +277,19 @@
                 "Office established"
               ]
             }
+          },
+          "successor2": {
+            "text": "Liz Truss (Foreign Office)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Liz Truss"
+              },
+              {
+                "type": "internal",
+                "page": "Foreign Office"
+              }
+            ]
           },
           "office3": {
             "text": "Prime Minister's Europe Adviser",
