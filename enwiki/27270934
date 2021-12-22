@@ -379,21 +379,21 @@
               {
                 "text": "Chief Negotiator of Task Force Europe",
                 "type": "internal",
-                "page": "Cabinet Office"
+                "page": "Foreign, Commonwealth and Development Office"
+              }
+            ]
+          },
+          "deputy2": {
+            "text": "Chris Heaton-Harris",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Chris Heaton-Harris"
               }
             ]
           },
           "term_start2": {
             "text": "19 December 2021"
-          },
-          "primeminister2": {
-            "text": "Boris Johnson",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Boris Johnson"
-              }
-            ]
           },
           "predecessor2": {
             "text": "Lord Frost",
@@ -401,6 +401,15 @@
               {
                 "type": "internal",
                 "page": "Lord Frost"
+              }
+            ]
+          },
+          "primeminister2": {
+            "text": "Boris Johnson",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Boris Johnson"
               }
             ]
           },
@@ -444,6 +453,15 @@
               {
                 "type": "internal",
                 "page": "President of the Board of Trade"
+              }
+            ]
+          },
+          "primeminister4": {
+            "text": "Boris Johnson",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Boris Johnson"
               }
             ]
           },
