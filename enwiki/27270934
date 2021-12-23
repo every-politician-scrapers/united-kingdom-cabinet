@@ -746,6 +746,15 @@
           },
           "website": {
             "text": "Official website"
+          },
+          "education": {
+            "text": "Roundhay School",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Roundhay School"
+              }
+            ]
           }
         }
       ],
