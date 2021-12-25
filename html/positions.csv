@@ -1,0 +1,64 @@
+id,position,country,jurisdiction,deputy,list,start,end,before,after,enwiki
+Q14211,Prime Minister of the United Kingdom,Q145,Q145,Q1507619,Q10729319,1721-04-04,,,,Prime Minister of the United Kingdom
+Q1507619,Deputy Prime Minister of the United Kingdom,Q145,Q145,,,1942-02-19,,,,Deputy Prime Minister of the United Kingdom
+Q609884,First Lord of the Treasury,Q145,Q145,Q531471,,1126,,,,First Lord of the Treasury
+Q217217,Lord Chancellor,Q145,Q145,,,1066,,,,Lord Chancellor
+Q3858507,"Secretary of State for Business, Energy and Industrial Strategy",Q145,Q145,,,1963-10-20,,,,"Secretary of State for Business, Energy and Industrial Strategy"
+Q7444335,"Secretary of State for Children, Schools and Families",Q145,Q145,,,2007-06-28,2010-05-11,,,"Secretary of State for Children, Schools and Families"
+Q3297079,"Secretary of State for Culture, Media and Sport",Q145,Q145,,,1992-04-11,,,,"Secretary of State for Digital, Culture, Media and Sport"
+Q611513,Secretary of State for Economic Affairs,Q145,Q145,,,1964-10-19,,,,Secretary of State for Economic Affairs
+Q3477306,Secretary of State for Education,Q145,Q145,,,1992-04-10,,,,Secretary of State for Education
+Q7444342,Secretary of State for Employment,Q145,Q145,,,,1995,,,Secretary of State for Employment
+Q19968043,Secretary of State for Energy,Q145,Q145,,,1974-01-08,1992-04-11,,,
+Q7444345,Secretary of State for Energy and Climate Change,Q145,Q145,,,2008-10-03,,,,Secretary of State for Energy and Climate Change
+Q14984399,"Secretary of State for Environment, Food and Rural Affairs",Q145,Q145,,,2001-06-08,,,,"Secretary of State for Environment, Food and Rural Affairs"
+Q25860233,Secretary of State for Exiting the European Union,Q145,Q145,,,2016-07-13,2020-01-31,,,Secretary of State for Exiting the European Union
+Q3397406,Secretary of State for Health and Social Care,Q145,Q145,,,1854-10-14,,,,Secretary of State for Health and Social Care
+Q4122328,Secretary of State for Health and Social Services,Q145,Q145,,,,,,,Secretary of State for Health and Social Services
+Q2484309,Home Secretary,Q145,Q145,Q6866360,,1782,,,,Home Secretary
+Q7444350,"Secretary of State for Innovation, Universities and Skills",Q145,Q145,,,2007-06-28,2009-06-05,,,"Secretary of State for Innovation, Universities and Skills"
+Q7444352,Secretary of State for International Development,Q145,Q145,,,1964-10-18,,,,Secretary of State for International Development
+Q25863345,Secretary of State for International Trade,Q145,Q145,,,2016-07-13,,,,Secretary of State for International Trade
+Q1369302,Secretary of State for Northern Ireland,Q145,Q145,,,1972-03-24,,,,Secretary of State for Northern Ireland
+Q19968185,Secretary of State for Prices and Consumer Protection,Q145,Q145,,,1974-03-05,1979-05-04,,,
+Q111784,Secretary of State for Scotland,Q145,Q145,,,1705-02-03,,,,Secretary of State for Scotland
+Q4122313,Secretary of State for the Environment,Q145,Q145,,,1970,1997,,,Secretary of State for the Environment
+Q16974879,"Secretary of State for the Environment, Transport and the Regions",Q145,Q145,,,1997,2001,,,"Secretary of State for the Environment, Transport and the Regions"
+Q3246797,Secretary of State for Transport,Q145,Q145,,,1919-05-19,,,,Secretary of State for Transport
+Q1846384,Secretary of State for Wales,Q145,Q145,Q62681208,,1964-10-18,,,,Secretary of State for Wales
+Q7444357,Secretary of State for Work and Pensions,Q145,Q145,,,1916-12-10,,,,Secretary of State for Work and Pensions
+Q61412205,Minister without Portfolio,Q145,Q145,,,1805-01-01,,,,Minister without portfolio (United Kingdom)
+Q65988624,Minister for the Union,Q145,,,,,,,,Minister for the Union
+Q6865995,Minister for the Cabinet Office,Q145,Q145,,,,,,,Minister for the Cabinet Office
+Q3315116,Minister for the Civil Service,Q145,Q145,,,1968-11-01,,,,Minister for the Civil Service
+Q6865933,Minister of State for Crime and Policing,Q145,Q145,,,,,,,Minister of State for Crime and Policing
+Q108739735,Minister for Intergovernmental Relations,Q145,Q145,,,,,,,Minister for Intergovernmental Relations
+Q3315134,Minister for Women and Equalities,Q145,Q145,,,2007-06-28,,,,Minister for Women and Equalities
+Q108046681,Minister of State at the Cabinet Office,Q145,Q145,,,,,,,
+Q5096927,Chief Secretary to the Treasury,Q145,Q145,,,1961-10-08,,,,Chief Secretary to the Treasury
+Q162754,Chancellor of the Duchy of Lancaster,Q145,Q145,,Q6566674,1361,,,,Chancellor of the Duchy of Lancaster
+Q108045009,COP26 President,Q145,Q145,,,2020-02-13,,,,
+Q3068024,First Secretary of State,Q145,Q145,,,1962-07-13,,,,First Secretary of State
+Q2631987,Attorney General for England and Wales,Q145,Q1156248,Q583809,,1277,,,,Attorney General for England and Wales
+Q910308,Lord Privy Seal,Q145,Q145,,,1307,,,,Lord Privy Seal
+Q943379,Lord President of the Council,Q145,Q145,,,1530,,,,Lord President of the Council
+Q3259412,Lord of the Treasury,Q145,Q145,,,1714,,,,Lords Commissioners of the Treasury
+Q7139041,Parliamentary Secretary to the Treasury,Q145,Q145,,,1660,,,,Parliamentary Secretary to the Treasury
+Q2636053,Leader of the House of Commons,Q145,Q145,,,1721-04-04,,,,Leader of the House of Commons
+Q2012061,Leader of the House of Lords,Q145,Q145,,,1721,,,,Leader of the House of Lords
+Q1449039,Lord Speaker,Q145,,Q5068084,,2006-07-04,,,,Lord Speaker
+Q464103,Speaker of the House of Commons,Q145,Q145,,Q6597905,1377,,,,Speaker of the House of Commons (United Kingdom)
+Q2579905,Governor of the Bank of England,Q145,,,,1694,,,,Governor of the Bank of England
+Q2413909,Governor of the Cayman Islands,,,,,1750,,,,Governor of the Cayman Islands
+Q3247884,Premier of the Cayman Islands,,,,,1992-11,,,,Premier of the Cayman Islands
+Q16140777,Governor of the Falkland Islands,Q145,,,Q1758101,1764,,,,Governor of the Falkland Islands
+Q3064699,Chief Executive of the Falkland Islands,,,,,1983-12,,,,Chief Executive of the Falkland Islands
+Q772727,Governor of Montserrat,Q145,,,,1971,,,,Governor of Montserrat
+Q3245464,Premier of Montserrat,Q13353,Q13353,,,1960-01,,,,Premier of Montserrat
+Q3112726,Governor of the Turks and Caicos Islands,Q145,Q18221,,,1973,,,,Governor of the Turks and Caicos Islands
+Q3401756,Premier of the Turks and Caicos Islands,Q145,Q18221,,,1976-08-31,,,,Premier of the Turks and Caicos Islands
+Q691615,Governor of the Virgin Islands,,,,,1887,,,,Governor of the Virgin Islands
+Q119804,Premier of the Virgin Islands,Q25305,,,,,,,,Premier of the Virgin Islands
+Q3276332,Governor of Pitcairn,Q35672,Q35672,,,1970,,,,Governor of Pitcairn
+Q24188609,Mayor of Pitcairn,,Q35672,,,,,,,
+Q38931,Mayor of London,Q145,Q23306,Q16988627,,2000-05-04,,,,Mayor of London
