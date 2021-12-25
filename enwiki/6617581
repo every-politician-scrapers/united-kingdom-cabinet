@@ -579,6 +579,24 @@
                 "page": "Trinity College, Oxford"
               }
             ]
+          },
+          "residence": {
+            "text": "Gournay Court, Somerset Westminster, London",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Gournay Court"
+              },
+              {
+                "type": "internal",
+                "page": "Somerset"
+              },
+              {
+                "text": "Westminster",
+                "type": "internal",
+                "page": "Westminster, London"
+              }
+            ]
           }
         }
       ],
