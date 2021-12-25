@@ -899,12 +899,16 @@
             ]
           },
           "residence": {
-            "text": "10 Downing Street",
+            "text": "10 Downing Street Chequers",
             "links": [
               {
                 "text": "10 Downing Street",
                 "type": "internal",
                 "page": "10 Downing Street"
+              },
+              {
+                "type": "internal",
+                "page": "Chequers"
               }
             ]
           },
