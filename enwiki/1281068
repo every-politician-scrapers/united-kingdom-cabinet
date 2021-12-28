@@ -411,9 +411,8 @@
           "template": "efn"
         },
         {
-          "cont": "yes",
           "list": [
-            "Ministerial offices 2010–2021"
+            "Ministerial offices\n2010–2021"
           ],
           "titlestyle": "border:1px dashed lightgrey;",
           "template": "collapsed infobox section begin"

@@ -703,13 +703,18 @@
             ]
           },
           "office8": {
-            "text": "Member of Parliament for Tooting",
+            "text": "Member of Parliament",
             "links": [
               {
                 "text": "Member of Parliament",
                 "type": "internal",
                 "page": "Member of Parliament (United Kingdom)"
-              },
+              }
+            ]
+          },
+          "constituency8": {
+            "text": "Tooting",
+            "links": [
               {
                 "text": "Tooting",
                 "type": "internal",
