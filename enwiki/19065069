@@ -819,7 +819,13 @@
             "text": "June 19, 1964"
           },
           "birth_place": {
-            "text": "New York City, US"
+            "text": "New York City, United States",
+            "links": [
+              {
+                "type": "internal",
+                "page": "New York City"
+              }
+            ]
           },
           "citizenship": {
             "text": "United Kingdom\n\nUnited States (1964–2016)"
