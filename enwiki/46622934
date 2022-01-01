@@ -507,6 +507,9 @@
               }
             ]
           },
+          "occupation": {
+            "text": "Politician\n\nbusinessman \n\nformer investment analyst"
+          },
           "children": {
             "text": "2",
             "number": 2
