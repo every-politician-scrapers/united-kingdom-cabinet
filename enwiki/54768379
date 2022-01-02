@@ -219,25 +219,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "https://beta.companieshouse.gov.uk/officers/vzjDDGLzs5rqIS3hdmOcvdQNTDU/appointments",
-          "title": "Nigel James Phillips",
-          "website": "Companies House",
-          "access-date": "2017-08-05",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.gov.uk/government/news/change-of-governor-of-the-falkland-islands",
-          "title": "Change of Governor of the Falklands Islands",
-          "date": "2017-06-30",
-          "website": "www.gov.uk",
-          "access-date": "2017-08-05",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

@@ -371,23 +371,6 @@
             "text": "kwasi4spelthorne.org.uk"
           }
         }
-      ],
-      "references": [
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "url": "http://news.bbc.co.uk/democracylive/hi/representatives/profiles/35251.stm",
-          "title": "Kwasi Kwarteng MP",
-          "work": "BBC Democracy Live",
-          "publisher": "BBC News",
-          "access-date": "25 July 2010",
-          "template": "citation",
-          "type": "news"
-        }
       ]
     }
   ]

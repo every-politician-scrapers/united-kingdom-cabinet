@@ -525,41 +525,6 @@
             "text": "Official portrait, 2017"
           }
         }
-      ],
-      "references": [
-        {
-          "url": "http://news.bbc.co.uk/democracylive/hi/representatives/profiles/62774.stm",
-          "title": "Alok Sharma MP",
-          "publisher": "BBC",
-          "work": "BBC Democracy Live",
-          "access-date": "25 July 2010",
-          "archive-url": "https://web.archive.org/web/20110303055225/http://news.bbc.co.uk/democracylive/hi/representatives/profiles/62774.stm",
-          "archive-date": "3 March 2011",
-          "url-status": "dead",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "date": "28 May 2020",
-          "title": "New dates agreed for COP26 United Nations Climate Change Conference",
-          "url": "https://www.gov.uk/government/news/new-dates-agreed-for-cop26-united-nations-climate-change-conference",
-          "url-status": "live",
-          "access-date": "21 August 2021",
-          "publisher": "UK Department for Business, Energy and Industrial Strategy; Alok Sharma",
-          "template": "citation",
-          "type": "press release"
-        },
-        {
-          "last": "Rincon",
-          "first": "Paul",
-          "author-link": "Paul Rincon",
-          "date": "14 November 2021",
-          "title": "COP26: New global climate deal struck in Glasgow",
-          "work": "BBC News",
-          "url": "https://www.bbc.co.uk/news/world-59277788",
-          "template": "citation",
-          "type": "news"
-        }
       ]
     }
   ]

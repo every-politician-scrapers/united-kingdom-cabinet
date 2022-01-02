@@ -210,23 +210,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "https://theodora.com/wfbcurrent/pitcairn_islands/pitcairn_islands_government.html",
-          "title": "Pitcairn Islands Government 2019",
-          "website": "theodora.com",
-          "language": "en",
-          "access-date": "2019-11-05",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        }
       ]
     }
   ]
