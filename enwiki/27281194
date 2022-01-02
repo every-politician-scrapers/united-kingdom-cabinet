@@ -301,45 +301,6 @@
             "text": "Official portrait, 2017"
           }
         }
-      ],
-      "references": [
-        {
-          "url": "https://www.bbc.co.uk/news/politics/constituencies/W07000066",
-          "title": "Carmarthen West & Pembrokeshire South parliamentary constituency – Election 2019",
-          "access-date": "12 December 2019",
-          "work": "BBC News",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "https://publications.parliament.uk/pa/cm/cmregmem/110124/part2.htm",
-          "title": "House of Commons – The Register of Members' Financial Interests – Part 2: Part 2",
-          "first": "House of",
-          "last": "Commons",
-          "website": "www.publications.parliament.uk",
-          "access-date": "11 June 2017",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "title": "Hart, Simon Anthony",
-          "date": "1 December 2012",
-          "doi": "10.1093/ww/9780199540884.013.U4000714",
-          "template": "citation",
-          "type": "document"
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        }
       ]
     }
   ]

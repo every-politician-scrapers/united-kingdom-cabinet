@@ -285,54 +285,6 @@
             "number": 3
           }
         }
-      ],
-      "references": [
-        {
-          "url": "http://data.parliament.uk/membersdataplatform/services/mnis/members/query/id=4619/BasicDetails/",
-          "title": "Members' Names Data Platform query",
-          "publisher": "UK Parliament",
-          "access-date": "24 April 2019",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "url": "https://www.bbc.com/news/uk-scotland-scotland-politics-49103859",
-          "title": "Alister Jack: What do we know about the new Scottish Secretary?",
-          "date": "24 July 2019",
-          "work": "BBC News",
-          "accessdate": "6 April 2021",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "url": "http://www.itv.com/news/border/2017-06-09/blog-the-voters-of-scotland-have-spoken/",
-          "title": "BLOG: The voters of Scotland have spoken &#124; Border - ITV News",
-          "website": "Itv.com",
-          "date": "9 June 2017",
-          "access-date": "9 June 2017",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://www.parliament.uk/biographies/commons/alister-jack/4619",
-          "title": "Mr Alister Jack MP",
-          "website": "UK Parliament",
-          "access-date": "2 August 2017",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

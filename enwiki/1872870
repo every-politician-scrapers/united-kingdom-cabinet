@@ -484,29 +484,6 @@
             "text": "Politician and author"
           }
         }
-      ],
-      "references": [
-        {
-          "url": "https://www.theguardian.com/theobserver/2012/nov/11/profile-nadine-dorries",
-          "title": "Nadine Dorries: brave Tory rebel or a self-serving stunt woman?",
-          "last": "Gimson",
-          "first": "Andrew",
-          "date": "11 November 2012",
-          "work": "The Observer",
-          "access-date": "6 May 2019",
-          "issn": "0261-3077",
-          "archive-url": "https://web.archive.org/web/20160312105515/http://www.theguardian.com/theobserver/2012/nov/11/profile-nadine-dorries",
-          "archive-date": "12 March 2016",
-          "url-status": "live",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        }
       ]
     }
   ]

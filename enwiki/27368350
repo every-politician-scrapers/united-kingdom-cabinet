@@ -393,38 +393,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "https://www.fwi.co.uk/farm-life/young-farmers/government-chief-whip-mark-spencer-on-how-yfc-shaped-him",
-          "title": "Government chief whip Mark Spencer on how YFC shaped him",
-          "date": "27 September 2019",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "url": "http://news.bbc.co.uk/democracylive/hi/representatives/profiles/72306.stm",
-          "title": "Mark Spencer MP",
-          "publisher": "BBC",
-          "work": "BBC Democracy Live",
-          "access-date": "25 July 2010",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://news.bbc.co.uk/1/shared/election2010/results/constituency/d98.stm",
-          "title": "Election 2010 – Sherwood",
-          "publisher": "BBC News",
-          "access-date": "23 August 2015",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

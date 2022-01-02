@@ -190,27 +190,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "https://www.gov.uk/government/speeches/governor-dakins-inaugural-speech-15-july-2019",
-          "title": "Governor Dakin's inaugural speech: 15 July 2019",
-          "website": "GOV.UK",
-          "language": "en",
-          "access-date": "2020-04-03",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "Nigel Dakin sworn-in as the 15th Governor of the TCI The UK representative vows to ‘preserve and improve’ the nation",
-          "url": "http://tcweeklynews.com/nigel-dakin-swornin-as-the-th-governor-of-the-tci-the-uk-representative-p9832-127.htm",
-          "url-status": "live",
-          "access-date": "2021-01-09",
-          "website": "Turks & Caicos Weekly News",
-          "publisher": "Turks & Caicos Weekly News",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

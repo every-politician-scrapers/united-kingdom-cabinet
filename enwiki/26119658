@@ -383,23 +383,6 @@
             "text": "www.theresecoffey.co.uk"
           }
         }
-      ],
-      "references": [
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "url": "http://news.bbc.co.uk/democracylive/hi/representatives/profiles/37744.stm",
-          "title": "Therese Coffey MP",
-          "publisher": "BBC",
-          "work": "BBC Democracy Live",
-          "access-date": "25 July 2010",
-          "template": "citation",
-          "type": "news"
-        }
       ]
     }
   ]

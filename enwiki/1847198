@@ -807,49 +807,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "title": "Sadiq Khan: The World's 100 Most Influential People",
-          "url": "http://time.com/collection/most-influential-people-2018/5217530/sadiq-khan/",
-          "website": "Time 100",
-          "publisher": "Time",
-          "year": "2018",
-          "access-date": "22 April 2018",
-          "language": "en-us",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.cityam.com/sadiq-khans-ulez-charge-cuts-polluting-vehicles-by-over-a-third-and-bags-tfl-51m/",
-          "website": "CityAM",
-          "title": "Sadiq Khan's Ulez charge cuts polluting vehicles by over a third and bags TfL £51m",
-          "last": "Rogers",
-          "first": "Alexandra",
-          "date": "17 September 2019",
-          "access-date": "18 January 2020",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.standard.co.uk/futurelondon/cleanair/high-pollution-levels-detected-by-40-of-londons-air-quality-sensor-networks-a4196811.html",
-          "website": "London Evening Standard",
-          "title": "London pollution: High levels detected by 40% of capital's air quality sensors",
-          "last": "Bayley",
-          "first": "Sian",
-          "date": "23 July 2019",
-          "access-date": "18 January 2020",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.jerseyeveningpost.com/news/uk-news/2018/06/07/london-mayor-accepts-responsibility-for-crime-situation-as-he-blames-police-cuts/",
-          "title": "London mayor accepts responsibility for crime situation as he blames police cuts",
-          "website": "www.jerseyeveningpost.com",
-          "date": "7 June 2018",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]
