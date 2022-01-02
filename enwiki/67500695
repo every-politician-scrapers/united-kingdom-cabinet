@@ -94,11 +94,11 @@
             "text": "The Honourable"
           },
           "monarch": {
-            "text": "Queen Elizabeth II",
+            "text": "Elizabeth II",
             "links": [
               {
                 "type": "internal",
-                "page": "Queen Elizabeth II"
+                "page": "Elizabeth II"
               }
             ]
           }
