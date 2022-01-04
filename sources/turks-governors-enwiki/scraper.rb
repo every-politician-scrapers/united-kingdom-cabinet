@@ -6,19 +6,6 @@ require 'pry'
 
 require 'open-uri/cached'
 
-# TODO: remove this once upstream supports "22 August, 2011" format
-class DmyDate < WikipediaDate
-  REMAP = { 'present' => '' }.freeze
-
-  def remap
-    super.merge(REMAP)
-  end
-
-  def format_ymd?
-    super || (date_en =~ /^\d{1,2} \w+, \d{4}$/)
-  end
-end
-
 # There are lots of blank images messing up the layout,
 # so just rmeove any image link
 class RemoveImageLinks < Scraped::Response::Decorator
@@ -42,10 +29,6 @@ class OfficeholderList < OfficeholderListBase
   class Officeholder < OfficeholderBase
     def columns
       %w[dates name notes].freeze
-    end
-
-    def date_class
-      DmyDate
     end
 
     def combo_date
