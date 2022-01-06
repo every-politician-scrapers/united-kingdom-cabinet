@@ -26,7 +26,7 @@
         {
           "sentences": [
             {
-              "text": "Stephen Paul Barclay (born 3 May 1972) is a British politician serving as Chancellor of the Duchy of Lancaster and Minister for the Cabinet Office since 2021.",
+              "text": "Stephen Paul Barclay (born 3 May 1972 ) is a British politician serving as Chancellor of the Duchy of Lancaster and Minister for the Cabinet Office since 2021.",
               "links": [
                 {
                   "type": "internal",
@@ -190,8 +190,7 @@
         {
           "country": "GBR",
           "list": [
-            "PC",
-            "MP"
+            "PC"
           ],
           "template": "post-nominals"
         }
