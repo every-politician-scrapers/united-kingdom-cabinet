@@ -289,7 +289,6 @@
           "template": "efn"
         },
         {
-          "cont": "yes",
           "last": "yes",
           "list": [
             "Junior ministerial offices"
@@ -503,7 +502,7 @@
             ]
           },
           "office2": {
-            "text": "Secretary of State for Justice\n Lord High Chancellor of Great Britain",
+            "text": "Secretary of State for Justice\nLord High Chancellor of Great Britain",
             "links": [
               {
                 "type": "internal",
