@@ -436,6 +436,305 @@
             ]
           },
           "office1": {
+            "text": "Chancellor of the Exchequer",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Chancellor of the Exchequer"
+              }
+            ]
+          },
+          "primeminister1": {
+            "text": "Boris Johnson",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Boris Johnson"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "24 July 2019"
+          },
+          "term_end1": {
+            "text": "13 February 2020"
+          },
+          "predecessor1": {
+            "text": "Philip Hammond",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Philip Hammond"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Rishi Sunak",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Rishi Sunak"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Home Secretary",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Home Secretary"
+              }
+            ]
+          },
+          "primeminister2": {
+            "text": "Theresa May",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Theresa May"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "30 April 2018"
+          },
+          "term_end2": {
+            "text": "24 July 2019"
+          },
+          "predecessor2": {
+            "text": "Amber Rudd",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Amber Rudd"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Priti Patel",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Priti Patel"
+              }
+            ]
+          },
+          "office3": {
+            "text": "Secretary of State for Housing, Communities and Local Government",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Secretary of State for Housing, Communities and Local Government"
+              }
+            ]
+          },
+          "primeminister3": {
+            "text": "Theresa May",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Theresa May"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "13 July 2016"
+          },
+          "term_end3": {
+            "text": "30 April 2018"
+          },
+          "predecessor3": {
+            "text": "Greg Clark",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Greg Clark"
+              }
+            ]
+          },
+          "successor3": {
+            "text": "James Brokenshire",
+            "links": [
+              {
+                "type": "internal",
+                "page": "James Brokenshire"
+              }
+            ]
+          },
+          "office4": {
+            "text": "President of the Board of Trade\nSecretary of State for Business, Innovation and Skills",
+            "links": [
+              {
+                "type": "internal",
+                "page": "President of the Board of Trade"
+              },
+              {
+                "text": "Secretary of State for Business, Innovation and Skills",
+                "type": "internal",
+                "page": "Secretary of State for Business, Energy and Industrial Strategy"
+              }
+            ]
+          },
+          "primeminister4": {
+            "text": "David Cameron",
+            "links": [
+              {
+                "type": "internal",
+                "page": "David Cameron"
+              }
+            ]
+          },
+          "term_start4": {
+            "text": "12 May 2015"
+          },
+          "term_end4": {
+            "text": "13 July 2016"
+          },
+          "predecessor4": {
+            "text": "Vince Cable",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Vince Cable"
+              }
+            ]
+          },
+          "successor4": {
+            "text": "Greg Clark",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Greg Clark"
+              }
+            ]
+          },
+          "office5": {
+            "text": "Secretary of State for Culture, Media and Sport",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Secretary of State for Culture, Media and Sport"
+              }
+            ]
+          },
+          "primeminister5": {
+            "text": "David Cameron",
+            "links": [
+              {
+                "type": "internal",
+                "page": "David Cameron"
+              }
+            ]
+          },
+          "term_start5": {
+            "text": "9 April 2014"
+          },
+          "term_end5": {
+            "text": "12 May 2015"
+          },
+          "predecessor5": {
+            "text": "Maria Miller",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Maria Miller"
+              }
+            ]
+          },
+          "successor5": {
+            "text": "John Whittingdale",
+            "links": [
+              {
+                "type": "internal",
+                "page": "John Whittingdale"
+              }
+            ]
+          },
+          "office6": {
+            "text": "Financial Secretary to the Treasury",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Financial Secretary to the Treasury"
+              }
+            ]
+          },
+          "primeminister6": {
+            "text": "David Cameron",
+            "links": [
+              {
+                "type": "internal",
+                "page": "David Cameron"
+              }
+            ]
+          },
+          "term_start6": {
+            "text": "7 October 2013"
+          },
+          "term_end6": {
+            "text": "9 April 2014"
+          },
+          "predecessor6": {
+            "text": "Greg Clark",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Greg Clark"
+              }
+            ]
+          },
+          "successor6": {
+            "text": "Nicky Morgan",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Nicky Morgan"
+              }
+            ]
+          },
+          "office7": {
+            "text": "Economic Secretary to the Treasury",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Economic Secretary to the Treasury"
+              }
+            ]
+          },
+          "primeminister7": {
+            "text": "David Cameron",
+            "links": [
+              {
+                "type": "internal",
+                "page": "David Cameron"
+              }
+            ]
+          },
+          "term_start7": {
+            "text": "4 September 2012"
+          },
+          "term_end7": {
+            "text": "7 October 2013"
+          },
+          "predecessor7": {
+            "text": "Chloe Smith",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Chloe Smith"
+              }
+            ]
+          },
+          "successor7": {
+            "text": "Nicky Morgan",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Nicky Morgan"
+              }
+            ]
+          },
+          "office8": {
             "text": "Member of Parliament\nfor Bromsgrove",
             "links": [
               {
@@ -450,10 +749,10 @@
               }
             ]
           },
-          "term_start1": {
+          "term_start8": {
             "text": "6 May 2010"
           },
-          "predecessor1": {
+          "predecessor8": {
             "text": "Julie Kirkbride",
             "links": [
               {
@@ -462,307 +761,8 @@
               }
             ]
           },
-          "majority1": {
+          "majority8": {
             "text": "23,106 (42.6%)"
-          },
-          "office2": {
-            "text": "Chancellor of the Exchequer",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Chancellor of the Exchequer"
-              }
-            ]
-          },
-          "primeminister2": {
-            "text": "Boris Johnson",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Boris Johnson"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "24 July 2019"
-          },
-          "term_end2": {
-            "text": "13 February 2020"
-          },
-          "predecessor2": {
-            "text": "Philip Hammond",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Philip Hammond"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "Rishi Sunak",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Rishi Sunak"
-              }
-            ]
-          },
-          "office3": {
-            "text": "Home Secretary",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Home Secretary"
-              }
-            ]
-          },
-          "primeminister3": {
-            "text": "Theresa May",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Theresa May"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "30 April 2018"
-          },
-          "term_end3": {
-            "text": "24 July 2019"
-          },
-          "predecessor3": {
-            "text": "Amber Rudd",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Amber Rudd"
-              }
-            ]
-          },
-          "successor3": {
-            "text": "Priti Patel",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Priti Patel"
-              }
-            ]
-          },
-          "office4": {
-            "text": "Secretary of State for Housing, Communities and Local Government",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Secretary of State for Housing, Communities and Local Government"
-              }
-            ]
-          },
-          "primeminister4": {
-            "text": "Theresa May",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Theresa May"
-              }
-            ]
-          },
-          "term_start4": {
-            "text": "13 July 2016"
-          },
-          "term_end4": {
-            "text": "30 April 2018"
-          },
-          "predecessor4": {
-            "text": "Greg Clark",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Greg Clark"
-              }
-            ]
-          },
-          "successor4": {
-            "text": "James Brokenshire",
-            "links": [
-              {
-                "type": "internal",
-                "page": "James Brokenshire"
-              }
-            ]
-          },
-          "office5": {
-            "text": "President of the Board of Trade\nSecretary of State for Business, Innovation and Skills",
-            "links": [
-              {
-                "type": "internal",
-                "page": "President of the Board of Trade"
-              },
-              {
-                "text": "Secretary of State for Business, Innovation and Skills",
-                "type": "internal",
-                "page": "Secretary of State for Business, Energy and Industrial Strategy"
-              }
-            ]
-          },
-          "primeminister5": {
-            "text": "David Cameron",
-            "links": [
-              {
-                "type": "internal",
-                "page": "David Cameron"
-              }
-            ]
-          },
-          "term_start5": {
-            "text": "12 May 2015"
-          },
-          "term_end5": {
-            "text": "13 July 2016"
-          },
-          "predecessor5": {
-            "text": "Vince Cable",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Vince Cable"
-              }
-            ]
-          },
-          "successor5": {
-            "text": "Greg Clark",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Greg Clark"
-              }
-            ]
-          },
-          "office6": {
-            "text": "Secretary of State for Culture, Media and Sport",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Secretary of State for Culture, Media and Sport"
-              }
-            ]
-          },
-          "primeminister6": {
-            "text": "David Cameron",
-            "links": [
-              {
-                "type": "internal",
-                "page": "David Cameron"
-              }
-            ]
-          },
-          "term_start6": {
-            "text": "9 April 2014"
-          },
-          "term_end6": {
-            "text": "12 May 2015"
-          },
-          "predecessor6": {
-            "text": "Maria Miller",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Maria Miller"
-              }
-            ]
-          },
-          "successor6": {
-            "text": "John Whittingdale",
-            "links": [
-              {
-                "type": "internal",
-                "page": "John Whittingdale"
-              }
-            ]
-          },
-          "office7": {
-            "text": "Financial Secretary to the Treasury",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Financial Secretary to the Treasury"
-              }
-            ]
-          },
-          "primeminister7": {
-            "text": "David Cameron",
-            "links": [
-              {
-                "type": "internal",
-                "page": "David Cameron"
-              }
-            ]
-          },
-          "term_start7": {
-            "text": "7 October 2013"
-          },
-          "term_end7": {
-            "text": "9 April 2014"
-          },
-          "predecessor7": {
-            "text": "Greg Clark",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Greg Clark"
-              }
-            ]
-          },
-          "successor7": {
-            "text": "Nicky Morgan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Nicky Morgan"
-              }
-            ]
-          },
-          "office8": {
-            "text": "Economic Secretary to the Treasury",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Economic Secretary to the Treasury"
-              }
-            ]
-          },
-          "primeminister8": {
-            "text": "David Cameron",
-            "links": [
-              {
-                "type": "internal",
-                "page": "David Cameron"
-              }
-            ]
-          },
-          "term_start8": {
-            "text": "4 September 2012"
-          },
-          "term_end8": {
-            "text": "7 October 2013"
-          },
-          "predecessor8": {
-            "text": "Chloe Smith",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Chloe Smith"
-              }
-            ]
-          },
-          "successor8": {
-            "text": "Nicky Morgan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Nicky Morgan"
-              }
-            ]
           },
           "birth_date": {
             "text": "December 5, 1969"
