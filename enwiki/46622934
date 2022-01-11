@@ -478,22 +478,32 @@
             ]
           },
           "nationality": {
-            "text": "British",
+            "text": "British,Indian",
             "links": [
               {
                 "text": "British",
                 "type": "internal",
                 "page": "British people"
+              },
+              {
+                "text": "Indian",
+                "type": "internal",
+                "page": "Indian people"
               }
             ]
           },
           "citizenship": {
-            "text": "British",
+            "text": "British,Indian",
             "links": [
               {
                 "text": "British",
                 "type": "internal",
                 "page": "British people"
+              },
+              {
+                "text": "Indian",
+                "type": "internal",
+                "page": "Indian people"
               }
             ]
           },
