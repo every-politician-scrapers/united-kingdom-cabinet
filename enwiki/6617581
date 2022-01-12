@@ -597,6 +597,15 @@
                 "page": "Westminster, London"
               }
             ]
+          },
+          "religion": {
+            "text": "Roman Catholic",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Roman Catholic"
+              }
+            ]
           }
         }
       ]
