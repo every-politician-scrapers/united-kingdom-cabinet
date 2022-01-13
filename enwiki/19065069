@@ -81,7 +81,7 @@
         {
           "sentences": [
             {
-              "text": "Alexander Boris de Pfeffel Johnson (born 19 June 1964) is an American-born British politician and writer serving as Prime Minister of the United Kingdom and Leader of the Conservative Party since 2019.",
+              "text": "Alexander Boris de Pfeffel Johnson (born 19 June 1964) is a British politician and writer serving as Prime Minister of the United Kingdom and Leader of the Conservative Party since 2019.",
               "links": [
                 {
                   "type": "internal",
@@ -410,17 +410,27 @@
               "text": "Supporters have praised him as humorous and entertaining, with an appeal stretching beyond traditional Conservative voters."
             },
             {
-              "text": "Conversely, his critics have accused him of elitism, cronyism, and bigotry.",
+              "text": "Conversely, his critics have accused him of lying, elitism, cronyism, and bigotry.",
               "links": [
+                {
+                  "text": "elitism",
+                  "type": "internal",
+                  "page": "elitism"
+                },
                 {
                   "text": "cronyism",
                   "type": "internal",
                   "page": "cronyism"
+                },
+                {
+                  "text": "bigotry",
+                  "type": "internal",
+                  "page": "bigotry"
                 }
               ]
             },
             {
-              "text": "Commentators have described his political style as opportunistic, populist or pragmatic.",
+              "text": "Commentators have described his political style as opportunistic, populist, or pragmatic.",
               "links": [
                 {
                   "text": "populist",
