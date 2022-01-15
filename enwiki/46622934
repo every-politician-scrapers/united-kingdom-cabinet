@@ -34,11 +34,6 @@
               "text": "Rishi Sunak (, born 12 May 1980) is a British politician who has served as Chancellor of the Exchequer since February 2020.",
               "links": [
                 {
-                  "text": "British",
-                  "type": "internal",
-                  "page": "British people"
-                },
-                {
                   "type": "internal",
                   "page": "Chancellor of the Exchequer"
                 }
@@ -75,10 +70,6 @@
                   "text": "Richmond (Yorks)",
                   "type": "internal",
                   "page": "Richmond (Yorks) (UK Parliament constituency)"
-                },
-                {
-                  "type": "internal",
-                  "page": "North Yorkshire"
                 },
                 {
                   "text": "2015",
@@ -125,11 +116,6 @@
                 {
                   "type": "internal",
                   "page": "Lincoln College, Oxford"
-                },
-                {
-                  "text": "MBA",
-                  "type": "internal",
-                  "page": "Master of Business Administration"
                 },
                 {
                   "text": "Stanford University",
@@ -458,9 +444,6 @@
           "majority3": {
             "text": "27,210 (47.2%)"
           },
-          "birth_name": {
-            "text": "Rishi Sunak"
-          },
           "birth_date": {
             "text": "May 12, 1980"
           },
@@ -470,30 +453,6 @@
               {
                 "type": "internal",
                 "page": "Southampton"
-              },
-              {
-                "type": "internal",
-                "page": "England"
-              }
-            ]
-          },
-          "nationality": {
-            "text": "British",
-            "links": [
-              {
-                "text": "British",
-                "type": "internal",
-                "page": "British people"
-              }
-            ]
-          },
-          "citizenship": {
-            "text": "British",
-            "links": [
-              {
-                "text": "British",
-                "type": "internal",
-                "page": "British people"
               }
             ]
           },
