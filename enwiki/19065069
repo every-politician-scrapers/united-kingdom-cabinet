@@ -131,16 +131,6 @@
                   "page": "Henley (UK Parliament constituency)"
                 }
               ]
-            },
-            {
-              "text": "He has been described as adhering to the ideology of one-nation conservatism.",
-              "links": [
-                {
-                  "text": "one-nation conservatism",
-                  "type": "internal",
-                  "page": "one-nation conservatism"
-                }
-              ]
             }
           ]
         },
@@ -829,7 +819,7 @@
             "text": "June 19, 1964"
           },
           "birth_place": {
-            "text": "New York City, United States"
+            "text": "New York City, New York, US"
           },
           "citizenship": {
             "text": "United Kingdom\n\nUnited States (1964–2016)"
