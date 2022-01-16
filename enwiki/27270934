@@ -56,7 +56,7 @@
               }
             },
             {
-              "text": "A member of the Conservative Party, Truss has served in various cabinet positions under Prime Ministers David Cameron, Theresa May and Boris Johnson.",
+              "text": "A member of the Conservative Party, she has served in various cabinet positions under Prime Ministers David Cameron, Theresa May and Boris Johnson.",
               "links": [
                 {
                   "text": "Conservative Party",
@@ -292,7 +292,7 @@
       ],
       "templates": [
         {
-          "description": "British Conservative politician, UK Foreign Secretary",
+          "description": "UK Foreign Secretary",
           "template": "short description"
         },
         {
@@ -657,18 +657,13 @@
             "text": "26,195 (50.9%)"
           },
           "party": {
-            "text": "Conservative (1996–present)",
+            "text": "Conservative (1996–present)\n\nLiberal Democrats (before 1996)",
             "links": [
               {
                 "text": "Conservative",
                 "type": "internal",
                 "page": "Conservative Party (UK)"
-              }
-            ]
-          },
-          "otherparty": {
-            "text": "Liberal Democrats (before 1996)",
-            "links": [
+              },
               {
                 "text": "Liberal Democrats",
                 "type": "internal",
@@ -688,8 +683,15 @@
               {
                 "type": "internal",
                 "page": "Oxford"
+              },
+              {
+                "type": "internal",
+                "page": "England"
               }
             ]
+          },
+          "occupation": {
+            "text": "Politician\n\ndiplomat \n\nformer management accountant"
           },
           "spouse": {
             "text": "Hugh O'Leary (m. 2000)"
@@ -704,6 +706,11 @@
               {
                 "type": "internal",
                 "page": "Merton College, Oxford"
+              },
+              {
+                "text": "BA",
+                "type": "internal",
+                "page": "Bachelor of Arts"
               }
             ]
           },
