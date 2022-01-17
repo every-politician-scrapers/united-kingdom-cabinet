@@ -380,10 +380,13 @@
               ]
             },
             {
-              "text": "Johnson initially reacted slowly to the outbreak and resisted introducing lockdown measures, although the vaccination programme was the world's first.",
+              "text": "Johnson initially reacted slowly to the outbreak and resisted introducing lockdown measures."
+            },
+            {
+              "text": "The UK was the first country in the world to start a mass COVID-19 vaccination programme.",
               "links": [
                 {
-                  "text": "vaccination programme",
+                  "text": "COVID-19 vaccination",
                   "type": "internal",
                   "page": "COVID-19 vaccination in the United Kingdom"
                 }
@@ -463,13 +466,6 @@
           "template": "birth date and age"
         },
         {
-          "list": [
-            "United Kingdom",
-            "United States (1964–2016)"
-          ],
-          "template": "unbulleted list"
-        },
-        {
           "spouse": "Allegra Mostyn-Owen",
           "from": "1987",
           "to": "1993",
@@ -507,6 +503,13 @@
             "Helen Tracy Lowe-Porter (great grandmother)"
           ],
           "template": "unbulleted list"
+        },
+        {
+          "list": [
+            "10 Downing Street",
+            "Chequers"
+          ],
+          "template": "ubl"
         },
         {
           "list": [
@@ -819,10 +822,10 @@
             "text": "June 19, 1964"
           },
           "birth_place": {
-            "text": "New York City, New York, US"
+            "text": "New York City, US"
           },
           "citizenship": {
-            "text": "United Kingdom\n\nUnited States (1964–2016)"
+            "text": "British · US (1964–2016)"
           },
           "party": {
             "text": "Conservative",
@@ -899,18 +902,7 @@
             ]
           },
           "residence": {
-            "text": "10 Downing Street Chequers",
-            "links": [
-              {
-                "text": "10 Downing Street",
-                "type": "internal",
-                "page": "10 Downing Street"
-              },
-              {
-                "type": "internal",
-                "page": "Chequers"
-              }
-            ]
+            "text": "10 Downing Street\n\nChequers"
           },
           "signature": {
             "text": "Boris Johnson's signature.svg"
