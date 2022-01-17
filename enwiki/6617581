@@ -518,11 +518,11 @@
             "text": "May 24, 1969"
           },
           "birth_place": {
-            "text": "Hammersmith, London, England",
+            "text": "London, England",
             "links": [
               {
                 "type": "internal",
-                "page": "Hammersmith"
+                "page": "London"
               }
             ]
           },
