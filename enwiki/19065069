@@ -360,7 +360,7 @@
               ]
             },
             {
-              "text": "The COVID-19 pandemic had a major impact on the UK; his government responded with various emergency powers and introduced measures across society to mitigate its impact.",
+              "text": "The COVID-19 pandemic has had a major impact on the UK; the government responded with various emergency powers, introduced measures across society to mitigate its impact, and approved the rollout of a nationwide vaccination programme.",
               "links": [
                 {
                   "text": "COVID-19 pandemic",
@@ -368,7 +368,7 @@
                   "page": "COVID-19 pandemic in the United Kingdom"
                 },
                 {
-                  "text": "his government responded",
+                  "text": "the government responded",
                   "type": "internal",
                   "page": "British government response to the COVID-19 pandemic"
                 },
@@ -376,21 +376,16 @@
                   "text": "emergency powers",
                   "type": "internal",
                   "page": "Coronavirus Act 2020"
-                }
-              ]
-            },
-            {
-              "text": "Johnson initially reacted slowly to the outbreak and resisted introducing lockdown measures."
-            },
-            {
-              "text": "The UK was the first country in the world to start a mass COVID-19 vaccination programme.",
-              "links": [
+                },
                 {
-                  "text": "COVID-19 vaccination",
+                  "text": "nationwide vaccination programme",
                   "type": "internal",
                   "page": "COVID-19 vaccination in the United Kingdom"
                 }
               ]
+            },
+            {
+              "text": "Johnson has been criticised for his slow response to the outbreak, including his resistance to introducing lockdown measures."
             }
           ]
         },
@@ -464,6 +459,13 @@
           "day": "19",
           "df": "yes",
           "template": "birth date and age"
+        },
+        {
+          "list": [
+            "British",
+            "US (1964–2016)"
+          ],
+          "template": "unbulleted list"
         },
         {
           "spouse": "Allegra Mostyn-Owen",
@@ -825,7 +827,7 @@
             "text": "New York City, US"
           },
           "citizenship": {
-            "text": "British · US (1964–2016)"
+            "text": "British\n\nUS (1964–2016)"
           },
           "party": {
             "text": "Conservative",
