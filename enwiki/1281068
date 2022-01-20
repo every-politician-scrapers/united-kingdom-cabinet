@@ -504,11 +504,12 @@
             ]
           },
           "successor1": {
-            "text": "Stephen Barclay",
+            "text": "Steve Barclay",
             "links": [
               {
+                "text": "Steve Barclay",
                 "type": "internal",
-                "page": "Stephen Barclay"
+                "page": "Steve Barclay (politician)"
               }
             ]
           },
@@ -540,7 +541,7 @@
             ]
           },
           "successor2": {
-            "text": "Stephen Barclay"
+            "text": "Steve Barclay"
           },
           "office3": {
             "text": "Secretary of State for Environment, Food and Rural Affairs",
