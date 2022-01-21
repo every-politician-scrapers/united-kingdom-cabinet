@@ -636,11 +636,12 @@
             ]
           },
           "successor5": {
-            "text": "Stephen Barclay",
+            "text": "Steve Barclay",
             "links": [
               {
+                "text": "Steve Barclay",
                 "type": "internal",
-                "page": "Stephen Barclay"
+                "page": "Steve Barclay (politician)"
               }
             ]
           },
