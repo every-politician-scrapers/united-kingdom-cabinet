@@ -253,11 +253,9 @@
           "template": "birth date and age"
         },
         {
-          "list": [
-            "Akshata Murthy",
-            "2009"
-          ],
-          "template": "married"
+          "spouse": "Akshata Murthy",
+          "from": "2009",
+          "template": "marriage"
         },
         {
           "template": "ipac",
@@ -358,11 +356,12 @@
             ]
           },
           "successor1": {
-            "text": "Stephen Barclay",
+            "text": "Steve Barclay",
             "links": [
               {
+                "text": "Steve Barclay",
                 "type": "internal",
-                "page": "Stephen Barclay"
+                "page": "Steve Barclay (politician)"
               }
             ]
           },
@@ -469,6 +468,9 @@
           "occupation": {
             "text": "Politician\n\nbusinessman \n\nformer investment analyst"
           },
+          "spouse": {
+            "text": "Akshata Murthy (m. 2009)"
+          },
           "children": {
             "text": "2",
             "number": 2
@@ -527,6 +529,9 @@
                 "site": "http://www.rishisunak.com/"
               }
             ]
+          },
+          "signature": {
+            "text": "Rishi Sunak signature.svg"
           }
         }
       ]
