@@ -267,7 +267,13 @@
               ]
             },
             {
-              "text": "She is the first female Conservative Foreign Secretary and second British Foreign Secretary."
+              "text": "She is the first female Conservative Foreign Secretary and the second female Foreign Secretary, after Margaret Beckett.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Margaret Beckett"
+                }
+              ]
             },
             {
               "text": "Truss was appointed as the UK government's chief negotiator with the European Union and as the UK chair of the EU–UK Partnership Council on 19 December 2021, succeeding Lord Frost.",
