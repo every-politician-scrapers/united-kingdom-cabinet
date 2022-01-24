@@ -462,8 +462,8 @@
         },
         {
           "list": [
-            "British",
-            "US (1964–2016)"
+            "United Kingdom",
+            "United States (1964–2016)"
           ],
           "template": "unbulleted list"
         },
@@ -827,7 +827,7 @@
             "text": "New York City, US"
           },
           "citizenship": {
-            "text": "British\n\nUS (1964–2016)"
+            "text": "United Kingdom\n\nUnited States (1964–2016)"
           },
           "party": {
             "text": "Conservative",
