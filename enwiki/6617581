@@ -37,7 +37,7 @@
         {
           "sentences": [
             {
-              "text": "Jacob William Rees-Mogg (born 24 May 1969) is a British politician serving as Leader of the House of Commons and Lord President of the Council since 2019, and who has served as Member of Parliament (MP) for North East Somerset since 2010.",
+              "text": "Jacob William Rees-Mogg (born 24 May 1969) is a British politician who was appointed Leader of the House of Commons and Lord President of the Council in 2019, and who was elected Member of Parliament (MP) for North East Somerset in 2010 and subsequent elections.",
               "links": [
                 {
                   "type": "internal",
@@ -133,7 +133,7 @@
               ]
             },
             {
-              "text": "He has amassed a significant fortune: his estimated net worth in 2016 was from £55 million to £150 million, including his wife's expected inheritance."
+              "text": "He amassed a significant fortune: it was estimated at between £55 million and £150 million in 2016, including his wife's expected inheritance."
             },
             {
               "text": "Moving into politics, he unsuccessfully contested the 1997 and 2001 general elections before being elected as the MP for North East Somerset in 2010.",
@@ -156,7 +156,7 @@
               ]
             },
             {
-              "text": "He was reelected in 2015 and 2017, with an increased share of the vote each time, although his vote share fell in the 2019 general election.",
+              "text": "He was re-elected in 2015 and 2017, with an increased share of the vote each time, and in 2019, with a smaller share of the vote.",
               "links": [
                 {
                   "text": "2015",
@@ -169,7 +169,7 @@
                   "page": "2017 United Kingdom general election"
                 },
                 {
-                  "text": "2019 general election",
+                  "text": "2019",
                   "type": "internal",
                   "page": "2019 United Kingdom general election"
                 }
@@ -350,7 +350,7 @@
           "template": "use british english"
         },
         {
-          "date": "March 2021",
+          "date": "January 2022",
           "template": "use dmy dates"
         },
         {

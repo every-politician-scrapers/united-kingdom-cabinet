@@ -22,7 +22,7 @@
         {
           "sentences": [
             {
-              "text": "Natalie Jessica Evans, Baroness Evans of Bowes Park, (born 29 November 1975) is a British politician serving as Leader of the House of Lords since 2016.",
+              "text": "Natalie Jessica Evans, Baroness Evans of Bowes Park, (born 29 November 1975), is a British politician serving as Leader of the House of Lords since 2016.",
               "links": [
                 {
                   "type": "internal",
@@ -225,8 +225,9 @@
             "text": "Member of the House of Lords Lord Temporal",
             "links": [
               {
+                "text": "Member of the House of Lords",
                 "type": "internal",
-                "page": "Member of the House of Lords"
+                "page": "List of members of the House of Lords"
               },
               {
                 "text": "Lord Temporal",
@@ -236,12 +237,12 @@
             ]
           },
           "term_start5": {
-            "text": "28 October 2014 Life Peerage",
+            "text": "28 October 2014 as a life peer",
             "links": [
               {
-                "text": "Life Peerage",
+                "text": "life peer",
                 "type": "internal",
-                "page": "Life peer"
+                "page": "life peer"
               }
             ]
           },

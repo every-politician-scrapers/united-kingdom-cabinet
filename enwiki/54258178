@@ -109,7 +109,7 @@
       ],
       "templates": [
         {
-          "description": "British politician",
+          "description": "British Conservative politician",
           "template": "short description"
         },
         {
@@ -198,13 +198,7 @@
             ]
           },
           "primeminister1": {
-            "text": "Boris Johnson",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Boris Johnson"
-              }
-            ]
+            "text": "Boris Johnson"
           },
           "term_start1": {
             "text": "13 February 2020"
@@ -241,13 +235,7 @@
             ]
           },
           "primeminister2": {
-            "text": "Boris Johnson",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Boris Johnson"
-              }
-            ]
+            "text": "Boris Johnson"
           },
           "term_start2": {
             "text": "27 July 2019"
