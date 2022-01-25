@@ -137,7 +137,7 @@
         {
           "sentences": [
             {
-              "text": "Johnson was educated at Eton College and studied Classics at Balliol College, Oxford.",
+              "text": "Johnson was educated at Eton College and read Classics at Balliol College, Oxford.",
               "links": [
                 {
                   "type": "internal",
@@ -444,7 +444,7 @@
           "template": "use british english"
         },
         {
-          "date": "December 2021",
+          "date": "January 2022",
           "template": "use dmy dates"
         },
         {
