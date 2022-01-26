@@ -88,15 +88,16 @@
               ]
             },
             {
-              "text": "Following the election of Boris Johnson as Prime Minister in July 2019, Kwarteng was promoted to Minister of State for Business, Energy and Clean Growth, attending Cabinet as part of the role.",
+              "text": "Following the election of Boris Johnson as prime minister in July 2019, Kwarteng was promoted to Minister of State for Business, Energy and Clean Growth, attending Cabinet as part of the role.",
               "links": [
                 {
                   "type": "internal",
                   "page": "Boris Johnson"
                 },
                 {
+                  "text": "prime minister",
                   "type": "internal",
-                  "page": "Prime Minister"
+                  "page": "prime minister"
                 },
                 {
                   "type": "internal",
