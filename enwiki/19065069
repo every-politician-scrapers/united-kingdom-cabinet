@@ -137,7 +137,7 @@
         {
           "sentences": [
             {
-              "text": "Johnson was educated at Eton College and read Classics at Balliol College, Oxford.",
+              "text": "Johnson attended Eton College and read Classics at Balliol College, Oxford.",
               "links": [
                 {
                   "type": "internal",
@@ -519,6 +519,9 @@
           ],
           "name": "Boris Johnson website",
           "template": "official website"
+        },
+        {
+          "template": "boris johnson sidebar"
         },
         {
           "template": "ipac",

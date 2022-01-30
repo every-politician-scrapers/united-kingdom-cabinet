@@ -359,6 +359,17 @@
           "template": "efn"
         },
         {
+          "last": "yes",
+          "list": [
+            "Junior ministerial offices"
+          ],
+          "titlestyle": "border:1px dashed lightgrey;",
+          "template": "collapsed infobox section begin"
+        },
+        {
+          "template": "collapsed infobox section end"
+        },
+        {
           "year": "1969",
           "month": "12",
           "day": "5",
@@ -379,6 +390,95 @@
         }
       ],
       "infoboxes": [
+        {
+          "embed": {
+            "text": "yes"
+          },
+          "office": {
+            "text": "Financial Secretary to the Treasury",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Financial Secretary to the Treasury"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "David Cameron",
+            "links": [
+              {
+                "type": "internal",
+                "page": "David Cameron"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "7 October 2013"
+          },
+          "term_end": {
+            "text": "9 April 2014"
+          },
+          "predecessor": {
+            "text": "Greg Clark",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Greg Clark"
+              }
+            ]
+          },
+          "successor": {
+            "text": "Nicky Morgan",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Nicky Morgan"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Economic Secretary to the Treasury",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Economic Secretary to the Treasury"
+              }
+            ]
+          },
+          "primeminister1": {
+            "text": "David Cameron",
+            "links": [
+              {
+                "type": "internal",
+                "page": "David Cameron"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "4 September 2012"
+          },
+          "term_end1": {
+            "text": "7 October 2013"
+          },
+          "predecessor1": {
+            "text": "Chloe Smith",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Chloe Smith"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Nicky Morgan",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Nicky Morgan"
+              }
+            ]
+          }
+        },
         {
           "honorific-prefix": {
             "text": "The Right Honourable",
@@ -651,90 +751,6 @@
             ]
           },
           "office6": {
-            "text": "Financial Secretary to the Treasury",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Financial Secretary to the Treasury"
-              }
-            ]
-          },
-          "primeminister6": {
-            "text": "David Cameron",
-            "links": [
-              {
-                "type": "internal",
-                "page": "David Cameron"
-              }
-            ]
-          },
-          "term_start6": {
-            "text": "7 October 2013"
-          },
-          "term_end6": {
-            "text": "9 April 2014"
-          },
-          "predecessor6": {
-            "text": "Greg Clark",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Greg Clark"
-              }
-            ]
-          },
-          "successor6": {
-            "text": "Nicky Morgan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Nicky Morgan"
-              }
-            ]
-          },
-          "office7": {
-            "text": "Economic Secretary to the Treasury",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Economic Secretary to the Treasury"
-              }
-            ]
-          },
-          "primeminister7": {
-            "text": "David Cameron",
-            "links": [
-              {
-                "type": "internal",
-                "page": "David Cameron"
-              }
-            ]
-          },
-          "term_start7": {
-            "text": "4 September 2012"
-          },
-          "term_end7": {
-            "text": "7 October 2013"
-          },
-          "predecessor7": {
-            "text": "Chloe Smith",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Chloe Smith"
-              }
-            ]
-          },
-          "successor7": {
-            "text": "Nicky Morgan",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Nicky Morgan"
-              }
-            ]
-          },
-          "office8": {
             "text": "Member of Parliament\nfor Bromsgrove",
             "links": [
               {
@@ -749,10 +765,10 @@
               }
             ]
           },
-          "term_start8": {
+          "term_start6": {
             "text": "6 May 2010"
           },
-          "predecessor8": {
+          "predecessor6": {
             "text": "Julie Kirkbride",
             "links": [
               {
@@ -761,7 +777,7 @@
               }
             ]
           },
-          "majority8": {
+          "majority6": {
             "text": "23,106 (42.6%)"
           },
           "birth_date": {
