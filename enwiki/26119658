@@ -32,12 +32,8 @@
         {
           "sentences": [
             {
-              "text": "Thérèse Anne Coffey (born 18 November 1971) is a British Member of Parliament, Secretary of State for Work and Pensions since 2019.",
+              "text": "Thérèse Anne Coffey (born 18 November 1971) is a British politician serving as Secretary of State for Work and Pensions since 2019.",
               "links": [
-                {
-                  "type": "internal",
-                  "page": "Member of Parliament"
-                },
                 {
                   "type": "internal",
                   "page": "Secretary of State for Work and Pensions"
@@ -79,7 +75,32 @@
         {
           "sentences": [
             {
-              "text": "After Amber Rudd resigned from Boris Johnson's cabinet, Coffey was appointed to the role of Secretary of State for Work and Pensions in September 2019.",
+              "text": "Coffey served under Prime Minister Theresa May as a Parliamentary Under-Secretary of State at the Department for Environment, Food and Rural Affairs from 2016 to 2019, before serving under Prime Minister Boris Johnson as a Minister of State at the same department from July to September 2019.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Theresa May"
+                },
+                {
+                  "type": "internal",
+                  "page": "Parliamentary Under-Secretary of State"
+                },
+                {
+                  "type": "internal",
+                  "page": "Department for Environment, Food and Rural Affairs"
+                },
+                {
+                  "type": "internal",
+                  "page": "Boris Johnson"
+                },
+                {
+                  "type": "internal",
+                  "page": "Minister of State"
+                }
+              ]
+            },
+            {
+              "text": "After Amber Rudd resigned from Johnson's cabinet, Coffey was appointed to the role of Secretary of State for Work and Pensions in September 2019.",
               "links": [
                 {
                   "type": "internal",

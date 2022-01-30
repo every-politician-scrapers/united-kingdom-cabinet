@@ -225,11 +225,15 @@
             ]
           },
           "relations": {
-            "text": "Michael Misick (brother)",
+            "text": "Michael Misick (brother) \nAriel Misick (brother)",
             "links": [
               {
                 "type": "internal",
                 "page": "Michael Misick"
+              },
+              {
+                "type": "internal",
+                "page": "Ariel Misick"
               }
             ]
           },

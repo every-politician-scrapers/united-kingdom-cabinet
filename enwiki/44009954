@@ -133,6 +133,9 @@
           "image": {
             "text": "File:Official portrait of Baroness Evans of Bowes Park crop 2.jpg"
           },
+          "caption": {
+            "text": "Official portrait, 2018"
+          },
           "office1": {
             "text": "Leader of the House of Lords Lord Keeper of the Privy Seal",
             "links": [
@@ -237,12 +240,11 @@
             ]
           },
           "term_start5": {
-            "text": "28 October 2014 as a life peer",
+            "text": "28 October 2014 Life Peerage",
             "links": [
               {
-                "text": "life peer",
                 "type": "internal",
-                "page": "life peer"
+                "page": "Life Peerage"
               }
             ]
           },

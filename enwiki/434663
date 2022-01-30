@@ -155,8 +155,13 @@
             ]
           },
           "honorific-suffix": {
-            "text": "MP",
+            "text": "PC MP",
             "links": [
+              {
+                "text": "PC",
+                "type": "internal",
+                "page": "Privy Council of the United Kingdom"
+              },
               {
                 "text": "MP",
                 "type": "internal",
