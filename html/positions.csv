@@ -1,5 +1,5 @@
 id,position,country,jurisdiction,deputy,list,start,end,before,after,enwiki
-Q9134365,monarch of the United Kingdom,Q145,Q145,,,,,Q110324075,,Monarch of the United Kingdom
+Q9134365,Monarchy of the United Kingdom,Q145,Q145,,,,,Q110324075,,Monarch of the United Kingdom
 Q14211,Prime Minister of the United Kingdom,Q145,Q145,Q1507619,Q10729319,1721-04-04,,,,Prime Minister of the United Kingdom
 Q1507619,Deputy Prime Minister of the United Kingdom,Q145,Q145,,,1942-02-19,,,,Deputy Prime Minister of the United Kingdom
 Q609884,First Lord of the Treasury,Q145,Q145,Q531471,,1126,,,,First Lord of the Treasury
@@ -10,7 +10,7 @@ Q3858507,"Secretary of State for Business, Energy and Industrial Strategy",Q145,
 Q7444335,"Secretary of State for Children, Schools and Families",Q145,Q145,,,2007-06-28,2010-05-11,,,"Secretary of State for Children, Schools and Families"
 Q7444337,Secretary of State for Commonwealth Relations,Q145,Q145,,,1947,1966,Q7444340,Q7444336,Secretary of State for Commonwealth Relations
 Q7444338,Secretary of State for Constitutional Affairs,Q145,Q145,,,2003-06-12,2007-05-08,,Q3477307,Secretary of State for Constitutional Affairs
-Q3297079,"Secretary of State for Culture, Media and Sport",Q145,Q145,,,1992-04-11,,,,"Secretary of State for Digital, Culture, Media and Sport"
+Q3297079,"Secretary of State for Digital, Culture, Media and Sport",Q145,Q145,,,1992-04-11,,,,"Secretary of State for Digital, Culture, Media and Sport"
 Q2747647,Secretary of State for Defence,Q145,Q145,Q6866379,,1964-04-01,,Q3387159,,Secretary of State for Defence
 Q7444340,Secretary of State for Dominion Affairs,Q145,Q145,,,1925-06-11,,,Q7444337,Secretary of State for Dominion Affairs
 Q611513,Secretary of State for Economic Affairs,Q145,Q145,,,1964-10-19,,,,Secretary of State for Economic Affairs
