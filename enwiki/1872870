@@ -33,7 +33,7 @@
         {
           "sentences": [
             {
-              "text": "Nadine Vanessa Dorries (' Bargery'''; born 21 May 1957) is a British politician serving as Secretary of State for Digital, Culture, Media and Sport since 2021.",
+              "text": "Nadine Vanessa Dorries (née Bargery; born 21 May 1957) is a British politician serving as Secretary of State for Digital, Culture, Media and Sport since 2021.",
               "links": [
                 {
                   "type": "internal",
@@ -43,7 +43,7 @@
               "formatting": {
                 "bold": [
                   "Nadine Vanessa Dorries",
-                  "' "
+                  "Bargery"
                 ]
               }
             },
@@ -77,16 +77,33 @@
         {
           "sentences": [
             {
-              "text": "Born in Liverpool to a working-class family, Dorries began work as a trainee nurse and subsequently became a medical representative.",
+              "text": "Born in Liverpool to a working-class family, Dorries was raised in the city's Anfield district and the nearby towns of Halewood and Runcorn.",
               "links": [
                 {
                   "type": "internal",
                   "page": "Liverpool"
                 },
                 {
-                  "text": "nurse",
+                  "text": "Anfield",
                   "type": "internal",
-                  "page": "nurse"
+                  "page": "Anfield (suburb)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Halewood"
+                },
+                {
+                  "type": "internal",
+                  "page": "Runcorn"
+                }
+              ]
+            },
+            {
+              "text": "She began work as a trainee nurse in Warrington and subsequently became a medical representative.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Warrington"
                 }
               ]
             },
@@ -100,7 +117,7 @@
               ]
             },
             {
-              "text": "After returning to the UK, she founded Company Kids Ltd; which provided child day-care services for working parents."
+              "text": "After returning to England, she founded Company Kids Ltd; which provided child day-care services for working parents."
             },
             {
               "text": "She sold the company in 1998."
@@ -140,7 +157,7 @@
               ]
             },
             {
-              "text": "As a backbencher, she introduced several unsuccessful Private Member's Bills, including attempts to reduce the time limit for abortions in the UK and changes to the rules regarding counselling for the women involved, and the advocacy of sexual abstinence for girls in sex education.",
+              "text": "As a backbencher, she introduced several unsuccessful private member's bills, including attempts to reduce the time limit for abortions in the UK and changes to the rules regarding counselling for the women involved, and the advocacy of sexual abstinence for girls in sex education.",
               "links": [
                 {
                   "text": "backbencher",
@@ -148,14 +165,19 @@
                   "page": "backbencher"
                 },
                 {
-                  "text": "Private Member's Bills",
+                  "text": "private member's bills",
                   "type": "internal",
-                  "page": "Private member's bill"
+                  "page": "private member's bill"
                 },
                 {
                   "text": "abortions in the UK",
                   "type": "internal",
                   "page": "Abortion in the United Kingdom"
+                },
+                {
+                  "text": "sexual abstinence for girls in sex education",
+                  "type": "internal",
+                  "page": "Abstinence-only sex education"
                 }
               ]
             },
@@ -211,14 +233,14 @@
               }
             },
             {
-              "text": "The whip was returned to Dorries in 2013 and she was re-admitted to the parliamentary party."
+              "text": "It was returned in 2013 and she was re-admitted to the parliamentary party."
             }
           ]
         },
         {
           "sentences": [
             {
-              "text": "In July 2019, Boris Johnson appointed Dorries as Parliamentary Under-Secretary of State at the Department of Health and Social Care with responsibility for mental health, suicide prevention and patient safety and in May 2020 she was advanced as Minister of State.",
+              "text": "In July 2019, Boris Johnson appointed Dorries as Parliamentary Under-Secretary of State at the Department of Health and Social Care with responsibility for mental health, suicide prevention, and patient safety.",
               "links": [
                 {
                   "type": "internal",
@@ -246,7 +268,12 @@
                   "text": "patient safety",
                   "type": "internal",
                   "page": "patient safety"
-                },
+                }
+              ]
+            },
+            {
+              "text": "In May 2020, she was advanced to Minister of State.",
+              "links": [
                 {
                   "type": "internal",
                   "page": "Minister of State"
@@ -254,15 +281,12 @@
               ]
             },
             {
-              "text": "In Johnson's Cabinet reshuffle of September 2021, he promoted her as Secretary of State for Digital, Culture, Media and Sport.",
+              "text": "During Johnson's cabinet reshuffle in September 2021, he promoted her to Secretary of State for Digital, Culture, Media and Sport.",
               "links": [
                 {
+                  "text": "Johnson's cabinet reshuffle",
                   "type": "internal",
-                  "page": "Cabinet reshuffle"
-                },
-                {
-                  "type": "internal",
-                  "page": "Secretary of State for Digital, Culture, Media and Sport"
+                  "page": "2021 British cabinet reshuffle"
                 }
               ]
             }
@@ -308,11 +332,9 @@
         {
           "spouse": "Paul Dorries",
           "from": "1984",
+          "to": "2007",
           "end": "divorced",
           "template": "marriage"
-        },
-        {
-          "template": "née"
         }
       ],
       "infoboxes": [
@@ -448,23 +470,16 @@
             "text": "May 21, 1957"
           },
           "birth_place": {
-            "text": "Liverpool, Lancashire, England",
+            "text": "Liverpool, England",
             "links": [
               {
                 "type": "internal",
                 "page": "Liverpool"
-              },
-              {
-                "type": "internal",
-                "page": "Lancashire"
               }
             ]
           },
-          "nationality": {
-            "text": "British"
-          },
           "spouse": {
-            "text": "Paul Dorries (m. 1984)"
+            "text": "Paul Dorries (m. 1984-2007)"
           },
           "party": {
             "text": "Conservative",
@@ -481,7 +496,7 @@
             "number": 3
           },
           "occupation": {
-            "text": "Politician and author"
+            "text": "Politician, author"
           }
         }
       ]
