@@ -165,27 +165,12 @@
               ]
             },
             {
-              "text": "In 1989, he became the Brussels correspondent, and later political columnist, for The Daily Telegraph, where his articles exerted a strong Eurosceptic influence on the British right-wing of politics.",
+              "text": "In 1989, he became the Brussels correspondent, and later political columnist, for The Daily Telegraph, and was editor of The Spectator magazine from 1999 to 2005.",
               "links": [
                 {
                   "type": "internal",
                   "page": "The Daily Telegraph"
                 },
-                {
-                  "text": "Eurosceptic",
-                  "type": "internal",
-                  "page": "Euroscepticism in the United Kingdom"
-                }
-              ],
-              "formatting": {
-                "italic": [
-                  "The Daily Telegraph"
-                ]
-              }
-            },
-            {
-              "text": "He was editor of The Spectator magazine from 1999 to 2005.",
-              "links": [
                 {
                   "type": "internal",
                   "page": "The Spectator"
@@ -193,6 +178,7 @@
               ],
               "formatting": {
                 "italic": [
+                  "The Daily Telegraph,",
                   "The Spectator"
                 ]
               }
@@ -360,7 +346,7 @@
               ]
             },
             {
-              "text": "The COVID-19 pandemic has had a major impact on the UK; the government responded with various emergency powers, introduced measures across society to mitigate its impact, and approved the rollout of a nationwide vaccination programme.",
+              "text": "The COVID-19 pandemic became a major issue of his premiership; the government responded with various emergency powers, introduced measures across society to mitigate its impact, and approved the rollout of a nationwide vaccination programme.",
               "links": [
                 {
                   "text": "COVID-19 pandemic",
