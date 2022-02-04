@@ -10,7 +10,8 @@
     "Conservative Party (UK) councillors",
     "Conservative Party (UK) life peers",
     "Councillors in the London Borough of Richmond upon Thames",
-    "Leaders of local authorities of England"
+    "Leaders of local authorities of England",
+    "Life peers created by Elizabeth II"
   ],
   "sections": [
     {
@@ -169,6 +170,40 @@
                 "page": "Life Peerage"
               }
             ]
+          },
+          "office6": {
+            "text": "Richmond upon Thames Councillor for East Sheen Ward",
+            "links": [
+              {
+                "text": "Richmond upon Thames Councillor",
+                "type": "internal",
+                "page": "Richmond upon Thames London Borough Council"
+              }
+            ]
+          },
+          "term_start6": {
+            "text": "7 May 1998"
+          },
+          "term_end6": {
+            "text": "3 May 2018"
+          },
+          "predecessor6": {
+            "text": "Grose S."
+          },
+          "successor6": {
+            "text": "Brian Anthony Marcel"
+          },
+          "term_start7": {
+            "text": "8 May 1986"
+          },
+          "term_end7": {
+            "text": "3 May 1990"
+          },
+          "predecessor7": {
+            "text": "B. Semmens"
+          },
+          "successor7": {
+            "text": "Baden-Powell K. Ms."
           },
           "birth_date": {
             "text": "July 31, 1951"

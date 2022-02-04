@@ -44,7 +44,7 @@
               }
             },
             {
-              "text": "Barclay was the Chief Secretary to the Treasury from February 2020 to September 2021, and previously served as Secretary of State for Exiting the European Union from November 2018 until January 2020.",
+              "text": "Barclay previously served as Chief Secretary to the Treasury from 2020 to 2021 and as Secretary of State for Exiting the European Union from 2018 to 2020.",
               "links": [
                 {
                   "type": "internal",
@@ -86,7 +86,7 @@
         {
           "sentences": [
             {
-              "text": "Barclay served as Lord Commissioner of the Treasury from 2016 to 2017 and Economic Secretary to the Treasury from 2017 until 2018.",
+              "text": "Barclay served as Lord Commissioner of the Treasury from 2016 to 2017 and Economic Secretary to the Treasury from 2017 to 2018.",
               "links": [
                 {
                   "text": "Lord Commissioner of the Treasury",
@@ -100,7 +100,7 @@
               ]
             },
             {
-              "text": "After the 2018 cabinet reshuffle, he became Minister of State at the Department of Health and Social Care; Barclay was appointed Brexit Secretary in November that year following the resignation of Dominic Raab.",
+              "text": "After the 2018 cabinet reshuffle, he became Minister of State at the Department of Health and Social Care.",
               "links": [
                 {
                   "text": "2018 cabinet reshuffle",
@@ -114,6 +114,15 @@
                 {
                   "type": "internal",
                   "page": "Department of Health and Social Care"
+                }
+              ]
+            },
+            {
+              "text": "In November 2018, Barclay was appointed Brexit Secretary by Prime Minister Theresa May following the resignation of Dominic Raab.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Theresa May"
                 },
                 {
                   "type": "internal",
@@ -122,15 +131,31 @@
               ]
             },
             {
-              "text": "He remained in office until the United Kingdom officially left the EU at the beginning of the transition period on 31 January 2020."
+              "text": "He was retained in the position by Prime Minister Boris Johnson and remained in office until the United Kingdom officially left the EU at the beginning of the transition period on 31 January 2020.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Boris Johnson"
+                }
+              ]
             },
             {
-              "text": "Barclay remained in the government as Chief Secretary to the Treasury, but was later promoted to Chancellor of the Duchy of Lancaster and Minister for the Cabinet Office in the 2021 cabinet reshuffle.",
+              "text": "Barclay quickly returned to the Cabinet as Chief Secretary to the Treasury in the 2020 cabinet reshuffle.",
               "links": [
                 {
                   "type": "internal",
                   "page": "Chief Secretary to the Treasury"
                 },
+                {
+                  "text": "2020 cabinet reshuffle",
+                  "type": "internal",
+                  "page": "2020 British cabinet reshuffle"
+                }
+              ]
+            },
+            {
+              "text": "He was later promoted to Chancellor of the Duchy of Lancaster and Minister for the Cabinet Office in the 2021 cabinet reshuffle, succeeding Michael Gove.",
+              "links": [
                 {
                   "type": "internal",
                   "page": "Chancellor of the Duchy of Lancaster"
@@ -143,6 +168,10 @@
                   "text": "2021 cabinet reshuffle",
                   "type": "internal",
                   "page": "2021 British cabinet reshuffle"
+                },
+                {
+                  "type": "internal",
+                  "page": "Michael Gove"
                 }
               ]
             }
