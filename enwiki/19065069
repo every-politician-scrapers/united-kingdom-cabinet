@@ -81,7 +81,7 @@
         {
           "sentences": [
             {
-              "text": "Alexander Boris de Pfeffel Johnson (born 19 June 1964) is a British politician serving as Prime Minister of the United Kingdom and Leader of the Conservative Party since 2019.",
+              "text": "Alexander Boris de Pfeffel Johnson (born 19 June 1964) is a British politician serving as Prime Minister of the United Kingdom and Leader of the Conservative Party and has been since 2019.",
               "links": [
                 {
                   "type": "internal",
@@ -295,7 +295,7 @@
               ]
             },
             {
-              "text": "After agreeing to a revised Brexit withdrawal agreement with the EU, which replaced the Irish backstop with a new Northern Ireland Protocol, but failing to win parliamentary support for the agreement, Johnson called a snap election for December 2019 in which he led the Conservative Party to victory with 43.6% of the vote, and the party's largest seat share since 1987.",
+              "text": "After agreeing to a revised Brexit withdrawal agreement with the EU, which replaced the Irish backstop with a new Northern Ireland Protocol, but failing to win parliamentary support for the agreement, Johnson called a snap election for December 2019 in which he led the Conservative Party to victory with 43.6 per cent of the vote, and the party's largest seat share since 1987.",
               "links": [
                 {
                   "type": "internal",
@@ -369,9 +369,6 @@
                   "page": "COVID-19 vaccination in the United Kingdom"
                 }
               ]
-            },
-            {
-              "text": "Johnson has been criticised for his slow response to the outbreak, including his resistance to introducing lockdown measures."
             }
           ]
         },
@@ -841,19 +838,14 @@
               }
             ]
           },
-          "father": {
-            "text": "Stanley Johnson",
+          "parents": {
+            "text": "Stanley Johnson Charlotte Fawcett",
             "links": [
               {
                 "text": "Stanley Johnson",
                 "type": "internal",
                 "page": "Stanley Johnson (writer)"
-              }
-            ]
-          },
-          "mother": {
-            "text": "Charlotte Fawcett",
-            "links": [
+              },
               {
                 "text": "Charlotte Fawcett",
                 "type": "internal",
