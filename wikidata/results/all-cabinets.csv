@@ -64,7 +64,7 @@ ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision
 ,Q11816748,First Lloyd George ministry,1916-12-07,11,,,1918-12-14,11,,,,,,,,,,
 ,Q106862512,Second Lloyd George ministry,1918-12-14,11,,,1922-10-23,11,,,,,,,,,,
 ,Q2839582,Law Ministry,1922-10-23,11,,,1923-05-22,11,,,,,Q30316884,First Baldwin ministry,,,,
-,Q30316884,First Baldwin ministry,1923-05-22,11,,,1924-01-22,11,,,Q28859979,Q28859979,Q5453246,First MacDonald ministry,,,,
+,Q30316884,First Baldwin ministry,1923-05-22,11,,,1924-01-22,11,,,Q2839582,Law Ministry,Q5453246,First MacDonald ministry,,,,
 ,Q5453246,First MacDonald ministry,1924-01-22,11,1924-01-22,11,1924-11-04,11,1924-11-04,11,Q30316884,First Baldwin ministry,Q2514413,Second Baldwin ministry,,,,
 ,Q2514413,Second Baldwin ministry,1924-11-04,11,,,1929-06-04,11,,,Q5453246,First MacDonald ministry,Q769284,Second MacDonald ministry,,,,
 ,Q769284,Second MacDonald ministry,1929-06-05,11,1929-06-05,11,1931-08-24,11,1931-08-24,11,Q2514413,Second Baldwin ministry,Q5453430,National Government of 1931,,,,
