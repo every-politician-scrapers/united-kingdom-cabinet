@@ -31,7 +31,7 @@
         {
           "sentences": [
             {
-              "text": "Rishi Sunak, born 12 May 1980, is a British politician, a former banker and hedge fund manager who has been Chancellor of the Exchequer since February 2020.",
+              "text": "Rishi Sunak (born 12 May 1980) is a British politician, a former banker and hedge fund manager who has been Chancellor of the Exchequer since February 2020.",
               "links": [
                 {
                   "type": "internal",
@@ -59,7 +59,7 @@
               ]
             },
             {
-              "text": "He has been the Member of Parliament (MP) for Richmond (Yorks) in North Yorkshire since 2015.",
+              "text": "He has been the Member of Parliament (MP) for Richmond in North Yorkshire since 2015.",
               "links": [
                 {
                   "text": "Member of Parliament",
@@ -67,7 +67,7 @@
                   "page": "Member of Parliament (United Kingdom)"
                 },
                 {
-                  "text": "Richmond (Yorks)",
+                  "text": "Richmond",
                   "type": "internal",
                   "page": "Richmond (Yorks) (UK Parliament constituency)"
                 },
