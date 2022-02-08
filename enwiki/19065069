@@ -857,16 +857,11 @@
             "text": "Rachel Johnson (sister)\n\nJo Johnson (brother)\n\nJulia Johnson (half-sister)\n\nJames Fawcett (grandfather)\n\nEdmund Fawcett (uncle)\n\nAli Kemal (great grandfather)\n\nElias Avery Lowe (great grandfather)\n\nHelen Tracy Lowe-Porter (great grandmother)"
           },
           "education": {
-            "text": "Eton College (K.Schol)",
+            "text": "Eton College",
             "links": [
               {
                 "type": "internal",
                 "page": "Eton College"
-              },
-              {
-                "text": "K.Schol",
-                "type": "internal",
-                "page": "King's Scholar"
               }
             ]
           },
