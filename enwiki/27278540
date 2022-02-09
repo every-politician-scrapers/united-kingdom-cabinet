@@ -27,7 +27,7 @@
         {
           "sentences": [
             {
-              "text": "Stephen Paul Barclay (born 3 May 1972) is a British politician serving as Downing Street Chief of Staff since 2022 and Chancellor of the Duchy of Lancaster and Minister for the Cabinet Office since 2021.",
+              "text": "Stephen Paul Barclay (born 3 May 1972) is a British politician serving as Downing Street Chief of Staff since 2022 and Chancellor of the Duchy of Lancaster since 2021.",
               "links": [
                 {
                   "type": "internal",
@@ -36,10 +36,6 @@
                 {
                   "type": "internal",
                   "page": "Chancellor of the Duchy of Lancaster"
-                },
-                {
-                  "type": "internal",
-                  "page": "Minister for the Cabinet Office"
                 }
               ],
               "formatting": {
@@ -49,8 +45,12 @@
               }
             },
             {
-              "text": "Barclay previously served as Chief Secretary to the Treasury from 2020 to 2021 and as Secretary of State for Exiting the European Union from 2018 to 2020.",
+              "text": "Barclay previously served as Minister for the Cabinet Office from 2021 to 2022, Chief Secretary to the Treasury from 2020 to 2021 and as Secretary of State for Exiting the European Union from 2018 to 2020.",
               "links": [
+                {
+                  "type": "internal",
+                  "page": "Minister for the Cabinet Office"
+                },
                 {
                   "type": "internal",
                   "page": "Chief Secretary to the Treasury"
@@ -340,12 +340,8 @@
             ]
           },
           "office1": {
-            "text": "Minister for the Cabinet Office Chancellor of the Duchy of Lancaster",
+            "text": "Chancellor of the Duchy of Lancaster",
             "links": [
-              {
-                "type": "internal",
-                "page": "Minister for the Cabinet Office"
-              },
               {
                 "type": "internal",
                 "page": "Chancellor of the Duchy of Lancaster"
@@ -374,11 +370,11 @@
             ]
           },
           "office2": {
-            "text": "Chief Secretary to the Treasury",
+            "text": "Minister for the Cabinet Office",
             "links": [
               {
                 "type": "internal",
-                "page": "Chief Secretary to the Treasury"
+                "page": "Minister for the Cabinet Office"
               }
             ]
           },
@@ -392,12 +388,55 @@
             ]
           },
           "term_start2": {
-            "text": "13 February 2020"
-          },
-          "term_end2": {
             "text": "15 September 2021"
           },
+          "term_end2": {
+            "text": "8 February 2022"
+          },
           "predecessor2": {
+            "text": "Michael Gove",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Michael Gove"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Michael Ellis",
+            "links": [
+              {
+                "text": "Michael Ellis",
+                "type": "internal",
+                "page": "Michael Ellis (British politician)"
+              }
+            ]
+          },
+          "office3": {
+            "text": "Chief Secretary to the Treasury",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Chief Secretary to the Treasury"
+              }
+            ]
+          },
+          "primeminister3": {
+            "text": "Boris Johnson",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Boris Johnson"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "13 February 2020"
+          },
+          "term_end3": {
+            "text": "15 September 2021"
+          },
+          "predecessor3": {
             "text": "Rishi Sunak",
             "links": [
               {
@@ -406,7 +445,7 @@
               }
             ]
           },
-          "successor2": {
+          "successor3": {
             "text": "Simon Clarke",
             "links": [
               {
@@ -416,7 +455,7 @@
               }
             ]
           },
-          "office3": {
+          "office4": {
             "text": "Secretary of State for Exiting the European Union",
             "links": [
               {
@@ -425,7 +464,7 @@
               }
             ]
           },
-          "primeminister3": {
+          "primeminister4": {
             "text": "Theresa May\nBoris Johnson",
             "links": [
               {
@@ -438,13 +477,13 @@
               }
             ]
           },
-          "term_start3": {
+          "term_start4": {
             "text": "16 November 2018"
           },
-          "term_end3": {
+          "term_end4": {
             "text": "31 January 2020"
           },
-          "predecessor3": {
+          "predecessor4": {
             "text": "Dominic Raab",
             "links": [
               {
@@ -453,64 +492,21 @@
               }
             ]
           },
-          "successor3": {
-            "text": "Position abolished",
+          "successor4": {
+            "text": "Office abolished",
             "formatting": {
               "italic": [
-                "Position abolished"
+                "Office abolished"
               ]
             }
           },
-          "office4": {
+          "office5": {
             "text": "Minister of State for Health",
             "links": [
               {
                 "text": "Minister of State for Health",
                 "type": "internal",
                 "page": "Department of Health and Social Care"
-              }
-            ]
-          },
-          "primeminister4": {
-            "text": "Theresa May",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Theresa May"
-              }
-            ]
-          },
-          "term_start4": {
-            "text": "9 January 2018"
-          },
-          "term_end4": {
-            "text": "16 November 2018"
-          },
-          "predecessor4": {
-            "text": "Philip Dunne",
-            "links": [
-              {
-                "text": "Philip Dunne",
-                "type": "internal",
-                "page": "Philip Dunne (Ludlow MP)"
-              }
-            ]
-          },
-          "successor4": {
-            "text": "Stephen Hammond",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Stephen Hammond"
-              }
-            ]
-          },
-          "office5": {
-            "text": "Economic Secretary to the Treasury",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Economic Secretary to the Treasury"
               }
             ]
           },
@@ -524,37 +520,36 @@
             ]
           },
           "term_start5": {
-            "text": "14 June 2017"
-          },
-          "term_end5": {
             "text": "9 January 2018"
           },
+          "term_end5": {
+            "text": "16 November 2018"
+          },
           "predecessor5": {
-            "text": "Simon Kirby",
+            "text": "Philip Dunne",
             "links": [
               {
+                "text": "Philip Dunne",
                 "type": "internal",
-                "page": "Simon Kirby"
+                "page": "Philip Dunne (Ludlow MP)"
               }
             ]
           },
           "successor5": {
-            "text": "John Glen",
+            "text": "Stephen Hammond",
             "links": [
               {
-                "text": "John Glen",
                 "type": "internal",
-                "page": "John Glen (politician)"
+                "page": "Stephen Hammond"
               }
             ]
           },
           "office6": {
-            "text": "Lord Commissioner of the Treasury",
+            "text": "Economic Secretary to the Treasury",
             "links": [
               {
-                "text": "Lord Commissioner of the Treasury",
                 "type": "internal",
-                "page": "Lords Commissioners of the Treasury"
+                "page": "Economic Secretary to the Treasury"
               }
             ]
           },
@@ -568,12 +563,56 @@
             ]
           },
           "term_start6": {
-            "text": "17 July 2016"
-          },
-          "term_end6": {
             "text": "14 June 2017"
           },
+          "term_end6": {
+            "text": "9 January 2018"
+          },
           "predecessor6": {
+            "text": "Simon Kirby",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Simon Kirby"
+              }
+            ]
+          },
+          "successor6": {
+            "text": "John Glen",
+            "links": [
+              {
+                "text": "John Glen",
+                "type": "internal",
+                "page": "John Glen (politician)"
+              }
+            ]
+          },
+          "office7": {
+            "text": "Lord Commissioner of the Treasury",
+            "links": [
+              {
+                "text": "Lord Commissioner of the Treasury",
+                "type": "internal",
+                "page": "Lords Commissioners of the Treasury"
+              }
+            ]
+          },
+          "primeminister7": {
+            "text": "Theresa May",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Theresa May"
+              }
+            ]
+          },
+          "term_start7": {
+            "text": "17 July 2016"
+          },
+          "term_end7": {
+            "text": "14 June 2017"
+          },
+          "predecessor7": {
             "text": "George Hollingbery",
             "links": [
               {
@@ -582,7 +621,7 @@
               }
             ]
           },
-          "successor6": {
+          "successor7": {
             "text": "David Rutley",
             "links": [
               {
@@ -591,7 +630,7 @@
               }
             ]
           },
-          "office7": {
+          "office8": {
             "text": "Member of Parliament\nfor North East Cambridgeshire",
             "links": [
               {
@@ -606,10 +645,10 @@
               }
             ]
           },
-          "term_start7": {
+          "term_start8": {
             "text": "6 May 2010"
           },
-          "predecessor7": {
+          "predecessor8": {
             "text": "Malcolm Moss",
             "links": [
               {
@@ -618,7 +657,7 @@
               }
             ]
           },
-          "majority7": {
+          "majority8": {
             "text": "29,993 (56.6%)"
           },
           "birth_name": {
