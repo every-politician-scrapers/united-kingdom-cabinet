@@ -37,7 +37,35 @@
         {
           "sentences": [
             {
-              "text": "Jacob William Rees-Mogg (born 24 May 1969) is a British politician who was appointed Leader of the House of Commons and Lord President of the Council in 2019, and who was elected Member of Parliament (MP) for North East Somerset in 2010 and subsequent elections.",
+              "text": "Jacob William Rees-Mogg (born 24 May 1969) is a British politician who has been Minister of State for Brexit Opportunities and Government Efficiency in the Cabinet of Prime Minister Boris Johnson since 2022.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Minister of State for Brexit Opportunities and Government Efficiency"
+                },
+                {
+                  "text": "Cabinet",
+                  "type": "internal",
+                  "page": "Cabinet (UK)"
+                },
+                {
+                  "text": "Prime Minister",
+                  "type": "internal",
+                  "page": "Prime Minister of the United Kingdom"
+                },
+                {
+                  "type": "internal",
+                  "page": "Boris Johnson"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Jacob William Rees-Mogg"
+                ]
+              }
+            },
+            {
+              "text": "He previously served as Leader of the House of Commons and Lord President of the Council from 2019 to 2022 and has been Member of Parliament (MP) for North East Somerset since 2010.",
               "links": [
                 {
                   "type": "internal",
@@ -62,15 +90,10 @@
                   "type": "internal",
                   "page": "2010 United Kingdom general election"
                 }
-              ],
-              "formatting": {
-                "bold": [
-                  "Jacob William Rees-Mogg"
-                ]
-              }
+              ]
             },
             {
-              "text": "A member of the Conservative Party, Rees-Mogg is a social conservative.",
+              "text": "A member of the Conservative Party, Rees-Mogg identifies as a social conservative.",
               "links": [
                 {
                   "text": "Conservative Party",
@@ -89,7 +112,7 @@
         {
           "sentences": [
             {
-              "text": "Rees-Mogg was born in Hammersmith, London, and educated at Eton College.",
+              "text": "Rees-Mogg was born in Hammersmith, London, and educated at Eton College, before studying History at Trinity College, Oxford, where he was President of the Oxford University Conservative Association.",
               "links": [
                 {
                   "type": "internal",
@@ -97,13 +120,12 @@
                 },
                 {
                   "type": "internal",
+                  "page": "London"
+                },
+                {
+                  "type": "internal",
                   "page": "Eton College"
-                }
-              ]
-            },
-            {
-              "text": "He then studied History at Trinity College, Oxford, and was President of the Oxford University Conservative Association.",
-              "links": [
+                },
                 {
                   "type": "internal",
                   "page": "Trinity College, Oxford"
@@ -115,7 +137,7 @@
               ]
             },
             {
-              "text": "He worked in the City of London and in Hong Kong for Lloyd George Management until 2007, then co-founded a hedge fund management business Somerset Capital Management LLP.",
+              "text": "He went on to work in the City of London and in Hong Kong for Lloyd George Management until 2007, when he co-founded the hedge fund management business Somerset Capital Management LLP.",
               "links": [
                 {
                   "type": "internal",
@@ -136,7 +158,7 @@
               "text": "He amassed a significant fortune: it was estimated at between £55 million and £150 million in 2016, including his wife's expected inheritance."
             },
             {
-              "text": "Moving into politics, he unsuccessfully contested the 1997 and 2001 general elections before being elected as the MP for North East Somerset in 2010.",
+              "text": "Rees-Mogg unsuccessfully contested the 1997 and 2001 general elections before being elected as the MP for North East Somerset in 2010.",
               "links": [
                 {
                   "text": "1997",
@@ -189,15 +211,14 @@
         {
           "sentences": [
             {
-              "text": "During the premiership of David Cameron, Rees-Mogg was one of the parliamentary Conservative Party's most rebellious members, opposing the Whip's office on a number of issues.",
+              "text": "During the Premiership of David Cameron, Rees-Mogg was one of the Conservative Party's most rebellious MPs, opposing the Whip's office on a number of issues.",
               "links": [
                 {
-                  "text": "premiership of David Cameron",
                   "type": "internal",
-                  "page": "premiership of David Cameron"
+                  "page": "Premiership of David Cameron"
                 },
                 {
-                  "text": "Whip",
+                  "text": "Whip's office",
                   "type": "internal",
                   "page": "Whip (politics)"
                 }
@@ -214,7 +235,7 @@
               ]
             },
             {
-              "text": "A Eurosceptic, he proposed an electoral pact between the Conservatives and the UK Independence Party (UKIP) and campaigned for the Leave side in the 2016 referendum on membership of the European Union.",
+              "text": "A Eurosceptic, he proposed an electoral pact between the Conservatives and the UK Independence Party (UKIP) and campaigned for the UK to Leave the European Union in the 2016 referendum.",
               "links": [
                 {
                   "text": "Eurosceptic",
@@ -231,18 +252,18 @@
                   "page": "Brexit"
                 },
                 {
+                  "type": "internal",
+                  "page": "European Union"
+                },
+                {
                   "text": "2016 referendum",
                   "type": "internal",
                   "page": "2016 United Kingdom European Union membership referendum"
-                },
-                {
-                  "type": "internal",
-                  "page": "European Union"
                 }
               ]
             },
             {
-              "text": "He joined the Eurosceptic European Research Group (ERG), becoming chairman in 2018.",
+              "text": "A member of the Eurosceptic European Research Group (ERG), Rees-Mogg was elected its Chairman in 2018.",
               "links": [
                 {
                   "type": "internal",
@@ -274,7 +295,7 @@
               ]
             },
             {
-              "text": "He however endorsed Boris Johnson in the 2019 leadership contest.",
+              "text": "He instead endorsed Boris Johnson in the 2019 leadership contest.",
               "links": [
                 {
                   "type": "internal",
@@ -302,6 +323,15 @@
                   "text": "Conservative Leader",
                   "type": "internal",
                   "page": "Leader of the Conservative Party (UK)"
+                }
+              ]
+            },
+            {
+              "text": "In February 2022, Rees-Mogg was moved to the role of Minister of State for Brexit Opportunities and Government Efficiency.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Minister of State for Brexit Opportunities and Government Efficiency"
                 }
               ]
             }
@@ -397,15 +427,11 @@
             "text": "Official portrait, 2019"
           },
           "office": {
-            "text": "Leader of the House of Commons\nLord President of the Council",
+            "text": "Minister of State for Brexit Opportunities and Government Efficiency",
             "links": [
               {
                 "type": "internal",
-                "page": "Leader of the House of Commons"
-              },
-              {
-                "type": "internal",
-                "page": "Lord President of the Council"
+                "page": "Minister of State for Brexit Opportunities and Government Efficiency"
               }
             ]
           },
@@ -419,9 +445,47 @@
             ]
           },
           "term_start": {
-            "text": "24 July 2019"
+            "text": "8 February 2022"
           },
           "predecessor": {
+            "text": "The Lord Agnew of Oulton",
+            "links": [
+              {
+                "text": "The Lord Agnew of Oulton",
+                "type": "internal",
+                "page": "Theodore Agnew, Baron Agnew of Oulton"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Leader of the House of Commons\nLord President of the Council",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Leader of the House of Commons"
+              },
+              {
+                "type": "internal",
+                "page": "Lord President of the Council"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "24 July 2019"
+          },
+          "term_end2": {
+            "text": "8 February 2022"
+          },
+          "primeminister2": {
+            "text": "Boris Johnson",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Boris Johnson"
+              }
+            ]
+          },
+          "predecessor2": {
             "text": "Mel Stride",
             "links": [
               {
@@ -430,55 +494,13 @@
               }
             ]
           },
-          "office2": {
-            "text": "Chair of the European Research Group",
-            "links": [
-              {
-                "type": "internal",
-                "page": "European Research Group"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "9 January 2018"
-          },
-          "term_end2": {
-            "text": "3 September 2019"
-          },
-          "deputy2": {
-            "text": "Michael Tomlinson\nMark Francois\nSteve Baker",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Michael Tomlinson"
-              },
-              {
-                "type": "internal",
-                "page": "Mark Francois"
-              },
-              {
-                "text": "Steve Baker",
-                "type": "internal",
-                "page": "Steve Baker (politician)"
-              }
-            ]
-          },
-          "predecessor2": {
-            "text": "Suella Braverman",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Suella Braverman"
-              }
-            ]
-          },
           "successor2": {
-            "text": "Steve Baker",
+            "text": "Mark Spencer",
             "links": [
               {
-                "text": "Steve Baker",
+                "text": "Mark Spencer",
                 "type": "internal",
-                "page": "Steve Baker (politician)"
+                "page": "Mark Spencer (British politician)"
               }
             ]
           },
@@ -501,12 +523,7 @@
             "text": "6 May 2010"
           },
           "predecessor3": {
-            "text": "Constituency created",
-            "formatting": {
-              "italic": [
-                "Constituency created"
-              ]
-            }
+            "text": "Constituency created"
           },
           "majority3": {
             "text": "14,729 (26.2%)"
