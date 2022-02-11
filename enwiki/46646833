@@ -120,6 +120,12 @@
           "template": "postnom"
         },
         {
+          "list": [
+            "On Leave: 2 March 2021 – 10 September 2021"
+          ],
+          "template": "efn"
+        },
+        {
           "year": "1980",
           "month": "4",
           "day": "3",
@@ -205,13 +211,13 @@
             ]
           },
           "term_start": {
-            "text": "13 February 2020 On Leave: 2 March 2021 – 10 September 2021"
+            "text": "13 February 2020"
           },
           "predecessor": {
-            "text": "Sir Geoffrey Cox",
+            "text": "Geoffrey Cox",
             "links": [
               {
-                "text": "Sir Geoffrey Cox",
+                "text": "Geoffrey Cox",
                 "type": "internal",
                 "page": "Geoffrey Cox (British politician)"
               }

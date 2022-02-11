@@ -22,13 +22,8 @@
         {
           "sentences": [
             {
-              "text": "Mark Steven Spencer (born 20 January 1970) is a British Conservative Party politician serving as Leader of the House of Commons and Lord President of the Council since 2022.",
+              "text": "Mark Steven Spencer (born 20 January 1970) is a British politician serving as Leader of the House of Commons and Lord President of the Council since 2022.",
               "links": [
-                {
-                  "text": "Conservative Party",
-                  "type": "internal",
-                  "page": "Conservative Party (UK)"
-                },
                 {
                   "type": "internal",
                   "page": "Leader of the House of Commons"
@@ -45,36 +40,22 @@
               }
             },
             {
-              "text": "He previously served as Government Chief Whip of the House of Commons and Parliamentary Secretary to the Treasury under Prime Minister Boris Johnson from 2019 to 2022.",
+              "text": "He previously served as Chief Whip from 2019 to 2022.",
               "links": [
                 {
-                  "text": "Government Chief Whip",
                   "type": "internal",
-                  "page": "Chief Whip of the Conservative Party"
-                },
-                {
-                  "text": "House of Commons",
-                  "type": "internal",
-                  "page": "House of Commons of the United Kingdom"
-                },
-                {
-                  "type": "internal",
-                  "page": "Parliamentary Secretary to the Treasury"
-                },
-                {
-                  "text": "Prime Minister",
-                  "type": "internal",
-                  "page": "Prime Minister of the United Kingdom"
-                },
-                {
-                  "type": "internal",
-                  "page": "Boris Johnson"
+                  "page": "Chief Whip"
                 }
               ]
             },
             {
-              "text": "Spencer has been the Member of Parliament (MP) for Sherwood since 2010.",
+              "text": "A member of the Conservative Party, he has been Member of Parliament (MP) for Sherwood since 2010.",
               "links": [
+                {
+                  "text": "Conservative Party",
+                  "type": "internal",
+                  "page": "Conservative Party (UK)"
+                },
                 {
                   "text": "Member of Parliament",
                   "type": "internal",
@@ -84,11 +65,6 @@
                   "text": "Sherwood",
                   "type": "internal",
                   "page": "Sherwood (UK Parliament constituency)"
-                },
-                {
-                  "text": "2010",
-                  "type": "internal",
-                  "page": "2010 United Kingdom general election"
                 }
               ]
             }
@@ -195,13 +171,7 @@
             ]
           },
           "primeminister1": {
-            "text": "Boris Johnson",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Boris Johnson"
-              }
-            ]
+            "text": "Boris Johnson"
           },
           "term_start1": {
             "text": "24 July 2019"
@@ -287,13 +257,7 @@
             "text": "24 July 2019"
           },
           "primeminister3": {
-            "text": "Theresa May",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Theresa May"
-              }
-            ]
+            "text": "Theresa May"
           },
           "predecessor3": {
             "text": "Chris Heaton-Harris",
@@ -305,10 +269,10 @@
             ]
           },
           "successor3": {
-            "text": "Position Abolished",
+            "text": "Position abolished",
             "formatting": {
               "italic": [
-                "Position Abolished"
+                "Position abolished"
               ]
             }
           },
@@ -322,13 +286,7 @@
             ]
           },
           "primeminister4": {
-            "text": "Theresa May",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Theresa May"
-              }
-            ]
+            "text": "Theresa May"
           },
           "term_start4": {
             "text": "10 January 2018"
@@ -364,13 +322,7 @@
             ]
           },
           "primeminister5": {
-            "text": "Theresa May",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Theresa May"
-              }
-            ]
+            "text": "Theresa May"
           },
           "term_start5": {
             "text": "15 June 2017"
@@ -438,18 +390,18 @@
               }
             ]
           },
-          "nationality": {
-            "text": "British"
-          },
           "party": {
-            "text": "Conservative Party",
+            "text": "Conservative",
             "links": [
               {
-                "text": "Conservative Party",
+                "text": "Conservative",
                 "type": "internal",
                 "page": "Conservative Party (UK)"
               }
             ]
+          },
+          "website": {
+            "text": "markspencer.org.uk"
           }
         }
       ]

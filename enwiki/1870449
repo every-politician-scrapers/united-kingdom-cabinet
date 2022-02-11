@@ -31,36 +31,16 @@
         {
           "sentences": [
             {
-              "text": "Robert Ben Lobban Wallace (born 15 May 1970) is a British politician serving as Secretary of State for Defence since 24 July 2019.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Secretary of State for Defence"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Robert Ben Lobban Wallace"
-                ]
-              }
-            },
-            {
-              "text": "He was previously Minister of State for Security and Economic Crime from 2016 to 2019.",
-              "links": [
-                {
-                  "text": "Minister of State for Security and Economic Crime",
-                  "type": "internal",
-                  "page": "Minister for Security"
-                }
-              ]
-            },
-            {
-              "text": "A member of the Conservative Party, he has been Member of Parliament (MP) for Wyre and Preston North, formerly Lancaster and Wyre, since 2005.",
+              "text": "Robert Ben Lobban Wallace (born 15 May 1970) is a British Conservative Party politician currently serving as Secretary of State for Defence since 24 July 2019 and Member of Parliament (MP) for Wyre and Preston North, formerly Lancaster and Wyre, since 2005.",
               "links": [
                 {
                   "text": "Conservative Party",
                   "type": "internal",
                   "page": "Conservative Party (UK)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Secretary of State for Defence"
                 },
                 {
                   "text": "Member of Parliament",
@@ -82,32 +62,19 @@
                   "type": "internal",
                   "page": "2005 United Kingdom general election"
                 }
-              ]
+              ],
+              "formatting": {
+                "bold": [
+                  "Robert Ben Lobban Wallace"
+                ]
+              }
             }
           ]
         },
         {
           "sentences": [
             {
-              "text": "Wallace previously served as a captain in the Scots Guards regiment of the British Army.",
-              "links": [
-                {
-                  "text": "captain",
-                  "type": "internal",
-                  "page": "Captain (British Army and Royal Marines)"
-                },
-                {
-                  "type": "internal",
-                  "page": "Scots Guards"
-                },
-                {
-                  "type": "internal",
-                  "page": "British Army"
-                }
-              ]
-            },
-            {
-              "text": "He was a Conservative list Member of the Scottish Parliament (MSP) for North East Scotland from 1999 to 2003.",
+              "text": "Before becoming an MP, he was a Conservative list Member of the Scottish Parliament (MSP) for North East Scotland from 1999 to 2003.",
               "links": [
                 {
                   "type": "internal",
@@ -128,27 +95,22 @@
                   "page": "Lancashire"
                 }
               ]
-            }
-          ]
-        },
-        {
-          "sentences": [
+            },
             {
-              "text": "Wallace served as a Parliamentary Private Secretary to the Justice Secretary, and later Minister without Portfolio, Ken Clarke from 2010 to 2014.",
+              "text": "Following election as an MP and after serving as a backbencher for nearly five years, he was appointed as Parliamentary Private Secretary to the Secretary of State for Justice, Ken Clarke, from 2010 to 2014.",
               "links": [
+                {
+                  "text": "backbencher",
+                  "type": "internal",
+                  "page": "backbencher"
+                },
                 {
                   "type": "internal",
                   "page": "Parliamentary Private Secretary"
                 },
                 {
-                  "text": "Justice Secretary",
                   "type": "internal",
                   "page": "Secretary of State for Justice"
-                },
-                {
-                  "text": "Minister without Portfolio",
-                  "type": "internal",
-                  "page": "Minister without portfolio (United Kingdom)"
                 },
                 {
                   "type": "internal",
@@ -157,10 +119,17 @@
               ]
             },
             {
-              "text": "Wallace was a whip from July 2014 to May 2015."
+              "text": "Wallace was then made a whip from July 2014 to May 2015.",
+              "links": [
+                {
+                  "text": "whip",
+                  "type": "internal",
+                  "page": "Whip (politics)"
+                }
+              ]
             },
             {
-              "text": "He served as Parliamentary Under-Secretary of State for the Northern Ireland Office under David Cameron from 2015 to 2016.",
+              "text": "Later, he became Parliamentary Under-Secretary of State for the Northern Ireland Office between 2015 to 2016.",
               "links": [
                 {
                   "type": "internal",
@@ -169,41 +138,47 @@
                 {
                   "type": "internal",
                   "page": "Northern Ireland Office"
-                },
-                {
-                  "type": "internal",
-                  "page": "David Cameron"
                 }
               ]
             },
             {
-              "text": "He served under Prime Minister Theresa May as Minister of State for Security and Economic Crime at the Home Office from 2016 to 2019.",
+              "text": "He was appointed Minister of State for Security and Economic Crime from 2016 to 2019.",
               "links": [
-                {
-                  "type": "internal",
-                  "page": "Theresa May"
-                },
                 {
                   "text": "Minister of State for Security and Economic Crime",
                   "type": "internal",
                   "page": "Minister for Security"
-                },
-                {
-                  "type": "internal",
-                  "page": "Home Office"
                 }
               ]
             },
             {
-              "text": "A supporter of Boris Johnson's leadership bid, Wallace was appointed Secretary of State for Defence after Johnson became Prime Minister.",
+              "text": "A supporter of Boris Johnson, Wallace was promoted to the senior cabinet role of Secretary of State for Defence, after Johnson became Prime Minister.",
               "links": [
                 {
                   "type": "internal",
                   "page": "Boris Johnson"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Before politics, he held the rank of captain in the Scots Guards regiment of the British Army.",
+              "links": [
+                {
+                  "text": "captain",
+                  "type": "internal",
+                  "page": "Captain (British Army and Royal Marines)"
                 },
                 {
                   "type": "internal",
-                  "page": "Secretary of State for Defence"
+                  "page": "Scots Guards"
+                },
+                {
+                  "type": "internal",
+                  "page": "British Army"
                 }
               ]
             }
