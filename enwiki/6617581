@@ -309,8 +309,13 @@
               ]
             },
             {
-              "text": "Johnson appointed him Leader of the House of Commons and Lord President of the Council following his election as Conservative Leader and appointment as Prime Minister.",
+              "text": "Following Johnson's s election as Conservative Leader and appointment as Prime Minister he appointed Rees-Mogg Leader of the House of Commons and Lord President of the Council.",
               "links": [
+                {
+                  "text": "Conservative Leader",
+                  "type": "internal",
+                  "page": "Leader of the Conservative Party (UK)"
+                },
                 {
                   "type": "internal",
                   "page": "Leader of the House of Commons"
@@ -318,11 +323,6 @@
                 {
                   "type": "internal",
                   "page": "Lord President of the Council"
-                },
-                {
-                  "text": "Conservative Leader",
-                  "type": "internal",
-                  "page": "Leader of the Conservative Party (UK)"
                 }
               ]
             },
@@ -477,13 +477,7 @@
             "text": "8 February 2022"
           },
           "primeminister2": {
-            "text": "Boris Johnson",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Boris Johnson"
-              }
-            ]
+            "text": "Boris Johnson"
           },
           "predecessor2": {
             "text": "Mel Stride",

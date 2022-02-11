@@ -80,6 +80,12 @@
           "template": "use dmy dates"
         },
         {
+          "list": [
+            "Succeeded by Huddleston as sport minister. Succeeded by John Whittingdale as Minister of State for Media and Data and Caroline Dinenage as Minister of State for Digital and Culture."
+          ],
+          "template": "efn"
+        },
+        {
           "year": "1966",
           "month": "11",
           "day": "30",
@@ -173,7 +179,7 @@
             "text": "15 September 2021"
           },
           "predecessor2": {
-            "text": "Heather Wheeler (Asia and the Pacific)",
+            "text": "Heather Wheeler",
             "links": [
               {
                 "type": "internal",
@@ -225,19 +231,11 @@
             ]
           },
           "successor3": {
-            "text": "Nigel Huddleston (Sport)\nJohn Whittingdale (Media)\nCaroline Dinenage (Culture)",
+            "text": "Nigel Huddleston",
             "links": [
               {
                 "type": "internal",
                 "page": "Nigel Huddleston"
-              },
-              {
-                "type": "internal",
-                "page": "John Whittingdale"
-              },
-              {
-                "type": "internal",
-                "page": "Caroline Dinenage"
               }
             ]
           },

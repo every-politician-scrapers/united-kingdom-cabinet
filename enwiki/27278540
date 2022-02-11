@@ -269,6 +269,17 @@
           "template": "use british english"
         },
         {
+          "last": "yes",
+          "list": [
+            "Junior ministerial offices"
+          ],
+          "titlestyle": "border:1px dashed lightgrey;",
+          "template": "collapsed infobox section begin"
+        },
+        {
+          "template": "collapsed infobox section end"
+        },
+        {
           "year": "1972",
           "month": "05",
           "day": "03",
@@ -283,6 +294,141 @@
         }
       ],
       "infoboxes": [
+        {
+          "embed": {
+            "text": "yes"
+          },
+          "office": {
+            "text": "Minister of State for Health",
+            "links": [
+              {
+                "text": "Minister of State for Health",
+                "type": "internal",
+                "page": "Minister of State for Health (UK)"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Theresa May",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Theresa May"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "9 January 2018"
+          },
+          "term_end": {
+            "text": "16 November 2018"
+          },
+          "predecessor": {
+            "text": "Philip Dunne",
+            "links": [
+              {
+                "text": "Philip Dunne",
+                "type": "internal",
+                "page": "Philip Dunne (Ludlow MP)"
+              }
+            ]
+          },
+          "successor": {
+            "text": "Stephen Hammond",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Stephen Hammond"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Economic Secretary to the Treasury",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Economic Secretary to the Treasury"
+              }
+            ]
+          },
+          "primeminister1": {
+            "text": "Theresa May",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Theresa May"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "14 June 2017"
+          },
+          "term_end1": {
+            "text": "9 January 2018"
+          },
+          "predecessor1": {
+            "text": "Simon Kirby",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Simon Kirby"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "John Glen",
+            "links": [
+              {
+                "text": "John Glen",
+                "type": "internal",
+                "page": "John Glen (politician)"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Lord Commissioner of the Treasury",
+            "links": [
+              {
+                "text": "Lord Commissioner of the Treasury",
+                "type": "internal",
+                "page": "Lords Commissioners of the Treasury"
+              }
+            ]
+          },
+          "primeminister2": {
+            "text": "Theresa May",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Theresa May"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "17 July 2016"
+          },
+          "term_end2": {
+            "text": "14 June 2017"
+          },
+          "predecessor2": {
+            "text": "George Hollingbery",
+            "links": [
+              {
+                "type": "internal",
+                "page": "George Hollingbery"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "David Rutley",
+            "links": [
+              {
+                "type": "internal",
+                "page": "David Rutley"
+              }
+            ]
+          }
+        },
         {
           "honorific-prefix": {
             "text": "The Right Honourable",
@@ -501,136 +647,6 @@
             }
           },
           "office5": {
-            "text": "Minister of State for Health",
-            "links": [
-              {
-                "text": "Minister of State for Health",
-                "type": "internal",
-                "page": "Department of Health and Social Care"
-              }
-            ]
-          },
-          "primeminister5": {
-            "text": "Theresa May",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Theresa May"
-              }
-            ]
-          },
-          "term_start5": {
-            "text": "9 January 2018"
-          },
-          "term_end5": {
-            "text": "16 November 2018"
-          },
-          "predecessor5": {
-            "text": "Philip Dunne",
-            "links": [
-              {
-                "text": "Philip Dunne",
-                "type": "internal",
-                "page": "Philip Dunne (Ludlow MP)"
-              }
-            ]
-          },
-          "successor5": {
-            "text": "Stephen Hammond",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Stephen Hammond"
-              }
-            ]
-          },
-          "office6": {
-            "text": "Economic Secretary to the Treasury",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Economic Secretary to the Treasury"
-              }
-            ]
-          },
-          "primeminister6": {
-            "text": "Theresa May",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Theresa May"
-              }
-            ]
-          },
-          "term_start6": {
-            "text": "14 June 2017"
-          },
-          "term_end6": {
-            "text": "9 January 2018"
-          },
-          "predecessor6": {
-            "text": "Simon Kirby",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Simon Kirby"
-              }
-            ]
-          },
-          "successor6": {
-            "text": "John Glen",
-            "links": [
-              {
-                "text": "John Glen",
-                "type": "internal",
-                "page": "John Glen (politician)"
-              }
-            ]
-          },
-          "office7": {
-            "text": "Lord Commissioner of the Treasury",
-            "links": [
-              {
-                "text": "Lord Commissioner of the Treasury",
-                "type": "internal",
-                "page": "Lords Commissioners of the Treasury"
-              }
-            ]
-          },
-          "primeminister7": {
-            "text": "Theresa May",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Theresa May"
-              }
-            ]
-          },
-          "term_start7": {
-            "text": "17 July 2016"
-          },
-          "term_end7": {
-            "text": "14 June 2017"
-          },
-          "predecessor7": {
-            "text": "George Hollingbery",
-            "links": [
-              {
-                "type": "internal",
-                "page": "George Hollingbery"
-              }
-            ]
-          },
-          "successor7": {
-            "text": "David Rutley",
-            "links": [
-              {
-                "type": "internal",
-                "page": "David Rutley"
-              }
-            ]
-          },
-          "office8": {
             "text": "Member of Parliament\nfor North East Cambridgeshire",
             "links": [
               {
@@ -645,10 +661,10 @@
               }
             ]
           },
-          "term_start8": {
+          "term_start5": {
             "text": "6 May 2010"
           },
-          "predecessor8": {
+          "predecessor5": {
             "text": "Malcolm Moss",
             "links": [
               {
@@ -657,7 +673,7 @@
               }
             ]
           },
-          "majority8": {
+          "majority5": {
             "text": "29,993 (56.6%)"
           },
           "birth_name": {
