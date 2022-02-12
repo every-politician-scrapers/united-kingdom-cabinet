@@ -369,6 +369,9 @@
                   "page": "COVID-19 vaccination in the United Kingdom"
                 }
               ]
+            },
+            {
+              "text": "Johnson has been criticised for his slow response to the outbreak, including his resistance to introducing lockdown measures."
             }
           ]
         },
@@ -479,7 +482,7 @@
         {
           "list": [
             "Rachel Johnson (sister)",
-            "Jo Johnson (brother)",
+            "Lord Johnson of Marylebone (brother)",
             "Julia Johnson (half-sister)",
             "James Fawcett (grandfather)",
             "Edmund Fawcett (uncle)",
@@ -854,7 +857,7 @@
             ]
           },
           "relatives": {
-            "text": "Rachel Johnson (sister)\n\nJo Johnson (brother)\n\nJulia Johnson (half-sister)\n\nJames Fawcett (grandfather)\n\nEdmund Fawcett (uncle)\n\nAli Kemal (great grandfather)\n\nElias Avery Lowe (great grandfather)\n\nHelen Tracy Lowe-Porter (great grandmother)"
+            "text": "Rachel Johnson (sister)\n\nLord Johnson of Marylebone (brother)\n\nJulia Johnson (half-sister)\n\nJames Fawcett (grandfather)\n\nEdmund Fawcett (uncle)\n\nAli Kemal (great grandfather)\n\nElias Avery Lowe (great grandfather)\n\nHelen Tracy Lowe-Porter (great grandmother)"
           },
           "education": {
             "text": "Eton College",
