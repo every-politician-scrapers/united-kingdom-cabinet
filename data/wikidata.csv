@@ -14,7 +14,6 @@ Q20648244,Anne-Marie Trevelyan,Anne-Marie Trevelyan,female,1969-04-06,11,https:/
 Q258292,Nigel Adams,Nigel Adams,male,1966-11-30,11,https://www.gov.uk/government/ministers,2021-09-29,Q108046681,Minister of State (Minister without Portfolio),2021-09-15,Q258292-B77AB047-26D2-4794-BED8-5EAE3FEFD080
 Q258586,Nadine Dorries,Nadine Dorries,female,1957-05-21,11,https://www.gov.uk/government/ministers,2021-09-29,Q3297079,"Secretary of State for Digital, Culture, Media and Sport",2021-09-15,Q258586-3B5C9E4F-9261-4700-92A5-B7D63C260029
 Q259361,Nadhim Zahawi,Nadhim Zahawi,male,1967-06-02,11,https://www.gov.uk/government/ministers,2021-09-29,Q3477306,Secretary of State for Education,2021-09-15,Q259361-107A4BED-F714-4578-8062-A0E235904411
-Q260546,Steve Barclay,Stephen Barclay,male,1972-05-03,11,https://www.gov.uk/government/ministers,2021-09-29,Q6865995,Minister for the Cabinet Office,2021-09-15,Q260546-71E37635-D473-4CE7-AE04-BE0D84734C0F
 Q260546,Steve Barclay,Stephen Barclay,male,1972-05-03,11,https://www.gov.uk/government/ministers,2021-09-29,Q162754,Chancellor of the Duchy of Lancaster,2021-09-15,Q260546-C057A03B-652C-467C-8FB4-EEA60723E288
 Q263166,Ben Wallace,Ben Wallace,male,1970-05-15,11,https://www.gov.uk/government/ministers,2021-08-11,Q2747647,Secretary of State for Defence,2019-07-24,Q263166-7993fb77-429a-d8e9-7979-00664614fb0a
 Q268584,Dominic Raab,Dominic Raab,male,1974-02-25,11,https://www.gov.uk/government/ministers,2021-09-29,Q1507619,Deputy Prime Minister,2021-09-15,Q268584-06169dd7-4c8e-9cc3-a2c0-ecd023280002
@@ -25,13 +24,13 @@ Q272201,Elizabeth Truss,Elizabeth Truss,female,1975-07-26,11,https://www.gov.uk/
 Q290554,Thérèse Coffey,Thérèse Coffey,female,1971-11-18,11,https://www.gov.uk/government/ministers,2021-08-11,Q7444357,Secretary of State for Work and Pensions,2019-09-08,Q290554-528bcb34-44fa-37d9-8262-3d86fbd0061d
 Q30165682,Alister Jack,Alister Jack,male,1963-07-07,11,https://www.gov.uk/government/ministers,2021-08-11,Q111784,Secretary of State for Scotland,2019-07-24,Q30165682-a0602052-4868-7d07-333f-cc031984387c
 Q30228118,Simon Clarke,Simon Clarke,male,1984-09-28,11,https://www.gov.uk/government/ministers,2021-09-29,Q5096927,Chief Secretary to the Treasury,2021-09-15,Q30228118-E51C528E-0072-4330-B9E0-183D9213186C
-Q303085,Michael Ellis,Michael Ellis,male,1967-10-13,11,,,Q1060844,Paymaster General,2021-09-16,Q303085-13D1A598-1296-4C68-B873-A25D52108BC5
-Q303085,Michael Ellis,Michael Ellis,male,1967-10-13,11,,,Q6865995,Minister for the Cabinet Office,2022-02-08,Q303085-ED63B9FF-0787-45BE-97DB-E154C08A0C9C
+Q303085,Michael Ellis,Michael Ellis,male,1967-10-13,11,https://www.gov.uk/government/ministers,2022-02-09,Q1060844,Paymaster General,2021-09-16,Q303085-13D1A598-1296-4C68-B873-A25D52108BC5
+Q303085,Michael Ellis,Michael Ellis,male,1967-10-13,11,https://www.gov.uk/government/ministers,2022-02-09,Q6865995,Minister for the Cabinet Office,2022-02-08,Q303085-ED63B9FF-0787-45BE-97DB-E154C08A0C9C
 Q303510,George Eustice,George Eustice,male,1971-09-28,11,https://www.gov.uk/government/ministers,2021-08-11,Q14984399,"Secretary of State for Environment, Food and Rural Affairs",2020-02-13,Q303510-6ce5fda7-4984-4c9f-6fb9-3752cb67e9ec
 Q333937,Michael Gove,Michael Gove,male,1967-08-26,11,https://www.gov.uk/government/ministers,2021-09-29,Q108739735,Minister for Intergovernmental Relations,2021-09-18,Q333937-BD04F9FE-7B8A-47EB-9602-90DCC9634757
 Q333937,Michael Gove,Michael Gove,male,1967-08-26,11,https://www.gov.uk/government/ministers,2021-09-29,Q11781526,"Secretary of State for Levelling Up, Housing and Communities",2021-09-15,Q333937-EC45E1D9-CE71-4310-A953-9612B3116984
-Q389189,Mark Spencer,Mark Spencer,male,1970-01-20,11,,,Q943379,Lord President of the Council,2022-02-08,Q389189-690E5660-13F1-445A-BC10-D8CFAD9E9D26
-Q389189,Mark Spencer,Mark Spencer,male,1970-01-20,11,,,Q2636053,Leader of the House of Commons,2022-02-08,Q389189-B8070A74-6B46-4F71-8204-B9AC5AC1797F
+Q389189,Mark Spencer,Mark Spencer,male,1970-01-20,11,https://www.gov.uk/government/ministers,2022-02-09,Q943379,Lord President of the Council,2022-02-08,Q389189-690E5660-13F1-445A-BC10-D8CFAD9E9D26
+Q389189,Mark Spencer,Mark Spencer,male,1970-01-20,11,https://www.gov.uk/government/ministers,2022-02-09,Q2636053,Leader of the House of Commons,2022-02-08,Q389189-B8070A74-6B46-4F71-8204-B9AC5AC1797F
 Q478345,Simon Hart,Simon Hart,male,1963-08-15,11,https://www.gov.uk/government/ministers,2021-08-11,Q1846384,Secretary of State for Wales,2019-12-16,Q478345-4f2e0fb7-4c41-22db-f838-0b81e45357e8
 Q478531,Alok Sharma,Alok Sharma,male,1967-09-07,11,https://www.gov.uk/government/ministers/cop26-president,,Q108045009,COP26 President,2020-02-13,Q478531-70ABDD8F-19CC-4A4D-AAD3-8B37FD34A74B
 Q478596,Grant Shapps,Grant Shapps,male,1968-09-14,11,https://www.gov.uk/government/ministers,2021-08-11,Q3246797,Secretary of State for Transport,2019-07-24,Q478596-ec799617-4c4c-b4ad-cf7c-6f0f47767499
