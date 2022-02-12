@@ -151,11 +151,15 @@
             ]
           },
           "1namedata": {
-            "text": "Barry Rowland",
+            "text": "Barry Rowland Andy Keeling",
             "links": [
               {
                 "type": "internal",
                 "page": "Barry Rowland"
+              },
+              {
+                "type": "internal",
+                "page": "Andy Keeling"
               }
             ]
           },
