@@ -418,7 +418,7 @@
       ],
       "templates": [
         {
-          "description": "Prime Minister of the United Kingdom",
+          "description": "Prime Minister of the United Kingdom (born 1964)",
           "template": "short description"
         },
         {
@@ -505,6 +505,10 @@
           ],
           "name": "Boris Johnson website",
           "template": "official website"
+        },
+        {
+          "date": "February 2022",
+          "template": "very long"
         },
         {
           "template": "boris johnson sidebar"
