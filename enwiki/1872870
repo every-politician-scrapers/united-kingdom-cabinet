@@ -14,7 +14,6 @@
     "Conservative Party (UK) MPs for English constituencies",
     "English nurses",
     "British women bloggers",
-    "British women writers",
     "Female members of the Parliament of the United Kingdom for English constituencies",
     "I'm a Celebrity...Get Me Out of Here! (British TV series) participants",
     "UK MPs 2005–2010",
@@ -121,13 +120,9 @@
             },
             {
               "text": "She sold the company in 1998."
-            }
-          ]
-        },
-        {
-          "sentences": [
+            },
             {
-              "text": "Dorries was first elected to the House of Commons at the 2005 general election for the Conservative safe seat of Mid Bedfordshire.",
+              "text": "She was first elected to the House of Commons at the 2005 general election for the Conservative safe seat of Mid Bedfordshire.",
               "links": [
                 {
                   "text": "House of Commons",
@@ -155,9 +150,13 @@
                   "page": "Mid Bedfordshire (UK Parliament constituency)"
                 }
               ]
-            },
+            }
+          ]
+        },
+        {
+          "sentences": [
             {
-              "text": "As a backbencher, she introduced several unsuccessful private member's bills, including attempts to reduce the time limit for abortions in the UK and changes to the rules regarding counselling for the women involved, and the advocacy of sexual abstinence for girls in sex education.",
+              "text": "As a backbencher, Dorries introduced several unsuccessful private member's bills, including attempts to reduce the time limit for abortions in the UK and changes to the rules regarding counselling for the women involved, and the advocacy of sexual abstinence for girls in sex education.",
               "links": [
                 {
                   "text": "backbencher",
@@ -209,7 +208,7 @@
               ]
             },
             {
-              "text": "In 2012, the Conservative whip was suspended from Dorries after she took part in the reality TV programme I'm a Celebrity...Get Me Out of Here! without informing the Chief Whip.",
+              "text": "In 2012, she lost the Conservative whip after she took part in the reality TV programme I'm a Celebrity...Get Me Out of Here! without informing the Chief Whip.",
               "links": [
                 {
                   "text": "whip",

@@ -943,6 +943,11 @@
               {
                 "type": "internal",
                 "page": "Lady Margaret Hall, Oxford"
+              },
+              {
+                "text": "BA",
+                "type": "internal",
+                "page": "Bachelor of Arts"
               }
             ]
           },
