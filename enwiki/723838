@@ -8,6 +8,7 @@
     "Conservative Party (UK) MEPs",
     "Conservative Party (UK) MPs for English constituencies",
     "English football referees",
+    "Members of the Privy Council of the United Kingdom",
     "MEPs for England 1999–2004",
     "MEPs for England 2004–2009",
     "People educated at Tiffin School",
@@ -27,8 +28,13 @@
         {
           "sentences": [
             {
-              "text": "Christopher Heaton-Harris (born 28 November 1967) is a British Conservative Party politician serving as Government Chief Whip of the House of Commons and Parliamentary Secretary to the Treasury since 2022.",
+              "text": "Christopher Heaton-Harris PC (born 28 November 1967) is a British Conservative Party politician serving as Government Chief Whip of the House of Commons and Parliamentary Secretary to the Treasury since 2022.",
               "links": [
+                {
+                  "text": "PC",
+                  "type": "internal",
+                  "page": "Privy Council of the United Kingdom"
+                },
                 {
                   "text": "Conservative Party",
                   "type": "internal",
