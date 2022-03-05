@@ -20,7 +20,7 @@
         {
           "sentences": [
             {
-              "text": "Air Commodore Nigel James Phillips,, (born 10 May 1963) is a British diplomat, former Royal Air Force officer and the current Governor of the Falkland Islands and Commissioner of the South Georgia and the South Sandwich Islands.",
+              "text": "Air Commodore Nigel James Phillips, (born 10 May 1963) is a British diplomat, former Royal Air Force officer and the current Governor of the Falkland Islands and Commissioner of the South Georgia and the South Sandwich Islands.",
               "links": [
                 {
                   "type": "internal",
@@ -212,6 +212,9 @@
                 "page": "Royal Air Force"
               }
             ]
+          },
+          "serviceyears": {
+            "text": "1984-2000"
           },
           "rank": {
             "text": "Air Commodore",

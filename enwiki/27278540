@@ -45,7 +45,7 @@
               }
             },
             {
-              "text": "Barclay previously served as Minister for the Cabinet Office from 2021 to 2022, Chief Secretary to the Treasury from 2020 to 2021 and as Secretary of State for Exiting the European Union from 2018 to 2020.",
+              "text": "Barclay previously served as Minister for the Cabinet Office from 2021 to 2022, Chief Secretary to the Treasury from 2020 to 2021 and as Brexit Secretary from 2018 to 2020.",
               "links": [
                 {
                   "type": "internal",
@@ -57,7 +57,7 @@
                 },
                 {
                   "type": "internal",
-                  "page": "Secretary of State for Exiting the European Union"
+                  "page": "Brexit Secretary"
                 }
               ]
             },
@@ -166,7 +166,7 @@
               ]
             },
             {
-              "text": "After the 2018 cabinet reshuffle, he became Minister of State at the Department of Health and Social Care.",
+              "text": "After the 2018 cabinet reshuffle, he became Minister of State for Health.",
               "links": [
                 {
                   "text": "2018 cabinet reshuffle",
@@ -174,18 +174,19 @@
                   "page": "2018 British cabinet reshuffle"
                 },
                 {
+                  "text": "Minister of State for Health",
                   "type": "internal",
-                  "page": "Minister of State"
-                },
-                {
-                  "type": "internal",
-                  "page": "Department of Health and Social Care"
+                  "page": "Minister of State for Health (UK)"
                 }
               ]
             },
             {
-              "text": "In November 2018, Barclay was appointed Brexit Secretary by Theresa May following the resignation of Dominic Raab.",
+              "text": "In November 2018, Barclay was appointed Secretary of State for Exiting the European Union by Theresa May following the resignation of Dominic Raab.",
               "links": [
+                {
+                  "type": "internal",
+                  "page": "Secretary of State for Exiting the European Union"
+                },
                 {
                   "type": "internal",
                   "page": "Theresa May"

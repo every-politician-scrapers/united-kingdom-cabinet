@@ -208,7 +208,7 @@
               ]
             },
             {
-              "text": "In 2012, she lost the Conservative whip after she took part in the reality TV programme I'm a Celebrity...Get Me Out of Here! without informing the Chief Whip.",
+              "text": "In 2012, she lost the Conservative whip after she took part in the reality TV programme I'm a Celebrity...Get Me Out of Here! without informing the chief whip.",
               "links": [
                 {
                   "text": "whip",
@@ -221,8 +221,9 @@
                   "page": "I'm a Celebrity...Get Me Out of Here! (UK series 12)"
                 },
                 {
+                  "text": "chief whip",
                   "type": "internal",
-                  "page": "Chief Whip"
+                  "page": "chief whip"
                 }
               ],
               "formatting": {
@@ -298,10 +299,6 @@
           "template": "short description"
         },
         {
-          "small": "yes",
-          "template": "pp-blp"
-        },
-        {
           "date": "September 2019",
           "template": "use british english"
         },
@@ -311,7 +308,7 @@
         },
         {
           "list": [
-            "Parliamentary Under-Secretary of State (2019–20)"
+            "Parliamentary Under-Secretary of State (2019–2020)."
           ],
           "template": "efn"
         },

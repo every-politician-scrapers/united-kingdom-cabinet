@@ -378,7 +378,7 @@
         {
           "sentences": [
             {
-              "text": "Johnson is considered a controversial figure in British politics."
+              "text": "Johnson is a controversial figure in British politics."
             },
             {
               "text": "Supporters have praised him as humorous and entertaining, with an appeal stretching beyond traditional Conservative voters."
@@ -418,7 +418,7 @@
       ],
       "templates": [
         {
-          "description": "Prime Minister of the United Kingdom (born 1964)",
+          "description": "Prime Minister of the United Kingdom since 2019",
           "template": "short description"
         },
         {
@@ -432,6 +432,10 @@
         {
           "date": "February 2022",
           "template": "use dmy dates"
+        },
+        {
+          "date": "February 2022",
+          "template": "very long"
         },
         {
           "list": [
@@ -481,6 +485,13 @@
         },
         {
           "list": [
+            "Stanley Johnson",
+            "Charlotte Fawcett"
+          ],
+          "template": "ubl"
+        },
+        {
+          "list": [
             "Rachel Johnson (sister)",
             "Lord Johnson of Marylebone (brother)",
             "Julia Johnson (half-sister)",
@@ -507,10 +518,6 @@
           "template": "official website"
         },
         {
-          "date": "February 2022",
-          "template": "very long"
-        },
-        {
           "template": "boris johnson sidebar"
         },
         {
@@ -523,6 +530,16 @@
             "Formally, Parliament is prorogued by the monarch (Queen Elizabeth II) on the advice of the prime minister; it is a common legal fiction in the UK that many executive functions of the prime minister are formally carried out by the monarch on the prime minister's \"advice\", which is effectively the legal instrument by which the prime minister carries out the function. It was this advice of Johnson's that was ruled unlawful, not the actions of the Queen."
           ],
           "template": "efn"
+        },
+        {
+          "list": [
+            "Unsourced statement about response to outbreak"
+          ],
+          "template": "discuss"
+        },
+        {
+          "date": "February 2022",
+          "template": "cn"
         },
         {
           "author": "Gimson",
@@ -846,19 +863,7 @@
             ]
           },
           "parents": {
-            "text": "Stanley Johnson Charlotte Fawcett",
-            "links": [
-              {
-                "text": "Stanley Johnson",
-                "type": "internal",
-                "page": "Stanley Johnson (writer)"
-              },
-              {
-                "text": "Charlotte Fawcett",
-                "type": "internal",
-                "page": "Charlotte Johnson Wahl"
-              }
-            ]
+            "text": "Stanley Johnson\n\nCharlotte Fawcett"
           },
           "relatives": {
             "text": "Rachel Johnson (sister)\n\nLord Johnson of Marylebone (brother)\n\nJulia Johnson (half-sister)\n\nJames Fawcett (grandfather)\n\nEdmund Fawcett (uncle)\n\nAli Kemal (great grandfather)\n\nElias Avery Lowe (great grandfather)\n\nHelen Tracy Lowe-Porter (great grandmother)"
