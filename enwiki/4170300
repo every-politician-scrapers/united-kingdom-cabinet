@@ -5,7 +5,9 @@
     "1950 births",
     "Living people",
     "Chief Ministers of the Turks and Caicos Islands",
-    "Progressive National Party (Turks and Caicos Islands) politicians"
+    "Premiers of the Turks and Caicos Islands",
+    "Progressive National Party (Turks and Caicos Islands) politicians",
+    "Turks and Caicos Islands Christians"
   ],
   "sections": [
     {
@@ -15,12 +17,8 @@
         {
           "sentences": [
             {
-              "text": "Charles Washington Misick (born 13 March 1950) is a politician from the Turks and Caicos Islands who has been Premier of the Turks and Caicos Islands since February 2021.",
+              "text": "Charles Washington Misick (born 13 March 1950) is a Turks and Caicos Islander politician who has been the 5th Premier of the Turks and Caicos Islands since 20 February 2021.",
               "links": [
-                {
-                  "type": "internal",
-                  "page": "Turks and Caicos Islands"
-                },
                 {
                   "type": "internal",
                   "page": "Premier of the Turks and Caicos Islands"
@@ -33,7 +31,7 @@
               }
             },
             {
-              "text": "He has been the leader of the Progressive National Party since December 2016.",
+              "text": "He has been the leader of the Progressive National Party since 20 December 2016.",
               "links": [
                 {
                   "text": "Progressive National Party",
@@ -43,13 +41,11 @@
               ]
             },
             {
-              "text": "He previously served as the fifth Chief Minister from April 1991 to January 1995, was Minister of Finance, Trade and Investment from 2012 to 2016 and Leader of the Opposition from 1995 to 2003 and again from 2016 to 2021.",
+              "text": "He previously served as the 5th Chief Minister of the Turks and Caicos Islands from 3 April 1991 to 31 January 1995, was Minister of Finance, Trade and Investment from 2012 to 2016 and Leader of the Opposition from 1995 to 2003 and again from 2016 to 2021.",
               "links": [
                 {
-                  "text": "Chief Minister",
                   "type": "internal",
-                  "page": "Premier of the Turks and Caicos Islands",
-                  "anchor": "Chief Ministers of the Turks and Caicos Islands"
+                  "page": "Chief Minister of the Turks and Caicos Islands"
                 }
               ]
             },
@@ -124,16 +120,22 @@
           "image": {
             "text": "Washington Misick 2013.jpg"
           },
-          "office1": {
-            "text": "5th [[Premier of the Turks and Caicos Islands#Chief Ministers of the Turks and Caicos Islands| Chief Minister of the\nTurks and Caicos Islands]]"
+          "caption": {
+            "text": "Misick in 2013"
           },
-          "term_start1": {
-            "text": "April 1991"
+          "office": {
+            "text": "5th Premier of the Turks and Caicos Islands",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Premier of the Turks and Caicos Islands"
+              }
+            ]
           },
-          "term_end1": {
-            "text": "31 January 1995"
+          "term_start": {
+            "text": "20 February 2021"
           },
-          "monarch1": {
+          "monarch": {
             "text": "Elizabeth II",
             "links": [
               {
@@ -142,10 +144,73 @@
               }
             ]
           },
-          "2blankname1": {
-            "text": "Governor"
+          "governor": {
+            "text": "Nigel Dakin",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Nigel Dakin"
+              }
+            ]
           },
-          "predecessor1": {
+          "deputy": {
+            "text": "Erwin Jay Saunders",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Erwin Jay Saunders"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Sharlene Cartwright-Robinson",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sharlene Cartwright-Robinson"
+              }
+            ]
+          },
+          "office2": {
+            "text": "5th Chief Minister of the Turks and Caicos Islands",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Chief Minister of the Turks and Caicos Islands"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "3 April 1991"
+          },
+          "term_end2": {
+            "text": "31 January 1995"
+          },
+          "monarch2": {
+            "text": "Elizabeth II",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Elizabeth II"
+              }
+            ]
+          },
+          "governor2": {
+            "text": "Michael J. Bradley\nMartin Bourke",
+            "links": [
+              {
+                "text": "Michael J. Bradley",
+                "type": "internal",
+                "page": "Michael J. Bradley (colonial administrator)"
+              },
+              {
+                "text": "Martin Bourke",
+                "type": "internal",
+                "page": "Martin Bourke (diplomat)"
+              }
+            ]
+          },
+          "predecessor2": {
             "text": "Oswald Skippings",
             "links": [
               {
@@ -154,15 +219,143 @@
               }
             ]
           },
+          "successor2": {
+            "text": "Derek Hugh Taylor",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Derek Hugh Taylor"
+              }
+            ]
+          },
+          "office3": {
+            "text": "Leader of the Progressive National Party",
+            "links": [
+              {
+                "text": "Progressive National Party",
+                "type": "internal",
+                "page": "Progressive National Party (Turks and Caicos Islands)"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "20 December 2016"
+          },
+          "deputy3": {
+            "text": "Erwin Jay Saunders",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Erwin Jay Saunders"
+              }
+            ]
+          },
+          "predecessor3": {
+            "text": "Rufus Ewing",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Rufus Ewing"
+              }
+            ]
+          },
+          "office4": {
+            "text": "Member of Parliament\nfor All Island District",
+            "links": [
+              {
+                "text": "Member of Parliament",
+                "type": "internal",
+                "page": "House of Assembly (Turks and Caicos Islands)"
+              },
+              {
+                "text": "All Island District",
+                "type": "internal",
+                "page": "All Island District (Turks and Caicos)"
+              }
+            ]
+          },
+          "term_start4": {
+            "text": "12 November 2012"
+          },
+          "alongside4": {
+            "text": "Erwin Jay Saunders\nJosephine Connolly\nJamell Rayan Robionson\nShaun David Malcolm",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Erwin Jay Saunders"
+              },
+              {
+                "type": "internal",
+                "page": "Josephine Connolly"
+              }
+            ]
+          },
+          "office5": {
+            "text": "Leader of the Opposition"
+          },
+          "term_start5": {
+            "text": "20 December 2016"
+          },
+          "term_end5": {
+            "text": "20 February 2021"
+          },
+          "premier5": {
+            "text": "Sharlene Cartwright-Robinson",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sharlene Cartwright-Robinson"
+              }
+            ]
+          },
+          "governor5": {
+            "text": "John Freeman\nNigel Dakin",
+            "links": [
+              {
+                "text": "John Freeman",
+                "type": "internal",
+                "page": "John Freeman (diplomat)"
+              },
+              {
+                "type": "internal",
+                "page": "Nigel Dakin"
+              }
+            ]
+          },
+          "predecessor5": {
+            "text": "Sharlene Cartwright-Robinson",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sharlene Cartwright-Robinson"
+              }
+            ]
+          },
+          "successor5": {
+            "text": "Edwin Astwood",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Edwin Astwood"
+              }
+            ]
+          },
+          "birth_name": {
+            "text": "Charles Washington Misick"
+          },
           "birth_date": {
             "text": "March 13, 1950"
           },
           "birth_place": {
-            "text": "North Caicos",
+            "text": "North Caicos, Turks and Caicos Islands",
             "links": [
               {
                 "type": "internal",
                 "page": "North Caicos"
+              },
+              {
+                "type": "internal",
+                "page": "Turks and Caicos Islands"
               }
             ]
           },
@@ -179,53 +372,8 @@
           "spouse": {
             "text": "Delthia Misick"
           },
-          "alma_mater": {
-            "text": "Harvard University",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Harvard University"
-              }
-            ]
-          },
-          "office": {
-            "text": "5th [[Premier of the Turks and Caicos Islands#Premiers of the Turks and Caicos Islands|Premier of the\nTurks and Caicos Islands]]"
-          },
-          "termstart": {
-            "text": "20 February 2021"
-          },
-          "predecessor": {
-            "text": "Sharlene Cartwright-Robinson",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Sharlene Cartwright-Robinson"
-              }
-            ]
-          },
-          "deputy": {
-            "text": "Erwin Jay Saunders",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Erwin Jay Saunders"
-              }
-            ]
-          },
-          "nickname": {
-            "text": "Washy"
-          },
-          "governor": {
-            "text": "Nigel Dakin",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Nigel Dakin"
-              }
-            ]
-          },
           "relations": {
-            "text": "Michael Misick (brother) \nAriel Misick (brother)",
+            "text": "Michael Misick (brother) Ariel Misick (brother)",
             "links": [
               {
                 "type": "internal",
@@ -237,129 +385,17 @@
               }
             ]
           },
-          "office2": {
-            "text": "Member of Parliament\nfor All Island District",
-            "links": [
-              {
-                "text": "Member of Parliament",
-                "type": "internal",
-                "page": "House of Assembly (Turks and Caicos Islands)"
-              },
-              {
-                "text": "All Island District",
-                "type": "internal",
-                "page": "All Island District (Turks and Caicos)"
-              }
-            ]
-          },
-          "termstart2": {
-            "text": "12 November 2012"
-          },
-          "alongside2": {
-            "text": "Erwin Jay Saunders\nJosephine Connolly\nJamell Rayan Robionson\nShaun David Malcolm",
+          "alma_mater": {
+            "text": "Harvard University",
             "links": [
               {
                 "type": "internal",
-                "page": "Erwin Jay Saunders"
-              },
-              {
-                "type": "internal",
-                "page": "Josephine Connolly"
+                "page": "Harvard University"
               }
             ]
           },
-          "office3": {
-            "text": "Leader of the Progressive National Party",
-            "links": [
-              {
-                "text": "Progressive National Party",
-                "type": "internal",
-                "page": "Progressive National Party (Turks and Caicos Islands)"
-              }
-            ]
-          },
-          "termstart3": {
-            "text": "20 December 2016"
-          },
-          "predecessor3": {
-            "text": "Rufus Ewing",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Rufus Ewing"
-              }
-            ]
-          },
-          "office4": {
-            "text": "Leader of the Opposition"
-          },
-          "termstart4": {
-            "text": "20 Dec 2016"
-          },
-          "termend4": {
-            "text": "20 February 2021"
-          },
-          "premier4": {
-            "text": "Sharlene Cartwright-Robinson",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Sharlene Cartwright-Robinson"
-              }
-            ]
-          },
-          "governor4": {
-            "text": "John Freeman\nNigel Dakin",
-            "links": [
-              {
-                "text": " John Freeman",
-                "type": "internal",
-                "page": "John Freeman (diplomat)"
-              },
-              {
-                "type": "internal",
-                "page": "Nigel Dakin"
-              }
-            ]
-          },
-          "successor4": {
-            "text": "Edwin Astwood",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Edwin Astwood"
-              }
-            ]
-          },
-          "predecessor4": {
-            "text": "Sharlene Cartwright-Robinson",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Sharlene Cartwright-Robinson"
-              }
-            ]
-          },
-          "monarch": {
-            "text": "Elizabeth II",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Elizabeth II"
-              }
-            ]
-          },
-          "deputy3": {
-            "text": "Erwin Jay Saunders",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Erwin Jay Saunders"
-              }
-            ]
-          },
-          "caption": {
-            "text": "Misick in 2013"
+          "nickname": {
+            "text": "Washy"
           }
         }
       ]

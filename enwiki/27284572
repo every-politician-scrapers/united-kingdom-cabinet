@@ -264,19 +264,13 @@
             ]
           },
           "primeminister2": {
-            "text": "Boris Johnson",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Boris Johnson"
-              }
-            ]
+            "text": "Boris Johnson"
           },
           "predecessor2": {
-            "text": "Position established",
+            "text": "Office established",
             "formatting": {
               "italic": [
-                "Position established"
+                "Office established"
               ]
             }
           },
@@ -306,13 +300,7 @@
             ]
           },
           "primeminister3": {
-            "text": "Boris Johnson",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Boris Johnson"
-              }
-            ]
+            "text": "Boris Johnson"
           },
           "predecessor3": {
             "text": "Andrew Stephenson",

@@ -306,7 +306,13 @@
             ]
           },
           "successor5": {
-            "text": "James Heappey"
+            "text": "James Heappey",
+            "links": [
+              {
+                "type": "internal",
+                "page": "James Heappey"
+              }
+            ]
           },
           "birthname": {
             "text": "Anne-Marie Belinda Beaton"

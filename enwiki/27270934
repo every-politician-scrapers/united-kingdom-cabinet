@@ -299,7 +299,7 @@
       ],
       "templates": [
         {
-          "description": "UK Foreign Secretary",
+          "description": "UK Foreign Secretary since 2021",
           "template": "short description"
         },
         {
@@ -307,7 +307,7 @@
           "template": "use british english"
         },
         {
-          "date": "September 2021",
+          "date": "February 2022",
           "template": "use dmy dates"
         },
         {
