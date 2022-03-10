@@ -1,147 +1,16 @@
 {
-  "title": "Charlene Warren-Peu",
-  "pageID": 62648922,
-  "categories": [
-    "1979 births",
-    "Living people",
-    "Mayors of the Pitcairn Islands",
-    "Members of the Island Council of the Pitcairn Islands"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Charlene Evelyn Dolly Warren-Peu (born 9 June 1979) is a Pitcairnese politician, who serves as Mayor of the Pitcairn Islands since 2020.",
-              "links": [
-                {
-                  "text": "Mayor of the Pitcairn Islands",
-                  "type": "internal",
-                  "page": "List of rulers of the Pitcairn Islands"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Charlene Evelyn Dolly Warren-Peu"
-                ]
-              }
-            },
-            {
-              "text": "She is the first woman to hold the position on a permanent basis."
-            },
-            {
-              "text": "She previously served as Deputy Mayor and was on the Island Council.",
-              "links": [
-                {
-                  "text": "Island Council",
-                  "type": "internal",
-                  "page": "Island Council (Pitcairn)"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Pitcairnese politician",
-          "template": "short description"
-        },
-        {
-          "year": "1979",
-          "month": "6",
-          "day": "9",
-          "df": "y",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "honorific-prefix": {
-            "text": "Her Excellency"
-          },
-          "name": {
-            "text": "Charlene Warren-Peu"
-          },
-          "office": {
-            "text": "Mayor of the Pitcairn Islands",
-            "links": [
-              {
-                "text": "Mayor of the Pitcairn Islands",
-                "type": "internal",
-                "page": "List of rulers of the Pitcairn Islands"
-              }
-            ]
-          },
-          "monarch": {
-            "text": "Elizabeth II",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Elizabeth II"
-              }
-            ]
-          },
-          "governor": {
-            "text": "Laura Clarke",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Laura Clarke"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "1 January 2020"
-          },
-          "predecessor": {
-            "text": "Shawn Christian",
-            "links": [
-              {
-                "text": "Shawn Christian",
-                "type": "internal",
-                "page": "Shawn Christian (mayor)"
-              }
-            ]
-          },
-          "office1": {
-            "text": "Deputy Mayor of the Pitcairn Islands"
-          },
-          "term_start1": {
-            "text": "1 January 2014"
-          },
-          "term_end1": {
-            "text": "31 December 2019"
-          },
-          "predecessor1": {
-            "text": "Brenda Christian",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Brenda Christian"
-              }
-            ]
-          },
-          "successor1": {
-            "text": "Kevin Young"
-          },
-          "birth_date": {
-            "text": "June 9, 1979"
-          },
-          "birth_place": {
-            "text": "Adamstown, Pitcairn Islands",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Adamstown, Pitcairn Islands"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "honorific-prefix": "Her Excellency",
+  "name": "Charlene Warren-Peu",
+  "office": "Mayor of the Pitcairn Islands",
+  "monarch": "Elizabeth II",
+  "governor": "Laura Clarke",
+  "term_start": "1 January 2020",
+  "predecessor": "Shawn Christian",
+  "office1": "Deputy Mayor of the Pitcairn Islands",
+  "term_start1": "1 January 2014",
+  "term_end1": "31 December 2019",
+  "predecessor1": "Brenda Christian",
+  "successor1": "Kevin Young",
+  "birth_date": "June 9, 1979",
+  "birth_place": "Adamstown, Pitcairn Islands"
 }

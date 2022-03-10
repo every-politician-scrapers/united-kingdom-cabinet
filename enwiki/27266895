@@ -1,414 +1,47 @@
 {
-  "title": "Nigel Adams",
-  "pageID": 27266895,
-  "categories": [
-    "1966 births",
-    "Living people",
-    "Conservative Party (UK) MPs for English constituencies",
-    "People educated at Selby High School",
-    "People from Selby",
-    "UK MPs 2010–2015",
-    "UK MPs 2015–2017",
-    "UK MPs 2017–2019",
-    "UK MPs 2019–present"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Nigel Adams (born 30 November 1966) is a British politician who has served as Minister of State without Portfolio at the Cabinet Office since 2021.",
-              "links": [
-                {
-                  "text": "Minister of State without Portfolio",
-                  "type": "internal",
-                  "page": "Minister of State at the Cabinet Office"
-                },
-                {
-                  "type": "internal",
-                  "page": "Cabinet Office"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Nigel Adams"
-                ]
-              }
-            },
-            {
-              "text": "A member of the Conservative Party, he has been Member of Parliament (MP) for Selby and Ainsty since 2010.",
-              "links": [
-                {
-                  "text": "Conservative Party",
-                  "type": "internal",
-                  "page": "Conservative Party (UK)"
-                },
-                {
-                  "text": "Member of Parliament",
-                  "type": "internal",
-                  "page": "Member of Parliament (United Kingdom)"
-                },
-                {
-                  "text": "Selby and Ainsty",
-                  "type": "internal",
-                  "page": "Selby and Ainsty (UK Parliament constituency)"
-                },
-                {
-                  "text": "2010",
-                  "type": "internal",
-                  "page": "2010 United Kingdom general election"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "British Conservative politician",
-          "template": "short description"
-        },
-        {
-          "date": "October 2019",
-          "template": "use british english"
-        },
-        {
-          "date": "October 2019",
-          "template": "use dmy dates"
-        },
-        {
-          "list": [
-            "Succeeded by Huddleston as sport minister. Succeeded by John Whittingdale as Minister of State for Media and Data and Caroline Dinenage as Minister of State for Digital and Culture."
-          ],
-          "template": "efn"
-        },
-        {
-          "year": "1966",
-          "month": "11",
-          "day": "30",
-          "df": "yes",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "honorific-prefix": {
-            "text": "The Right Honourable",
-            "links": [
-              {
-                "type": "internal",
-                "page": "The Right Honourable"
-              }
-            ]
-          },
-          "name": {
-            "text": "Nigel Adams"
-          },
-          "honorific-suffix": {
-            "text": "MP",
-            "links": [
-              {
-                "text": "MP",
-                "type": "internal",
-                "page": "Member of Parliament (United Kingdom)"
-              }
-            ]
-          },
-          "image": {
-            "text": "Official portrait of Nigel Adams MP crop 2.jpg"
-          },
-          "caption": {
-            "text": "Official portrait, 2020"
-          },
-          "office1": {
-            "text": "Minister of State without Portfolio",
-            "links": [
-              {
-                "text": "Minister of State without Portfolio",
-                "type": "internal",
-                "page": "Minister of State at the Cabinet Office"
-              }
-            ]
-          },
-          "primeminister1": {
-            "text": "Boris Johnson",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Boris Johnson"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "15 September 2021"
-          },
-          "predecessor1": {
-            "text": "Chloe Smith",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Chloe Smith"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Minister of State for Asia",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Minister of State for Asia"
-              }
-            ]
-          },
-          "primeminister2": {
-            "text": "Boris Johnson",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Boris Johnson"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "13 February 2020"
-          },
-          "term_end2": {
-            "text": "15 September 2021"
-          },
-          "predecessor2": {
-            "text": "Heather Wheeler",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Heather Wheeler"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "Amanda Milling",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Amanda Milling"
-              }
-            ]
-          },
-          "office3": {
-            "text": "Minister of State for Sport, Media and Creative Industries",
-            "links": [
-              {
-                "text": "Minister of State for Sport, Media and Creative Industries",
-                "type": "internal",
-                "page": "Minister for Sport (United Kingdom)"
-              }
-            ]
-          },
-          "primeminister3": {
-            "text": "Boris Johnson",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Boris Johnson"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "24 July 2019"
-          },
-          "term_end3": {
-            "text": "13 February 2020"
-          },
-          "predecessor3": {
-            "text": "Margot James",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Margot James"
-              }
-            ]
-          },
-          "successor3": {
-            "text": "Nigel Huddleston",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Nigel Huddleston"
-              }
-            ]
-          },
-          "office4": {
-            "text": "Parliamentary Under-Secretary of State for Wales",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Parliamentary Under-Secretary of State for Wales"
-              }
-            ]
-          },
-          "primeminister4": {
-            "text": "Theresa May",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Theresa May"
-              }
-            ]
-          },
-          "term_start4": {
-            "text": "5 November 2018"
-          },
-          "term_end4": {
-            "text": "3 April 2019"
-          },
-          "predecessor4": {
-            "text": "Mims Davies",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mims Davies"
-              }
-            ]
-          },
-          "successor4": {
-            "text": "Kevin Foster",
-            "links": [
-              {
-                "text": "Kevin Foster",
-                "type": "internal",
-                "page": "Kevin Foster (politician)"
-              }
-            ]
-          },
-          "office5": {
-            "text": "Lord Commissioner of the Treasury",
-            "links": [
-              {
-                "text": "Lord Commissioner of the Treasury",
-                "type": "internal",
-                "page": "Lords Commissioners of the Treasury"
-              }
-            ]
-          },
-          "primeminister5": {
-            "text": "Theresa May",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Theresa May"
-              }
-            ]
-          },
-          "predecessor5": {
-            "text": "Andrew Griffiths",
-            "links": [
-              {
-                "text": "Andrew Griffiths",
-                "type": "internal",
-                "page": "Andrew Griffiths (politician)"
-              }
-            ]
-          },
-          "successor5": {
-            "text": "Jeremy Quin",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jeremy Quin"
-              }
-            ]
-          },
-          "term_start5": {
-            "text": "9 January 2018"
-          },
-          "term_end5": {
-            "text": "5 November 2018"
-          },
-          "office6": {
-            "text": "Member of Parliament\nfor Selby and Ainsty",
-            "links": [
-              {
-                "text": "Member of Parliament",
-                "type": "internal",
-                "page": "Member of Parliament (United Kingdom)"
-              },
-              {
-                "text": "Selby and Ainsty",
-                "type": "internal",
-                "page": "Selby and Ainsty (UK Parliament constituency)"
-              }
-            ]
-          },
-          "majority6": {
-            "text": "20,137 (35.7%)"
-          },
-          "predecessor6": {
-            "text": "Constituency Created",
-            "formatting": {
-              "italic": [
-                "Constituency Created"
-              ]
-            }
-          },
-          "term_start6": {
-            "text": "6 May 2010"
-          },
-          "birth_date": {
-            "text": "November 30, 1966"
-          },
-          "birth_place": {
-            "text": "Goole, West Riding of Yorkshire, England",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Goole"
-              },
-              {
-                "type": "internal",
-                "page": "West Riding of Yorkshire"
-              },
-              {
-                "type": "internal",
-                "page": "England"
-              }
-            ]
-          },
-          "nationality": {
-            "text": "British"
-          },
-          "party": {
-            "text": "Conservative",
-            "links": [
-              {
-                "text": "Conservative",
-                "type": "internal",
-                "page": "Conservative Party (UK)"
-              }
-            ]
-          },
-          "spouse": {
-            "text": "Claire Robson"
-          },
-          "children": {
-            "text": "4",
-            "number": 4
-          },
-          "alma_mater": {
-            "text": "Selby High School",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Selby High School"
-              }
-            ]
-          },
-          "website": {
-            "text": "www.selbyandainsty.com"
-          }
-        }
-      ]
-    }
-  ]
+  "honorific-prefix": "The Right Honourable",
+  "name": "Nigel Adams",
+  "honorific-suffix": "MP",
+  "image": "Official portrait of Nigel Adams MP crop 2.jpg",
+  "caption": "Official portrait, 2020",
+  "office1": "Minister of State without Portfolio",
+  "primeminister1": "Boris Johnson",
+  "term_start1": "15 September 2021",
+  "predecessor1": "Chloe Smith",
+  "office2": "Minister of State for Asia",
+  "primeminister2": "Boris Johnson",
+  "term_start2": "13 February 2020",
+  "term_end2": "15 September 2021",
+  "predecessor2": "Heather Wheeler",
+  "successor2": "Amanda Milling",
+  "office3": "Minister of State for Sport, Media and Creative Industries",
+  "primeminister3": "Boris Johnson",
+  "term_start3": "24 July 2019",
+  "term_end3": "13 February 2020",
+  "predecessor3": "Margot James",
+  "successor3": "Nigel Huddleston",
+  "office4": "Parliamentary Under-Secretary of State for Wales",
+  "primeminister4": "Theresa May",
+  "term_start4": "5 November 2018",
+  "term_end4": "3 April 2019",
+  "predecessor4": "Mims Davies",
+  "successor4": "Kevin Foster",
+  "office5": "Lord Commissioner of the Treasury",
+  "primeminister5": "Theresa May",
+  "predecessor5": "Andrew Griffiths",
+  "successor5": "Jeremy Quin",
+  "term_start5": "9 January 2018",
+  "term_end5": "5 November 2018",
+  "office6": "Member of Parliament\nfor Selby and Ainsty",
+  "majority6": "20,137 (35.7%)",
+  "predecessor6": "Constituency Created",
+  "term_start6": "6 May 2010",
+  "birth_date": "November 30, 1966",
+  "birth_place": "Goole, West Riding of Yorkshire, England",
+  "nationality": "British",
+  "party": "Conservative",
+  "spouse": "Claire Robson",
+  "children": "4",
+  "alma_mater": "Selby High School",
+  "website": "www.selbyandainsty.com"
 }

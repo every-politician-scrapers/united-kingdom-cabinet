@@ -1,395 +1,47 @@
 {
-  "title": "Anne-Marie Trevelyan",
-  "pageID": 46645665,
-  "categories": [
-    "1969 births",
-    "21st-century British women politicians",
-    "Alumni of Oxford Brookes University",
-    "Conservative Party (UK) MPs for English constituencies",
-    "English accountants",
-    "Female members of the Cabinet of the United Kingdom",
-    "Female members of the Parliament of the United Kingdom for English constituencies",
-    "Living people",
-    "People educated at St Paul's Girls' School",
-    "People from Morpeth, Northumberland",
-    "PricewaterhouseCoopers people",
-    "Presidents of the Board of Trade",
-    "UK MPs 2015–2017",
-    "UK MPs 2017–2019",
-    "UK MPs 2019–present",
-    "British Eurosceptics",
-    "21st-century English women",
-    "21st-century English people"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Anne-Marie Belinda Trevelyan (née Beaton; born 6 April 1969) is a British politician serving as Secretary of State for International Trade and President of the Board of Trade since 2021.",
-              "links": [
-                {
-                  "text": "née",
-                  "type": "internal",
-                  "page": "née"
-                },
-                {
-                  "type": "internal",
-                  "page": "Secretary of State for International Trade"
-                },
-                {
-                  "type": "internal",
-                  "page": "President of the Board of Trade"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Anne-Marie Belinda Trevelyan",
-                  "Beaton"
-                ]
-              }
-            },
-            {
-              "text": "She served as Secretary of State for International Development in 2020.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Secretary of State for International Development"
-                }
-              ]
-            },
-            {
-              "text": "A member of the Conservative Party, she has been Member of Parliament (MP) for Berwick-upon-Tweed since 2015.",
-              "links": [
-                {
-                  "text": "Conservative Party",
-                  "type": "internal",
-                  "page": "Conservative Party (UK)"
-                },
-                {
-                  "text": "Member of Parliament",
-                  "type": "internal",
-                  "page": "Member of Parliament (United Kingdom)"
-                },
-                {
-                  "text": "Berwick-upon-Tweed",
-                  "type": "internal",
-                  "page": "Berwick-upon-Tweed (UK Parliament constituency)"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "British Conservative politician",
-          "template": "short description"
-        },
-        {
-          "date": "January 2021",
-          "template": "use dmy dates"
-        },
-        {
-          "date": "October 2019",
-          "template": "use british english"
-        },
-        {
-          "year": "1969",
-          "month": "4",
-          "day": "6",
-          "df": "y",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "honorific-prefix": {
-            "text": "The Right Honourable",
-            "links": [
-              {
-                "type": "internal",
-                "page": "The Right Honourable"
-              }
-            ]
-          },
-          "name": {
-            "text": "Anne-Marie Trevelyan"
-          },
-          "honorific-suffix": {
-            "text": "MP",
-            "links": [
-              {
-                "text": "MP",
-                "type": "internal",
-                "page": "Member of Parliament (United Kingdom)"
-              }
-            ]
-          },
-          "image": {
-            "text": "Official portrait of Mrs Anne-Marie Trevelyan crop 2.jpg"
-          },
-          "caption": {
-            "text": "Official portrait, 2017"
-          },
-          "office1": {
-            "text": "Secretary of State for International Trade\nPresident of the Board of Trade",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Secretary of State for International Trade"
-              },
-              {
-                "type": "internal",
-                "page": "President of the Board of Trade"
-              }
-            ]
-          },
-          "primeminister1": {
-            "text": "Boris Johnson",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Boris Johnson"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "15 September 2021"
-          },
-          "predecessor1": {
-            "text": "Liz Truss",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Liz Truss"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Minister of State for Business, Energy and Clean Growth",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Minister of State for Business, Energy and Clean Growth"
-              }
-            ]
-          },
-          "primeminister2": {
-            "text": "Boris Johnson"
-          },
-          "term_start2": {
-            "text": "8 January 2021"
-          },
-          "term_end2": {
-            "text": "15 September 2021"
-          },
-          "predecessor2": {
-            "text": "Kwasi Kwarteng",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Kwasi Kwarteng"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "Greg Hands",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Greg Hands"
-              }
-            ]
-          },
-          "office3": {
-            "text": "Secretary of State for International Development",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Secretary of State for International Development"
-              }
-            ]
-          },
-          "primeminister3": {
-            "text": "Boris Johnson"
-          },
-          "term_start3": {
-            "text": "13 February 2020"
-          },
-          "term_end3": {
-            "text": "2 September 2020"
-          },
-          "predecessor3": {
-            "text": "Alok Sharma",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Alok Sharma"
-              }
-            ]
-          },
-          "successor3": {
-            "text": "Office abolished",
-            "formatting": {
-              "italic": [
-                "Office abolished"
-              ]
-            }
-          },
-          "office4": {
-            "text": "Minister of State for the Armed Forces",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Minister of State for the Armed Forces"
-              }
-            ]
-          },
-          "primeminister4": {
-            "text": "Boris Johnson"
-          },
-          "term_start4": {
-            "text": "16 December 2019"
-          },
-          "term_end4": {
-            "text": "13 February 2020"
-          },
-          "predecessor4": {
-            "text": "Mark Lancaster",
-            "links": [
-              {
-                "text": "Mark Lancaster",
-                "type": "internal",
-                "page": "Mark Lancaster, Baron Lancaster of Kimbolton"
-              }
-            ]
-          },
-          "successor4": {
-            "text": "James Heappey",
-            "links": [
-              {
-                "type": "internal",
-                "page": "James Heappey"
-              }
-            ]
-          },
-          "office5": {
-            "text": "Parliamentary Under-Secretary of State for Defence Procurement",
-            "links": [
-              {
-                "text": "Parliamentary Under-Secretary of State for Defence Procurement",
-                "type": "internal",
-                "page": "Minister for Defence Procurement"
-              }
-            ]
-          },
-          "primeminister5": {
-            "text": "Boris Johnson"
-          },
-          "term_start5": {
-            "text": "27 July 2019"
-          },
-          "term_end5": {
-            "text": "16 December 2019"
-          },
-          "predecessor5": {
-            "text": "Stuart Andrew",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Stuart Andrew"
-              }
-            ]
-          },
-          "successor5": {
-            "text": "James Heappey",
-            "links": [
-              {
-                "type": "internal",
-                "page": "James Heappey"
-              }
-            ]
-          },
-          "birthname": {
-            "text": "Anne-Marie Belinda Beaton"
-          },
-          "birth_date": {
-            "text": "April 6, 1969"
-          },
-          "birth_place": {
-            "text": "London, England",
-            "links": [
-              {
-                "type": "internal",
-                "page": "London"
-              }
-            ]
-          },
-          "party": {
-            "text": "Conservative",
-            "links": [
-              {
-                "text": "Conservative",
-                "type": "internal",
-                "page": "Conservative Party (UK)"
-              }
-            ]
-          },
-          "alma_mater": {
-            "text": "Oxford Polytechnic",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Oxford Polytechnic"
-              }
-            ]
-          },
-          "spouse": {
-            "text": "John Trevelyan (divorced)"
-          },
-          "children": {
-            "text": "2",
-            "number": 2
-          },
-          "website": {
-            "text": "teamtrevelyan.co.uk"
-          },
-          "office6": {
-            "text": "Member of Parliament\nfor Berwick-upon-Tweed",
-            "links": [
-              {
-                "text": "Member of Parliament",
-                "type": "internal",
-                "page": "Member of Parliament (United Kingdom)"
-              },
-              {
-                "text": "Berwick-upon-Tweed",
-                "type": "internal",
-                "page": "Berwick-upon-Tweed (UK Parliament constituency)"
-              }
-            ]
-          },
-          "predecessor6": {
-            "text": "Alan Beith",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Alan Beith"
-              }
-            ]
-          },
-          "term_start6": {
-            "text": "7 May 2015"
-          },
-          "majority6": {
-            "text": "14,835 (35.2%)"
-          }
-        }
-      ]
-    }
-  ]
+  "honorific-prefix": "The Right Honourable",
+  "name": "Anne-Marie Trevelyan",
+  "honorific-suffix": "MP",
+  "image": "Official portrait of Mrs Anne-Marie Trevelyan crop 2.jpg",
+  "caption": "Official portrait, 2017",
+  "office1": "Secretary of State for International Trade\nPresident of the Board of Trade",
+  "primeminister1": "Boris Johnson",
+  "term_start1": "15 September 2021",
+  "predecessor1": "Liz Truss",
+  "office2": "Minister of State for Business, Energy and Clean Growth",
+  "primeminister2": "Boris Johnson",
+  "term_start2": "8 January 2021",
+  "term_end2": "15 September 2021",
+  "predecessor2": "Kwasi Kwarteng",
+  "successor2": "Greg Hands",
+  "office3": "Secretary of State for International Development",
+  "primeminister3": "Boris Johnson",
+  "term_start3": "13 February 2020",
+  "term_end3": "2 September 2020",
+  "predecessor3": "Alok Sharma",
+  "successor3": "Office abolished",
+  "office4": "Minister of State for the Armed Forces",
+  "primeminister4": "Boris Johnson",
+  "term_start4": "16 December 2019",
+  "term_end4": "13 February 2020",
+  "predecessor4": "Mark Lancaster",
+  "successor4": "James Heappey",
+  "office5": "Parliamentary Under-Secretary of State for Defence Procurement",
+  "primeminister5": "Boris Johnson",
+  "term_start5": "27 July 2019",
+  "term_end5": "16 December 2019",
+  "predecessor5": "Stuart Andrew",
+  "successor5": "James Heappey",
+  "birthname": "Anne-Marie Belinda Beaton",
+  "birth_date": "April 6, 1969",
+  "birth_place": "London, England",
+  "party": "Conservative",
+  "alma_mater": "Oxford Polytechnic",
+  "spouse": "John Trevelyan (divorced)",
+  "children": "2",
+  "website": "teamtrevelyan.co.uk",
+  "office6": "Member of Parliament\nfor Berwick-upon-Tweed",
+  "predecessor6": "Alan Beith",
+  "term_start6": "7 May 2015",
+  "majority6": "14,835 (35.2%)"
 }
