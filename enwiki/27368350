@@ -1,410 +1,49 @@
 {
-  "title": "Mark Spencer (British politician)",
-  "pageID": 27368350,
-  "categories": [
-    "1970 births",
-    "Living people",
-    "Conservative Party (UK) MPs for English constituencies",
-    "UK MPs 2010–2015",
-    "UK MPs 2015–2017",
-    "UK MPs 2017–2019",
-    "UK MPs 2019–present",
-    "Councillors in Nottinghamshire",
-    "Members of Nottinghamshire County Council",
-    "Members of the Privy Council of the United Kingdom",
-    "People from Calverton, Nottinghamshire"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Mark Steven Spencer (born 20 January 1970) is a British politician serving as Leader of the House of Commons and Lord President of the Council since 2022.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Leader of the House of Commons"
-                },
-                {
-                  "type": "internal",
-                  "page": "Lord President of the Council"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Mark Steven Spencer"
-                ]
-              }
-            },
-            {
-              "text": "He previously served as Chief Whip from 2019 to 2022.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Chief Whip"
-                }
-              ]
-            },
-            {
-              "text": "A member of the Conservative Party, he has been Member of Parliament (MP) for Sherwood since 2010.",
-              "links": [
-                {
-                  "text": "Conservative Party",
-                  "type": "internal",
-                  "page": "Conservative Party (UK)"
-                },
-                {
-                  "text": "Member of Parliament",
-                  "type": "internal",
-                  "page": "Member of Parliament (United Kingdom)"
-                },
-                {
-                  "text": "Sherwood",
-                  "type": "internal",
-                  "page": "Sherwood (UK Parliament constituency)"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "British Conservative politician",
-          "template": "short description"
-        },
-        {
-          "date": "January 2020",
-          "template": "use dmy dates"
-        },
-        {
-          "date": "December 2019",
-          "template": "use british english"
-        },
-        {
-          "df": "yes",
-          "year": "1970",
-          "month": "01",
-          "day": "20",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "honorific-prefix": {
-            "text": "The Right Honourable",
-            "links": [
-              {
-                "type": "internal",
-                "page": "The Right Honourable"
-              }
-            ]
-          },
-          "name": {
-            "text": "Mark Spencer"
-          },
-          "honorific-suffix": {
-            "text": "MP",
-            "links": [
-              {
-                "text": "MP",
-                "type": "internal",
-                "page": "Member of Parliament (United Kingdom)"
-              }
-            ]
-          },
-          "image": {
-            "text": "File:Official portrait of Rt Hon Mark Spencer MP crop 2.jpg"
-          },
-          "caption": {
-            "text": "Official portrait, 2020"
-          },
-          "office": {
-            "text": "Leader of the House of Commons Lord President of the Council",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Leader of the House of Commons"
-              },
-              {
-                "type": "internal",
-                "page": "Lord President of the Council"
-              }
-            ]
-          },
-          "primeminister": {
-            "text": "Boris Johnson",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Boris Johnson"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "8 February 2022"
-          },
-          "predecessor": {
-            "text": "Jacob Rees-Mogg",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jacob Rees-Mogg"
-              }
-            ]
-          },
-          "office1": {
-            "text": "Chief Whip of the House of Commons Parliamentary Secretary to the Treasury",
-            "links": [
-              {
-                "text": "Chief Whip of the House of Commons",
-                "type": "internal",
-                "page": "Chief Whip of the Conservative Party"
-              },
-              {
-                "type": "internal",
-                "page": "Parliamentary Secretary to the Treasury"
-              }
-            ]
-          },
-          "primeminister1": {
-            "text": "Boris Johnson"
-          },
-          "term_start1": {
-            "text": "24 July 2019"
-          },
-          "term_end1": {
-            "text": "8 February 2022"
-          },
-          "predecessor1": {
-            "text": "Julian Smith",
-            "links": [
-              {
-                "text": "Julian Smith",
-                "type": "internal",
-                "page": "Julian Smith (politician)"
-              }
-            ]
-          },
-          "successor1": {
-            "text": "Chris Heaton-Harris",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Chris Heaton-Harris"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Comptroller of the Household",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Comptroller of the Household"
-              }
-            ]
-          },
-          "primeminister2": {
-            "text": "Theresa May",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Theresa May"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "15 July 2018"
-          },
-          "term_end2": {
-            "text": "24 July 2019"
-          },
-          "predecessor2": {
-            "text": "Chris Heaton-Harris",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Chris Heaton-Harris"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "Jeremy Quin",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jeremy Quin"
-              }
-            ]
-          },
-          "office3": {
-            "text": "Deputy Leader of the House of Commons",
-            "links": [
-              {
-                "text": "Deputy Leader of the House of Commons",
-                "type": "internal",
-                "page": "Office of the Leader of the House of Commons"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "15 July 2018"
-          },
-          "term_end3": {
-            "text": "24 July 2019"
-          },
-          "primeminister3": {
-            "text": "Theresa May"
-          },
-          "predecessor3": {
-            "text": "Chris Heaton-Harris",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Chris Heaton-Harris"
-              }
-            ]
-          },
-          "successor3": {
-            "text": "Position abolished",
-            "formatting": {
-              "italic": [
-                "Position abolished"
-              ]
-            }
-          },
-          "office4": {
-            "text": "Vice-Chamberlain of the Household",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Vice-Chamberlain of the Household"
-              }
-            ]
-          },
-          "primeminister4": {
-            "text": "Theresa May"
-          },
-          "term_start4": {
-            "text": "10 January 2018"
-          },
-          "term_end4": {
-            "text": "15 July 2018"
-          },
-          "predecessor4": {
-            "text": "Chris Heaton-Harris",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Chris Heaton-Harris"
-              }
-            ]
-          },
-          "successor4": {
-            "text": "Andrew Stephenson",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Andrew Stephenson"
-              }
-            ]
-          },
-          "office5": {
-            "text": "Lord Commissioner of the Treasury",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Lord Commissioner of the Treasury"
-              }
-            ]
-          },
-          "primeminister5": {
-            "text": "Theresa May"
-          },
-          "term_start5": {
-            "text": "15 June 2017"
-          },
-          "term_end5": {
-            "text": "9 January 2018"
-          },
-          "predecessor5": {
-            "text": "Robert Syms",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Robert Syms"
-              }
-            ]
-          },
-          "successor5": {
-            "text": "Craig Whittaker",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Craig Whittaker"
-              }
-            ]
-          },
-          "office6": {
-            "text": "Member of Parliament for Sherwood",
-            "links": [
-              {
-                "text": "Member of Parliament",
-                "type": "internal",
-                "page": "Member of Parliament (United Kingdom)"
-              },
-              {
-                "text": "Sherwood",
-                "type": "internal",
-                "page": "Sherwood (UK Parliament constituency)"
-              }
-            ]
-          },
-          "majority6": {
-            "text": "16,186 (30.7%)"
-          },
-          "term_start6": {
-            "text": "6 May 2010"
-          },
-          "predecessor6": {
-            "text": "Paddy Tipping",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Paddy Tipping"
-              }
-            ]
-          },
-          "birth_date": {
-            "text": "January 20, 1970"
-          },
-          "birth_place": {
-            "text": "Nottinghamshire, England",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Nottinghamshire"
-              }
-            ]
-          },
-          "party": {
-            "text": "Conservative",
-            "links": [
-              {
-                "text": "Conservative",
-                "type": "internal",
-                "page": "Conservative Party (UK)"
-              }
-            ]
-          },
-          "website": {
-            "text": "markspencer.org.uk"
-          }
-        }
-      ]
-    }
-  ]
+  "honorific-prefix": "The Right Honourable",
+  "name": "Mark Spencer",
+  "honorific-suffix": "MP",
+  "image": "File:Official portrait of Rt Hon Mark Spencer MP crop 2.jpg",
+  "caption": "Official portrait, 2020",
+  "office": "Leader of the House of Commons Lord President of the Council",
+  "primeminister": "Boris Johnson",
+  "term_start": "8 February 2022",
+  "predecessor": "Jacob Rees-Mogg",
+  "office1": "Chief Whip of the House of Commons Parliamentary Secretary to the Treasury",
+  "primeminister1": "Boris Johnson",
+  "term_start1": "24 July 2019",
+  "term_end1": "8 February 2022",
+  "predecessor1": "Julian Smith",
+  "successor1": "Chris Heaton-Harris",
+  "office2": "Comptroller of the Household",
+  "primeminister2": "Theresa May",
+  "term_start2": "15 July 2018",
+  "term_end2": "24 July 2019",
+  "predecessor2": "Chris Heaton-Harris",
+  "successor2": "Jeremy Quin",
+  "office3": "Deputy Leader of the House of Commons",
+  "term_start3": "15 July 2018",
+  "term_end3": "24 July 2019",
+  "primeminister3": "Theresa May",
+  "predecessor3": "Chris Heaton-Harris",
+  "successor3": "Position abolished",
+  "office4": "Vice-Chamberlain of the Household",
+  "primeminister4": "Theresa May",
+  "term_start4": "10 January 2018",
+  "term_end4": "15 July 2018",
+  "predecessor4": "Chris Heaton-Harris",
+  "successor4": "Andrew Stephenson",
+  "office5": "Lord Commissioner of the Treasury",
+  "primeminister5": "Theresa May",
+  "term_start5": "15 June 2017",
+  "term_end5": "9 January 2018",
+  "predecessor5": "Robert Syms",
+  "successor5": "Craig Whittaker",
+  "office6": "Member of Parliament for Sherwood",
+  "majority6": "16,186 (30.7%)",
+  "term_start6": "6 May 2010",
+  "predecessor6": "Paddy Tipping",
+  "birth_date": "January 20, 1970",
+  "birth_place": "Nottinghamshire, England",
+  "party": "Conservative",
+  "website": "markspencer.org.uk"
 }

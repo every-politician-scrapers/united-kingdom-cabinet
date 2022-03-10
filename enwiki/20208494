@@ -1,288 +1,31 @@
 {
-  "title": "Andrew Bailey (banker)",
-  "pageID": 20208494,
-  "categories": [
-    "1959 births",
-    "Alumni of Queens' College, Cambridge",
-    "Alumni of the University of Cambridge",
-    "Governors of the Bank of England",
-    "Chief Cashiers of the Bank of England",
-    "Deputy Governors of the Bank of England",
-    "Financial Conduct Authority people",
-    "Living people",
-    "People associated with the Bank of England",
-    "People educated at Wyggeston Grammar School for Boys"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Andrew John Bailey (born 30 March 1959) is a British central banker who has been Governor of the Bank of England since 16 March 2020.",
-              "links": [
-                {
-                  "text": "central banker",
-                  "type": "internal",
-                  "page": "central bank"
-                },
-                {
-                  "type": "internal",
-                  "page": "Governor of the Bank of England"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Andrew John Bailey"
-                ]
-              }
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "Previously he served as the Chief Cashier of the Bank of England from January 2004 until April 2011, Deputy Governor of the Bank of England from April 2013 to July 2016, and Chief Executive of the Financial Conduct Authority from 2016 to 2020.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Chief Cashier of the Bank of England"
-                },
-                {
-                  "type": "internal",
-                  "page": "Deputy Governor of the Bank of England"
-                },
-                {
-                  "type": "internal",
-                  "page": "Financial Conduct Authority"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "date": "February 2020",
-          "template": "use dmy dates"
-        },
-        {
-          "date": "February 2020",
-          "template": "engvarb"
-        },
-        {
-          "description": "British central banker",
-          "bot": "PearBOT 5",
-          "template": "short description"
-        },
-        {
-          "df": "y",
-          "year": "1959",
-          "month": "3",
-          "day": "30",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Andrew Bailey"
-          },
-          "image": {
-            "text": "Andrew Bailey.jpg"
-          },
-          "office": {
-            "text": "Governor of the Bank of England",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Governor of the Bank of England"
-              }
-            ]
-          },
-          "appointed": {
-            "text": "Sajid Javid",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Sajid Javid"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "16 March 2020"
-          },
-          "predecessor": {
-            "text": "Mark Carney",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mark Carney"
-              }
-            ]
-          },
-          "office1": {
-            "text": "Chief Executive of the Financial Conduct Authority",
-            "links": [
-              {
-                "text": "Chief Executive of the Financial Conduct Authority",
-                "type": "internal",
-                "page": "Financial Conduct Authority"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "1 July 2016"
-          },
-          "term_end1": {
-            "text": "15 March 2020"
-          },
-          "predecessor1": {
-            "text": "Tracey McDermott",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Tracey McDermott"
-              }
-            ]
-          },
-          "successor1": {
-            "text": "Nikhil Rathi",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Nikhil Rathi"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Deputy Governor of the Bank of England for Prudential Regulation",
-            "links": [
-              {
-                "text": "Deputy Governor of the Bank of England for Prudential Regulation",
-                "type": "internal",
-                "page": "Deputy Governor of the Bank of England",
-                "anchor": "With specific responsibility (1998–present)"
-              }
-            ]
-          },
-          "governor2": {
-            "text": "Mark Carney",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Mark Carney"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "1 April 2013"
-          },
-          "term_end2": {
-            "text": "1 July 2016"
-          },
-          "predecessor2": {
-            "text": "Position established",
-            "formatting": {
-              "italic": [
-                "Position established"
-              ]
-            }
-          },
-          "successor2": {
-            "text": "Sam Woods",
-            "links": [
-              {
-                "text": "Sam Woods",
-                "type": "internal",
-                "page": "Sam Woods (civil servant)"
-              }
-            ]
-          },
-          "office3": {
-            "text": "Chief Cashier of the Bank of England",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Chief Cashier of the Bank of England"
-              }
-            ]
-          },
-          "governor3": {
-            "text": "Mervyn King",
-            "links": [
-              {
-                "text": "Mervyn King",
-                "type": "internal",
-                "page": "Mervyn King (economist)"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "1 January 2004"
-          },
-          "term_end3": {
-            "text": "1 April 2011"
-          },
-          "predecessor3": {
-            "text": "Merlyn Lowther",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Merlyn Lowther"
-              }
-            ]
-          },
-          "successor3": {
-            "text": "Chris Salmon",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Chris Salmon"
-              }
-            ]
-          },
-          "birth_date": {
-            "text": "March 30, 1959"
-          },
-          "birth_place": {
-            "text": "Leicester, England",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Leicester"
-              }
-            ]
-          },
-          "spouse": {
-            "text": "Cheryl Schonhardt-Bailey",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Cheryl Schonhardt-Bailey"
-              }
-            ]
-          },
-          "children": {
-            "text": "2",
-            "number": 2
-          },
-          "alma_mater": {
-            "text": "Queens' College, Cambridge (MA, PhD)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Queens' College, Cambridge"
-              }
-            ]
-          },
-          "occupation": {
-            "text": "Historian, central banker"
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Andrew Bailey",
+  "image": "Andrew Bailey.jpg",
+  "office": "Governor of the Bank of England",
+  "appointed": "Sajid Javid",
+  "term_start": "16 March 2020",
+  "predecessor": "Mark Carney",
+  "office1": "Chief Executive of the Financial Conduct Authority",
+  "term_start1": "1 July 2016",
+  "term_end1": "15 March 2020",
+  "predecessor1": "Tracey McDermott",
+  "successor1": "Nikhil Rathi",
+  "office2": "Deputy Governor of the Bank of England for Prudential Regulation",
+  "governor2": "Mark Carney",
+  "term_start2": "1 April 2013",
+  "term_end2": "1 July 2016",
+  "predecessor2": "Position established",
+  "successor2": "Sam Woods",
+  "office3": "Chief Cashier of the Bank of England",
+  "governor3": "Mervyn King",
+  "term_start3": "1 January 2004",
+  "term_end3": "1 April 2011",
+  "predecessor3": "Merlyn Lowther",
+  "successor3": "Chris Salmon",
+  "birth_date": "March 30, 1959",
+  "birth_place": "Leicester, England",
+  "spouse": "Cheryl Schonhardt-Bailey",
+  "children": "2",
+  "alma_mater": "Queens' College, Cambridge (MA, PhD)",
+  "occupation": "Historian, central banker"
 }
