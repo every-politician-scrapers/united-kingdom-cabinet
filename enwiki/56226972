@@ -5,10 +5,12 @@
   "order": "15th",
   "office": "Governor of Montserrat",
   "monarch": "Elizabeth II",
-  "premier": "Donaldson Romeo (2018–2019) Easton Taylor-Farrell (2019–)",
+  "premier": "Donaldson Romeo (2018–2019) Easton Taylor-Farrell (2019–2022)",
   "term_start": "1 February 2018",
   "predecessor": "Elizabeth Carriere",
   "birth_date": "October 7, 1960",
   "spouse": "Pornpun Pearce",
-  "alma_mater": "St Catherine's College, Oxford University"
+  "alma_mater": "St Catherine's College, Oxford University",
+  "termend": "7 March 2022",
+  "successor": "Sarah Tucker"
 }
