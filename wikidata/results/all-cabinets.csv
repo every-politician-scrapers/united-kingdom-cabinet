@@ -47,7 +47,7 @@ ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision
 ,Q25416691,Second Russell ministry,1865-10-29,11,,,1866-06-26,11,,,,,,,,,,
 ,Q3773842,Third Derby–Disraeli ministry,1866-06-28,11,,,1868-12-01,11,,,,,,,,,,
 ,Q25416795,First Disraeli ministry,1868-02-27,11,,,1868-12-03,11,,,,,,,,,,
-,Q5453049,First Gladstone ministry,1868-12-03,11,,,1874-02-20,11,,,,,,,,,,
+,Q5453049,First Gladstone ministry,1868-12-03,11,,,1874-02-20,11,,,,,Q3773843,Second Disraeli ministry,,,,
 ,Q3773843,Second Disraeli ministry,1874-02-20,11,,,1880-04-21,11,,,Q5453049,First Gladstone ministry,Q7443319,Second Gladstone ministry,,,,
 ,Q7443319,Second Gladstone ministry,1880-04-23,11,,,1885-06-09,11,,,Q3773843,Second Disraeli ministry,Q5453776,Salisbury caretaker ministry,,,,
 ,Q5453776,Salisbury caretaker ministry,1885-06-23,11,,,1886-01-28,11,,,Q7443319,Second Gladstone ministry,Q7784867,Third Gladstone ministry,,,,
