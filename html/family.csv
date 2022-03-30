@@ -612,6 +612,7 @@ Q1539814,"Trixie Gardner, Baroness Gardner of Parkes",child,Q76002874,Rachel Tri
 Q1539814,"Trixie Gardner, Baroness Gardner of Parkes",child,Q76002884,Joanna Mary Gardner
 Q1539814,"Trixie Gardner, Baroness Gardner of Parkes",father,Q5605991,Greg McGirr
 Q1539814,"Trixie Gardner, Baroness Gardner of Parkes",mother,Q76002866,Rachel Miller
+Q1539814,"Trixie Gardner, Baroness Gardner of Parkes",relative,Q56599957,Joe McGirr
 Q1539814,"Trixie Gardner, Baroness Gardner of Parkes",spouse,Q76002867,Kevin Anthony Gardner
 Q1541974,"Graham Tope, Baron Tope",child,Q76368256,Andrew Tope
 Q1541974,"Graham Tope, Baron Tope",child,Q76368257,David Tope
@@ -3332,6 +3333,7 @@ Q335830,"Elizabeth Butler-Sloss, Baroness Butler-Sloss",child,Q75724529,William 
 Q335830,"Elizabeth Butler-Sloss, Baroness Butler-Sloss",father,Q5056115,Cecil Havers
 Q335830,"Elizabeth Butler-Sloss, Baroness Butler-Sloss",mother,Q75527813,Enid Snelling
 Q335830,"Elizabeth Butler-Sloss, Baroness Butler-Sloss",spouse,Q75527806,Joseph William Alexander Butler-Sloss
+Q335835,Bhikhu Parekh,child,Q29653530,Anant B. Parekh
 Q335835,Bhikhu Parekh,child,Q76229263,Raj Parekh
 Q335835,Bhikhu Parekh,child,Q76229266,Nitin Parekh
 Q335835,Bhikhu Parekh,child,Q76229268,Anant Parekh
