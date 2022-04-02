@@ -3319,6 +3319,7 @@ Q335747,"Hector Monro, Baron Monro of Langholm",father,Q76178179,Ian Monro
 Q335747,"Hector Monro, Baron Monro of Langholm",mother,Q76183871,Marion Frances Ewart
 Q335747,"Hector Monro, Baron Monro of Langholm",spouse,Q75588061,Doris Schuchhardt
 Q335747,"Hector Monro, Baron Monro of Langholm",spouse,Q76112641,Elizabeth Anne Welch
+Q335759,"Frances D'Souza, Baroness D'Souza",child,Q5109017,Christa D'Souza
 Q335803,"John Kerr, Baron Kerr of Kinlochard",spouse,Q99964753,Lady Kerr
 Q335822,"Robert Lindsay, 29th Earl of Crawford",child,Q75262322,"Anthony Lindsay, Baron Balniel"
 Q335822,"Robert Lindsay, 29th Earl of Crawford",child,Q75262324,Alexander Lindsay
@@ -5309,7 +5310,7 @@ Q9682,Elizabeth II,child,Q153330,"Prince Andrew, Duke of York"
 Q9682,Elizabeth II,child,Q154920,"Prince Edward, Earl of Wessex"
 Q9682,Elizabeth II,child,Q43274,"Charles, Prince of Wales"
 Q9682,Elizabeth II,father,Q280856,George VI
-Q9682,Elizabeth II,mother,Q10633,"Queen Elizabeth, The Queen Mother"
+Q9682,Elizabeth II,mother,Q10633,Queen Elizabeth The Queen Mother
 Q9682,Elizabeth II,sibling,Q153815,"Princess Margaret, Countess of Snowdon"
 Q9682,Elizabeth II,spouse,Q80976,"Prince Philip, Duke of Edinburgh"
 Q977967,"Frederick Curzon, 7th Earl Howe",child,Q75316972,"Thomas Curzon, Viscount Curzon"
