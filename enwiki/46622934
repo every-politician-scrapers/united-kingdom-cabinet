@@ -2,8 +2,6 @@
   "honorific-prefix": "The Right Honourable",
   "name": "Rishi Sunak",
   "honorific-suffix": "MP",
-  "image": "Chancellor Rishi Sunak (cropped).jpg",
-  "caption": "Official portrait, 2020",
   "office": "Chancellor of the Exchequer",
   "primeminister": "Boris Johnson",
   "term_start": "13 February 2020",
@@ -36,7 +34,6 @@
   "signature": "Rishi Sunak signature.svg"
 }
 {
-  "image": "Official portrait of Rishi Sunak crop 2.jpg",
   "name": "Chancellorship of Rishi Sunak",
   "term_start": "13 February 2020",
   "chancellor": "Rishi Sunak",

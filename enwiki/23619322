@@ -1,7 +1,6 @@
 {
   "name": "Chloe Smith",
   "honorific-suffix": "MP",
-  "image": "Official portrait of Chloe Smith MP crop 2.jpg",
   "office": "Minister of State for Disabled People, Work and Health",
   "term_start": "16 September 2021",
   "primeminister": "Boris Johnson",
@@ -49,5 +48,4 @@
   "occupation": "Politician",
   "party": "Conservative",
   "website": "www.chloesmith.org.uk",
-  "caption": "Official portrait, 2020"
 }
