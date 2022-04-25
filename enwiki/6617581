@@ -3,8 +3,6 @@
   "name": "Jacob Rees-Mogg",
   "honorific-suffix": "MP",
   "nickname": "JRM",
-  "image": "Jacob Rees-Mogg MP.jpg",
-  "caption": "Official portrait, 2019",
   "office": "Minister of State for Brexit Opportunities and Government Efficiency",
   "primeminister": "Boris Johnson",
   "term_start": "8 February 2022",
@@ -32,7 +30,6 @@
   "residence": "Gournay Court, Somerset\nWestminster, London"
 }
 {
-  "image": "File:Coat of arms of Jacob Rees-Mogg.svg",
   "escutcheon": "Quarterly, 1st and 4th, Argent on a Fess Pean between three Ermine Spots each surmounted by a Crescent Gules a Cock Or (Mogg); 2nd and 3rd, Gules a Chevron engrailed Erminois between three Swans Argent wings elevated Or (Rees)",
   "crest": "1st, between two Spearheads erect Sable a Cock proper (Mogg); 2nd, a Swan Argent wings elevated Or holding in the beak a Water-Lily slipped proper",
   "motto": "Cura Pii Diis Sunt (The pious are in the care of the Gods)"

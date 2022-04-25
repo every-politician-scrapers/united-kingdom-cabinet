@@ -1,7 +1,6 @@
 {
   "name": "George Eustice",
   "honorific-suffix": "MP",
-  "image": "Official portrait of George Eustice MP crop 2.jpg",
   "office": "Secretary of State for Environment, Food and Rural Affairs",
   "primeminister": "Boris Johnson",
   "term_start": "13 February 2020",
@@ -29,5 +28,4 @@
   "party": "Conservative",
   "website": "georgeeustice.org.uk",
   "honorific_prefix": "The Right Honourable",
-  "caption": "Official portrait, 2019"
 }
