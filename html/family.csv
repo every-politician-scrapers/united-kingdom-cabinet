@@ -27,6 +27,7 @@ Q10648,Gordon Brown,father,Q108840908,Rev. John Ebenezer Brown
 Q10648,Gordon Brown,mother,Q108840909,Bunty Souter
 Q10648,Gordon Brown,sibling,Q4756445,Andrew Brown
 Q10648,Gordon Brown,spouse,Q2986943,Sarah Brown
+Q10652,Alex Salmond,mother,Q97971330,Mary Stewart Salmond
 Q1065805,"Charles Powell, Baron Powell of Bayswater",child,Q76241215,Hugh Powell
 Q1065805,"Charles Powell, Baron Powell of Bayswater",child,Q76241217,Nicholas Powell
 Q1065805,"Charles Powell, Baron Powell of Bayswater",father,Q6234154,John Frederick Powell
@@ -3345,7 +3346,6 @@ Q335830,"Elizabeth Butler-Sloss, Baroness Butler-Sloss",spouse,Q75527806,Joseph 
 Q335835,Bhikhu Parekh,child,Q29653530,Anant B. Parekh
 Q335835,Bhikhu Parekh,child,Q76229263,Raj Parekh
 Q335835,Bhikhu Parekh,child,Q76229266,Nitin Parekh
-Q335835,Bhikhu Parekh,child,Q76229268,Anant Parekh
 Q335835,Bhikhu Parekh,father,Q76229271,Chhotalal Parekh
 Q335835,Bhikhu Parekh,mother,Q76229272,Gajaraben Parekh
 Q335835,Bhikhu Parekh,spouse,Q76229260,Pramila Dalal
@@ -4766,6 +4766,8 @@ Q6833339,Michael Pakenham,sibling,Q75335578,Patrick Pakenham
 Q6833339,Michael Pakenham,sibling,Q75335580,Kevin Pakenham
 Q6833339,Michael Pakenham,sibling,Q75335586,Lady Catherine Pakenham
 Q6833339,Michael Pakenham,spouse,Q75415387,Meta Landreth Doak
+Q6837165,Michelle Mone,spouse,Q111751436,Michael Mone
+Q6837165,Michelle Mone,spouse,Q28810360,Doug Barrowman
 Q688913,Margaret Hodge,spouse,Q5723091,Henry Hodge
 Q689348,Adam Holloway,father,Q7358350,Roger Holloway
 Q689421,Kelvin Hopkins,child,Q76448943,Rachel Hopkins
@@ -4853,8 +4855,8 @@ Q7176544,"Peter Rawlinson, Baron Rawlinson of Ewell",father,Q75952487,Arthur Raw
 Q7176544,"Peter Rawlinson, Baron Rawlinson of Ewell",mother,Q75952483,Alisa Grayson
 Q7176544,"Peter Rawlinson, Baron Rawlinson of Ewell",spouse,Q75952492,Haidee Kavanagh
 Q7176544,"Peter Rawlinson, Baron Rawlinson of Ewell",spouse,Q75952562,Elaine Dominguez
+Q7176922,Peter Shore,child,Q74802299,Cris Shore
 Q7176922,Peter Shore,child,Q75604939,unknown son Shore
-Q7176922,Peter Shore,child,Q75604987,Crispin Nicholas Shore
 Q7176922,Peter Shore,child,Q75604989,Thomasina Shore
 Q7176922,Peter Shore,child,Q75604991,Tacy Susan Shore
 Q7176922,Peter Shore,spouse,Q75604985,Elizabeth Catherine Wrong
