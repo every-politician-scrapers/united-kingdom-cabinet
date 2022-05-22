@@ -1307,10 +1307,10 @@ Q18753676,Philip Parham,sibling,Q385013,Coky Giedroyc
 Q18753676,Philip Parham,sibling,Q6810704,Mel Giedroyc
 Q18753676,Philip Parham,spouse,Q76335866,Anna Catherine Giedroyc
 Q187562,"Ruth Deech, Baroness Deech",spouse,Q76335180,John Stewart Deech
-Q1878797,"Lynda, Baroness Chalker of Wallasey",father,Q75561778,Sidney Henry James Bates
-Q1878797,"Lynda, Baroness Chalker of Wallasey",mother,Q75561781,Marjorie Kathleen Randell
-Q1878797,"Lynda, Baroness Chalker of Wallasey",spouse,Q75561777,Eric Robert Chalker
-Q1878797,"Lynda, Baroness Chalker of Wallasey",spouse,Q75561783,Clive Landa
+Q1878797,"Lynda Chalker, Baroness Chalker of Wallasey",father,Q75561778,Sidney Henry James Bates
+Q1878797,"Lynda Chalker, Baroness Chalker of Wallasey",mother,Q75561781,Marjorie Kathleen Randell
+Q1878797,"Lynda Chalker, Baroness Chalker of Wallasey",spouse,Q75561777,Eric Robert Chalker
+Q1878797,"Lynda Chalker, Baroness Chalker of Wallasey",spouse,Q75561783,Clive Landa
 Q1878814,"Lyndon Harrison, Baron Harrison",child,Q76068633,Adam Harrison
 Q1878814,"Lyndon Harrison, Baron Harrison",child,Q76068636,Sara Harrison
 Q1878814,"Lyndon Harrison, Baron Harrison",father,Q76068638,Charles William Harrison
@@ -4725,7 +4725,7 @@ Q678371,Sue Ryder,child,Q75604848,Elizabeth Diana Cheshire
 Q678371,Sue Ryder,father,Q75604849,Charles Ryder
 Q678371,Sue Ryder,mother,Q949355,Mabel
 Q678371,Sue Ryder,spouse,Q3486701,Leonard Cheshire
-Q6790810,Matthew Kirk,father,Q7175874,Peter Michael Kirk
+Q6790810,Matthew Kirk,father,Q7175874,Peter Kirk
 Q6795163,Max Rayne,child,Q76003663,Nicholas Rayne
 Q6795163,Max Rayne,child,Q76003664,Alexander Rayne
 Q6795163,Max Rayne,child,Q76003665,Natasha Rayne
