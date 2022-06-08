@@ -4,6 +4,7 @@ Q104898,Norman Foster,father,Q75949379,Robert Foster
 Q104898,Norman Foster,mother,Q75989998,Lillian Smith
 Q104898,Norman Foster,spouse,Q3393424,Elena Ochoa
 Q104898,Norman Foster,spouse,Q3567241,Wendy Cheesman
+Q1055918,Lembit Öpik,father,Q17361947,Uuno Öpik
 Q1055918,Lembit Öpik,partner,Q7533474,Siân Lloyd
 Q1055918,Lembit Öpik,relative,Q318126,Ernst Öpik
 Q105667,Catherine Ashton,father,Q75413412,Harold Ashton
@@ -4012,6 +4013,7 @@ Q391562,Zac Goldsmith,spouse,Q7492840,Sheherazade Goldsmith
 Q3915820,Richard Balfe,child,Q76303179,Richard Geoffrey Clement Balfe
 Q3915820,Richard Balfe,spouse,Q76303172,Susan Jane Honeyford
 Q391792,Helen Grant,child,Q112206973,Benjamin Grant
+Q391792,Helen Grant,father,Q112230473,Julius A. Okuboye
 Q392149,Andrew Griffiths,spouse,Q76364163,Kate Griffiths
 Q392174,Ben Gummer,child,Q76265335,Wilfred Gabriel Selwyn Gummer
 Q392174,Ben Gummer,child,Q76326095,Aubrey Valentine Hamilton Gummer
@@ -5282,7 +5284,6 @@ Q954374,"Edward Haughey, Baron Ballyedmond",child,Q76260666,James Haughey
 Q954374,"Edward Haughey, Baron Ballyedmond",father,Q76260661,Edward Haughey
 Q954374,"Edward Haughey, Baron Ballyedmond",spouse,Q19958040,"Mary Haughey, Lady Ballyedmond"
 Q954374,"Edward Haughey, Baron Ballyedmond",spouse,Q76260663,Mary Gordon Young
-Q9545,Tony Blair,child,Q58376195,Euan Blair
 Q9545,Tony Blair,child,Q58376195,Euan Blair
 Q9545,Tony Blair,child,Q75508709,Nicholas Blair
 Q9545,Tony Blair,child,Q75508711,Kathryn Blair
