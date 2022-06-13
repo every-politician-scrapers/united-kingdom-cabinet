@@ -2292,7 +2292,6 @@ Q272642,Tessa Jowell,child,Q76314276,Matthew Mills
 Q272642,Tessa Jowell,father,Q76314275,Kenneth Palmer
 Q272642,Tessa Jowell,spouse,Q3018466,David Mills
 Q272642,Tessa Jowell,spouse,Q7358432,Roger Jowell
-Q272644,Ruth Kelly,father,Q48187,Eric Clapton
 Q272670,David Miliband,father,Q2036385,Ralph Miliband
 Q272670,David Miliband,mother,Q6765270,Marion Kozak
 Q272670,David Miliband,sibling,Q216594,Ed Miliband
@@ -5214,6 +5213,7 @@ Q829284,"Beryl Platt, Baroness Platt of Writtle",mother,Q76229958,Dorothy Emma M
 Q829284,"Beryl Platt, Baroness Platt of Writtle",spouse,Q76229945,Stewart Sydney Platt
 Q84842,"George Weidenfeld, Baron Weidenfeld",child,Q76306729,Laura Weidenfeld
 Q84842,"George Weidenfeld, Baron Weidenfeld",father,Q76306734,Max Weidenfeld
+Q84842,"George Weidenfeld, Baron Weidenfeld",mother,Q112377870,Rosa
 Q84842,"George Weidenfeld, Baron Weidenfeld",spouse,Q4767733,Annabelle Whitestone
 Q84842,"George Weidenfeld, Baron Weidenfeld",spouse,Q4859303,Barbara Skelton
 Q84842,"George Weidenfeld, Baron Weidenfeld",spouse,Q76306728,Jane Sieff
