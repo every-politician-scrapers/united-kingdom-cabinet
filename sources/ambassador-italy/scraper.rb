@@ -4,51 +4,30 @@
 require 'every_politician_scraper/scraper_data'
 require 'pry'
 
-class OfficeholderNonTable < OfficeholderListBase::OfficeholderBase
-  def empty?
-    false
-  end
-
-  def combo_date?
-    true
-  end
-
-  def raw_combo_date
-    raise 'need to define a raw_combo_date'
-  end
-
-  def name_node
-    raise 'need to define a name_node'
+# there's a hidden [update] on the last entry
+class RemoveReferences < Scraped::Response::Decorator
+  def body
+    Nokogiri::HTML(super).tap do |doc|
+      doc.css('sup').remove
+    end.to_s
   end
 end
 
-
 class OfficeholderList < OfficeholderListBase
   decorator RemoveReferences
-  # decorator UnspanAllTables
   decorator WikidataIdsDecorator::Links
 
-  def header_column
-    'Ambassador'
-  end
-
-  # TODO: make this easier to override
   def holder_entries
-    noko.xpath("//h3[.//span[contains(.,'#{header_column}')]][last()]//following-sibling::ul[2]//li[a]")
+    noko.xpath("//h3[.//span[contains(.,'Ambassador')]][last()]//following-sibling::ul[2]//li[a]")
   end
 
-  class Officeholder < OfficeholderNonTable
-    # TODO: push up
-    def raw_combo_date
-      noko.text.tidy.split(':').first.split('[').first
-    end
-
+  class Officeholder < OfficeholderNonTableBase
     def name_node
       noko.css('a').last
     end
 
-    def item
-      noko.css('a/@wikidata').map(&:text).last
+    def raw_combo_date
+      noko.text.split(':').first
     end
   end
 end
