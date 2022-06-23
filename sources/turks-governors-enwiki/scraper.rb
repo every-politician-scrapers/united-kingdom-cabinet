@@ -4,8 +4,6 @@
 require 'every_politician_scraper/scraper_data'
 require 'pry'
 
-require 'open-uri/cached'
-
 # There are lots of blank images messing up the layout,
 # so just rmeove any image link
 class RemoveImageLinks < Scraped::Response::Decorator
@@ -39,6 +37,11 @@ class OfficeholderList < OfficeholderListBase
       return ["#{rstart}, #{rend[-4..]}", rend] unless rstart[/\d{4}$/]
 
       [rstart, rend]
+    end
+
+    def raw_combo_date
+      years = super.tidy
+      years =~ /^\d{4}$/ ? "#{years} - #{years}" : years
     end
   end
 end
