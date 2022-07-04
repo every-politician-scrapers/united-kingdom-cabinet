@@ -4043,6 +4043,11 @@ Q4360966,"Jack Simon, Baron Simon of Glaisdale",father,Q76336766,Frank Cecil Sim
 Q4360966,"Jack Simon, Baron Simon of Glaisdale",mother,Q76336768,Claire Evelyn Simon
 Q4360966,"Jack Simon, Baron Simon of Glaisdale",spouse,Q75584952,Gwendolen Helen Evans
 Q4360966,"Jack Simon, Baron Simon of Glaisdale",spouse,Q75619657,Fay Elizabeth Leicester Pearson
+Q4460639,Robert Andrew Burns,child,Q75531405,Robert Duncan Burns
+Q4460639,Robert Andrew Burns,child,Q75531406,Thomas Alexander Luckwell Burns
+Q4460639,Robert Andrew Burns,father,Q75531350,Robert Burns
+Q4460639,Robert Andrew Burns,mother,Q75531401,Mary Goodland
+Q4460639,Robert Andrew Burns,spouse,Q75531557,Sarah Cadogan
 Q4503318,"Robert Carnwath, Lord Carnwath of Notting Hill",father,Q4756554,Andrew Carnwath
 Q4503650,"Nicholas Wilson, Lord Wilson of Culworth",child,Q75286787,Matthew Roderick Benjamin Wilson
 Q4503650,"Nicholas Wilson, Lord Wilson of Culworth",child,Q75286789,Camilla Jessica Wilson
@@ -4489,6 +4494,12 @@ Q575513,John Penrose,child,Q76290458,Becca Penrose
 Q575513,John Penrose,spouse,Q5274223,Dido Harding
 Q575513,John Penrose,spouse,Q5274223,Dido Harding
 Q575693,Mark Pawsey,father,Q6197404,Jim Pawsey
+Q57578355,Anthony Goodenough,child,Q76018826,Francis Nicholas Goodenough
+Q57578355,Anthony Goodenough,child,Q76018827,Robert Henry Goodenough
+Q57578355,Anthony Goodenough,child,Q76018829,Eleanor Margaret Goodenough
+Q57578355,Anthony Goodenough,father,Q75948978,Michael Grant Goodenough
+Q57578355,Anthony Goodenough,mother,Q75948980,Nancy Slater
+Q57578355,Anthony Goodenough,spouse,Q76018823,Veronica Mary Pender-Cudlip
 Q575881,Ian Paisley Jr,father,Q296597,Ian Paisley
 Q575881,Ian Paisley Jr,mother,Q1303976,"Eileen Paisley, Baroness Paisley of St George's"
 Q575881,Ian Paisley Jr,spouse,Q75969932,Fiona Margaret Currie
@@ -4981,6 +4992,11 @@ Q7509093,"Sidney Greene, Baron Greene of Harrow Weald",mother,Q76024022,Alice Ke
 Q7509093,"Sidney Greene, Baron Greene of Harrow Weald",spouse,Q76024015,Masel Elizabeth Carter
 Q75292880,James Murray,father,Q75265189,Geoffrey Charles Stewart Murray
 Q75292880,James Murray,mother,Q75292757,C. Lynne Murray
+Q75333789,Richard Lindsay,child,Q75592350,Oscar James Montague Lindsay
+Q75333789,Richard Lindsay,child,Q75592351,Venetia Clare Lindsay
+Q75333789,Richard Lindsay,father,Q75333786,Stephen James Lindsay
+Q75333789,Richard Lindsay,mother,Q75333788,Margaret Ann Powell
+Q75333789,Richard Lindsay,spouse,Q75592348,Xanthe Clare Lorraine Critchett
 Q75410647,Fleur Anderson,child,Q75410651,Rory Ellis Brendan Commee
 Q75410647,Fleur Anderson,child,Q75410653,Cassie Charlotte Commee
 Q75410647,Fleur Anderson,child,Q75410655,Ellen Fleur Commee
