@@ -8,13 +8,16 @@
       "start": "2019-12-16",
       "parent": "Q112014"
     },
-    "source": {
-        "url":   "https://www.gov.uk/government/ministers",
-        "title": "Ministers - GOV.UK",
-        "lang":  {
-            "code": "en",
-            "wikidata": "Q1860"
+    "reference": {
+        "P854":   "https://www.gov.uk/government/ministers",
+        "P1476": {
+            "text": "Ministers - GOV.UK",
+            "language": "en"
         }
     },
-    "agent": "every-politican-scrapers/united-kingdom-cabinet"
+    "current_only": "true",
+    "lang": "en",
+    "person_description": {
+        "en": "British politician"
+    }
 }
