@@ -2,10 +2,16 @@
   "honorific-prefix": "The Right Honourable",
   "name": "Kit Malthouse",
   "honorific-suffix": "MP",
+  "office1": "Chancellor of the Duchy of Lancaster",
+  "primeminister1": "Boris Johnson",
+  "term_start1": "7 July 2022",
+  "predecessor1": "Steve Barclay",
   "office2": "Minister of State for Crime and Policing",
   "primeminister2": "Boris Johnson",
   "term_start2": "25 July 2019",
+  "term_end2": "7 July 2022",
   "predecessor2": "Nick Hurd",
+  "successor2": "TBD",
   "office3": "Minister of State for Housing and Planning",
   "primeminister3": "Theresa May",
   "term_start3": "9 July 2018",
@@ -48,5 +54,7 @@
   "spouse": "Tracy-Jane Newall (m. 1996-2005)\nJuliana Farha (m. 2007)",
   "children": "3",
   "alma_mater": "Newcastle University",
-  "website": "Official website"
+  "website": "Official website",
+  "office": "Chancellor of the duchy of Lancaster",
+  "term start": "7 July 2022"
 }
