@@ -26,7 +26,7 @@
   "successor3": "James Wharton"
 }
 {
-  "honorific-prefix": "Honorary Captain The Right Honourable",
+  "honorific-prefix": "The Right Honourable",
   "name": "Penny Mordaunt",
   "office": "Minister of State for Trade Policy",
   "primeminister": "Boris Johnson",
@@ -62,8 +62,8 @@
   "website": "pennymordaunt.com",
   "allegiance": "undefined",
   "branch": "Reserve",
-  "serviceyears": "2013–present",
-  "rank": "Honorary Captain",
+  "serviceyears": "2010–present",
+  "rank": "Acting Sub-Lieutenant (Honorary Captain)",
   "alma_mater": "University of Reading",
   "education": "Oaklands Catholic School"
 }
