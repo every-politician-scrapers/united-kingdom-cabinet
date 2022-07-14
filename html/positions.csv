@@ -42,7 +42,7 @@ Q65988624,Minister for the Union,Q145,,,,,,,,Minister for the Union
 Q6865995,Minister for the Cabinet Office,Q145,Q145,,,,,,,Minister for the Cabinet Office
 Q3315116,Minister for the Civil Service,Q145,Q145,,,1968-11-01,,,,Minister for the Civil Service
 Q6865933,Minister of State for Crime and Policing,Q145,Q145,,,,,,,Minister of State for Crime and Policing
-Q100989431,Minister of State for Higher and Further Education,Q145,Q145,,,,,,,Minister of State for Higher and Further Education
+Q100989431,Minister of State for Higher and Further Education,Q145,Q145,,,,,,,"Minister of State for Skills, Further and Higher Education"
 Q108739735,Minister for Intergovernmental Relations,Q145,Q145,,,,,,,Minister for Intergovernmental Relations
 Q3315134,Minister for Women and Equalities,Q145,Q145,,,2007-06-28,,,,Minister for Women and Equalities
 Q108046681,Minister of State at the Cabinet Office,Q145,Q145,,,,,,,
@@ -60,7 +60,7 @@ Q2636053,Leader of the House of Commons,Q145,Q145,,,1721-04-04,,,,Leader of the 
 Q2012061,Leader of the House of Lords,Q145,Q145,,,1721,,,,Leader of the House of Lords
 Q1449039,Lord Speaker,Q145,,Q5068084,,2006-07-04,,,,Lord Speaker
 Q464103,Speaker of the House of Commons,Q145,Q145,,Q6597905,1377,,,,Speaker of the House of Commons (United Kingdom)
-Q2579905,Governor of the Bank of England,Q145,,,,1694,,,,Governor of the Bank of England
+Q2579905,Governor of the Bank of England,Q145,,Q16829398,,1694,,,,Governor of the Bank of England
 Q1568142,Chief of the General Staff (United Kingdom),Q145,,,,1904,,Q2713569,,Chief of the General Staff (United Kingdom)
 Q7241377,President of the Supreme Court of the United Kingdom,Q145,Q145,Q5261062,,2009-10-01,,,,President of the Supreme Court of the United Kingdom
 Q16140777,Governor of the Falkland Islands,Q145,,,Q1758101,1764,,,,Governor of the Falkland Islands
