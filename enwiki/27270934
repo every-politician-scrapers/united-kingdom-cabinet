@@ -1,6 +1,6 @@
 {
-  "name": "Liz Truss",
   "honorific-prefix": "The Right Honourable",
+  "name": "Liz Truss",
   "honorific-suffix": "MP",
   "office1": "Secretary of State for Foreign, Commonwealth and Development Affairs",
   "primeminister1": "Boris Johnson",
@@ -22,7 +22,7 @@
   "term_end5": "24 July 2019",
   "predecessor5": "David Gauke",
   "successor5": "Rishi Sunak",
-  "office6": "Secretary of State for Justice Lord High Chancellor of Great Britain",
+  "office6": "Secretary of State for Justice Lord Chancellor",
   "primeminister6": "Theresa May",
   "term_start6": "14 July 2016",
   "term_end6": "11 June 2017",
@@ -47,11 +47,9 @@
   "party": "Conservative (1996–present)\n\nLiberal Democrats (before 1996)",
   "birth_name": "Mary Elizabeth Truss",
   "birth_date": "July 26, 1975",
-  "birth_place": "Oxford, England",
-  "occupation": "Politician\n\ndiplomat \n\neconomist\n\nbusinesswoman \n\nformer management accountant",
+  "birth_place": "Oxford, England, UK",
   "spouse": "Hugh O'Leary (m. 2000)",
   "children": "2",
-  "alma_mater": "Merton College, Oxford (BA)",
-  "website": "Official website",
-  "education": "Roundhay School"
+  "education": "Merton College, Oxford (BA)",
+  "website": "Official website"
 }
