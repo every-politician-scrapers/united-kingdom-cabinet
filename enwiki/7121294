@@ -26,7 +26,7 @@
   "successor3": "James Wharton"
 }
 {
-  "honorific-prefix": "The Right Honourable",
+  "honorific-prefix": "Honorary Captain The Right Honourable",
   "name": "Penny Mordaunt",
   "office": "Minister of State for Trade Policy",
   "primeminister": "Boris Johnson",
@@ -60,10 +60,11 @@
   "spouse": "Paul Murray (m. 31 July 1999-2000)",
   "party": "Conservative",
   "website": "pennymordaunt.com",
-  "allegiance": "undefined",
-  "branch": "Reserve",
-  "serviceyears": "2010–present",
-  "rank": "Acting Sub-Lieutenant (Honorary Captain)",
+  "allegiance": "United Kingdom",
+  "branch": "Royal Navy",
+  "unit": "Royal Naval Reserve",
+  "serviceyears": "2010–2019",
+  "rank": "Acting Sub-Lieutenant\n(Honorary Captain)",
   "alma_mater": "University of Reading",
   "education": "Oaklands Catholic School"
 }
