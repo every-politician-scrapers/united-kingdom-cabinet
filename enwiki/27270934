@@ -2,7 +2,7 @@
   "honorific-prefix": "The Right Honourable",
   "name": "Liz Truss",
   "honorific-suffix": "MP",
-  "office1": "Secretary of State for Foreign, Commonwealth and Development Affairs",
+  "office1": "Foreign Secretary",
   "primeminister1": "Boris Johnson",
   "term_start1": "15 September 2021",
   "predecessor1": "Dominic Raab",
@@ -10,7 +10,7 @@
   "primeminister3": "Boris Johnson",
   "term_start3": "10 September 2019",
   "predecessor3": "Amber Rudd",
-  "office4": "Secretary of State for International Trade President of the Board of Trade",
+  "office4": "Secretary of State for International Trade\n\nPresident of the Board of Trade",
   "primeminister4": "Boris Johnson",
   "term_start4": "24 July 2019",
   "term_end4": "15 September 2021",
@@ -22,7 +22,7 @@
   "term_end5": "24 July 2019",
   "predecessor5": "David Gauke",
   "successor5": "Rishi Sunak",
-  "office6": "Secretary of State for Justice Lord Chancellor",
+  "office6": "Secretary of State for Justice\n\nLord Chancellor",
   "primeminister6": "Theresa May",
   "term_start6": "14 July 2016",
   "term_end6": "11 June 2017",
@@ -47,9 +47,8 @@
   "party": "Conservative (1996–present)\n\nLiberal Democrats (before 1996)",
   "birth_name": "Mary Elizabeth Truss",
   "birth_date": "July 26, 1975",
-  "birth_place": "Oxford, England, UK",
+  "birth_place": "Oxford, England",
   "spouse": "Hugh O'Leary (m. 2000)",
   "children": "2",
-  "education": "Merton College, Oxford (BA)",
-  "website": "Official website"
+  "education": "Merton College, Oxford (BA)"
 }
