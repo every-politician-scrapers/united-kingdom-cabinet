@@ -1,22 +1,35 @@
 position,title
 Q6317200,Justice of the Supreme Court
 Q104878753,Minister for Africa
+Q108841226,Minister for Afghan Resettlement
+Q6866025,"Minister of Agriculture, Fisheries and Food"
 Q105063624,Minister for Agriculture and Food
+Q6865761,Minister for Civil Society
 Q108558652,Minister for Constitutional Reform
 Q25909926,Minister for Culture and Tourism
 Q6865776,"Minister for Culture, Communications and Creative Industries"
 Q6865782,"Minister for Defence Equipment, Support and Technology"
+Q108563740,Minister for Digital Engagement and Civil Service Issues
+Q27962490,Minister for Disabled People
+Q23304225,Minister for the East Midlands
 Q105043714,Minister for Employment
+Q11812555,Minister for International Security Strategy
 Q105082160,Minister for Local Government
+Q6865920,Minister for London
+Q6866009,Minister for the Olympics
 Q24284260,Minister for Pensions and Ageing Society
+Q16997588,Minister for Portsmouth
+Q105485789,Minister of Posts and Telecommunications
 Q96393330,Minister for Prisons
+Q17110513,Minister for Security and Immigration
 Q108574843,"Minister for Small Business, Consumers and Corporate Responsibility"
 Q6865953,Minister for Social Exclusion
 Q6865965,"Minister for Sport, Civil Society and Loneliness"
+Q10564336,Minister of Technology
 Q23641739,Minister for Veterans
+Q25906165,Minister for Welfare Reform
 Q108443210,Minister for Yorkshire and the Humber
-Q23304225,Minister for the East Midlands
-Q6866009,Minister for the Olympics
+Q6865991,Minister for Young Citizens and Youth Engagement
 Q6866379,Minister of State for the Armed Forces
 Q104878740,Minister of State for Asia
 Q108046631,Minister of State for Building Safety and Communities
@@ -24,6 +37,7 @@ Q104760411,"Minister of State for Business, Energy and Clean Growth"
 Q25906282,Minister of State for Care Services
 Q6865755,Minister of State for Children
 Q25935122,Minister of State for Children and Families
+Q25906156,Minister of State for Children in Northern Ireland
 Q108554810,Minister of State for Cities and Constitution
 Q25906279,Minister of State for Climate Change
 Q6866346,Minister of State for Communities and Local Government
@@ -32,6 +46,7 @@ Q108046676,Minister of State for the Constitution and Devolution
 Q108554330,Minister of State for Courts and Justice
 Q108554817,Minister of State for Decentralisation
 Q104830549,Minister of State for Defence
+Q29467221,Minister of State for Digital and Culture
 Q108046436,Minister of State for Efficiency and Transformation
 Q108418111,Minister of State for Employment
 Q25196293,Minister of State for Energy
@@ -42,6 +57,7 @@ Q108046607,Minister of State for Family Support
 Q25358560,Minister of State for Farming and the Environment
 Q4146869,Minister of State for Foreign Affairs
 Q23304196,Minister of State for Health
+Q25991521,Minister of State for Higher Education
 Q105163472,Minister of State for Home Affairs
 Q105070637,Minister of State for Housing
 Q6866360,Minister of State for Immigration
@@ -51,10 +67,12 @@ Q25910299,Minister of State for International Development
 Q108606760,Minister of State for Investment
 Q25906291,Minister of State for Justice
 Q97327472,Minister of State for Justice and Civil Liberties
+Q113127441,"Minister of State for Levelling Up, Housing and Communities"
 Q105044274,Minister of State for Media and Data
 Q104867213,"Minister of State for Mental Health, Suicide Prevention and Patient Safety"
 Q104865893,Minister of State for Middle East and North Africa
 Q104829980,"Minister of State, Northern Ireland"
+Q23641754,Minister of State for Northern Ireland
 Q108046513,Minister of State for Pacific and the Environment
 Q25906212,Minister of State for Pensions
 Q23304231,Minister of State for Public Health
@@ -64,13 +82,17 @@ Q6865949,Minister of State for Security
 Q104865603,Minister of State for Social Care
 Q104878820,Minister of State for South Asia and the Commonwealth
 Q25906153,"Minister of State for Sustainable Food, Farming and Animal Health"
+Q27920184,Minister of State for Third Sector
 Q6866372,Minister of State for Trade
 Q108574731,Minister of State for Trade Policy
 Q108606805,Minister of State for Trade and Investment
 Q15109454,Minister of State for Transport
+Q105972960,Minister of State for Treasury
+Q24993364,Minister of State at the Department of Energy and Climate Change
 Q25906269,Parliamentary Under-Secretary for Creative Industries
 Q25906270,Parliamentary Under-Secretary for Further Education
 Q108046565,Parliamentary Under-Secretary of State for Africa
+Q112958941,Parliamentary Under-Secretary of State for Agri-Innovation and Climate Adaptation
 Q105044272,Parliamentary Under-Secretary of State for Apprenticeships and Skills
 Q85792279,"Parliamentary Under-Secretary of State for Arts, Heritage and Tourism"
 Q108558769,"Parliamentary Under-Secretary of State for Biodiversity, Landscape and Rural Affairs"
@@ -95,6 +117,7 @@ Q105409719,Parliamentary Under-Secretary of State for Exports
 Q108601623,Parliamentary Under-Secretary of State for Faith
 Q108558696,"Parliamentary Under-Secretary of State for Family Support, Housing and Child Maintenance"
 Q108558756,Parliamentary Under-Secretary of State for the Fire Services
+Q113127434,Parliamentary Under-Secretary of State for Health and Social Care
 Q108443202,Parliamentary Under-Secretary of State for Home Affairs
 Q105161512,Parliamentary Under-Secretary of State for Housing and Rough Sleeping
 Q108599836,"Parliamentary Under-Secretary of State for Housing, Communities and Local Government"
@@ -109,6 +132,7 @@ Q24205246,Parliamentary Under-Secretary of State for Justice
 Q108610136,Parliamentary Under-Secretary of State for Life Science
 Q105274642,Parliamentary Under-Secretary of State for Northern Ireland
 Q108046619,Parliamentary Under-Secretary of State for the Northern Powerhouse
+Q113127417,Parliamentary Under-Secretary of State for Patient Safety and Primary Care
 Q105081732,Parliamentary Under-Secretary of State for Pensions and Financial Inclusion
 Q108574783,"Parliamentary Under-Secretary of State for Preventing Abuse, Exploitation and Crime"
 Q104865605,"Parliamentary Under-Secretary of State for Prevention, Public Health and Primary Care"
