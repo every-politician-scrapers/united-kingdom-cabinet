@@ -1,0 +1,245 @@
+{
+  "title": "Sharon Campbell",
+  "pageID": 62718128,
+  "categories": [
+    "Living people",
+    "British women ambassadors",
+    "21st-century British diplomats",
+    "Ambassadors of the United Kingdom to Haiti",
+    "Ambassadors of the United Kingdom to Costa Rica",
+    "Year of birth missing (living people)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Sharon Campbell is a British diplomat who was the British Ambassador to Haiti until August 2020.",
+              "links": [
+                {
+                  "text": "British Ambassador to Haiti",
+                  "type": "internal",
+                  "page": "List of ambassadors of the United Kingdom to Haiti"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Sharon Campbell"
+                ]
+              }
+            },
+            {
+              "text": "From 2011 to 2015 she was the British Ambassador to Costa Rica.",
+              "links": [
+                {
+                  "text": "British Ambassador to Costa Rica",
+                  "type": "internal",
+                  "page": "List of ambassadors of the United Kingdom to Costa Rica"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "She and her husband, Chris Campbell, were the first married couple ever to be ambassadors to neighbouring countries.",
+              "links": [
+                {
+                  "text": "Chris Campbell",
+                  "type": "internal",
+                  "page": "Chris Campbell (diplomat)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "British diplomat",
+          "bot": "PearBOT 5",
+          "template": "short description"
+        },
+        {
+          "date": "April 2022",
+          "template": "use dmy dates"
+        }
+      ],
+      "infoboxes": [
+        {
+          "office": {
+            "text": "British Ambassador to Haiti",
+            "links": [
+              {
+                "text": "British Ambassador to Haiti",
+                "type": "internal",
+                "page": "List of ambassadors of the United Kingdom to Haiti"
+              }
+            ]
+          },
+          "office2": {
+            "text": "British Ambassador to Costa Rica",
+            "links": [
+              {
+                "text": "British Ambassador to Costa Rica",
+                "type": "internal",
+                "page": "List of ambassadors of the United Kingdom to Costa Rica"
+              }
+            ]
+          },
+          "termstart": {
+            "text": "2015",
+            "number": 2015
+          },
+          "termend": {
+            "text": "2020",
+            "number": 2020
+          },
+          "termstart2": {
+            "text": "2011",
+            "number": 2011
+          },
+          "termend2": {
+            "text": "2015",
+            "number": 2015
+          },
+          "predecessor": {
+            "text": "Steven Fisher",
+            "links": [
+              {
+                "text": "Steven Fisher",
+                "type": "internal",
+                "page": "Steven Fisher (diplomat)"
+              }
+            ]
+          },
+          "predecessor2": {
+            "text": "Thomas Kennedy"
+          },
+          "successor": {
+            "text": "Mockbul Ali",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mockbul Ali"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Ross Denny",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ross Denny"
+              }
+            ]
+          },
+          "image": {
+            "text": "Costa Rica- Chris and Sharon Campbell (8615515103).jpg"
+          },
+          "caption": {
+            "text": "Campbell and her husband Chris",
+            "links": [
+              {
+                "text": "Chris",
+                "type": "internal",
+                "page": "Chris Campbell (diplomat)"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.gov.uk/government/people/chris-and-sharon-campbell",
+          "title": "Sharon Campbell - GOV.UK",
+          "website": "www.gov.uk",
+          "language": "en",
+          "access-date": "2020-01-02",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Change of Her Majesty’s Ambassador to Dominican Republic and Non-Resident Ambassador to the Republic of Haiti",
+          "url": "https://www.gov.uk/government/news/change-of-her-majestys-ambassador-to-dominican-republic-and-non-resident-ambassador-to-the-republic-of-haiti",
+          "access-date": "2021-03-10",
+          "website": "GOV.UK",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.theguardian.com/theguardian/2011/jul/03/couple-envoys-to-neighbouring-countries",
+          "title": "A very diplomatic marriage",
+          "last": "Adewunmi",
+          "first": "Bim",
+          "date": "2011-07-03",
+          "work": "The Guardian",
+          "access-date": "2020-01-02",
+          "language": "en-GB",
+          "issn": "0261-3077",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.thetimes.co.uk/article/appointment-ambassador-to-costa-rica-and-non-resident-ambassador-to-nicaragua-zwb98qvkljn",
+          "title": "Appointment: Ambassador to Costa Rica and Non Resident Ambassador to Nicaragua",
+          "date": "2011-06-25",
+          "work": "The Times",
+          "access-date": "2020-01-02",
+          "language": "en",
+          "issn": "0140-0460",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "United Kingdom"
+          ],
+          "template": "portal"
+        },
+        {
+          "template": "uk-diplomat-stub"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "UK Government webpage",
+            "links": [
+              {
+                "text": "UK Government webpage",
+                "type": "external",
+                "site": "https://www.gov.uk/government/people/chris-and-sharon-campbell"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}

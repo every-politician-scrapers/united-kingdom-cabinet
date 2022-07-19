@@ -1,0 +1,394 @@
+{
+  "title": "Scott Wightman",
+  "pageID": 52529465,
+  "categories": [
+    "Year of birth missing (living people)",
+    "Living people",
+    "Companions of the Order of St Michael and St George",
+    "British diplomats in East Asia",
+    "Ambassadors of the United Kingdom to South Korea",
+    "High Commissioners of the United Kingdom to Singapore"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Andrew Scott Norman Wightman is a senior British civil servant and former diplomat.",
+              "links": [
+                {
+                  "text": "British",
+                  "type": "internal",
+                  "page": "United Kingdom"
+                },
+                {
+                  "text": "diplomat",
+                  "type": "internal",
+                  "page": "diplomacy"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Andrew Scott Norman Wightman"
+                ]
+              }
+            },
+            {
+              "text": "Before his appointment as Director for External Affairs in the Scottish Government, Wightman was High Commissioner of the United Kingdom to Singapore from 2015 to 2019, succeeding Antony Phillipson.",
+              "links": [
+                {
+                  "text": "High Commissioner of the United Kingdom to Singapore",
+                  "type": "internal",
+                  "page": "List of High Commissioners of the United Kingdom to Singapore"
+                },
+                {
+                  "type": "internal",
+                  "page": "Antony Phillipson"
+                }
+              ]
+            },
+            {
+              "text": "Prior to this, Wightman was British Ambassador to South Korea between 2011 and January 2015.",
+              "links": [
+                {
+                  "text": "British Ambassador to South Korea",
+                  "type": "internal",
+                  "page": "List of Ambassadors of the United Kingdom to South Korea"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He studied French at the University of Edinburgh.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "University of Edinburgh"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "British civil servant and former diplomat",
+          "template": "short description"
+        },
+        {
+          "date": "April 2022",
+          "template": "use dmy dates"
+        },
+        {
+          "list": [
+            "size-100%",
+            "CMG"
+          ],
+          "template": "post-nominals"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Scott Wightman"
+          },
+          "office": {
+            "text": "High Commissioner of the United Kingdom to Singapore",
+            "links": [
+              {
+                "text": "High Commissioner of the United Kingdom to Singapore",
+                "type": "internal",
+                "page": "List of High Commissioners of the United Kingdom to Singapore"
+              }
+            ]
+          },
+          "honorific-prefix": {
+            "text": "His Excellency",
+            "links": [
+              {
+                "type": "internal",
+                "page": "His Excellency"
+              }
+            ]
+          },
+          "honorific-suffix": {
+            "text": "CMG",
+            "links": [
+              {
+                "text": "CMG",
+                "type": "internal",
+                "page": "Order of St Michael and St George"
+              }
+            ]
+          },
+          "monarch": {
+            "text": "Elizabeth II",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Elizabeth II"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Theresa May\nDavid Cameron",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Theresa May"
+              },
+              {
+                "type": "internal",
+                "page": "David Cameron"
+              }
+            ]
+          },
+          "successor": {
+            "text": "Kara Owen",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Kara Owen"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "British",
+            "links": [
+              {
+                "text": "British",
+                "type": "internal",
+                "page": "British nationality law"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Anne Wightman"
+          },
+          "occupation": {
+            "text": "Diplomat",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Diplomat"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Antony Phillipson",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Antony Phillipson"
+              }
+            ]
+          },
+          "termstart": {
+            "text": "May 2015"
+          },
+          "termend": {
+            "text": "July 2019"
+          },
+          "office1": {
+            "text": "British Ambassador to South Korea",
+            "links": [
+              {
+                "text": "British Ambassador to South Korea",
+                "type": "internal",
+                "page": "List of Ambassadors of the United Kingdom to South Korea"
+              }
+            ]
+          },
+          "monarch1": {
+            "text": "Elizabeth II",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Elizabeth II"
+              }
+            ]
+          },
+          "primeminister1": {
+            "text": "David Cameron"
+          },
+          "predecessor1": {
+            "text": "Martin Uden",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Martin Uden"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Charles Hay",
+            "links": [
+              {
+                "text": "Charles Hay",
+                "type": "internal",
+                "page": "Charles Hay (diplomat)"
+              }
+            ]
+          },
+          "termstart1": {
+            "text": "2011",
+            "number": 2011
+          },
+          "termend1": {
+            "text": "Jan 2015"
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Scott Wightman, Director, External Affairs",
+          "url": "https://www.gov.scot/about/how-government-is-run/directorates/external-affairs-directorate/scott-wightman/",
+          "website": "Scottish Government",
+          "accessdate": "18 July 2019",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "Career",
+      "depth": 0
+    },
+    {
+      "title": "Foreign and Commonwealth Office",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Wightman joined the Foreign and Commonwealth Office in 1983.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Foreign and Commonwealth Office"
+                }
+              ]
+            },
+            {
+              "text": "He has had several posts in China and Europe."
+            },
+            {
+              "text": "He was FCO Director for Global and Economic Issues between 2006 and 2008, then Director for Asia Pacific until his first post as Ambassador to South Korea in 2011."
+            },
+            {
+              "text": "Wightman was appointed Companion of the Order of St Michael and St George in the 2009 New Year Honours.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Order of St Michael and St George"
+                },
+                {
+                  "text": "2009 New Year Honours",
+                  "type": "internal",
+                  "page": "2009 New Year Honours"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In February 2015, it was announced that Wightman would assume the post of the High Commissioner of the United Kingdom to Singapore in May 2015."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Wightman's term as High Commissioner ended in July 2019, and he was succeeded by Kara Owens.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Kara Owens"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "size-100%",
+            "CVO"
+          ],
+          "template": "post-nominals"
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "title": "Change of British High Commissioner to Singapore: July 2019",
+          "url": "https://www.gov.uk/government/news/change-of-british-high-commissioner-to-singapore-july-2019",
+          "website": "GOV UK",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Scottish Civil Service",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Wightman was appointed Director for External Affairs for the Scottish government in June 2019.",
+              "links": [
+                {
+                  "text": "Director for External Affairs for the Scottish government",
+                  "type": "internal",
+                  "page": "Directorates of the Scottish Government"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "uk-diplomat-stub"
+        }
+      ]
+    }
+  ]
+}

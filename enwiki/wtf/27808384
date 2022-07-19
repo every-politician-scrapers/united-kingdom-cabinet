@@ -1,0 +1,779 @@
+{
+  "title": "Victoria Treadell",
+  "pageID": 27808384,
+  "categories": [
+    "1959 births",
+    "Living people",
+    "People from Ipoh",
+    "British people of Chinese descent",
+    "British people of Dutch descent",
+    "British people of French descent",
+    "Governors of Pitcairn",
+    "High Commissioners of the United Kingdom to Australia",
+    "High Commissioners of the United Kingdom to New Zealand",
+    "High Commissioners of the United Kingdom to Samoa",
+    "High Commissioners of the United Kingdom to Malaysia",
+    "British women ambassadors",
+    "20th-century British diplomats",
+    "21st-century British diplomats"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Victoria Marguerite Treadell, (born 4 November 1959) is the current High Commissioner of the United Kingdom to Australia and has been in the posting since April 2019.",
+              "links": [
+                {
+                  "text": "High Commissioner of the United Kingdom to Australia",
+                  "type": "internal",
+                  "page": "List of High Commissioners of the United Kingdom to Australia"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Victoria Marguerite Treadell"
+                ]
+              }
+            },
+            {
+              "text": "She is the former High Commissioner of the United Kingdom to Malaysia, High Commissioner of the United Kingdom to New Zealand and Samoa, and Governor of the Pitcairn Islands.",
+              "links": [
+                {
+                  "text": "High Commissioner of the United Kingdom to Malaysia",
+                  "type": "internal",
+                  "page": "List of High Commissioners of the United Kingdom to Malaysia"
+                },
+                {
+                  "text": "High Commissioner of the United Kingdom to New Zealand and Samoa",
+                  "type": "internal",
+                  "page": "List of high commissioners of the United Kingdom to New Zealand"
+                },
+                {
+                  "type": "internal",
+                  "page": "Governor of the Pitcairn Islands"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "date": "August 2014",
+          "template": "use dmy dates"
+        },
+        {
+          "date": "August 2014",
+          "template": "use british english"
+        },
+        {
+          "country": "GBR",
+          "size": "100%",
+          "list": [
+            "CMG",
+            "MVO"
+          ],
+          "template": "post-nominals"
+        },
+        {
+          "year": "1959",
+          "month": "11",
+          "day": "04",
+          "df": "yes",
+          "template": "birth date and age"
+        },
+        {
+          "country": "GBR",
+          "size": "100%",
+          "sep": ",",
+          "list": [
+            "CMG",
+            "MVO"
+          ],
+          "template": "post-nominals"
+        },
+        {
+          "list": [
+            "Jansz"
+          ],
+          "template": "nee"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific_prefix": {
+            "text": "Her Excellency",
+            "links": [
+              {
+                "text": "Her Excellency",
+                "type": "internal",
+                "page": "Excellency"
+              }
+            ]
+          },
+          "name": {
+            "text": "Victoria Treadell"
+          },
+          "image": {
+            "text": "Vickitreadell.jpg"
+          },
+          "office": {
+            "text": "British High Commissioner to Australia",
+            "links": [
+              {
+                "text": "British High Commissioner to Australia",
+                "type": "internal",
+                "page": "List of High Commissioners of the United Kingdom to Australia"
+              }
+            ]
+          },
+          "monarch": {
+            "text": "Elizabeth II",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Elizabeth II"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Theresa May\nBoris Johnson",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Theresa May"
+              },
+              {
+                "type": "internal",
+                "page": "Boris Johnson"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "1 March 2019"
+          },
+          "predecessor": {
+            "text": "Menna Rawlings",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Menna Rawlings"
+              }
+            ]
+          },
+          "office1": {
+            "text": "British High Commissioner to Malaysia",
+            "links": [
+              {
+                "text": "British High Commissioner to Malaysia",
+                "type": "internal",
+                "page": "List of High Commissioners of the United Kingdom to Malaysia"
+              }
+            ]
+          },
+          "monarch1": {
+            "text": "Elizabeth II",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Elizabeth II"
+              }
+            ]
+          },
+          "primeminister1": {
+            "text": "David Cameron Theresa May",
+            "links": [
+              {
+                "type": "internal",
+                "page": "David Cameron"
+              },
+              {
+                "type": "internal",
+                "page": "Theresa May"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "October 2014"
+          },
+          "term_end1": {
+            "text": "March 2019"
+          },
+          "predecessor1": {
+            "text": "Simon Featherstone",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Simon Featherstone"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Charles Hay",
+            "links": [
+              {
+                "text": "Charles Hay",
+                "type": "internal",
+                "page": "Charles Hay (diplomat)"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Governor of Pitcairn",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Governor of Pitcairn"
+              }
+            ]
+          },
+          "monarch2": {
+            "text": "Elizabeth II",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Elizabeth II"
+              }
+            ]
+          },
+          "primeminister2": {
+            "text": "David Cameron",
+            "links": [
+              {
+                "type": "internal",
+                "page": "David Cameron"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "3 June 2010"
+          },
+          "term_end2": {
+            "text": "July 2014"
+          },
+          "predecessor2": {
+            "text": "George Fergusson",
+            "links": [
+              {
+                "text": "George Fergusson",
+                "type": "internal",
+                "page": "George Fergusson (diplomat)"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Jonathan Sinclair",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jonathan Sinclair"
+              }
+            ]
+          },
+          "office3": {
+            "text": "British High Commissioner to New Zealand and Samoa",
+            "links": [
+              {
+                "text": "British High Commissioner to New Zealand and Samoa",
+                "type": "internal",
+                "page": "List of high commissioners of the United Kingdom to New Zealand"
+              }
+            ]
+          },
+          "monarch3": {
+            "text": "Elizabeth II",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Elizabeth II"
+              }
+            ]
+          },
+          "primeminister3": {
+            "text": "David Cameron",
+            "links": [
+              {
+                "type": "internal",
+                "page": "David Cameron"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "May 2010"
+          },
+          "term_end3": {
+            "text": "March 2014"
+          },
+          "predecessor3": {
+            "text": "George Fergusson"
+          },
+          "successor3": {
+            "text": "Jonathan Sinclair"
+          },
+          "birth_name": {
+            "text": "Victoria Marguerite Jansz"
+          },
+          "birth_date": {
+            "text": "November 4, 1959"
+          },
+          "birth_place": {
+            "text": "Ipoh, Perak, Federation of Malaya",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ipoh"
+              },
+              {
+                "type": "internal",
+                "page": "Perak"
+              },
+              {
+                "type": "internal",
+                "page": "Federation of Malaya"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "British",
+            "links": [
+              {
+                "text": "British",
+                "type": "internal",
+                "page": "United Kingdom"
+              }
+            ]
+          },
+          "occupation": {
+            "text": "Diplomat"
+          },
+          "spouse": {
+            "text": "Alan Treadell"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Early life and education",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "She was born on 4 November 1959 in Ipoh, Perak, Malaya (now Malaysia) to a Cantonese mother and a father of French-Dutch ancestry.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ipoh"
+                },
+                {
+                  "type": "internal",
+                  "page": "Perak"
+                },
+                {
+                  "text": "Malaya",
+                  "type": "internal",
+                  "page": "Federation of Malaya"
+                },
+                {
+                  "text": "Cantonese",
+                  "type": "internal",
+                  "page": "Cantonese people"
+                },
+                {
+                  "text": "French",
+                  "type": "internal",
+                  "page": "French people"
+                },
+                {
+                  "text": "Dutch",
+                  "type": "internal",
+                  "page": "Dutch people"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "Diplomatic career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Treadell joined the Foreign and Commonwealth Office in 1978.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Foreign and Commonwealth Office"
+                }
+              ]
+            },
+            {
+              "text": "Before her posting to New Zealand, she had held postings in Pakistan, India and Malaysia.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Pakistan"
+                },
+                {
+                  "type": "internal",
+                  "page": "India"
+                },
+                {
+                  "type": "internal",
+                  "page": "Malaysia"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "From 2010 to 2014, she served as High Commissioner to New Zealand and Governor of Pitcairn.",
+              "links": [
+                {
+                  "text": "High Commissioner to New Zealand",
+                  "type": "internal",
+                  "page": "List of high commissioners of the United Kingdom to New Zealand"
+                },
+                {
+                  "type": "internal",
+                  "page": "Governor of Pitcairn"
+                }
+              ]
+            },
+            {
+              "text": "She is the first woman who served as British High Commissioner to New Zealand.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "New Zealand"
+                }
+              ]
+            },
+            {
+              "text": "From October 2014 to 2019, she served as High Commissioner to Malaysia.",
+              "links": [
+                {
+                  "text": "High Commissioner to Malaysia",
+                  "type": "internal",
+                  "page": "List of High Commissioners of the United Kingdom to Malaysia"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On 12 February 2019, Treadell was announced as the next British High Commissioner to Australia, in succession to Menna Rawlings, taking up the post in March 2019.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "British High Commissioner to Australia"
+                },
+                {
+                  "type": "internal",
+                  "page": "Menna Rawlings"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In early February 2020, Treadell took the \"unprecedented\" step of giving two elected officials from the Parliament of Australia a \"dressing down\" though Treadell herself is herself an unelected official from a foreign nation.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Parliament of Australia"
+                }
+              ]
+            },
+            {
+              "text": "The letter, showed \"stern\" disapproval for how Australia had revealed its security concerns over the UK's invitation to Huawei into its 5G network, which had been expressed both to her, and her Foreign Secretary Dominic Raab, in a private briefing.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Dominic Raab"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 2021, she was branded as a \"sanctimonious bore\" over \"publicly lecturing\" Australia on its allegedly inadequate efforts to combat climate change."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.fco.gov.uk/en/news/latest-news/?view=PressR&id=20829425",
+          "title": "Foreign Office Press Release 10 September 2009",
+          "access-date": "7 April 2010",
+          "archive-url": "https://web.archive.org/web/20091019205006/http://www.fco.gov.uk/en/news/latest-news/?view=PressR&id=20829425",
+          "archive-date": "19 October 2009",
+          "url-status": "dead",
+          "df": "dmy-all",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://ukinnewzealand.fco.gov.uk/en/about-us/our-high-commission/our-high-commissioner/",
+          "title": "Our High Commissioner",
+          "publisher": "British High Commission, Wellington",
+          "archive-url": "https://web.archive.org/web/20101115124214/http://ukinnewzealand.fco.gov.uk/en/about-us/our-high-commission/our-high-commissioner/",
+          "archive-date": "15 November 2010",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.guide2.co.nz/politics/news/first-female-british-high-commissioner-to-nz-named/11/10940",
+          "title": "First Female British High Commissioner To NZ Named",
+          "date": "11 September 2009",
+          "work": "guide2.co.nz (New Zealand Press Association)",
+          "access-date": "24 June 2010",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "url": "https://www.abc.net.au/news/2020-02-15/huawei-leak-diplomatic-tension-uk-australia-dominic-raab/11967520",
+          "title": "Leaked Huawei discussions prompt British diplomatic rebuke of Australian politicians",
+          "last": "Correspondent",
+          "first": "Defence",
+          "last2": "Greene",
+          "first2": "rew",
+          "date": "2020-02-15",
+          "website": "ABC News",
+          "language": "en-AU",
+          "access-date": "2020-02-15",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Fisher",
+          "first": "Lucy",
+          "date": "2021-10-14",
+          "title": "British High Commissioner to Australia ‘a sanctimonious bore’ over climate change",
+          "language": "en-GB",
+          "work": "The Telegraph",
+          "url": "https://www.telegraph.co.uk/politics/2021/10/14/british-high-commissioner-australia-sanctimonious-bore-climate/",
+          "access-date": "2021-10-14",
+          "issn": "0307-1235",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Change of British High Commissioner to Australia: March 2019",
+          "url": "https://www.gov.uk/government/news/change-of-british-high-commissioner-to-australia-march-2019",
+          "website": "GOV.UK",
+          "publisher": "Foreign and Commonwealth Office",
+          "access-date": "15 February 2019",
+          "language": "en",
+          "date": "12 February 2019",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.brisbanetimes.com.au/world/europe/parliamentary-trip-to-uk-cancelled-after-high-commissioner-pens-angry-letter-over-huawei-leak-20200211-p53zw4.html",
+          "title": "Parliamentary trip to UK cancelled after High Commissioner pens angry letter over Huawei leak",
+          "last": "Bourke",
+          "first": "Latika",
+          "date": "2020-02-15",
+          "website": "Brisbane Times",
+          "language": "en",
+          "access-date": "2020-02-15",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Personal life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "In 1985, the then Victoria Jansz married Alan Treadell."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In addition, due to her interest in culture and arts, she has been one of the patrons of the Singapore-based British Theatre Playhouse since 2014, with regard to the plays that are produced in Malaysia.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "British Theatre Playhouse"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.britishtheatreplayhouse.com/patrons.html",
+          "title": "British Theatre Playhouse - Patrons - Professional theatre production company incorporated in Singapore in 2004 but is internationally focused with a strong British connection - SISTIC",
+          "access-date": "23 March 2017",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Treadell, Victoria Marguerite",
+          "url": "http://www.ukwhoswho.com/view/10.1093/ww/9780199540884.001.0001/ww-9780199540884-e-255667",
+          "website": "Who's Who 2019",
+          "publisher": "Oxford University Press",
+          "access-date": "15 February 2019",
+          "date": "1 December 2018",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Honours",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "She was appointed a Member of the Royal Victorian Order (MVO) in 1989 following a visit by Elizabeth II to Malaysia.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Member of the Royal Victorian Order"
+                },
+                {
+                  "type": "internal",
+                  "page": "Elizabeth II"
+                }
+              ]
+            },
+            {
+              "text": "In the 2010 Queen's Birthday Honours, she was made a Companion of the Order of St Michael and St George (CMG).",
+              "links": [
+                {
+                  "text": "2010 Queen's Birthday Honours",
+                  "type": "internal",
+                  "page": "2010 Queen's Birthday Honours"
+                },
+                {
+                  "type": "internal",
+                  "page": "Companion of the Order of St Michael and St George"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-dip"
+        },
+        {
+          "rows": "2",
+          "before": "George Fergusson",
+          "template": "s-bef"
+        },
+        {
+          "title": "British High Commissioner to New Zealand",
+          "years": "2010–2014",
+          "template": "s-ttl"
+        },
+        {
+          "rows": "2",
+          "list": [
+            ""
+          ],
+          "after": "Jonathan Sinclair",
+          "template": "s-aft"
+        },
+        {
+          "title": "Governor of the Pitcairn, Henderson, Ducie and Oeno Islands",
+          "years": "2010–2014",
+          "template": "s-ttl"
+        },
+        {
+          "before": "Simon Featherstone",
+          "template": "s-bef"
+        },
+        {
+          "title": "British High Commissioner to Malaysia",
+          "years": "2014–2019",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Charles Hay",
+          "template": "s-aft"
+        },
+        {
+          "before": "Menna Rawlings",
+          "template": "s-bef"
+        },
+        {
+          "title": "British High Commissioner to Australia",
+          "years": "2019–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "template": "authority control"
+        }
+      ]
+    }
+  ]
+}

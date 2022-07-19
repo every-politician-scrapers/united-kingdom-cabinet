@@ -1,0 +1,739 @@
+{
+  "title": "Simon Collis",
+  "pageID": 5932452,
+  "categories": [
+    "1956 births",
+    "Living people",
+    "Alumni of Christ's College, Cambridge",
+    "People educated at King Edward VII School, Sheffield",
+    "Ambassadors of the United Kingdom to Syria",
+    "Ambassadors of the United Kingdom to Qatar",
+    "Ambassadors of the United Kingdom to Iraq",
+    "Ambassadors of the United Kingdom to Saudi Arabia",
+    "Companions of the Order of St Michael and St George",
+    "Members of HM Diplomatic Service",
+    "British Muslims",
+    "Converts to Islam",
+    "20th-century British diplomats"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Simon Paul Collis, (23 February 1956) is a former British ambassador to several Middle Eastern countries before retiring from diplomatic service in February 2020.",
+              "formatting": {
+                "bold": [
+                  "Simon Paul Collis"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "British diplomat",
+          "bot": "PearBOT 5",
+          "template": "short description"
+        },
+        {
+          "date": "April 2022",
+          "template": "use dmy dates"
+        },
+        {
+          "date": "July 2015",
+          "template": "use british english"
+        },
+        {
+          "country": "GBR",
+          "list": [
+            "CMG"
+          ],
+          "size": "100%",
+          "template": "post-nominals"
+        },
+        {
+          "df": "y",
+          "year": "1956",
+          "month": "2",
+          "day": "23",
+          "template": "birth date and age"
+        },
+        {
+          "country": "GBR",
+          "list": [
+            "CMG"
+          ],
+          "size": "100%",
+          "template": "post-nominals"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Simon Collis"
+          },
+          "office": {
+            "text": "British Ambassador to Saudi Arabia",
+            "links": [
+              {
+                "text": "British Ambassador to Saudi Arabia",
+                "type": "internal",
+                "page": "List of Ambassadors of the United Kingdom to Saudi Arabia"
+              }
+            ]
+          },
+          "honorific-prefix": {
+            "text": "His Excellency",
+            "links": [
+              {
+                "text": "His Excellency",
+                "type": "internal",
+                "page": "Excellency"
+              }
+            ]
+          },
+          "image": {
+            "text": "Ambassador Simon Collis, British Ambassador to Iraq (8572373248).jpg"
+          },
+          "caption": {
+            "text": "Collis at Chatham House in 2013",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Chatham House"
+              }
+            ]
+          },
+          "monarch": {
+            "text": "Elizabeth II",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Elizabeth II"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "David Cameron\nTheresa May\nBoris Johnson",
+            "links": [
+              {
+                "type": "internal",
+                "page": "David Cameron"
+              },
+              {
+                "type": "internal",
+                "page": "Theresa May"
+              },
+              {
+                "type": "internal",
+                "page": "Boris Johnson"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Sir John Jenkins",
+            "links": [
+              {
+                "text": "Sir John Jenkins",
+                "type": "internal",
+                "page": "John Jenkins (diplomat)"
+              }
+            ]
+          },
+          "successor": {
+            "text": "Neil Crompton",
+            "links": [
+              {
+                "text": "Neil Crompton",
+                "type": "internal",
+                "page": "Neil Crompton (diplomat)"
+              }
+            ]
+          },
+          "office2": {
+            "text": "British Ambassador to Iraq",
+            "links": [
+              {
+                "text": "British Ambassador to Iraq",
+                "type": "internal",
+                "page": "List of Ambassadors of the United Kingdom to Iraq"
+              }
+            ]
+          },
+          "predecessor2": {
+            "text": "Michael Aron",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Michael Aron"
+              }
+            ]
+          },
+          "monarch2": {
+            "text": "Elizabeth II",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Elizabeth II"
+              }
+            ]
+          },
+          "primeminister2": {
+            "text": "David Cameron",
+            "links": [
+              {
+                "type": "internal",
+                "page": "David Cameron"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Frank Baker",
+            "links": [
+              {
+                "text": "Frank Baker",
+                "type": "internal",
+                "page": "Frank Baker (diplomat)"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "February 23, 1956"
+          },
+          "spouse": {
+            "text": "Huda Mujarkech (m. 2011)"
+          },
+          "children": {
+            "text": "5",
+            "number": 5
+          },
+          "education": {
+            "text": "King Edward VII School, Sheffield",
+            "links": [
+              {
+                "type": "internal",
+                "page": "King Edward VII School, Sheffield"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Christ's College, Cambridge",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Christ's College, Cambridge"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "2015",
+            "number": 2015
+          },
+          "term_end": {
+            "text": "2020",
+            "number": 2020
+          },
+          "term_start2": {
+            "text": "2012",
+            "number": 2012
+          },
+          "term_end2": {
+            "text": "2014",
+            "number": 2014
+          },
+          "office3": {
+            "text": "British Ambassador to Syria",
+            "links": [
+              {
+                "text": "British Ambassador to Syria",
+                "type": "internal",
+                "page": "List of Ambassadors of the United Kingdom to Syria"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "2007",
+            "number": 2007
+          },
+          "term_end3": {
+            "text": "2012",
+            "number": 2012
+          },
+          "predecessor3": {
+            "text": "John Jenkins",
+            "links": [
+              {
+                "text": "John Jenkins",
+                "type": "internal",
+                "page": "John Jenkins (diplomat)"
+              }
+            ]
+          },
+          "successor3": {
+            "text": "Embassy closed",
+            "formatting": {
+              "italic": [
+                "Embassy closed"
+              ]
+            }
+          },
+          "monarch3": {
+            "text": "Elizabeth II",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Elizabeth II"
+              }
+            ]
+          },
+          "primeminister3": {
+            "text": "Tony Blair\nGordon Brown\nDavid Cameron",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Tony Blair"
+              },
+              {
+                "type": "internal",
+                "page": "Gordon Brown"
+              },
+              {
+                "type": "internal",
+                "page": "David Cameron"
+              }
+            ]
+          },
+          "office4": {
+            "text": "British Ambassador to Qatar",
+            "links": [
+              {
+                "text": "British Ambassador to Qatar",
+                "type": "internal",
+                "page": "List of diplomats of the United Kingdom to Qatar"
+              }
+            ]
+          },
+          "term_start4": {
+            "text": "2005",
+            "number": 2005
+          },
+          "term_end4": {
+            "text": "2007",
+            "number": 2007
+          },
+          "predecessor4": {
+            "text": "David MacLennan",
+            "links": [
+              {
+                "text": "David MacLennan",
+                "type": "internal",
+                "page": "David Ross MacLennan"
+              }
+            ]
+          },
+          "successor4": {
+            "text": "Roderick Drummond (Chargé d’Affaires)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Roderick Drummond"
+              }
+            ],
+            "formatting": {
+              "italic": [
+                "(Chargé d’Affaires)"
+              ]
+            }
+          },
+          "monarch4": {
+            "text": "Elizabeth II",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Elizabeth II"
+              }
+            ]
+          },
+          "primeminister4": {
+            "text": "Tony Blair",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Tony Blair"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.gov.uk/government/news/change-of-her-majestys-ambassador-to-saudi-arabia-neil-crompton",
+          "title": "Change of Her Majesty's Ambassador to Saudi Arabia: Neil Crompton",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.gov.uk/government/people/simon-collis",
+          "title": "Simon Collis",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Biography",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Collis was educated at King Edward VII School, Sheffield, from 1967 until 1973 and at Christ's College, Cambridge.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "King Edward VII School, Sheffield"
+                },
+                {
+                  "type": "internal",
+                  "page": "Christ's College, Cambridge"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He joined Her Majesty's Diplomatic Service in 1978 and served his first posting as Second Secretary in Bahrain from 1981 to 1984.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Her Majesty's Diplomatic Service"
+                },
+                {
+                  "type": "internal",
+                  "page": "Bahrain"
+                }
+              ]
+            },
+            {
+              "text": "From 1984– 1986 he served as Middle East Spokesman in the News Department of the Foreign and Commonwealth Office.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Foreign and Commonwealth Office"
+                }
+              ]
+            },
+            {
+              "text": "In 1986 he temporarily served at the UK mission in New York."
+            },
+            {
+              "text": "From 1987 to 1988 he was Head of India Section in the South Asia Department."
+            },
+            {
+              "text": "From 1988 to 1990 he was Deputy Head of Mission in Tunis.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Tunis"
+                }
+              ]
+            },
+            {
+              "text": "From 1990 to 1991 he was in the Gulf War Emergency Unit."
+            },
+            {
+              "text": "From 1991 to 1994 he served as First Secretary in New Delhi, India.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "New Delhi"
+                },
+                {
+                  "type": "internal",
+                  "page": "India"
+                }
+              ]
+            },
+            {
+              "text": "From 1994 to 1996 he was Deputy Head of the Near East & North Africa Department."
+            },
+            {
+              "text": "From 1996 to 1999 he was Deputy Head of Mission in Amman, Jordan.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Amman"
+                },
+                {
+                  "type": "internal",
+                  "page": "Jordan"
+                }
+              ]
+            },
+            {
+              "text": "From 1999 to 2000 he was seconded to BP.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "BP"
+                }
+              ]
+            },
+            {
+              "text": "From 2000 to 2004 he was Consul-General in Dubai, United Arab Emirates.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Dubai"
+                },
+                {
+                  "type": "internal",
+                  "page": "United Arab Emirates"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He was Consul General in Basra between 2004 and 2005."
+            },
+            {
+              "text": "He was British Ambassador to Qatar 2005–07, and British Ambassador to Syria 2007–2012.",
+              "links": [
+                {
+                  "text": "British Ambassador to Qatar",
+                  "type": "internal",
+                  "page": "List of diplomats of the United Kingdom to Qatar"
+                },
+                {
+                  "text": "British Ambassador to Syria",
+                  "type": "internal",
+                  "page": "List of Ambassadors of the United Kingdom to Syria"
+                }
+              ]
+            },
+            {
+              "text": "He left Syria in February 2012, after the British Government withdrew their staff there."
+            },
+            {
+              "text": "He was British Ambassador to Iraq from 2012 until September 2014.",
+              "links": [
+                {
+                  "text": "British Ambassador to Iraq",
+                  "type": "internal",
+                  "page": "List of Ambassadors of the United Kingdom to Iraq"
+                }
+              ]
+            },
+            {
+              "text": "He presented his credentials as British Ambassador to Saudi Arabia on 3 February 2015.",
+              "links": [
+                {
+                  "text": "British Ambassador to Saudi Arabia",
+                  "type": "internal",
+                  "page": "List of Ambassadors of the United Kingdom to Saudi Arabia"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Collis was appointed Companion of the Order of St Michael and St George (CMG) in the 2014 Birthday Honours for services to British interests in Iraq and Syria.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Companion of the Order of St Michael and St George"
+                },
+                {
+                  "text": "2014 Birthday Honours",
+                  "type": "internal",
+                  "page": "2014 Birthday Honours"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 2016, Collis became the first UK ambassador to perform the Islamic pilgrimage of Hajj after converting to Islam.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Hajj"
+                },
+                {
+                  "text": "converting to Islam",
+                  "type": "internal",
+                  "page": "converting to Islam"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 2020, Collis retired as ambassador to Saudi Arabia and from diplomatic service."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "url": "https://www.arabnews.com/node/1632756/saudi-arabia",
+          "title": "Saudi minister receives UK Ambassador Neil Crompton in Riyadh {{!}} Arab News",
+          "date": "25 February 2020",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "Notes",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "references": [
+        {
+          "title": "Our Ambassador",
+          "publisher": "British Embassy, Baghdad",
+          "location": "Iraq",
+          "url": "http://ukiniraq.fco.gov.uk/en/about-us/our-embassy/our-ambassador/",
+          "access-date": "12 February 2013",
+          "template": "citation",
+          "type": "cite news"
+        },
+        {
+          "title": "Our Ambassador – Career History",
+          "publisher": "British Embassy, Baghdad",
+          "location": "Iraq",
+          "url": "http://ukiniraq.fco.gov.uk/en/about-us/our-embassy/our-ambassador/career-history",
+          "access-date": "12 February 2013",
+          "template": "citation",
+          "type": "cite news"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-dip"
+        },
+        {
+          "before": "David MacLennan",
+          "template": "s-bef"
+        },
+        {
+          "title": "British Ambassador to Qatar",
+          "years": "2005&ndash;2007",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Roderick Drummond",
+          "template": "s-aft"
+        },
+        {
+          "before": "John Jenkins",
+          "template": "s-bef"
+        },
+        {
+          "title": "British Ambassador to Syria",
+          "years": "2007&ndash;2012",
+          "template": "s-ttl"
+        },
+        {
+          "reason": "Embassy closed",
+          "template": "s-non"
+        },
+        {
+          "before": "Michael Aron",
+          "template": "s-bef"
+        },
+        {
+          "title": "British Ambassador to Iraq",
+          "years": "2012&ndash;2014",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Frank Baker",
+          "template": "s-aft"
+        },
+        {
+          "before": "Sir John Jenkins",
+          "template": "s-bef"
+        },
+        {
+          "title": "British Ambassador to Saudi Arabia",
+          "years": "2015&ndash;2020",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Neil Crompton",
+          "template": "s-aft"
+        },
+        {
+          "template": "authority control"
+        }
+      ]
+    }
+  ]
+}

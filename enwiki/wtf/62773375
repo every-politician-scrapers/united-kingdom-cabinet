@@ -1,0 +1,200 @@
+{
+  "title": "Josephine Gauld",
+  "pageID": 62773375,
+  "categories": [
+    "Living people",
+    "Ambassadors of the United Kingdom to Ivory Coast",
+    "Members of HM Diplomatic Service",
+    "British women ambassadors",
+    "Year of birth missing (living people)",
+    "21st-century British diplomats"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Josephine Gauld is a British diplomat, who was the British ambassador to Côte d’Ivoire between 2016 and 2020.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Côte d’Ivoire"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Josephine Gauld"
+                ]
+              }
+            },
+            {
+              "text": "Previously to this, she was Second Secretary in Kinshasa (2004-2007), First Secretary in Abidjan (2007-2009) and Deputy Head of Political Section in Abuja (2012-2014).",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Kinshasa"
+                },
+                {
+                  "type": "internal",
+                  "page": "Abidjan"
+                },
+                {
+                  "type": "internal",
+                  "page": "Abuja"
+                }
+              ]
+            },
+            {
+              "text": "Gauld joined the Foreign and Commonwealth Office in 2002, and has also held roles covering the Balkans and the South Caucasus regions.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Foreign and Commonwealth Office"
+                },
+                {
+                  "type": "internal",
+                  "page": "Balkans"
+                },
+                {
+                  "type": "internal",
+                  "page": "South Caucasus"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "As Ambassador to Côte d'Ivoire, Gauld undertook responsibilities such as hosting trade conferences and attending a conference on preventing harassment in workplaces."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "British diplomat",
+          "template": "short description"
+        },
+        {
+          "date": "April 2022",
+          "template": "use dmy dates"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Josephine Gauld"
+          },
+          "office": {
+            "text": "British Ambassador to the Côte d'Ivoire",
+            "links": [
+              {
+                "text": "British Ambassador to the Côte d'Ivoire",
+                "type": "internal",
+                "page": "List of ambassadors of the United Kingdom to Ivory Coast"
+              }
+            ]
+          },
+          "termstart": {
+            "text": "2016",
+            "number": 2016
+          },
+          "termend": {
+            "text": "2020",
+            "number": 2020
+          },
+          "monarch": {
+            "text": "Elizabeth II",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Elizabeth II"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Mark Bensberg",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mark Bensberg"
+              }
+            ]
+          },
+          "successor": {
+            "text": "Catherine Brooker",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Catherine Brooker"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "British",
+            "links": [
+              {
+                "text": "British",
+                "type": "internal",
+                "page": "British people"
+              }
+            ]
+          },
+          "image": {
+            "text": "British diplomat Josephine Gauld.jpg"
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "British Ambassador to Côte d'Ivoire Ms Josephine Gauld HMA",
+          "url": "https://www.gov.uk/government/people/josephine-gauld",
+          "website": "gov.uk",
+          "accessdate": "7 January 2020",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "African NewsUK News New UK Ambassador to Côte d’Ivoire",
+          "url": "http://africanvoiceonline.co.uk/new-uk-ambassador-to-cote-divoire/",
+          "website": "africanvoiceonline.co.uk",
+          "accessdate": "7 January 2020",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Côte d’Ivoire Trade Mission 2018",
+          "url": "https://www.developingmarkets.com/events/c%C3%B4te-d%E2%80%99ivoire-trade-mission-2018",
+          "website": "developingmarkets.com",
+          "accessdate": "7 January 2020",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Speaking up: Diplomats, policy makers and the African Development Bank share lessons on creating harassment-free workplaces",
+          "url": "https://www.afdb.org/en/news-and-events/press-releases/speaking-diplomats-policy-makers-and-african-development-bank-share-lessons-creating-harassment-free-workplaces-32630",
+          "website": "afdb.org",
+          "accessdate": "7 January 2020",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "uk-diplomat-stub"
+        }
+      ]
+    }
+  ]
+}

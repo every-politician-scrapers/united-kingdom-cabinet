@@ -1,0 +1,829 @@
+{
+  "title": "Tom Scholar",
+  "pageID": 16018837,
+  "categories": [
+    "1968 births",
+    "Alumni of the London School of Economics",
+    "Alumni of Trinity Hall, Cambridge",
+    "British special advisers",
+    "Civil servants in HM Treasury",
+    "Living people",
+    "Permanent Secretaries of HM Treasury",
+    "Permanent Secretaries of the Cabinet Office",
+    "Principal Private Secretaries to the Prime Minister",
+    "Second Permanent Secretaries of HM Treasury",
+    "Knights Commander of the Order of the Bath",
+    "Downing Street Chiefs of Staff"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Sir Thomas Whinfield Scholar (born 17 December 1968) is a British civil servant currently serving as Permanent Secretary at HM Treasury.",
+              "links": [
+                {
+                  "text": "civil servant",
+                  "type": "internal",
+                  "page": "civil servant"
+                },
+                {
+                  "type": "internal",
+                  "page": "Permanent Secretary"
+                },
+                {
+                  "type": "internal",
+                  "page": "HM Treasury"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Sir Thomas Whinfield Scholar"
+                ]
+              }
+            },
+            {
+              "text": "Scholar was previously the Prime Minister's Adviser on European and Global Issues in the Cabinet Office from 2013 to 2016.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Cabinet Office"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "British civil servant",
+          "template": "short description"
+        },
+        {
+          "date": "December 2014",
+          "template": "use dmy dates"
+        },
+        {
+          "date": "December 2014",
+          "template": "use british english"
+        },
+        {
+          "country": "GBR",
+          "list": [
+            "KCB"
+          ],
+          "size": "100%",
+          "template": "post-nominals"
+        },
+        {
+          "year": "1968",
+          "month": "12",
+          "day": "17",
+          "df": "yes",
+          "template": "birth date and age"
+        },
+        {
+          "country": "GBR",
+          "list": [
+            "KCB"
+          ],
+          "template": "post-nominals"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Sir Tom Scholar"
+          },
+          "office": {
+            "text": "Permanent Secretary to HM Treasury",
+            "links": [
+              {
+                "text": "Permanent Secretary to HM Treasury",
+                "type": "internal",
+                "page": "Permanent Secretary of HM Treasury"
+              }
+            ]
+          },
+          "monarch": {
+            "text": "Elizabeth II",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Elizabeth II"
+              }
+            ]
+          },
+          "chancellor": {
+            "text": "George Osborne Philip Hammond Sajid Javid Rishi Sunak Nadhim Zahawi",
+            "links": [
+              {
+                "type": "internal",
+                "page": "George Osborne"
+              },
+              {
+                "type": "internal",
+                "page": "Philip Hammond"
+              },
+              {
+                "type": "internal",
+                "page": "Sajid Javid"
+              },
+              {
+                "type": "internal",
+                "page": "Rishi Sunak"
+              },
+              {
+                "type": "internal",
+                "page": "Nadhim Zahawi"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "June 2016"
+          },
+          "predecessor": {
+            "text": "Nicholas Macpherson",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Nicholas Macpherson"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Prime Minister's Adviser for Europe and Global Issues",
+            "links": [
+              {
+                "text": "Prime Minister's Adviser for Europe and Global Issues",
+                "type": "internal",
+                "page": "10 Downing Street"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "2013",
+            "number": 2013
+          },
+          "term_end2": {
+            "text": "13 July 2016"
+          },
+          "primeminister2": {
+            "text": "David Cameron",
+            "links": [
+              {
+                "type": "internal",
+                "page": "David Cameron"
+              }
+            ]
+          },
+          "predecessor2": {
+            "text": "Jon Cunliffe",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jon Cunliffe"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Oliver Robbins",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Oliver Robbins"
+              }
+            ]
+          },
+          "office3": {
+            "text": "Second Permanent Secretary to HM Treasury"
+          },
+          "term_start3": {
+            "text": "2009",
+            "number": 2009
+          },
+          "term_end3": {
+            "text": "2013",
+            "number": 2013
+          },
+          "chancellor3": {
+            "text": "Alistair Darling George Osborne",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Alistair Darling"
+              },
+              {
+                "type": "internal",
+                "page": "George Osborne"
+              }
+            ]
+          },
+          "predecessor3": {
+            "text": "John Kingman",
+            "links": [
+              {
+                "text": "John Kingman",
+                "type": "internal",
+                "page": "John Oliver Frank Kingman"
+              }
+            ]
+          },
+          "successor3": {
+            "text": "Sharon White",
+            "links": [
+              {
+                "text": "Sharon White",
+                "type": "internal",
+                "page": "Sharon White (civil servant)"
+              }
+            ]
+          },
+          "office4": {
+            "text": "Principal Private Secretary to the Prime Minister of the United Kingdom",
+            "links": [
+              {
+                "text": "Principal Private Secretary to the Prime Minister of the United Kingdom",
+                "type": "internal",
+                "page": "Principal Private Secretary to the Prime Minister"
+              }
+            ]
+          },
+          "term_start4": {
+            "text": "27 June 2007"
+          },
+          "term_end4": {
+            "text": "23 January 2008"
+          },
+          "primeminister4": {
+            "text": "Gordon Brown",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Gordon Brown"
+              }
+            ]
+          },
+          "predecessor4": {
+            "text": "Olly Robbins",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Olly Robbins"
+              }
+            ]
+          },
+          "successor4": {
+            "text": "Jeremy Heywood",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jeremy Heywood"
+              }
+            ]
+          },
+          "office5": {
+            "text": "Downing Street Chief of Staff",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Downing Street Chief of Staff"
+              }
+            ]
+          },
+          "term_start5": {
+            "text": "27 June 2007"
+          },
+          "term_end5": {
+            "text": "23 January 2008"
+          },
+          "primeminister5": {
+            "text": "Gordon Brown",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Gordon Brown"
+              }
+            ]
+          },
+          "predecessor5": {
+            "text": "Jonathan Powell",
+            "links": [
+              {
+                "text": "Jonathan Powell",
+                "type": "internal",
+                "page": "Jonathan Powell (Labour adviser)"
+              }
+            ]
+          },
+          "successor5": {
+            "text": "Stephen Carter",
+            "links": [
+              {
+                "text": "Stephen Carter",
+                "type": "internal",
+                "page": "Stephen Carter, Baron Carter of Barnes"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "December 17, 1968"
+          },
+          "nationality": {
+            "text": "British",
+            "links": [
+              {
+                "text": "British",
+                "type": "internal",
+                "page": "United Kingdom"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Trinity Hall, Cambridge (BA)\nLondon School of Economics (MS)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Trinity Hall, Cambridge"
+              },
+              {
+                "text": "BA",
+                "type": "internal",
+                "page": "Bachelor of Arts"
+              },
+              {
+                "type": "internal",
+                "page": "London School of Economics"
+              },
+              {
+                "text": "MS",
+                "type": "internal",
+                "page": "Master of Science"
+              }
+            ]
+          },
+          "occupation": {
+            "text": "Civil servant"
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.gov.uk/government/news/new-permanent-secretary-to-the-treasury-announced",
+          "title": "New Permanent Secretary to the Treasury announced - News stories - GOV.UK",
+          "website": "www.gov.uk",
+          "access-date": "2016-03-13",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.ukwhoswho.com/view/article/oupww/whoswho/U4000118",
+          "title": "SCHOLAR, Thomas Whinfield",
+          "last": "A & C Black",
+          "work": "Who's Who 2016",
+          "publisher": "Oxford University Press",
+          "year": "2016",
+          "edition": "online",
+          "access-date": "2016-03-02",
+          "template": "citation",
+          "type": "book"
+        }
+      ]
+    },
+    {
+      "title": "Early life and education",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Son of civil servant Sir Michael Scholar, non-executive chairman of the British government's Statistics Board and former President of St John's College, Oxford, Scholar was educated at Dulwich College (1979–1986), Trinity Hall, Cambridge (where he read History ), and the London School of Economics.",
+              "links": [
+                {
+                  "text": "Sir Michael Scholar",
+                  "type": "internal",
+                  "page": "Michael Scholar"
+                },
+                {
+                  "text": "Statistics Board",
+                  "type": "internal",
+                  "page": "UK Statistics Authority"
+                },
+                {
+                  "type": "internal",
+                  "page": "St John's College, Oxford"
+                },
+                {
+                  "type": "internal",
+                  "page": "Dulwich College"
+                },
+                {
+                  "type": "internal",
+                  "page": "Trinity Hall, Cambridge"
+                },
+                {
+                  "type": "internal",
+                  "page": "London School of Economics"
+                }
+              ]
+            },
+            {
+              "text": "He has two younger brothers, Richard and John."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://publications.parliament.uk/pa/cm200708/cmselect/cmpubacc/519/8042811.htm",
+          "title": "House of Commons - Public Accounts - Minutes of Evidence",
+          "last": "Commons",
+          "first": "The Committee Office, House of",
+          "website": "www.publications.parliament.uk",
+          "access-date": "2016-08-27",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Scholar joined HM Treasury in 1992, rising to Principal Private Secretary to the Chancellor of the Exchequer in 1997, serving Gordon Brown for four years until 2001.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "HM Treasury"
+                },
+                {
+                  "type": "internal",
+                  "page": "Principal Private Secretary"
+                },
+                {
+                  "type": "internal",
+                  "page": "Chancellor of the Exchequer"
+                },
+                {
+                  "type": "internal",
+                  "page": "Gordon Brown"
+                }
+              ]
+            },
+            {
+              "text": "Following that posting, Scholar served as the British representative on the boards of the International Monetary Fund and the World Bank, attached to the British Embassy in Washington as Minister for Economic Affairs for six years.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "International Monetary Fund"
+                },
+                {
+                  "type": "internal",
+                  "page": "World Bank"
+                },
+                {
+                  "text": "British Embassy in Washington",
+                  "type": "internal",
+                  "page": "Embassy of the United Kingdom, Washington, D.C."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 2007, following Brown taking over the leadership of the Labour Party and thus the office of Prime Minister, Scholar returned to the UK taking over the two roles of Downing Street Chief of Staff from Jonathan Powell and of Principal Private Secretary to the Prime Minister from Oliver Robbins.",
+              "links": [
+                {
+                  "text": "Labour Party",
+                  "type": "internal",
+                  "page": "Labour Party (UK)"
+                },
+                {
+                  "text": "Prime Minister",
+                  "type": "internal",
+                  "page": "Prime Minister of the United Kingdom"
+                },
+                {
+                  "type": "internal",
+                  "page": "Downing Street Chief of Staff"
+                },
+                {
+                  "text": "Jonathan Powell",
+                  "type": "internal",
+                  "page": "Jonathan Powell (Labour adviser)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Principal Private Secretary to the Prime Minister"
+                },
+                {
+                  "type": "internal",
+                  "page": "Oliver Robbins"
+                }
+              ]
+            },
+            {
+              "text": "After six months, Scholar left Number 10 to return to the Treasury as the Managing Director of its International and Finance Directorate in January 2008.",
+              "links": [
+                {
+                  "text": "Number 10",
+                  "type": "internal",
+                  "page": "10 Downing Street"
+                },
+                {
+                  "type": "internal",
+                  "page": "International and Finance Directorate"
+                }
+              ]
+            },
+            {
+              "text": "The next year, Scholar was promoted to be the Second Permanent Secretary at the Treasury, taking over from John Kingman.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Second Permanent Secretary"
+                },
+                {
+                  "text": "John Kingman",
+                  "type": "internal",
+                  "page": "John Oliver Frank Kingman"
+                }
+              ]
+            },
+            {
+              "text": "In this role, Scholar was a director of the nationalised bank, Northern Rock.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Northern Rock"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Four years later, in 2013 Scholar returned to Downing Street, now under David Cameron, to run the European and Global Issues Secretariat in the Cabinet Office.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "David Cameron"
+                },
+                {
+                  "type": "internal",
+                  "page": "European and Global Issues Secretariat"
+                }
+              ]
+            },
+            {
+              "text": "As such he was the Prime Minister's most senior adviser on international affairs until his appointment on 11 March 2016 as Permanent Secretary to the Treasury."
+            },
+            {
+              "text": "As of September 2015, Scholar was paid a salary of between £150,000 and £154,999, making him one of the 328 most highly paid people in the British public sector at that time."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In March 2016 the government announced that Scholar would succeed Sir Nick Macpherson as Permanent Secretary to the Treasury in April 2016.",
+              "links": [
+                {
+                  "text": "Sir Nick Macpherson",
+                  "type": "internal",
+                  "page": "Nick Macpherson"
+                },
+                {
+                  "type": "internal",
+                  "page": "Permanent Secretary to the Treasury"
+                }
+              ]
+            },
+            {
+              "text": "Scholar was replaced at the Cabinet Office by Oliver Robbins, who took over the role as a \"post-Brexit\" unit in June 2016, which the next month became the Department for Exiting the European Union when Theresa May created her first Cabinet.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Oliver Robbins"
+                },
+                {
+                  "type": "internal",
+                  "page": "Department for Exiting the European Union"
+                },
+                {
+                  "type": "internal",
+                  "page": "Theresa May"
+                },
+                {
+                  "text": "first Cabinet",
+                  "type": "internal",
+                  "page": "First May ministry"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He was appointed Knight Commander of the Order of the Bath (KCB) in the 2017 Birthday Honours.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Knight Commander of the Order of the Bath"
+                },
+                {
+                  "text": "2017 Birthday Honours",
+                  "type": "internal",
+                  "page": "2017 Birthday Honours"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.gov.uk/government/people/tom-scholar",
+          "title": "Tom Scholar - GOV.UK",
+          "website": "www.gov.uk",
+          "access-date": "2016-03-02",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://companyinfo.northernrock.co.uk/investorRelations/theBoard/biographies.asp",
+          "title": "Investor Relations &#124; Virgin Money UK",
+          "publisher": "Companyinfo.northernrock.co.uk",
+          "accessdate": "2013-09-29",
+          "url-status": "dead",
+          "archiveurl": "https://web.archive.org/web/20111003113203/http://companyinfo.northernrock.co.uk/investorRelations/theBoard/biographies.asp",
+          "archivedate": "3 October 2011",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.gov.uk/government/news/new-second-permanent-secretary-hm-treasury-appointed",
+          "title": "New Second Permanent Secretary, HM Treasury appointed - News stories - GOV.UK",
+          "website": "www.gov.uk",
+          "access-date": "2016-03-02",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.theguardian.com/politics/2016/feb/17/meet-the-sherpas-the-key-people-quietly-negotiating-uk-eu-reforms",
+          "title": "Meet the sherpas: the key people quietly negotiating UK-EU reforms",
+          "last": "Traynor",
+          "first": "Ian",
+          "date": "2016-02-16",
+          "last2": "Watt",
+          "first2": "Nicholas",
+          "newspaper": "The Guardian",
+          "language": "en-GB",
+          "issn": "0261-3077",
+          "access-date": "2016-03-02",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/492289/150K_senior_salaries.csv/preview",
+          "title": "Senior officials 'high earners' salaries as at 30 September 2015 - GOV.UK",
+          "date": "2015-12-17",
+          "website": "www.gov.uk",
+          "access-date": "2016-02-28",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.civilserviceworld.com/articles/news/oliver-robbins-announced-head-cabinet-office-brexit-unit",
+          "title": "Oliver Robbins announced as head of Cabinet Office Brexit unit {{!}} Civil Service World",
+          "website": "www.civilserviceworld.com",
+          "access-date": "2016-10-09",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.gov.uk/government/news/new-ministerial-appointment-july-2016-secretary-of-state-for-exiting-the-european-union",
+          "title": "New ministerial appointment July 2016: Secretary of State for Exiting the European Union - Press releases - GOV.UK",
+          "website": "www.gov.uk",
+          "access-date": "2016-10-09",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "Personal life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Scholar is married to Fabiola Altimari and has three daughters."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-gov"
+        },
+        {
+          "before": "Jonathan Powell",
+          "template": "s-bef"
+        },
+        {
+          "title": "Downing Street Chief of Staff",
+          "years": "2007–2008",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Stephen Carter",
+          "template": "s-aft"
+        },
+        {
+          "before": "Oliver Robbins",
+          "template": "s-bef"
+        },
+        {
+          "title": "[[Principal Private Secretary to the Prime Minister|Principal Private Secretary\nto the Prime Minister]]",
+          "years": "2007–2008",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Jeremy Heywood",
+          "template": "s-aft"
+        },
+        {
+          "before": "John Kingman",
+          "template": "s-bef"
+        },
+        {
+          "title": "Second Permanent Secretary,\nHM Treasury",
+          "years": "2009–2013",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Sharon White",
+          "template": "s-aft"
+        },
+        {
+          "before": "Sir Jon Cunliffe",
+          "template": "s-bef"
+        },
+        {
+          "title": "Prime Minister's Adviser,\nEuropean and Global Issues",
+          "years": "2013–2016",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Oliver Robbins",
+          "template": "s-aft"
+        },
+        {
+          "before": "Sir Nicholas Macpherson",
+          "template": "s-bef"
+        },
+        {
+          "title": "Permanent Secretary,\nHM Treasury",
+          "years": "2016–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "template": "principal private secretary to the prime minister"
+        },
+        {
+          "template": "chief of staff to the prime minister"
+        },
+        {
+          "template": "british special advisers"
+        }
+      ]
+    }
+  ]
+}

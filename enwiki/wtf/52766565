@@ -1,0 +1,507 @@
+{
+  "title": "Edward Oakden",
+  "pageID": 52766565,
+  "categories": [
+    "1959 births",
+    "Living people",
+    "People educated at Repton School",
+    "Alumni of Trinity College, Cambridge",
+    "Ambassadors of the United Kingdom to the United Arab Emirates",
+    "Ambassadors of the United Kingdom to Jordan",
+    "Companions of the Order of St Michael and St George"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Edward Anthony Oakden is a British diplomat, the Ambassador to Jordan from 2015 to 2020.",
+              "links": [
+                {
+                  "text": "Ambassador to Jordan",
+                  "type": "internal",
+                  "page": "List of ambassadors of the United Kingdom to Jordan"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Edward Anthony Oakden"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He was educated at Repton School and Trinity College, Cambridge.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Repton School"
+                },
+                {
+                  "type": "internal",
+                  "page": "Trinity College, Cambridge"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "British diplomat",
+          "template": "short description"
+        },
+        {
+          "date": "April 2022",
+          "template": "use dmy dates"
+        },
+        {
+          "date": "January 2017",
+          "template": "context"
+        },
+        {
+          "year": "1959",
+          "month": "11",
+          "day": "03",
+          "df": "y",
+          "template": "birth date and age"
+        },
+        {
+          "country": "GBR",
+          "size": "100%",
+          "list": [
+            "CMG"
+          ],
+          "template": "post-nominals"
+        },
+        {
+          "country": "GBR",
+          "size": "100%",
+          "list": [
+            "CMG"
+          ],
+          "template": "post-nominals"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Edward Oakden"
+          },
+          "office1": {
+            "text": "British Ambassador to the United Arab Emirates",
+            "links": [
+              {
+                "text": "British Ambassador to the United Arab Emirates",
+                "type": "internal",
+                "page": "List of ambassadors of the United Kingdom to the United Arab Emirates"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "2006",
+            "number": 2006
+          },
+          "term_end1": {
+            "text": "2010",
+            "number": 2010
+          },
+          "predecessor1": {
+            "text": "Richard Makepeace",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Richard Makepeace"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Dominic Jermey",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Dominic Jermey"
+              }
+            ]
+          },
+          "monarch1": {
+            "text": "Elizabeth II",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Elizabeth II"
+              }
+            ]
+          },
+          "primeminister1": {
+            "text": "Tony Blair\nGordon Brown",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Tony Blair"
+              },
+              {
+                "type": "internal",
+                "page": "Gordon Brown"
+              }
+            ]
+          },
+          "office": {
+            "text": "British Ambassador to Jordan",
+            "links": [
+              {
+                "text": "British Ambassador to Jordan",
+                "type": "internal",
+                "page": "List of ambassadors of the United Kingdom to Jordan"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "April 2015"
+          },
+          "term_end": {
+            "text": "April 2020"
+          },
+          "predecessor": {
+            "text": "Peter Millett",
+            "links": [
+              {
+                "text": "Peter Millett",
+                "type": "internal",
+                "page": "Peter Millett (diplomat)"
+              }
+            ]
+          },
+          "successor": {
+            "text": "Bridget Brind",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Bridget Brind"
+              }
+            ]
+          },
+          "monarch": {
+            "text": "Elizabeth II",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Elizabeth II"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "David Cameron\nTheresa May\nBoris Johnson",
+            "links": [
+              {
+                "type": "internal",
+                "page": "David Cameron"
+              },
+              {
+                "type": "internal",
+                "page": "Theresa May"
+              },
+              {
+                "type": "internal",
+                "page": "Boris Johnson"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "November 3, 1959"
+          },
+          "spouse": {
+            "text": "Florence Eid"
+          },
+          "children": {
+            "text": "3",
+            "number": 3
+          },
+          "education": {
+            "text": "Repton School",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Repton School"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Trinity College, Cambridge",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Trinity College, Cambridge"
+              }
+            ]
+          },
+          "birth_name": {
+            "text": "Edward Anthony Oakden"
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "The Diplomatic Service List",
+          "publisher": "HM Stationery Office",
+          "year": "2003",
+          "page": "269",
+          "isbn": "9780115917752",
+          "url": "https://books.google.com/books?id=dA7wAAAAMAAJ&q=%22Oakden,+Edward+Anthony%22",
+          "via": "Google Books",
+          "template": "citation",
+          "type": "book"
+        },
+        {
+          "title": "OAKDEN, Edward Anthony",
+          "work": "Who's Who",
+          "date": "2017",
+          "url": "http://www.ukwhoswho.com/view/article/oupww/whoswho/U10000017",
+          "accessdate": "17 March 2017",
+          "url-access": "subscription",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "author": "University of Cambridge",
+          "title": "The Cambridge University List of Members for the Year ...",
+          "url": "https://books.google.com/books?id=05AcAQAAMAAJ",
+          "year": "1991",
+          "publisher": "Cambridge University Press",
+          "template": "citation",
+          "type": "book"
+        }
+      ]
+    },
+    {
+      "title": "Career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "In 1981 he joined the Foreign and Commonwealth Office.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Foreign and Commonwealth Office"
+              }
+            ]
+          },
+          {
+            "text": "From 1984 to 1985 he was Third Secretary (later Second Secretary) in Baghdad.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Baghdad"
+              }
+            ]
+          },
+          {
+            "text": "From 1985 to 1988 he was Second Secretary British Embassy in Khartoum.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Khartoum"
+              }
+            ]
+          },
+          {
+            "text": "From 1988 to 1992 he was Private Secretary to the Ambassador in Washington, D.C.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Washington, D.C."
+              }
+            ]
+          },
+          {
+            "text": "From 1992 to 1995 he was Deputy Head of the EU, External & Eastern Adriatic Department in the Foreign and Commonwealth Office.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Foreign and Commonwealth Office"
+              }
+            ]
+          },
+          {
+            "text": "From 1995 to 1997 he was Private Secretary to John Major for Foreign Affairs, Defence and Northern Ireland.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "John Major"
+              }
+            ]
+          },
+          {
+            "text": "From 1997 to 1998 he was Deputy Head EU Department (Internal) in the Foreign and Commonwealth Office.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Foreign and Commonwealth Office"
+              }
+            ]
+          },
+          {
+            "text": "From 1998 to 2002 he was Deputy Head of Mission in Madrid",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Madrid"
+              }
+            ]
+          },
+          {
+            "text": "From 2002 to 2004 he was Director for International Security in the Foreign and Commonwealth Office.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Foreign and Commonwealth Office"
+              }
+            ]
+          },
+          {
+            "text": "In 2002 he was head of Security Policy Department in the Foreign and Commonwealth Office.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Foreign and Commonwealth Office"
+              }
+            ]
+          },
+          {
+            "text": "From 2004 to 2006 he was Director for Defence and Strategic Threats and Ambassador for Counter-Terrorism in the Foreign and Commonwealth Office.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Counter-Terrorism"
+              },
+              {
+                "type": "internal",
+                "page": "Foreign and Commonwealth Office"
+              }
+            ]
+          },
+          {
+            "text": "From 2006 to 2010 he was Ambassador in Abu Dhabi (United Arab Emirates).",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Abu Dhabi"
+              },
+              {
+                "type": "internal",
+                "page": "United Arab Emirates"
+              }
+            ]
+          },
+          {
+            "text": "From 2010 to 2012 he was Managing Director of a Sector Group of UK Trade & Investment.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "UK Trade & Investment"
+              }
+            ]
+          },
+          {
+            "text": "From 2012 to 2013 he was Managing Director of UK Trade & Investment.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "UK Trade & Investment"
+              }
+            ]
+          },
+          {
+            "text": "From 2013 to 2015 he was Director of the department Middle East, with responsibility for Persian Gulf countries, Iraq and Iran. in the Foreign and Commonwealth Office.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Middle East"
+              },
+              {
+                "text": "Persian Gulf countries",
+                "type": "internal",
+                "page": "Arab states of the Persian Gulf"
+              },
+              {
+                "type": "internal",
+                "page": "Iraq"
+              },
+              {
+                "type": "internal",
+                "page": "Iran"
+              },
+              {
+                "type": "internal",
+                "page": "Foreign and Commonwealth Office"
+              }
+            ]
+          },
+          {
+            "text": "On 2015-02-23 he was appointed ambassador to Amman, where he is accredited since 2015-04.",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Amman"
+              }
+            ]
+          }
+        ]
+      ],
+      "references": [
+        {
+          "url": "https://www.gov.uk/government/people/edward-oakden",
+          "title": "British Ambassador for Jordan: Edward Oakden CMG",
+          "work": "British Government",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.telegraph.co.uk/finance/middle-east-congress/speakers/11108524/Edward-Oakden.html",
+          "title": "Edward Oakden: Director of Middle East British Foreign Office",
+          "newspaper": "The Daily Telegraph",
+          "date": "19 September 2014",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Personal life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "He is married to Dr Florence Eid and has three daughters."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "authority control"
+        }
+      ]
+    }
+  ]
+}

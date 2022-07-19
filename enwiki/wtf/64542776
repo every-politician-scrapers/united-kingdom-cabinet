@@ -1,0 +1,89 @@
+{
+  "title": "Catherine Evans",
+  "pageID": 64542776,
+  "categories": [
+    "Ambassadors of the United Kingdom to Mali",
+    "Ambassadors of the United Kingdom to Niger",
+    "Year of birth missing (living people)",
+    "Living people",
+    "British women ambassadors",
+    "21st-century British diplomats"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "See Kathryn Evans for the British stage actress, singer and dancer, or Kathryn Evans (swimmer) (born 5 August 1981) for the English former competitive swimmer who represented Great Britain in the Olympic Games."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Catherine Angela \"Cat\" Evans was the British Ambassador to Mali, also accredited to Niger from 2018 until 2020 when she was replaced by Catherine Inglehearn.",
+              "links": [
+                {
+                  "text": "British Ambassador to Mali",
+                  "type": "internal",
+                  "page": "List of ambassadors of the United Kingdom to Mali"
+                },
+                {
+                  "type": "internal",
+                  "page": "Catherine Inglehearn"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Catherine Angela",
+                  "Cat",
+                  "Evans"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "British diplomat",
+          "template": "short description"
+        },
+        {
+          "date": "April 2022",
+          "template": "use dmy dates"
+        }
+      ],
+      "references": [
+        {
+          "title": "Change of Her Majesty’s Ambassador to Mali in April 2018",
+          "url": "https://www.gov.uk/government/news/change-of-her-majestys-ambassador-to-mali-in-april-2018",
+          "website": "GOV.UK",
+          "accessdate": "14 July 2020",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Change of Her Majesty’s Ambassador to the Republic of Niger: March 2020",
+          "url": "https://www.gov.uk/government/news/fco-press-release-change-of-her-majestys-ambassador-to-the-republic-of-niger-march-2020",
+          "website": "GOV.UK",
+          "accessdate": "10 August 2020",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "uk-diplomat-stub"
+        }
+      ]
+    }
+  ]
+}

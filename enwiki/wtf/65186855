@@ -1,0 +1,159 @@
+{
+  "title": "Bernhard Garside",
+  "pageID": 65186855,
+  "categories": [
+    "Living people",
+    "1962 births",
+    "21st-century British diplomats",
+    "Ambassadors of the United Kingdom to El Salvador",
+    "Alumni of the University of Glasgow",
+    "Officers of the Order of the British Empire"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Bernhard Herbert Garside (born 21 January 1962) is a British diplomat who served as Ambassador to El Salvador from 2015 to 2019.",
+              "links": [
+                {
+                  "text": "Ambassador to El Salvador",
+                  "type": "internal",
+                  "page": "List of ambassadors of the United Kingdom to El Salvador"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Bernhard Herbert Garside"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "file": "File:Bernhard_Garside.jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Bernhard_Garside.jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Bernhard_Garside.jpg",
+          "caption": "Garside, 2015",
+          "links": []
+        }
+      ],
+      "templates": [
+        {
+          "description": "British diplomat",
+          "template": "short description"
+        },
+        {
+          "date": "April 2022",
+          "template": "use dmy dates"
+        },
+        {
+          "country": "GBR",
+          "size": "100%",
+          "list": [
+            "OBE"
+          ],
+          "template": "postnominals"
+        }
+      ],
+      "references": [
+        {
+          "title": "Bernhard Garside",
+          "url": "https://www.gov.uk/government/people/bernhard-garside",
+          "access-date": "2020-09-01",
+          "website": "GOV.UK",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Garside attended the University of Glasgow.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "University of Glasgow"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He was appointed Officer of the Order of the British Empire (OBE) in the 2020 Birthday Honours for services to British foreign policy.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Officer of the Order of the British Empire"
+                },
+                {
+                  "text": "2020 Birthday Honours",
+                  "type": "internal",
+                  "page": "2020 Birthday Honours"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "uk-diplomat-stub"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Twitter",
+            "links": [
+              {
+                "text": "Twitter",
+                "type": "external",
+                "site": "https://twitter.com/hmagarside?lang=en"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}

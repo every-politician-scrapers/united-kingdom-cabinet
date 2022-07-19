@@ -1,0 +1,874 @@
+{
+  "title": "George Hollingbery",
+  "pageID": 27285207,
+  "categories": [
+    "1963 births",
+    "Living people",
+    "Conservative Party (UK) MPs for English constituencies",
+    "UK MPs 2010–2015",
+    "UK MPs 2015–2017",
+    "UK MPs 2017–2019",
+    "Parliamentary Private Secretaries to the Prime Minister",
+    "People educated at Radley College",
+    "Alumni of Lady Margaret Hall, Oxford",
+    "Councillors in Hampshire",
+    "Knights Commander of the Order of St Michael and St George",
+    "Wharton School of the University of Pennsylvania alumni"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Sir George Michael Edward Hollingbery (born 12 October 1963) is a British Conservative Party politician who served as Member of Parliament (MP) for Meon Valley from 2010 to 2019.",
+              "links": [
+                {
+                  "text": "Conservative Party",
+                  "type": "internal",
+                  "page": "Conservative Party (UK)"
+                },
+                {
+                  "text": "Member of Parliament",
+                  "type": "internal",
+                  "page": "Member of Parliament (United Kingdom)"
+                },
+                {
+                  "text": "Meon Valley",
+                  "type": "internal",
+                  "page": "Meon Valley (UK Parliament constituency)"
+                },
+                {
+                  "text": "2010",
+                  "type": "internal",
+                  "page": "2010 United Kingdom general election"
+                },
+                {
+                  "text": "2019",
+                  "type": "internal",
+                  "page": "2019 United Kingdom general election"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Sir George Michael Edward Hollingbery"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "British Conservative politician",
+          "template": "short description"
+        },
+        {
+          "date": "November 2019",
+          "template": "use dmy dates"
+        },
+        {
+          "date": "November 2019",
+          "template": "use british english"
+        },
+        {
+          "country": "GBR",
+          "size": "100%",
+          "list": [
+            "KCMG"
+          ],
+          "template": "post-nominals"
+        },
+        {
+          "df": "yes",
+          "year": "1963",
+          "month": "10",
+          "day": "12",
+          "template": "birth date and age"
+        },
+        {
+          "country": "GBR",
+          "list": [
+            "KCMG"
+          ],
+          "template": "post-nominals"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific-prefix": {
+            "text": "Sir",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sir"
+              }
+            ]
+          },
+          "name": {
+            "text": "George Hollingbery"
+          },
+          "image": {
+            "text": "Official portrait of George Hollingbery crop 2.jpg"
+          },
+          "caption": {
+            "text": "Official portrait, 2017"
+          },
+          "office": {
+            "text": "British Ambassador to Cuba",
+            "links": [
+              {
+                "text": "British Ambassador to Cuba",
+                "type": "internal",
+                "page": "List of ambassadors of the United Kingdom to Cuba"
+              }
+            ]
+          },
+          "status": {
+            "text": "Designate",
+            "links": [
+              {
+                "text": "Designate",
+                "type": "internal",
+                "page": "Designation (law)"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "2022",
+            "number": 2022
+          },
+          "succeeding": {
+            "text": "Antony Stokes",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Antony Stokes"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Minister of State for Trade Policy",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Minister of State for Trade Policy"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "21 June 2018"
+          },
+          "term_end1": {
+            "text": "25 July 2019"
+          },
+          "primeminister1": {
+            "text": "Theresa May",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Theresa May"
+              }
+            ]
+          },
+          "predecessor1": {
+            "text": "Greg Hands",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Greg Hands"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Conor Burns",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Conor Burns"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Lord Commissioner of HM Treasury",
+            "links": [
+              {
+                "text": "Lord Commissioner of HM Treasury",
+                "type": "internal",
+                "page": "Lords Commissioners of the Treasury"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "13 May 2015"
+          },
+          "term_end2": {
+            "text": "17 July 2016"
+          },
+          "primeminister2": {
+            "text": "David Cameron",
+            "links": [
+              {
+                "type": "internal",
+                "page": "David Cameron"
+              }
+            ]
+          },
+          "predecessor2": {
+            "text": "Gavin Barwell",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Gavin Barwell"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Steve Barclay",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Steve Barclay"
+              }
+            ]
+          },
+          "office4": {
+            "text": "Member of Parliament for Meon Valley",
+            "links": [
+              {
+                "text": "Member of Parliament",
+                "type": "internal",
+                "page": "Member of Parliament (United Kingdom)"
+              },
+              {
+                "text": "Meon Valley",
+                "type": "internal",
+                "page": "Meon Valley (UK Parliament constituency)"
+              }
+            ]
+          },
+          "predecessor4": {
+            "text": "Constituency created",
+            "formatting": {
+              "italic": [
+                "Constituency created"
+              ]
+            }
+          },
+          "successor4": {
+            "text": "Flick Drummond",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Flick Drummond"
+              }
+            ]
+          },
+          "term_start4": {
+            "text": "6 May 2010"
+          },
+          "term_end4": {
+            "text": "6 November 2019"
+          },
+          "birth_date": {
+            "text": "October 12, 1963"
+          },
+          "birth_place": {
+            "text": "Beverley, East Riding of Yorkshire, England",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Beverley"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Lady Margaret Hall, Oxford\nWharton School, University of Pennsylvania",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Lady Margaret Hall, Oxford"
+              },
+              {
+                "type": "internal",
+                "page": "Wharton School, University of Pennsylvania"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Janette Hollingbery"
+          },
+          "party": {
+            "text": "Conservative",
+            "links": [
+              {
+                "text": "Conservative",
+                "type": "internal",
+                "page": "Conservative Party (UK)"
+              }
+            ]
+          },
+          "website": {
+            "text": "www.georgehollingbery.com"
+          },
+          "children": {
+            "text": "3",
+            "number": 3
+          }
+        }
+      ]
+    },
+    {
+      "title": "Early life and business career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "George Michael Edward Hollingbery was born on 12 October 1963."
+            },
+            {
+              "text": "He was educated at Radley College before studying at Lady Margaret Hall, Oxford for a BA in human sciences which he was awarded by the University of Oxford in 1985.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Radley College"
+                },
+                {
+                  "type": "internal",
+                  "page": "Lady Margaret Hall, Oxford"
+                },
+                {
+                  "text": "BA",
+                  "type": "internal",
+                  "page": "Bachelor of Arts"
+                },
+                {
+                  "text": "human sciences",
+                  "type": "internal",
+                  "page": "human sciences"
+                },
+                {
+                  "type": "internal",
+                  "page": "University of Oxford"
+                }
+              ]
+            },
+            {
+              "text": "He then gained an MBA from the Wharton School, University of Pennsylvania, US.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "MBA"
+                },
+                {
+                  "type": "internal",
+                  "page": "Wharton School"
+                },
+                {
+                  "type": "internal",
+                  "page": "University of Pennsylvania"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Hollingbery's earlier career was spent investing in and starting up businesses, the best known of which was veterinary chain Companion Care, sold to Pets at Home in 2002.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Pets at Home"
+                }
+              ]
+            },
+            {
+              "text": "In 2005, he began a property investment business, run from his Alresford home.",
+              "links": [
+                {
+                  "text": "Alresford",
+                  "type": "internal",
+                  "page": "New Alresford"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Hollingbery was elected to Winchester City Council in 1999, becoming deputy leader in 2006.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Winchester City Council"
+                }
+              ]
+            },
+            {
+              "text": "Hollingbery stood in Winchester in the 2005 general election, having managed the previous candidate's campaign in 2001, but was defeated by Liberal Democrat Mark Oaten.",
+              "links": [
+                {
+                  "text": "Winchester",
+                  "type": "internal",
+                  "page": "Winchester (UK Parliament constituency)"
+                },
+                {
+                  "text": "2005 general election",
+                  "type": "internal",
+                  "page": "2005 United Kingdom general election"
+                },
+                {
+                  "text": "Liberal Democrat",
+                  "type": "internal",
+                  "page": "Liberal Democrats (UK)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Mark Oaten"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "url": "http://news.bbc.co.uk/democracylive/hi/representatives/profiles/35515.stm",
+          "title": "George Hollingbery MP",
+          "publisher": "BBC",
+          "work": "BBC Democracy Live",
+          "access-date": "25 July 2010",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.lmh.ox.ac.uk/Alumni/Prominent-alumni.aspx",
+          "title": "LMH, Oxford – Prominent Alumni",
+          "access-date": "20 May 2015",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://ukpolitics.telegraph.co.uk/Meon+Valley/George+Hollingbery",
+          "title": "Profile – George Hollingbery",
+          "work": "telegraph.co.uk",
+          "access-date": "7 May 2010",
+          "url-status": "dead",
+          "archive-url": "https://web.archive.org/web/20100509162333/http://ukpolitics.telegraph.co.uk/Meon+Valley/George+Hollingbery",
+          "archive-date": "9 May 2010",
+          "df": "dmy",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "George Hollingbery",
+          "url": "http://www.conservatives.com/People/Members_of_Parliament/Hollingbery_George.aspx",
+          "access-date": "21 November 2013",
+          "work": "Conservative Party website",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Parliamentary career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "In the 2010 general election, Hollingbery contested the new constituency of Meon Valley in Hampshire, created as a result of boundary changes.",
+              "links": [
+                {
+                  "text": "2010 general election",
+                  "type": "internal",
+                  "page": "2010 United Kingdom general election"
+                },
+                {
+                  "text": "Meon Valley",
+                  "type": "internal",
+                  "page": "Meon Valley (UK Parliament constituency)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Hampshire"
+                },
+                {
+                  "text": "boundary changes",
+                  "type": "internal",
+                  "page": "Boundary Commission for England"
+                }
+              ]
+            },
+            {
+              "text": "He was elected with a majority of 12,125."
+            },
+            {
+              "text": "He was re-elected in 2015 and 2017 with majorities of 23,913 and 25,692 respectively.",
+              "links": [
+                {
+                  "text": "2015",
+                  "type": "internal",
+                  "page": "2015 United Kingdom general election"
+                },
+                {
+                  "text": "2017",
+                  "type": "internal",
+                  "page": "2017 United Kingdom general election"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Hollingbery subsequently served on the Speaker's Advisory Committee on Works of Art and the Communities and Local Government Committee.",
+              "links": [
+                {
+                  "text": "Communities and Local Government Committee",
+                  "type": "internal",
+                  "page": "Housing, Communities and Local Government Committee"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In parliament, Hollingbery was a close ally of Maidenhead MP Theresa May.",
+              "links": [
+                {
+                  "text": "Maidenhead",
+                  "type": "internal",
+                  "page": "Maidenhead (UK Parliament constituency)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Theresa May"
+                }
+              ]
+            },
+            {
+              "text": "He supported her candidature in the 2016 Conservative Party leadership election.",
+              "links": [
+                {
+                  "text": "2016 Conservative Party leadership election",
+                  "type": "internal",
+                  "page": "2016 Conservative Party (UK) leadership election"
+                }
+              ]
+            },
+            {
+              "text": "He also served twice as her Parliamentary Private Secretary, first in her role as Home Secretary from 2012 to 2015 and then as Prime Minister from 2016 to 2018.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Parliamentary Private Secretary"
+                },
+                {
+                  "type": "internal",
+                  "page": "Home Secretary"
+                },
+                {
+                  "text": "Prime Minister",
+                  "type": "internal",
+                  "page": "Prime Minister of the United Kingdom"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Hollingbery was interviewed for the 2017 documentary Theresa vs. Boris: How May Became PM, in which he was also portrayed by Daniel Casey in dramatisations.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Daniel Casey"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "Theresa vs. Boris: How May Became PM"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Hollingbery was appointed a Knight Commander of the Order of St Michael and St George (KCMG) in Theresa May's resignation honours on 10 September 2019.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Knight Commander of the Order of St Michael and St George"
+                },
+                {
+                  "text": "Theresa May's resignation honours",
+                  "type": "internal",
+                  "page": "2019 Prime Minister's Resignation Honours"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On 7 November 2019, Hollingbery announced he would not contest the 2019 general election.",
+              "links": [
+                {
+                  "text": "2019 general election",
+                  "type": "internal",
+                  "page": "2019 United Kingdom general election"
+                }
+              ]
+            },
+            {
+              "text": "He added he supported Boris Johnson's Brexit deal but wanted to pursue career opportunities outside parliament.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Boris Johnson"
+                },
+                {
+                  "type": "internal",
+                  "page": "Brexit"
+                }
+              ]
+            },
+            {
+              "text": "He was succeeded as MP for Meon Valley by Flick Drummond.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Flick Drummond"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.newstatesman.com/politics/uk/2018/06/appointing-george-hollingbery-proves-theresa-may-has-zero-political-imagination",
+          "title": "Appointing George Hollingbery proves Theresa May has zero political imagination",
+          "website": "www.newstatesman.com",
+          "language": "en",
+          "access-date": "2019-07-26",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Theresa vs. Boris: How May Became PM",
+          "url": "http://www.imdb.com/title/tt7036310/",
+          "access-date": "2019-07-26",
+          "template": "citation",
+          "type": "citation"
+        },
+        {
+          "title": "Resignation Honours 2019",
+          "url": "https://www.gov.uk/government/publications/resignation-honours-2019",
+          "website": "GOV.UK",
+          "access-date": "10 September 2019",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "url": "https://www.dailyecho.co.uk/news/18021511.sir-george-hollingbery-stand-mp-meon-valley/",
+          "title": "UPDATED: Sir George Hollingbery to stand down as Conservative candidate for MeonValley",
+          "website": "Daily Echo",
+          "language": "en",
+          "access-date": "2019-11-09",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Meon Valley parliamentary constituency",
+          "language": "en-GB",
+          "work": "BBC News",
+          "url": "https://www.bbc.com/news/politics/constituencies/E14000811",
+          "access-date": "2020-10-27",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://www.dailyecho.co.uk/news/elections/general_election_2010/news/8152907.Conservatives_win_Meon_Valley/",
+          "title": "Election 2010: Meon Valley",
+          "work": "Southern Daily Echo",
+          "access-date": "7 May 2010",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://www.parliament.uk/biographies/commons/george-hollingbery/4016",
+          "title": "George Hollingbery",
+          "website": "UK Parliament",
+          "access-date": "27 March 2015",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.georgehollingbery.com/about-george",
+          "title": "About George",
+          "website": "George Hollingbery MP",
+          "language": "en",
+          "access-date": "2019-07-26",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Ambassador to Cuba",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "In January 2021 it was announced that Hollingbery would be appointed as Her Majesty's Ambassador to the Republic of Cuba with effect from early 2022.",
+              "links": [
+                {
+                  "text": "Ambassador to the Republic of Cuba",
+                  "type": "internal",
+                  "page": "List of ambassadors of the United Kingdom to Cuba"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "Change of Her Majesty’s Ambassador to Cuba: Sir George Hollingbery KCMG",
+          "url": "https://www.gov.uk/government/news/change-of-her-majestys-ambassador-to-cuba-sir-george-hollingbery-kcmg",
+          "access-date": "22 January 2021",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Personal life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Hollingbery is married to Janette, originally from America."
+            },
+            {
+              "text": "They have three children together."
+            },
+            {
+              "text": "A horticulture hobbyist, his garden has been featured on the television programme Gardeners' World.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Gardeners' World"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "Gardeners' World"
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "parliament": "george-hollingbery/4016",
+          "publicwhip": "george_hollingbery",
+          "theywork": "george_hollingbery",
+          "template": "uk mp links"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "list": [
+            "uk"
+          ],
+          "template": "s-par"
+        },
+        {
+          "list": [
+            "constituency"
+          ],
+          "template": "s-new"
+        },
+        {
+          "title": "Member of Parliament for Meon Valley",
+          "years": "2010–2019",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Flick Drummond",
+          "template": "s-aft"
+        },
+        {
+          "state": "autocollapse",
+          "template": "parliamentary private secretaries to the prime minister"
+        },
+        {
+          "template": "authority control"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Official website",
+            "links": [
+              {
+                "text": "Official website",
+                "type": "external",
+                "site": "http://www.georgehollingbery.com/"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}

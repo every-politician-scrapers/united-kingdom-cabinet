@@ -1,0 +1,229 @@
+{
+  "title": "Kate Airey",
+  "pageID": 65359924,
+  "categories": [
+    "Living people",
+    "High Commissioners of the United Kingdom to Uganda",
+    "High Commissioners of the United Kingdom to Namibia",
+    "Year of birth missing (living people)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Kate Airey OBE is a British diplomat serving as the British High Commissioner to Uganda since December 2020.",
+              "links": [
+                {
+                  "text": "OBE",
+                  "type": "internal",
+                  "page": "Order of the British Empire"
+                },
+                {
+                  "text": "British High Commissioner",
+                  "type": "internal",
+                  "page": "HM Diplomatic Service"
+                },
+                {
+                  "type": "internal",
+                  "page": "Uganda"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Kate Airey"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Airey joined the Foreign, Commonwealth & Development Office in 2005, where her career has focused on Africa, including roles in London as Africa Energy Adviser, Lead on Strategy, and Lead on Prosperity (2005-2014)."
+            },
+            {
+              "text": "She has held postings overseas in Abuja, Nigeria (2007-2010) and Freetown, Sierra Leone (2014)."
+            },
+            {
+              "text": "Kate also led the 2014/2015 Ebola crisis both in Freetown as Deputy Head of the UK response and in London as Head of the FCDO Ebola Task Force, coordinating the UK end of the Foreign Policy response."
+            },
+            {
+              "text": "Before moving onto Namibia, Kate was Head of the Nigeria Whitehall Unit."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Prior to joining the Foreign and Commonwealth Office in 2005, she worked at Oxfam and Shell International in Africa and Europe.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Foreign and Commonwealth Office"
+                },
+                {
+                  "type": "internal",
+                  "page": "Oxfam"
+                },
+                {
+                  "text": "Shell International",
+                  "type": "internal",
+                  "page": "Royal Dutch Shell"
+                },
+                {
+                  "type": "internal",
+                  "page": "Africa"
+                },
+                {
+                  "type": "internal",
+                  "page": "Europe"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "British High Commissioner to Namibia",
+          "template": "short description"
+        },
+        {
+          "date": "April 2022",
+          "template": "use dmy dates"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Kate Airey"
+          },
+          "honorific-suffix": {
+            "text": "OBE",
+            "links": [
+              {
+                "text": "OBE",
+                "type": "internal",
+                "page": "Order of the British Empire"
+              }
+            ]
+          },
+          "office": {
+            "text": "British High Commissioner to Uganda",
+            "links": [
+              {
+                "text": "British High Commissioner to Uganda",
+                "type": "internal",
+                "page": "List of High Commissioners of the United Kingdom to Uganda"
+              }
+            ]
+          },
+          "monarch": {
+            "text": "Elizabeth II",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Elizabeth II"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Boris Johnson",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Boris Johnson"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "December 2020"
+          },
+          "predecessor": {
+            "text": "Peter West"
+          },
+          "office1": {
+            "text": "British High Commissioner to Namibia",
+            "links": [
+              {
+                "text": "British High Commissioner to Namibia",
+                "type": "internal",
+                "page": "List of High Commissioners of the United Kingdom to Namibia"
+              }
+            ]
+          },
+          "monarch1": {
+            "text": "Elizabeth II",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Elizabeth II"
+              }
+            ]
+          },
+          "primeminister1": {
+            "text": "Theresa May\nBoris Johnson",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Theresa May"
+              },
+              {
+                "type": "internal",
+                "page": "Boris Johnson"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "January 2018"
+          },
+          "term_end1": {
+            "text": "December 2020"
+          },
+          "predecessor1": {
+            "text": "Joanne Lomas"
+          },
+          "spouse": {
+            "text": "Duncan Low"
+          },
+          "children": {
+            "text": "2",
+            "number": 2
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.gov.uk/government/people/kate-airey",
+          "title": "Kate Airey OBE",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.gov.uk/government/people/kate-airey",
+          "title": "People - Kate Airey",
+          "publisher": "HM Government",
+          "access-date": "19 September 2020",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "uk-diplomat-stub"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,645 @@
+{
+  "title": "Simon Smith (diplomat)",
+  "pageID": 31097419,
+  "categories": [
+    "1958 births",
+    "Living people",
+    "People educated at Clifton College",
+    "Alumni of Wadham College, Oxford",
+    "Ambassadors of the United Kingdom to Austria",
+    "Permanent Representatives of the United Kingdom to the United Nations",
+    "Ambassadors of the United Kingdom to Ukraine",
+    "Ambassadors of the United Kingdom to South Korea",
+    "Companions of the Order of St Michael and St George"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Simon John Meredith Smith (born 14 January 1958) is a British diplomat, most recently the ambassador (now retired) to the Republic of Korea (South Korea).",
+              "links": [
+                {
+                  "text": "British diplomat",
+                  "type": "internal",
+                  "page": "United Kingdom"
+                },
+                {
+                  "type": "internal",
+                  "page": "Republic of Korea"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Simon John Meredith Smith"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "British diplomat",
+          "template": "short description"
+        },
+        {
+          "date": "September 2015",
+          "template": "use dmy dates"
+        },
+        {
+          "date": "September 2015",
+          "template": "use british english"
+        },
+        {
+          "country": "GBR",
+          "size": "100%",
+          "list": [
+            "CMG"
+          ],
+          "template": "post-nominals"
+        },
+        {
+          "df": "y",
+          "year": "1958",
+          "month": "1",
+          "day": "14",
+          "template": "birth date and age"
+        },
+        {
+          "country": "GBR",
+          "size": "100%",
+          "list": [
+            "CMG"
+          ],
+          "template": "post-nominals"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific-prefix": {
+            "text": "His Excellency",
+            "links": [
+              {
+                "text": "His Excellency",
+                "type": "internal",
+                "page": "Excellency"
+              }
+            ]
+          },
+          "name": {
+            "text": "Simon Smith"
+          },
+          "image": {
+            "text": "S960 PHOTO S Smith.jpg"
+          },
+          "office": {
+            "text": "British Ambassador to South Korea",
+            "links": [
+              {
+                "text": "British Ambassador to South Korea",
+                "type": "internal",
+                "page": "List of ambassadors of the United Kingdom to South Korea"
+              }
+            ]
+          },
+          "monarch": {
+            "text": "Elizabeth II",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Elizabeth II"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Theresa May\nBoris Johnson",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Theresa May"
+              },
+              {
+                "type": "internal",
+                "page": "Boris Johnson"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "March 2018"
+          },
+          "term_end": {
+            "text": "2022",
+            "number": 2022
+          },
+          "predecessor": {
+            "text": "Charles Hay",
+            "links": [
+              {
+                "text": "Charles Hay",
+                "type": "internal",
+                "page": "Charles Hay (diplomat)"
+              }
+            ]
+          },
+          "successor": {
+            "text": "Colin Crooks",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Colin Crooks"
+              }
+            ]
+          },
+          "office2": {
+            "text": "British Ambassador to Ukraine",
+            "links": [
+              {
+                "text": "British Ambassador to Ukraine",
+                "type": "internal",
+                "page": "List of ambassadors of the United Kingdom to Ukraine"
+              }
+            ]
+          },
+          "monarch2": {
+            "text": "Elizabeth II",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Elizabeth II"
+              }
+            ]
+          },
+          "primeminister2": {
+            "text": "David Cameron",
+            "links": [
+              {
+                "type": "internal",
+                "page": "David Cameron"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "2012",
+            "number": 2012
+          },
+          "term_end2": {
+            "text": "2015",
+            "number": 2015
+          },
+          "predecessor2": {
+            "text": "Leigh Turner",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Leigh Turner"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Judith Gough",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Judith Gough"
+              }
+            ]
+          },
+          "office3": {
+            "text": "British Ambassador to Austria",
+            "links": [
+              {
+                "text": "British Ambassador to Austria",
+                "type": "internal",
+                "page": "List of ambassadors of the United Kingdom to Austria"
+              }
+            ]
+          },
+          "monarch3": {
+            "text": "Elizabeth II",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Elizabeth II"
+              }
+            ]
+          },
+          "primeminister3": {
+            "text": "Gordon Brown\nDavid Cameron",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Gordon Brown"
+              },
+              {
+                "type": "internal",
+                "page": "David Cameron"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "2007",
+            "number": 2007
+          },
+          "term_end3": {
+            "text": "2012",
+            "number": 2012
+          },
+          "predecessor3": {
+            "text": "John Macgregor",
+            "links": [
+              {
+                "text": "John Macgregor",
+                "type": "internal",
+                "page": "John Malcolm Macgregor"
+              }
+            ]
+          },
+          "successor3": {
+            "text": "Susan le Jeune d'Allegeershecque",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Susan le Jeune d'Allegeershecque"
+              }
+            ]
+          },
+          "birth_name": {
+            "text": "Simon John Meredith Smith"
+          },
+          "birth_date": {
+            "text": "January 14, 1958"
+          },
+          "birth_place": {
+            "text": "Wegberg, Germany",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Wegberg"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "British"
+          },
+          "education": {
+            "text": "Clifton College",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Clifton College"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Wadham College, Oxford",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Wadham College, Oxford"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Sian Stickings"
+          },
+          "children": {
+            "text": "2 daughters"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Early life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Smith attended the Triple C School in Grand Cayman, then Clifton College.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Grand Cayman"
+                },
+                {
+                  "type": "internal",
+                  "page": "Clifton College"
+                }
+              ]
+            },
+            {
+              "text": "From Wadham College, Oxford, he gained a BA in Modern Languages in 1980.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Wadham College, Oxford"
+                },
+                {
+                  "text": "BA",
+                  "type": "internal",
+                  "page": "Bachelor of Arts"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "From 1981 to 1986 Smith worked at the Department of Employment.",
+              "links": [
+                {
+                  "text": "Department of Employment",
+                  "type": "internal",
+                  "page": "Secretary of State for Employment"
+                }
+              ]
+            },
+            {
+              "text": "He joined Her Majesty's Diplomatic Service in 1986 and has held positions in London, Tokyo, and as Counsellor (Economic/Commercial) in Moscow 1998–2002.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Her Majesty's Diplomatic Service"
+                },
+                {
+                  "type": "internal",
+                  "page": "London"
+                },
+                {
+                  "type": "internal",
+                  "page": "Tokyo"
+                },
+                {
+                  "type": "internal",
+                  "page": "Moscow"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ambassador",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "From 2007 to 2012 Smith served as Ambassador to Austria, based in Vienna, and as the UK's representative to many UN and international organisations in Vienna, including as the UK's Governor on the Board of the International Atomic Energy Agency.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Austria"
+                },
+                {
+                  "type": "internal",
+                  "page": "Vienna"
+                },
+                {
+                  "text": "UN",
+                  "type": "internal",
+                  "page": "United Nations Office at Vienna"
+                },
+                {
+                  "type": "internal",
+                  "page": "International Atomic Energy Agency"
+                }
+              ]
+            },
+            {
+              "text": "His transfer to Kyiv as Ambassador to Ukraine was announced on 13 October 2011 and he took up the appointment in 2012.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Kyiv"
+                },
+                {
+                  "type": "internal",
+                  "page": "Ukraine"
+                }
+              ]
+            },
+            {
+              "text": "He was replaced in 2015."
+            },
+            {
+              "text": "After a brief spell in London and Korean language training, he was appointed Ambassador to South Korea and took up the post in March 2018."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "url": "http://english.chosun.com/site/data/html_dir/2018/03/22/2018032201541.html",
+          "title": "New U.K. Ambassador No Stranger to Korea",
+          "date": "22 March 2018",
+          "newspaper": "The Chosun Ilbo",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://www.fco.gov.uk/en/news/latest-news/?id=669483282&view=PressR",
+          "title": "Change of Her Majesty's Ambassador to Ukraine",
+          "publisher": "Foreign & Commonwealth Office",
+          "work": "press release",
+          "date": "13 October 2011",
+          "archiveurl": "https://web.archive.org/web/20111015223526/http://www.fco.gov.uk/en/news/latest-news/?id=669483282&view=PressR",
+          "archivedate": "15 October 2011",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.gov.uk/government/news/change-of-her-majestys-ambassador-to-the-republic-of-korea--2",
+          "title": "Change of Her Majesty'’s Ambassador to the Republic of Korea",
+          "publisher": "Foreign & Commonwealth Office",
+          "date": "3 February 2017",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Personal life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Smith married Sian Stickings in 1984."
+            },
+            {
+              "text": "She was appointed MBE \"for services to the local and British communities in Russia\" in the 2003 New Year Honours, following Smith's service in Moscow.",
+              "links": [
+                {
+                  "text": "MBE",
+                  "type": "internal",
+                  "page": "Member of the Order of the British Empire"
+                },
+                {
+                  "text": "2003 New Year Honours",
+                  "type": "internal",
+                  "page": "2003 New Year Honours"
+                }
+              ]
+            },
+            {
+              "text": "They have two daughters."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "date": "January 2022",
+          "template": "cn"
+        },
+        {
+          "template": "commonscat"
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "refbegin"
+        },
+        {
+          "template": "refend"
+        },
+        {
+          "template": "reflist"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "SMITH, Simon John Meredith, Who's Who 2012, A & C Black, 2012; online edn, Oxford University Press, Dec 2011, accessed 27 Aug 2012",
+            "links": [
+              {
+                "text": "SMITH, Simon John Meredith",
+                "type": "external",
+                "site": "http://www.ukwhoswho.com/view/article/oupww/whoswho/U4000276"
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "title": "Video clips",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-dip"
+        },
+        {
+          "before": "John Macgregor",
+          "template": "s-bef"
+        },
+        {
+          "title": "British Ambassador to Austria",
+          "years": "2007–2012",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Susan le Jeune d'Allegeershecque",
+          "template": "s-aft"
+        },
+        {
+          "before": "Leigh Turner",
+          "template": "s-bef"
+        },
+        {
+          "title": "British Ambassador to Ukraine",
+          "years": "2012–2015",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Judith Gough",
+          "template": "s-aft"
+        },
+        {
+          "before": "Charles Hay",
+          "template": "s-bef"
+        },
+        {
+          "title": "British Ambassador to South Korea",
+          "years": "2018–2022",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Colin Crooks",
+          "template": "s-aft"
+        },
+        {
+          "template": "authority control"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "IAEA in September 2010",
+            "links": [
+              {
+                "text": "IAEA in September 2010",
+                "type": "external",
+                "site": "https://www.youtube.com/watch?v=QD4PtlLFa_4"
+              }
+            ]
+          },
+          {
+            "text": "Green roof on the embassy in June 2010",
+            "links": [
+              {
+                "text": "Green roof on the embassy in June 2010",
+                "type": "external",
+                "site": "https://www.youtube.com/watch?v=dlznKZYMObA"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}

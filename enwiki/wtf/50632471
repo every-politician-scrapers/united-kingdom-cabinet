@@ -1,0 +1,353 @@
+{
+  "title": "Alastair Morgan",
+  "pageID": 50632471,
+  "categories": [
+    "1958 births",
+    "Living people",
+    "People educated at Sherborne School",
+    "Alumni of Trinity College, Cambridge",
+    "Ambassadors of the United Kingdom to North Korea",
+    "Consuls-General of the United Kingdom in Guangzhou",
+    "People from Camberley",
+    "Companions of the Order of St Michael and St George"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Alastair William James Morgan (born 28 May 1958) is the former United Kingdom ambassador to the Democratic People's Republic of Korea.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "United Kingdom"
+                },
+                {
+                  "type": "internal",
+                  "page": "Democratic People's Republic of Korea"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Alastair William James Morgan"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In his diplomatic career, he served mainly in East Asia especially in China and Japan; namely, First Secretary in Tokyo from 1991 to 1996, Director of Investment in Tokyo from 2002 to 2006, Commercial Counsellor in Beijing from 2007 to 2010, and as Consul-General in Guangzhou from 2010 to 2014.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "East Asia"
+                },
+                {
+                  "type": "internal",
+                  "page": "China"
+                },
+                {
+                  "type": "internal",
+                  "page": "Japan"
+                },
+                {
+                  "text": "First Secretary",
+                  "type": "internal",
+                  "page": "First Secretary (diplomatic rank)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Tokyo"
+                },
+                {
+                  "type": "internal",
+                  "page": "Beijing"
+                },
+                {
+                  "type": "internal",
+                  "page": "Consul-General"
+                },
+                {
+                  "type": "internal",
+                  "page": "Guangzhou"
+                }
+              ]
+            },
+            {
+              "text": "He then served as the British ambassador to North Korea from December 2015 to December 2018, after which he was replaced by Colin Crooks.",
+              "links": [
+                {
+                  "text": "British ambassador to North Korea",
+                  "type": "internal",
+                  "page": "List of ambassadors of the United Kingdom to North Korea"
+                },
+                {
+                  "type": "internal",
+                  "page": "Colin Crooks"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Morgan was appointed a Companion of the Order of St Michael and St George in the New Year Honours for 2019.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Companion of the Order of St Michael and St George"
+                },
+                {
+                  "text": "New Year Honours for 2019",
+                  "type": "internal",
+                  "page": "2019 New Year Honours"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "British diplomat",
+          "template": "short description"
+        },
+        {
+          "date": "May 2016",
+          "template": "use dmy dates"
+        },
+        {
+          "date": "May 2016",
+          "template": "use british english"
+        },
+        {
+          "country": "GBR",
+          "size": "100%",
+          "sep": ",",
+          "list": [
+            "CMG"
+          ],
+          "template": "post-nominals"
+        },
+        {
+          "year": "1958",
+          "month": "5",
+          "day": "28",
+          "df": "yes",
+          "template": "birth date and age"
+        },
+        {
+          "country": "GBR",
+          "size": "100%",
+          "sep": ",",
+          "list": [
+            "CMG"
+          ],
+          "template": "post-nominals"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific_prefix": {
+            "text": "His Excellency",
+            "links": [
+              {
+                "text": "His Excellency",
+                "type": "internal",
+                "page": "Excellency"
+              }
+            ]
+          },
+          "name": {
+            "text": "Alastair Morgan"
+          },
+          "office": {
+            "text": "British Ambassador to North Korea",
+            "links": [
+              {
+                "text": "British Ambassador to North Korea",
+                "type": "internal",
+                "page": "List of ambassadors of the United Kingdom to North Korea"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "December 2015"
+          },
+          "term_end": {
+            "text": "December 2018"
+          },
+          "predecessor": {
+            "text": "Michael Gifford",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Michael Gifford"
+              }
+            ]
+          },
+          "successor": {
+            "text": "Colin Crooks",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Colin Crooks"
+              }
+            ]
+          },
+          "monarch": {
+            "text": "Elizabeth II",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Elizabeth II"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "David Cameron Theresa May",
+            "links": [
+              {
+                "type": "internal",
+                "page": "David Cameron"
+              },
+              {
+                "type": "internal",
+                "page": "Theresa May"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "May 28, 1958"
+          },
+          "birth_place": {
+            "text": "Camberley, Surrey, England",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Camberley"
+              },
+              {
+                "type": "internal",
+                "page": "Surrey"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "British"
+          },
+          "occupation": {
+            "text": "Diplomat"
+          }
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "title": "British Ambassador to Democratic People's Republic of Korea: Alastair Morgan",
+          "url": "https://www.gov.uk/government/people/alastair-morgan",
+          "website": "GOV.UK",
+          "accessdate": "25 May 2016",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "url": "https://www.thegazette.co.uk/London/issue/62507/supplement/N3",
+          "title": "New Year Honours 2019",
+          "last": "HM Government",
+          "date": "2018-12-29",
+          "website": "www.thegazette.co.uk",
+          "access-date": "2018-12-29",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Change of Her Majesty’s Ambassador to the Democratic People's Republic of Korea",
+          "url": "https://www.gov.uk/government/news/change-of-her-majestys-ambassador-to-the-democratic-peoples-republic-of-korea--2",
+          "website": "GOV.UK",
+          "accessdate": "25 May 2016",
+          "date": "11 May 2015",
+          "template": "citation",
+          "type": "press release"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-dip"
+        },
+        {
+          "before": "Michael Gifford",
+          "template": "s-bef"
+        },
+        {
+          "title": "British Ambassador to North Korea",
+          "years": "2015–2018",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Colin Crooks",
+          "template": "s-aft"
+        },
+        {
+          "before": "Brian Davidson",
+          "template": "s-bef"
+        },
+        {
+          "title": "British Consul-General in Guangzhou",
+          "years": "2010–2014",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Matthew Rous",
+          "template": "s-aft"
+        },
+        {
+          "template": "uk-diplomat-stub"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Official Profile by GOV.UK",
+            "links": [
+              {
+                "text": "Official Profile by GOV.UK",
+                "type": "external",
+                "site": "https://www.gov.uk/government/people/alastair-morgan"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,248 @@
+{
+  "title": "Andrew Dalgleish (diplomat)",
+  "pageID": 65186767,
+  "categories": [
+    "1975 births",
+    "Living people",
+    "21st-century British diplomats",
+    "Ambassadors of the United Kingdom to Croatia"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Andrew Dalgleish (born 17 December 1975) is a British diplomat who has been the British Ambassador to Croatia since 2016.",
+              "links": [
+                {
+                  "text": "British Ambassador to Croatia",
+                  "type": "internal",
+                  "page": "List of ambassadors of the United Kingdom to Croatia"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Andrew Dalgleish"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "British diplomat",
+          "template": "short description"
+        },
+        {
+          "list": [
+            "Andrew Dalgleish (spy)"
+          ],
+          "template": "distinguish"
+        },
+        {
+          "date": "April 2022",
+          "template": "use dmy dates"
+        },
+        {
+          "year": "1975",
+          "month": "12",
+          "day": "17",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Andrew Dalgleish"
+          },
+          "birth_date": {
+            "text": "December 17, 1975"
+          },
+          "office": {
+            "text": "British Ambassador to Croatia",
+            "links": [
+              {
+                "text": "British Ambassador to Croatia",
+                "type": "internal",
+                "page": "List of ambassadors of the United Kingdom to Croatia"
+              }
+            ]
+          },
+          "termstart": {
+            "text": "July 2016"
+          },
+          "predecessor": {
+            "text": "Ian Cliff (Chargé d'Affaires)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ian Cliff"
+              }
+            ]
+          },
+          "monarch": {
+            "text": "Elizabeth II",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Elizabeth II"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Theresa May\nBoris Johnson",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Theresa May"
+              },
+              {
+                "type": "internal",
+                "page": "Boris Johnson"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Dalgleish joined the Department of Social Security in 1998.",
+              "links": [
+                {
+                  "text": "Department of Social Security",
+                  "type": "internal",
+                  "page": "Department of Social Security (United Kingdom)"
+                }
+              ]
+            },
+            {
+              "text": "He went on to join the Department of Environment, Food and Rural Affairs and the United Kingdom Representation to the European Union, where he worked until 2008.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Department of Environment, Food and Rural Affairs"
+                }
+              ]
+            },
+            {
+              "text": "He served as the deputy head of mission at the British Embassy Seoul from 2011 to 2015."
+            },
+            {
+              "text": "He became the Ambassador to Croatia in July 2016."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "Andrew Dalgleish",
+          "url": "https://www.gov.uk/government/people/andrew-dalgleish",
+          "access-date": "1 September 2020",
+          "website": "GOV.UK",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.gov.uk/government/news/change-of-her-majestys-ambassador-to-croatia",
+          "title": "Change of Her Majesty's Ambassador to Croatia",
+          "work": "GOV.UK",
+          "date": "11 August 2015",
+          "access-date": "4 May 2021",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Personal life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Dalgleish moved his children from a boarding school in the UK to Croatia when he served there as an ambassador.",
+              "links": [
+                {
+                  "text": "boarding school",
+                  "type": "internal",
+                  "page": "boarding school"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.diplomacyandcommerce.hr/h-e-andrew-dalgleish-ambassador-of-the-uk-cant-wait-to-walk-in-the-fresh-air-in-the-hills-around-samobor/",
+          "title": "H. E. Andrew Dalgleish, Ambassador of the UK: Can't wait to walk in the fresh air in the hills around Samobor",
+          "work": "Diplomacy&Commerce",
+          "last": "Milošević",
+          "first": "Žikica",
+          "date": "3 April 2020",
+          "access-date": "4 May 2021",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "id": "a_dalgleish",
+          "template": "twitter"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-dip"
+        },
+        {
+          "before": "Ian Cliff",
+          "as": "Chargé d'Affaires",
+          "template": "s-bef"
+        },
+        {
+          "title": "British Ambassador to Croatia",
+          "years": "2016&ndash;present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "template": "uk-diplomat-stub"
+        }
+      ]
+    }
+  ]
+}

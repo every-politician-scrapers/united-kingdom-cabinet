@@ -1,0 +1,231 @@
+{
+  "title": "Vijay Rangarajan",
+  "pageID": 65253677,
+  "categories": [
+    "21st-century British diplomats",
+    "People educated at Cranbrook School, Kent",
+    "Alumni of Selwyn College, Cambridge",
+    "Living people",
+    "1969 births"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "(Francis) Vijay Rangarajan (born 22 September 1969) is a British diplomat who served as the British Ambassador to Brazil from June 2017 to August 2020.",
+              "links": [
+                {
+                  "text": "British Ambassador to Brazil",
+                  "type": "internal",
+                  "page": "List of ambassadors of the United Kingdom to Brazil"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "(Francis) Vijay Rangarajan"
+                ]
+              }
+            },
+            {
+              "text": "He currently serves as the Director General, Americas and Overseas Territories at the Foreign, Commonwealth and Development Office and served as the Deputy British Ambassador to Mexico from 2003 to 2006.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Foreign, Commonwealth and Development Office"
+                },
+                {
+                  "text": "Deputy British Ambassador to Mexico",
+                  "type": "internal",
+                  "page": "British Ambassador to Mexico"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Rangarajan was born in New Delhi and educated at Cranbrook School and Selwyn College, Cambridge, where he graduated with a BA Hons.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "New Delhi"
+                },
+                {
+                  "text": "Cranbrook School",
+                  "type": "internal",
+                  "page": "Cranbrook School, Kent"
+                },
+                {
+                  "type": "internal",
+                  "page": "Selwyn College, Cambridge"
+                }
+              ]
+            },
+            {
+              "text": "degree in 1990 and a PhD in Astrophysics five years later."
+            },
+            {
+              "text": "Prior to working for the FCDO, Rangarajan worked for the UK's Ministry of Justice and Cabinet Office, focusing on political and constitutional reform.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ministry of Justice"
+                },
+                {
+                  "type": "internal",
+                  "page": "Cabinet Office"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Former British Ambassador to Brazil",
+          "template": "short description"
+        },
+        {
+          "date": "September 2020",
+          "template": "use dmy dates"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Vijay Rangarajan"
+          },
+          "honorific-suffix": {
+            "text": "CMG",
+            "links": [
+              {
+                "text": "CMG",
+                "type": "internal",
+                "page": "Order of St Michael and St George"
+              }
+            ]
+          },
+          "image": {
+            "text": "Governador participa de reunião com o embaixador do Reino Unido no Brasil, Vijay Rangarajan. (40128457833).jpg"
+          },
+          "caption": {
+            "text": "Rangarajan, third from right"
+          },
+          "office": {
+            "text": "British Ambassador to Brazil",
+            "links": [
+              {
+                "text": "British Ambassador to Brazil",
+                "type": "internal",
+                "page": "List of ambassadors of the United Kingdom to Brazil"
+              }
+            ]
+          },
+          "monarch": {
+            "text": "Elizabeth II",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Elizabeth II"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Theresa May\nBoris Johnson",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Theresa May"
+              },
+              {
+                "type": "internal",
+                "page": "Boris Johnson"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "June 2017"
+          },
+          "term_end": {
+            "text": "August 2020"
+          },
+          "predecessor": {
+            "text": "Alex Ellis",
+            "links": [
+              {
+                "text": "Alex Ellis",
+                "type": "internal",
+                "page": "Alexander Ellis (diplomat)"
+              }
+            ]
+          },
+          "successor": {
+            "text": "Peter Wilson",
+            "links": [
+              {
+                "text": "Peter Wilson",
+                "type": "internal",
+                "page": "Peter Wilson (diplomat)"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Selwyn College, Cambridge",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Selwyn College, Cambridge"
+              }
+            ]
+          },
+          "children": {
+            "text": "2",
+            "number": 2
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.miragenews.com/change-of-her-majesty-s-ambassador-to-brazil/",
+          "title": "Change of Her Majesty's Ambassador to Brazil",
+          "date": "31 July 2020",
+          "publisher": "Mirage News",
+          "access-date": "7 September 2020",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "url": "https://www.gov.uk/government/people/vijay-rangarajan#biography",
+          "title": "People – Vijay Rangarajan",
+          "publisher": "HM Government",
+          "access-date": "7 September 2020",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "uk-diplomat-stub"
+        }
+      ]
+    }
+  ]
+}

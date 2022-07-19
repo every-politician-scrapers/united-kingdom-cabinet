@@ -1,0 +1,997 @@
+{
+  "title": "Graham Stuart (politician)",
+  "pageID": 1863450,
+  "categories": [
+    "1962 births",
+    "Living people",
+    "People educated at Glenalmond College",
+    "Alumni of Selwyn College, Cambridge",
+    "Conservative Party (UK) MPs for English constituencies",
+    "UK MPs 2005–2010",
+    "UK MPs 2010–2015",
+    "UK MPs 2015–2017",
+    "UK MPs 2017–2019",
+    "UK MPs 2019–present"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Graham Charles Stuart (born 12 March 1962) is a British Conservative Party politician serving as Minister of State for Europe since 2022.",
+              "links": [
+                {
+                  "text": "Conservative Party",
+                  "type": "internal",
+                  "page": "Conservative Party (UK)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Minister of State for Europe"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Graham Charles Stuart"
+                ]
+              }
+            },
+            {
+              "text": "He has been the Member of Parliament for Beverley and Holderness since 2005 and he served as Parliamentary Under-Secretary of State at the Department for International Trade from 2018 until 2021.",
+              "links": [
+                {
+                  "text": "Member of Parliament",
+                  "type": "internal",
+                  "page": "Member of Parliament (United Kingdom)"
+                },
+                {
+                  "text": "Beverley and Holderness",
+                  "type": "internal",
+                  "page": "Beverley and Holderness (UK Parliament constituency)"
+                },
+                {
+                  "text": "2005",
+                  "type": "internal",
+                  "page": "2005 United Kingdom general election"
+                },
+                {
+                  "text": "Parliamentary Under-Secretary of State",
+                  "type": "internal",
+                  "page": "Parliamentary Under-Secretary of State for Exports"
+                },
+                {
+                  "type": "internal",
+                  "page": "Department for International Trade"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "British Conservative politician",
+          "template": "short description"
+        },
+        {
+          "date": "October 2019",
+          "template": "use dmy dates"
+        },
+        {
+          "date": "October 2019",
+          "template": "use british english"
+        },
+        {
+          "year": "1962",
+          "month": "3",
+          "day": "12",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Graham Stuart"
+          },
+          "honorific-suffix": {
+            "text": "MP",
+            "links": [
+              {
+                "text": "MP",
+                "type": "internal",
+                "page": "Member of Parliament (United Kingdom)"
+              }
+            ]
+          },
+          "image": {
+            "text": "Official portrait of Graham Stuart crop 2.jpg"
+          },
+          "caption": {
+            "text": "Official portrait, 2017"
+          },
+          "office": {
+            "text": "Minister of State for Europe",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Minister of State for Europe"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Boris Johnson",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Boris Johnson"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "7 July 2022"
+          },
+          "predecessor": {
+            "text": "James Cleverly",
+            "links": [
+              {
+                "type": "internal",
+                "page": "James Cleverly"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Parliamentary Under-Secretary of State for Exports",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Parliamentary Under-Secretary of State for Exports"
+              }
+            ]
+          },
+          "predecessor2": {
+            "text": "Mark Garnier",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mark Garnier"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Mike Freer",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mike Freer"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "9 January 2018"
+          },
+          "term_end2": {
+            "text": "16 September 2021"
+          },
+          "office3": {
+            "text": "Chair of the Education Select Committee",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Education Select Committee"
+              }
+            ]
+          },
+          "predecessor3": {
+            "text": "Barry Sheerman",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Barry Sheerman"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "9 June 2010"
+          },
+          "birth_date": {
+            "text": "March 12, 1962"
+          },
+          "birth_place": {
+            "text": "Carlisle, England",
+            "links": [
+              {
+                "text": "Carlisle",
+                "type": "internal",
+                "page": "Carlisle, Cumbria"
+              }
+            ]
+          },
+          "birthname": {
+            "text": "Graham Charles Stuart"
+          },
+          "nationality": {
+            "text": "British",
+            "links": [
+              {
+                "text": "British",
+                "type": "internal",
+                "page": "United Kingdom"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Anne Crawshaw"
+          },
+          "party": {
+            "text": "Conservative",
+            "links": [
+              {
+                "text": "Conservative",
+                "type": "internal",
+                "page": "Conservative Party (UK)"
+              }
+            ]
+          },
+          "children": {
+            "text": "Two daughters"
+          },
+          "alma_mater": {
+            "text": "Selwyn College, University of Cambridge",
+            "links": [
+              {
+                "text": "Selwyn College, University of Cambridge",
+                "type": "internal",
+                "page": "Selwyn College, Cambridge"
+              }
+            ]
+          },
+          "website": {
+            "text": "www.grahamstuart.com",
+            "links": [
+              {
+                "text": "www.grahamstuart.com",
+                "type": "external",
+                "site": "http://www.grahamstuart.com/"
+              }
+            ]
+          },
+          "office4": {
+            "text": "Member of Parliament \nfor Beverley and Holderness",
+            "links": [
+              {
+                "text": "Member of Parliament",
+                "type": "internal",
+                "page": "Member of Parliament (United Kingdom)"
+              },
+              {
+                "text": "Beverley and Holderness",
+                "type": "internal",
+                "page": "Beverley and Holderness (UK Parliament constituency)"
+              }
+            ]
+          },
+          "term_start4": {
+            "text": "5 May 2005"
+          },
+          "term_end3": {
+            "text": "30 March 2015"
+          },
+          "predecessor4": {
+            "text": "James Cran",
+            "links": [
+              {
+                "type": "internal",
+                "page": "James Cran"
+              }
+            ]
+          },
+          "successor3": {
+            "text": "Neil Carmichael",
+            "links": [
+              {
+                "text": "Neil Carmichael",
+                "type": "internal",
+                "page": "Neil Carmichael (Conservative politician)"
+              }
+            ]
+          },
+          "majority4": {
+            "text": "20,448 (38.2%)"
+          },
+          "primeminister2": {
+            "text": "Theresa May\nBoris Johnson",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Theresa May"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Ministerial appointments: July 2022",
+          "url": "https://www.gov.uk/government/news/ministerial-appointments-july-2022",
+          "access-date": "2022-07-08",
+          "website": "GOV.UK",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Graham Stuart MP",
+          "url": "https://www.gov.uk/government/people/graham-stuart",
+          "access-date": "2022-07-08",
+          "website": "GOV.UK",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Parliamentary Candidates",
+          "url": "http://www.election.demon.co.uk/cand01.html",
+          "publisher": "United Kingdom Election Results",
+          "access-date": "1 May 2010",
+          "archive-url": "https://web.archive.org/web/20171124053813/http://www.election.demon.co.uk/cand01.html",
+          "archive-date": "24 November 2017",
+          "url-status": "live",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Education",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Graham Stuart was born in Carlisle, Cumberland, and studied at Glenalmond College, an independent school in Perthshire, followed by Selwyn College, Cambridge, from 1982 to 1985, where he read Philosophy and Law but failed his degree, after focusing his efforts on developing his \"What's on in Cambridge\" guide into a profitable business and remains non-executive chairman of the company.",
+              "links": [
+                {
+                  "text": "Carlisle",
+                  "type": "internal",
+                  "page": "Carlisle, Cumbria"
+                },
+                {
+                  "type": "internal",
+                  "page": "Cumberland"
+                },
+                {
+                  "type": "internal",
+                  "page": "Glenalmond College"
+                },
+                {
+                  "text": "independent school",
+                  "type": "internal",
+                  "page": "independent school"
+                },
+                {
+                  "type": "internal",
+                  "page": "Perthshire"
+                },
+                {
+                  "type": "internal",
+                  "page": "Selwyn College, Cambridge"
+                },
+                {
+                  "type": "internal",
+                  "page": "Philosophy"
+                },
+                {
+                  "type": "internal",
+                  "page": "Law"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He was Chairman of the Cambridge University Conservative Association during Easter 1985.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Chairman"
+                },
+                {
+                  "type": "internal",
+                  "page": "Cambridge University Conservative Association"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "Stuart, Graham",
+          "url": "http://www.politics.co.uk/mps/party-politics/conservatives/stuart-graham-$452086.htm",
+          "publisher": "politics.co.uk",
+          "access-date": "1 May 2010",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "History",
+          "url": "http://www.cuca.org.uk/about/history/",
+          "publisher": "Cambridge University Conservative Association",
+          "access-date": "1 May 2010",
+          "archive-url": "https://web.archive.org/web/20110719044931/http://www.cuca.org.uk/about/history/",
+          "archive-date": "19 July 2011",
+          "url-status": "live",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Early political career in Cambridge",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "He was elected as a member of Cambridge City Council for the Cherry Hinton Ward in the 1998 local elections.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Cambridge City Council"
+                },
+                {
+                  "type": "internal",
+                  "page": "Cherry Hinton"
+                },
+                {
+                  "text": "1998 local elections",
+                  "type": "internal",
+                  "page": "1998 United Kingdom local elections"
+                }
+              ]
+            },
+            {
+              "text": "He contested the Cambridge constituency as the Conservative Party candidate at the 2001 general election, coming in third place with 9,829 votes, 23% of the share.",
+              "links": [
+                {
+                  "text": "Cambridge",
+                  "type": "internal",
+                  "page": "Cambridge (UK Parliament constituency)"
+                },
+                {
+                  "text": "Conservative Party",
+                  "type": "internal",
+                  "page": "Conservative Party (UK)"
+                },
+                {
+                  "text": "candidate",
+                  "type": "internal",
+                  "page": "prospective parliamentary candidate"
+                },
+                {
+                  "text": "2001 general election",
+                  "type": "internal",
+                  "page": "2001 United Kingdom general election"
+                }
+              ]
+            },
+            {
+              "text": "He was re-elected to Cambridge City Council in the 2002 local elections and served until 2004.",
+              "links": [
+                {
+                  "text": "2002 local elections",
+                  "type": "internal",
+                  "page": "2002 United Kingdom local elections"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "Cambridge City Council Elections - Cherry Hinton Ward",
+          "url": "http://www.cix.co.uk/~rosenstiel/camelect/citychi.htm",
+          "publisher": "Cambridge City Election Results since 1945",
+          "access-date": "1 May 2010",
+          "url-status": "dead",
+          "archive-url": "https://web.archive.org/web/20110606040903/http://www.cix.co.uk/~rosenstiel/camelect/citychi.htm",
+          "archive-date": "6 June 2011",
+          "df": "dmy-all",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Cambridge",
+          "url": "https://www.theguardian.com/politics/constituency/785/cambridge",
+          "newspaper": "The Guardian",
+          "access-date": "1 May 2010",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Parliamentary career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Stuart was elected to the House of Commons as Member of Parliament (MP) for Beverley and Holderness in the 2005 general election with a majority of 2,580.",
+              "links": [
+                {
+                  "text": "House of Commons",
+                  "type": "internal",
+                  "page": "House of Commons of the United Kingdom"
+                },
+                {
+                  "text": "Member of Parliament",
+                  "type": "internal",
+                  "page": "Member of Parliament (United Kingdom)"
+                },
+                {
+                  "text": "Beverley and Holderness",
+                  "type": "internal",
+                  "page": "Beverley and Holderness (UK Parliament constituency)"
+                },
+                {
+                  "text": "2005 general election",
+                  "type": "internal",
+                  "page": "2005 United Kingdom general election"
+                }
+              ]
+            },
+            {
+              "text": "Following his election, he said \"I plan to be upfront and have a high profile, not only within the constituency but nationally\"."
+            },
+            {
+              "text": "He sat as a member of two select committees; the Environmental Audit Select Committee and the Children, Schools and Families Select Committee.",
+              "links": [
+                {
+                  "text": "select committees",
+                  "type": "internal",
+                  "page": "Select committee (United Kingdom)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Environmental Audit Select Committee"
+                },
+                {
+                  "text": "Children, Schools and Families Select Committee",
+                  "type": "internal",
+                  "page": "Education Select Committee"
+                }
+              ]
+            },
+            {
+              "text": "He was elected a member of the Conservative Party Board by his fellow MPs in 2006."
+            },
+            {
+              "text": "He was elected as chair of the Education Select Committee in June 2010."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 2005, he founded Beverley and Holderness Pensioners Action Group, Community Hospitals Acting Nationally Together (CHANT), a cross-party campaign group and Hull and Holderness Opposing the Incinerator (HOTI Group)."
+            },
+            {
+              "text": "He is vice-chairman of the GLOBE UK branch of Global Legislators Organisation for a Balanced Environment.",
+              "links": [
+                {
+                  "text": "Global Legislators Organisation for a Balanced Environment",
+                  "type": "internal",
+                  "page": "GLOBE"
+                }
+              ]
+            },
+            {
+              "text": "Following the Parliamentary expenses scandal, Stuart defended his expenses in June 2009, which included spending £426 on bed linen and towels.",
+              "links": [
+                {
+                  "text": "Parliamentary expenses scandal",
+                  "type": "internal",
+                  "page": "United Kingdom Parliamentary expenses scandal"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "His successful campaigns in the 2005–10 Parliament included the defeat of legislation on home education and saving the Beverley Pasture Masters."
+            },
+            {
+              "text": "In the following parliament, he was involved in the successful campaign for lower Humber Bridge tolls, and successfully persuaded the government to improve the A164 and construct the Beverley Bypass.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Humber Bridge"
+                }
+              ]
+            },
+            {
+              "text": "In 2012, he defeated a proposed increase in VAT on static caravans, which are largely manufactured in the East Riding of Yorkshire.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "VAT"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In June 2010, Stuart was elected by MPs as Chair of the Education Select Committee."
+            },
+            {
+              "text": "Despite being a Conservative MP, Stuart frequently disagreed with the Secretary of State for Education Michael Gove.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Michael Gove"
+                }
+              ]
+            },
+            {
+              "text": "His Committee produced up to six reports a year ranging from single evidence inquiries to more detailed examinations into Education, Schools and Family policy."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Stuart supports repealing the 2004 Hunting Act to bring back fox hunting, stating in 2010: \"I've always said I would vote to reverse the ban\".",
+              "links": [
+                {
+                  "text": "2004 Hunting Act",
+                  "type": "internal",
+                  "page": "Hunting Act 2004"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In an interview with the journalist Peter Wilby for The Guardian, Stuart described himself as socially liberal, a \"deficit hawk\" who favours faster cuts to public spending, and an end to welfare dependency.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Peter Wilby"
+                },
+                {
+                  "type": "internal",
+                  "page": "The Guardian"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "The Guardian"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On 27 February 2016, Stuart announced his support for Britain continuing to be a member of the European Union, stating: \"There has been a whole diet of negative media coverage about the EU but not a great deal recognising the benefits.\"",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "European Union"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He was appointed an Assistant Whip by the new Prime Minister, Theresa May on 18 July 2016.",
+              "links": [
+                {
+                  "text": "Assistant Whip",
+                  "type": "internal",
+                  "page": "Chief Whip"
+                },
+                {
+                  "text": "Prime Minister",
+                  "type": "internal",
+                  "page": "Prime Minister of the United Kingdom"
+                },
+                {
+                  "type": "internal",
+                  "page": "Theresa May"
+                }
+              ]
+            },
+            {
+              "text": "He was later promoted to serve as Parliamentary Under-Secretary of State for Exports in the January 2019 government reshuffle.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Parliamentary Under-Secretary of State for Exports"
+                }
+              ]
+            },
+            {
+              "text": "He returned to the backbenches in the September 2021 reshuffle."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He was made Minister of State at the Foreign, Commonwealth and Development Office in July 2022 as part of the caretaker government by outgoing Prime Minister Boris Johnson."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.grahamstuart.com/2012/04/27/graham-stuart-leads-debate-opposing-caravan-tax/#more-2130",
+          "title": "Graham Stuart MP for Beverley and Holderness - Graham Stuart leads debate opposing caravan tax",
+          "publisher": "Graham Stuart",
+          "date": "27 April 2012",
+          "access-date": "14 April 2016",
+          "archive-url": "https://web.archive.org/web/20130103070718/http://www.grahamstuart.com/2012/04/27/graham-stuart-leads-debate-opposing-caravan-tax/#more-2130",
+          "archive-date": "3 January 2013",
+          "url-status": "live",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.parliament.uk/business/committees/committees-a-z/commons-select/education-committee/",
+          "title": "Education Committee",
+          "work": "UK Parliament",
+          "date": "16 June 2010",
+          "access-date": "14 April 2016",
+          "archive-url": "https://web.archive.org/web/20160408182432/http://www.parliament.uk/business/committees/committees-a-z/commons-select/education-committee/",
+          "archive-date": "8 April 2016",
+          "url-status": "live",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.parliament.uk/business/committees/committees-a-z/commons-select/education-committee/single-evidence-inquiries/",
+          "title": "Education Committee - inquiries",
+          "work": "UK Parliament",
+          "access-date": "14 April 2016",
+          "archive-url": "https://web.archive.org/web/20160305014919/http://www.parliament.uk/business/committees/committees-a-z/commons-select/education-committee/single-evidence-inquiries/",
+          "archive-date": "5 March 2016",
+          "url-status": "live",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.parliament.uk/business/committees/committees-a-z/commons-select/education-committee/inquiries/",
+          "title": "Education Committee - inquiries",
+          "work": "UK Parliament",
+          "access-date": "14 April 2016",
+          "archive-url": "https://web.archive.org/web/20160408182229/http://www.parliament.uk/business/committees/committees-a-z/commons-select/education-committee/inquiries/",
+          "archive-date": "8 April 2016",
+          "url-status": "live",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.hulldailymail.co.uk/boxing-day-hunt-attracts-hundreds-snowy-westwood/story-11958525-detail/story.html",
+          "title": "Festive hunt attracts hundreds to Westwood, despite icy conditions (VIDEO)",
+          "date": "28 December 2010",
+          "work": "Hull Daily Mail",
+          "access-date": "13 June 2017}} {{Dead link|date=December 2019 |bot=InternetArchiveBot |fix-attempted=yes |undefined",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Ministerial appointments: July 2022",
+          "url": "https://www.gov.uk/government/news/ministerial-appointments-july-2022",
+          "access-date": "2022-07-07",
+          "website": "GOV.UK",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Beverley and Holderness",
+          "url": "https://www.theguardian.com/politics/constituency/708/beverley-and-holderness",
+          "newspaper": "The Guardian",
+          "access-date": "1 May 2010",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Davis sees off Lib Dem challenge",
+          "url": "http://news.bbc.co.uk/1/hi/uk_politics/vote_2005/england/4519133.stm",
+          "work": "BBC News",
+          "date": "6 May 2005",
+          "access-date": "1 May 2010",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Voting Record — Graham Stuart MP, Beverley & Holderness (11406)",
+          "url": "http://www.publicwhip.org.uk/mp.php?mpn=Graham_Stuart&mpc=Beverley_%26amp%3B_Holderness&house=commons",
+          "publisher": "The Public Whip",
+          "access-date": "1 May 2010",
+          "archive-url": "https://web.archive.org/web/20110605215153/http://www.publicwhip.org.uk/mp.php?mpn=Graham_Stuart&mpc=Beverley_&amp%3B_Holderness&house=commons",
+          "archive-date": "5 June 2011",
+          "url-status": "live",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Graham Stuart MP named Chair of Children, Schools and Families Select Committee",
+          "url": "http://www.literacytrust.org.uk/news/2092_graham_stuart_mp_named_chair_of_children_schools_and_families_select_committee",
+          "publisher": "National Literacy Trust",
+          "date": "11 June 2010",
+          "access-date": "3 November 2010",
+          "archive-url": "https://web.archive.org/web/20101228174504/http://www.literacytrust.org.uk/news/2092_graham_stuart_mp_named_chair_of_children_schools_and_families_select_committee",
+          "archive-date": "28 December 2010",
+          "url-status": "dead",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Composition of GLOBE International Board",
+          "url": "http://www.globeinternational.org/content.php?id=7:48:0:0:0",
+          "publisher": "Global Legislators Organisation for a Balanced Environment",
+          "access-date": "1 May 2010",
+          "url-status": "dead",
+          "archive-url": "https://web.archive.org/web/20091208064716/http://www.globeinternational.org/content.php?id=7%3A48%3A0%3A0%3A0",
+          "archive-date": "8 December 2009",
+          "df": "dmy-all",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "MP defends expenses claims",
+          "url": "http://www.thisishullandeastriding.co.uk/news/MP-defends-expenses-claims/article-1040891-detail/article.html",
+          "newspaper": "Hull Daily Mail",
+          "date": "2 June 2009",
+          "access-date": "1 May 2010",
+          "archive-url": "https://web.archive.org/web/20110313035537/http://www.thisishullandeastriding.co.uk/news/MP-defends-expenses-claims/article-1040891-detail/article.html",
+          "archive-date": "13 March 2011",
+          "url-status": "dead",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.theguardian.com/education/2013/mar/25/graham-stuart-conservative-education-committee",
+          "title": "Graham Stuart: 'You can't drive education like a sports car'",
+          "first": "Peter",
+          "last": "Wilby",
+          "work": "The Guardian",
+          "access-date": "14 April 2016",
+          "archive-url": "https://web.archive.org/web/20160506213729/http://www.theguardian.com/education/2013/mar/25/graham-stuart-conservative-education-committee",
+          "archive-date": "6 May 2016",
+          "url-status": "live",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "date": "January 2021",
+          "template": "citation needed"
+        }
+      ]
+    },
+    {
+      "title": "Personal life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Stuart lives in Swanland with his wife, Anne, and their black labrador called Steve.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Swanland"
+                }
+              ]
+            },
+            {
+              "text": "He enjoys walking, cycling, eating out and is a keen gardener."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "commons category"
+        },
+        {
+          "parliament": "mr-graham-stuart/1482",
+          "hansardcurr": "4814",
+          "publicwhip": "graham_stuart",
+          "theywork": "graham_stuart",
+          "template": "uk mp links"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "list": [
+            "uk"
+          ],
+          "template": "s-par"
+        },
+        {
+          "before": "James Cran",
+          "template": "s-bef"
+        },
+        {
+          "title": "Member of Parliament for Beverley and Holderness",
+          "years": "2005–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "template": "yorkshire and the humber conservative party mps"
+        },
+        {
+          "template": "chairs of the education select committee"
+        },
+        {
+          "template": "authority control"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Graham Stuart website",
+            "links": [
+              {
+                "text": "Graham Stuart website",
+                "type": "external",
+                "site": "http://www.grahamstuart.com"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}

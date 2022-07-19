@@ -1,0 +1,843 @@
+{
+  "title": "Susan Williams, Baroness Williams of Trafford",
+  "pageID": 42837574,
+  "categories": [
+    "Conservative Party (UK) life peers",
+    "Life peeresses created by Elizabeth II",
+    "Conservative Party (UK) Baronesses- and Lords-in-Waiting",
+    "1967 births",
+    "Living people",
+    "Alumni of the University of Huddersfield",
+    "People from Altrincham",
+    "People from Cork (city)",
+    "Female interior ministers",
+    "Irish emigrants to the United Kingdom",
+    "British people of Irish descent",
+    "Members of the Privy Council of the United Kingdom"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Susan Frances Maria Williams, Baroness Williams of Trafford (née McElroy; born 16 May 1967) is a Home Office minister in the Government of the United Kingdom and a Conservative life peer.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Home Office"
+                },
+                {
+                  "type": "internal",
+                  "page": "Government of the United Kingdom"
+                },
+                {
+                  "text": "Conservative",
+                  "type": "internal",
+                  "page": "Conservative Party (UK)"
+                },
+                {
+                  "text": "life peer",
+                  "type": "internal",
+                  "page": "life peer"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Susan Frances Maria Williams, Baroness Williams of Trafford",
+                  "McElroy"
+                ]
+              }
+            },
+            {
+              "text": "In March 2022 she was made a member of the Privy Council.",
+              "links": [
+                {
+                  "text": "Privy Council",
+                  "type": "internal",
+                  "page": "Privy Council of the United Kingdom"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "text": "Shirley Williams, Baroness Williams of Crosby",
+          "template": "distinguish"
+        },
+        {
+          "description": "British Conservative politician",
+          "template": "short description"
+        },
+        {
+          "date": "November 2019",
+          "template": "use dmy dates"
+        },
+        {
+          "date": "November 2019",
+          "template": "use british english"
+        },
+        {
+          "year": "1967",
+          "month": "05",
+          "day": "16",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific-prefix": {
+            "text": "The Right Honourable",
+            "links": [
+              {
+                "type": "internal",
+                "page": "The Right Honourable"
+              }
+            ]
+          },
+          "name": {
+            "text": "The Baroness Williams of Trafford"
+          },
+          "honorific-suffix": {
+            "text": "PC",
+            "links": [
+              {
+                "text": "PC",
+                "type": "internal",
+                "page": "Privy Council of the United Kingdom"
+              }
+            ]
+          },
+          "image": {
+            "text": "Official portrait of Baroness Williams of Trafford crop 2.jpg"
+          },
+          "imagesize": {
+            "text": "220px"
+          },
+          "office1": {
+            "text": "Minister of State for Equalities",
+            "links": [
+              {
+                "text": "Minister of State for Equalities",
+                "type": "internal",
+                "page": "Minister for Women and Equalities"
+              }
+            ]
+          },
+          "primeminister1": {
+            "text": "Theresa May Boris Johnson",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Theresa May"
+              },
+              {
+                "type": "internal",
+                "page": "Boris Johnson"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "9 January 2018"
+          },
+          "term_end1": {
+            "text": "13 February 2020"
+          },
+          "predecessor1": {
+            "text": "Nick Gibb",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Nick Gibb"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Kemi Badenoch",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Kemi Badenoch"
+              }
+            ]
+          },
+          "office": {
+            "text": "Minister of State for Home Affairs",
+            "links": [
+              {
+                "text": "Minister of State for Home Affairs",
+                "type": "internal",
+                "page": "Minister of State for Home Affairs (United Kingdom)"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Theresa May Boris Johnson",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Theresa May"
+              },
+              {
+                "type": "internal",
+                "page": "Boris Johnson"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "17 July 2016"
+          },
+          "predecessor": {
+            "text": "The Lord Keen of Elie",
+            "links": [
+              {
+                "text": "The Lord Keen of Elie",
+                "type": "internal",
+                "page": "Richard Keen, Baron Keen of Elie"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Parliamentary Under-Secretary of State for the Northern Powerhouse",
+            "links": [
+              {
+                "text": "Parliamentary Under-Secretary of State for the Northern Powerhouse",
+                "type": "internal",
+                "page": "Department for Communities and Local Government"
+              }
+            ]
+          },
+          "primeminister2": {
+            "text": "David Cameron",
+            "links": [
+              {
+                "type": "internal",
+                "page": "David Cameron"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "11 May 2015"
+          },
+          "term_end2": {
+            "text": "17 July 2016"
+          },
+          "predecessor2": {
+            "text": "The Lord Ahmed of Wimbledon",
+            "links": [
+              {
+                "text": "The Lord Ahmed of Wimbledon",
+                "type": "internal",
+                "page": "Tariq Ahmad, Baron Ahmad of Wimbledon"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Andrew Percy",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Andrew Percy"
+              }
+            ]
+          },
+          "birth_name": {
+            "text": "Susan Frances Maria McElroy"
+          },
+          "office4": {
+            "text": "Baroness-in-waiting Government Whip",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Baroness-in-waiting"
+              },
+              {
+                "type": "internal",
+                "page": "Government Whip"
+              }
+            ]
+          },
+          "primeminister4": {
+            "text": "David Cameron",
+            "links": [
+              {
+                "type": "internal",
+                "page": "David Cameron"
+              }
+            ]
+          },
+          "term_start4": {
+            "text": "8 April 2014"
+          },
+          "term_end4": {
+            "text": "11 May 2015"
+          },
+          "predecessor4": {
+            "text": "The Earl Attlee",
+            "links": [
+              {
+                "text": "The Earl Attlee",
+                "type": "internal",
+                "page": "John Attlee, 3rd Earl Attlee"
+              }
+            ]
+          },
+          "successor4": {
+            "text": "The Baroness Chisholm of Owlpen",
+            "links": [
+              {
+                "text": "The Baroness Chisholm of Owlpen",
+                "type": "internal",
+                "page": "Carlyn Chisholm, Baroness Chisholm of Owlpen"
+              }
+            ]
+          },
+          "office5": {
+            "text": "Member of the House of Lords Lord Temporal",
+            "links": [
+              {
+                "text": "Member of the House of Lords",
+                "type": "internal",
+                "page": "List of members of the House of Lords"
+              },
+              {
+                "text": "Lord Temporal",
+                "type": "internal",
+                "page": "Lords Temporal"
+              }
+            ]
+          },
+          "term_start5": {
+            "text": "5 November 2013 Life Peerage",
+            "links": [
+              {
+                "text": "Life Peerage",
+                "type": "internal",
+                "page": "Life peer"
+              }
+            ]
+          },
+          "office6": {
+            "text": "Trafford Metropolitan Borough Councillor for Altrincham Ward",
+            "links": [
+              {
+                "text": "Trafford Metropolitan Borough Councillor",
+                "type": "internal",
+                "page": "Trafford Council"
+              },
+              {
+                "text": "Altrincham Ward",
+                "type": "internal",
+                "page": "Altrincham (ward)"
+              }
+            ]
+          },
+          "term_start6": {
+            "text": "7 May 1998"
+          },
+          "term_end6": {
+            "text": "5 May 2011"
+          },
+          "predecessor6": {
+            "text": "S. M. O'Bierne"
+          },
+          "successor6": {
+            "text": "Matt Colledge"
+          },
+          "birth_date": {
+            "text": "May 16, 1967"
+          },
+          "birth_place": {
+            "text": "Blackrock, Cork, Ireland",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Blackrock, Cork"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "British"
+          },
+          "party": {
+            "text": "Conservative",
+            "links": [
+              {
+                "text": "Conservative",
+                "type": "internal",
+                "page": "Conservative Party (UK)"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Huddersfield Polytechnic",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Huddersfield Polytechnic"
+              }
+            ]
+          },
+          "caption": {
+            "text": "Official portrait, 2019"
+          }
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "title": "Knighthood conferred and Privy Council Appointment: March 2022",
+          "url": "https://www.gov.uk/government/news/knighthood-conferred-and-privy-council-appointment-march-2022",
+          "website": "GOV.UK",
+          "publisher": "UK Government",
+          "access-date": "3 March 2022",
+          "date": "3 March 2022",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Staff writer",
+          "title": "Two things Blue as council leader marries colleague",
+          "archive-url": "https://web.archive.org/web/20160611031731/http://www.manchestereveningnews.co.uk/news/local-news/two-things-blue-as-council-leader-1083056",
+          "archive-date": "11 June 2016",
+          "url": "http://www.manchestereveningnews.co.uk/news/local-news/two-things-blue-as-council-leader-1083056",
+          "work": "Manchester Evening News",
+          "publisher": "Trinity Mirror",
+          "date": "29 August 2007",
+          "access-date": "11 June 2016",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "Education",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Williams was educated at La Sagesse School, a Roman Catholic private school in Newcastle upon Tyne, and Huddersfield Polytechnic, where she gained a BSc Hons in Applied Nutrition.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "La Sagesse School"
+                },
+                {
+                  "type": "internal",
+                  "page": "Newcastle upon Tyne"
+                },
+                {
+                  "type": "internal",
+                  "page": "Huddersfield Polytechnic"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "'Minister for Faith' role downgraded by government",
+          "url": "http://catholicherald.co.uk/news/2015/08/14/minister-for-faith-role-downgraded-by-government/",
+          "newspaper": "Catholic Herald",
+          "date": "14 August 2015",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "accessdate": "2018-04-04",
+          "title": "Baroness Williams of Trafford",
+          "url": "https://www.gov.uk/government/people/susan-williams-of-trafford",
+          "website": "www.gov.uk",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Career",
+      "depth": 0
+    },
+    {
+      "title": "Early Political Career",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "She was a member of Trafford Metropolitan Borough Council from 1998 to 2011, representing Altrincham, and the council's leader from 2004 to 2009, leading a Conservative majority until she stepped down.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Trafford Metropolitan Borough Council"
+                },
+                {
+                  "text": "Altrincham",
+                  "type": "internal",
+                  "page": "Altrincham (ward)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "She has also been a member of various public bodies in the North West region."
+            },
+            {
+              "text": "As a parliamentary candidate, she first stood unsuccessfully for the safe Labour Wythenshawe and Sale East constituency in 2001, and for the Bolton West constituency in the 2010 general election, losing by 92 votes.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Wythenshawe and Sale East"
+                },
+                {
+                  "text": "Bolton West",
+                  "type": "internal",
+                  "page": "Bolton West (UK Parliament constituency)"
+                },
+                {
+                  "text": "2010 general election",
+                  "type": "internal",
+                  "page": "2010 United Kingdom general election"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "House of Lords and Ministerial Career",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "On 20 September 2013 she was created a life peer as Baroness Williams of Trafford, of Hale in the county of Greater Manchester.",
+              "links": [
+                {
+                  "text": "life peer",
+                  "type": "internal",
+                  "page": "life peer"
+                },
+                {
+                  "text": "Hale",
+                  "type": "internal",
+                  "page": "Hale, Greater Manchester"
+                },
+                {
+                  "type": "internal",
+                  "page": "Greater Manchester"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Baroness Williams of Trafford"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In April 2014, Williams succeeded Earl Attlee as baroness-in-waiting (government whip).",
+              "links": [
+                {
+                  "text": "Earl Attlee",
+                  "type": "internal",
+                  "page": "John Attlee, 3rd Earl Attlee"
+                },
+                {
+                  "text": "baroness-in-waiting",
+                  "type": "internal",
+                  "page": "baroness-in-waiting"
+                },
+                {
+                  "text": "government whip",
+                  "type": "internal",
+                  "page": "government whip"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 2015, David Cameron appointed Williams to his second government as a Parliamentary Under Secretary of State for Communities and Local Government.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "David Cameron"
+                },
+                {
+                  "type": "internal",
+                  "page": "Parliamentary Under Secretary of State"
+                },
+                {
+                  "type": "internal",
+                  "page": "Communities and Local Government"
+                }
+              ]
+            },
+            {
+              "text": "On 28 May 2015 she introduced the Cities and Local Government Devolution Bill 2015–16 to the House of Lords.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Cities and Local Government Devolution Bill 2015–16"
+                },
+                {
+                  "type": "internal",
+                  "page": "House of Lords"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Williams was appointed Minister for Countering Extremism, the Home Office representative in the House of Lords in the First May ministry.",
+              "links": [
+                {
+                  "text": "Minister for Countering Extremism",
+                  "type": "internal",
+                  "page": "Home Office "
+                },
+                {
+                  "type": "internal",
+                  "page": "House of Lords"
+                },
+                {
+                  "type": "internal",
+                  "page": "First May ministry"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "She was appointed Minister of State for Equalities in January 2018 by Theresa May.",
+              "links": [
+                {
+                  "text": "Minister of State for Equalities",
+                  "type": "internal",
+                  "page": "Minister for Women and Equalities"
+                },
+                {
+                  "type": "internal",
+                  "page": "Theresa May"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In the 2020 British cabinet reshuffle, Williams was made Minister of State at the Home Office, and in March 2022 was made a member of the Privy Council.",
+              "links": [
+                {
+                  "text": "2020 British cabinet reshuffle",
+                  "type": "internal",
+                  "page": "2020 British cabinet reshuffle"
+                },
+                {
+                  "text": "Minister of State at the Home Office",
+                  "type": "internal",
+                  "page": "Home Office"
+                },
+                {
+                  "type": "internal",
+                  "page": "Privy Council"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "url": "https://www.gov.uk/government/news/appointment-to-the-government-baroness-williams-of-trafford",
+          "title": "Appointment to the government: Baroness Williams of Trafford",
+          "date": "8 April 2014",
+          "publisher": "Prime Minister's Office, 10 Downing Street",
+          "accessdate": "27 May 2014",
+          "template": "citation",
+          "type": "press release"
+        },
+        {
+          "url": "http://services.parliament.uk/bills/2015-16/citiesandlocalgovernmentdevolution.html",
+          "title": "Cities and Local Government Devolution Bill 2015-16",
+          "website": "www.parliament.uk",
+          "publisher": "UK Parliament",
+          "access-date": "1 June 2015",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Baroness Williams of Trafford – www.parliament.uk",
+            "links": [
+              {
+                "text": "Baroness Williams of Trafford",
+                "type": "external",
+                "site": "http://www.parliament.uk/biographies/lords/baroness-williams-of-trafford/4311"
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "list": [
+            "30em"
+          ],
+          "template": "reflist"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-off"
+        },
+        {
+          "before": "The Lord Ahmad of Wimbledon",
+          "template": "s-bef"
+        },
+        {
+          "title": "Parliamentary Under-Secretary of State for the Northern Powerhouse",
+          "years": "2015&ndash;2016",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Andrew Percy",
+          "template": "s-aft"
+        },
+        {
+          "before": "Nick Gibb",
+          "template": "s-bef"
+        },
+        {
+          "title": "Minister of State for Equalities",
+          "years": "2018&ndash;2020",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Kemi Badenoch",
+          "template": "s-aft"
+        },
+        {
+          "before": "The Lord Keen of Elie",
+          "template": "s-bef"
+        },
+        {
+          "title": "Minister of State for Countering Extremism",
+          "years": "2016&ndash;2019",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Herself",
+          "as": "Minister of State for Home Affairs",
+          "template": "s-aft"
+        },
+        {
+          "before": "Herself",
+          "as": "Minister of State for Countering Extremism",
+          "template": "s-bef"
+        },
+        {
+          "title": "Minister of State for Home Affairs",
+          "years": "2019&ndash;present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "list": [
+            "uk"
+          ],
+          "template": "s-prec"
+        },
+        {
+          "before": "The Baroness Kennedy of Cradley",
+          "template": "s-bef"
+        },
+        {
+          "title": "Ladies Baroness Williams of Trafford ",
+          "template": "s-ttl"
+        },
+        {
+          "after": "The Baroness Jones of Moulsecoomb",
+          "template": "s-fol"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "uk-politician-stub"
+        },
+        {
+          "template": "life-peer-stub"
+        }
+      ]
+    }
+  ]
+}

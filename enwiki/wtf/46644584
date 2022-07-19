@@ -1,0 +1,1178 @@
+{
+  "title": "Amanda Milling",
+  "pageID": 46644584,
+  "categories": [
+    "1975 births",
+    "Alumni of University College London",
+    "Conservative Party (UK) MPs for English constituencies",
+    "Female members of the Parliament of the United Kingdom for English constituencies",
+    "Living people",
+    "People educated at Moreton Hall School",
+    "21st-century English women",
+    "21st-century English people",
+    "21st-century British women politicians",
+    "UK MPs 2015–2017",
+    "UK MPs 2017–2019",
+    "UK MPs 2019–present"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Amanda Anne Milling (born 12 March 1975) is a British politician serving as Minister of State for Asia and the Middle East since 2021 and Member of Parliament (MP) for Cannock Chase since the 2015 general election.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Minister of State for Asia and the Middle East"
+                },
+                {
+                  "text": "Member of Parliament",
+                  "type": "internal",
+                  "page": "Member of Parliament (United Kingdom)"
+                },
+                {
+                  "text": "Cannock Chase",
+                  "type": "internal",
+                  "page": "Cannock Chase (UK Parliament constituency)"
+                },
+                {
+                  "text": "2015 general election",
+                  "type": "internal",
+                  "page": "2015 United Kingdom general election"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Amanda Anne Milling"
+                ]
+              }
+            },
+            {
+              "text": "She served as Minister without Portfolio in the UK cabinet and, alongside Ben Elliot, as Co-Chairman of the Conservative Party from February 2020 to September 2021.",
+              "links": [
+                {
+                  "text": "Minister without Portfolio",
+                  "type": "internal",
+                  "page": "Minister without portfolio (United Kingdom)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Ben Elliot"
+                },
+                {
+                  "text": "Co-Chairman of the Conservative Party",
+                  "type": "internal",
+                  "page": "Chairman of the Conservative Party"
+                }
+              ]
+            },
+            {
+              "text": "She previously worked in market research."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "British Conservative politician",
+          "template": "short description"
+        },
+        {
+          "list": [
+            "Amanda Mealing"
+          ],
+          "template": "distinguish"
+        },
+        {
+          "date": "February 2020",
+          "template": "use dmy dates"
+        },
+        {
+          "list": [
+            "Minister of State for Asia until February 2022."
+          ],
+          "template": "efn"
+        },
+        {
+          "year": "1975",
+          "month": "3",
+          "day": "12",
+          "df": "y",
+          "template": "birth date and age"
+        },
+        {
+          "template": "official url"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific_prefix": {
+            "text": "The Right Honourable",
+            "links": [
+              {
+                "type": "internal",
+                "page": "The Right Honourable"
+              }
+            ]
+          },
+          "name": {
+            "text": "Amanda Milling"
+          },
+          "honorific-suffix": {
+            "text": "MP",
+            "links": [
+              {
+                "text": "MP",
+                "type": "internal",
+                "page": "Member of Parliament (United Kingdom)"
+              }
+            ]
+          },
+          "image": {
+            "text": "Official portrait of Amanda Milling MP crop 2.jpg"
+          },
+          "office": {
+            "text": "Minister of State for Asia and the Middle East",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Minister of State for Asia and the Middle East"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Boris Johnson",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Boris Johnson"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "15 September 2021"
+          },
+          "predecessor": {
+            "text": "Nigel Adams",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Nigel Adams"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Chairman of the Conservative Party",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Chairman of the Conservative Party"
+              }
+            ]
+          },
+          "leader1": {
+            "text": "Boris Johnson",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Boris Johnson"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "13 February 2020"
+          },
+          "term_end1": {
+            "text": "15 September 2021"
+          },
+          "predecessor1": {
+            "text": "James Cleverly",
+            "links": [
+              {
+                "type": "internal",
+                "page": "James Cleverly"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Oliver Dowden",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Oliver Dowden"
+              }
+            ]
+          },
+          "alongside1": {
+            "text": "Ben Elliot",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ben Elliot"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Minister without Portfolio",
+            "links": [
+              {
+                "text": "Minister without Portfolio",
+                "type": "internal",
+                "page": "Minister without portfolio (United Kingdom)"
+              }
+            ]
+          },
+          "termstart2": {
+            "text": "13 February 2020"
+          },
+          "termend2": {
+            "text": "15 September 2021"
+          },
+          "predecessor2": {
+            "text": "James Cleverly",
+            "links": [
+              {
+                "type": "internal",
+                "page": "James Cleverly"
+              }
+            ]
+          },
+          "primeminister2": {
+            "text": "Boris Johnson",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Boris Johnson"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Oliver Dowden",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Oliver Dowden"
+              }
+            ]
+          },
+          "office3": {
+            "text": "Government Deputy Chief Whip Treasurer of the Household",
+            "links": [
+              {
+                "text": "Government Deputy Chief Whip",
+                "type": "internal",
+                "page": "Chief Whip"
+              },
+              {
+                "type": "internal",
+                "page": "Treasurer of the Household"
+              }
+            ]
+          },
+          "termstart3": {
+            "text": "28 July 2019"
+          },
+          "termend3": {
+            "text": "13 February 2020"
+          },
+          "predecessor3": {
+            "text": "Chris Pincher",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Chris Pincher"
+              }
+            ]
+          },
+          "primeminister3": {
+            "text": "Boris Johnson",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Boris Johnson"
+              }
+            ]
+          },
+          "successor3": {
+            "text": "Stuart Andrew",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Stuart Andrew"
+              }
+            ]
+          },
+          "office4": {
+            "text": "Member of Parliament for Cannock Chase",
+            "links": [
+              {
+                "text": "Member of Parliament",
+                "type": "internal",
+                "page": "Member of Parliament (United Kingdom)"
+              },
+              {
+                "text": "Cannock Chase",
+                "type": "internal",
+                "page": "Cannock Chase (UK Parliament constituency)"
+              }
+            ]
+          },
+          "term_start4": {
+            "text": "7 May 2015"
+          },
+          "predecessor4": {
+            "text": "Aidan Burley",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Aidan Burley"
+              }
+            ]
+          },
+          "majority4": {
+            "text": "19,879 (42.9%)"
+          },
+          "birth_date": {
+            "text": "March 12, 1975"
+          },
+          "birth_place": {
+            "text": "Burton upon Trent, Staffordshire, England",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Burton upon Trent"
+              },
+              {
+                "type": "internal",
+                "page": "Staffordshire"
+              }
+            ]
+          },
+          "party": {
+            "text": "Conservative",
+            "links": [
+              {
+                "text": "Conservative",
+                "type": "internal",
+                "page": "Conservative Party (UK)"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "University College London",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University College London"
+              }
+            ]
+          },
+          "caption": {
+            "text": "Official portrait, 2020"
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://hansard.parliament.uk/Commons/2019-12-17/debates/D88C7E2D-5D4D-43C2-8266-414C7F8900ED/MembersSworn",
+          "title": "Members Sworn",
+          "publisher": "parliament.uk",
+          "access-date": "14 February 2020",
+          "date": "17 December 2019",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Early life and career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Milling was born on 12 March 1975 in Burton upon Trent, Staffordshire, England.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Burton upon Trent"
+                },
+                {
+                  "type": "internal",
+                  "page": "Staffordshire"
+                }
+              ]
+            },
+            {
+              "text": "She was privately educated at Moreton Hall School, and studied economics and statistics at University College London, graduating in 1997.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Moreton Hall School"
+                },
+                {
+                  "type": "internal",
+                  "page": "University College London"
+                }
+              ]
+            },
+            {
+              "text": "Milling joined the Conservative Party while at university.",
+              "links": [
+                {
+                  "text": "Conservative Party",
+                  "type": "internal",
+                  "page": "Conservative Party (UK)"
+                }
+              ]
+            },
+            {
+              "text": "Following university, Milling joined market research firm SW1 Research."
+            },
+            {
+              "text": "She left the company in 1999 to join Quaestor where she eventually became a director."
+            },
+            {
+              "text": "Milling then worked as head of clients for Optimisa Research between 2010 and 2014."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.tatler.com/school/moreton-hall-tatler-school-guide",
+          "title": "Moreton Hall",
+          "access-date": "14 February 2020",
+          "work": "Tatler",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Dale",
+          "first1": "Iain",
+          "last2": "Smith",
+          "first2": "Jacqui",
+          "title": "The Honourable Ladies: Volume II: Profiles of Women MPs 1997–2019",
+          "url": "https://books.google.com/books?id=E9a8DwAAQBAJ&pg=PT664",
+          "date": "14 November 2019",
+          "publisher": "Biteback Publishing",
+          "isbn": "978-1-78590-447-9",
+          "page": "664",
+          "template": "citation",
+          "type": "book"
+        },
+        {
+          "last": "Carr",
+          "first": "Tim",
+          "title": "The Politicos Guide to the New House of Commons 2015: Profiles of the New MPs and Analysis of the 2015 General Election Results",
+          "url": "https://books.google.com/books?id=BVWqCQAAQBAJ&pg=PT335",
+          "date": "18 May 2015",
+          "publisher": "Biteback Publishing",
+          "isbn": "978-1-84954-924-0",
+          "page": "335",
+          "template": "citation",
+          "type": "book"
+        }
+      ]
+    },
+    {
+      "title": "Political career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Milling was elected as a Conservative councillor for the Helmshore ward on the Rossendale Borough Council in Lancashire in 2009.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Rossendale Borough Council"
+                },
+                {
+                  "type": "internal",
+                  "page": "Lancashire"
+                }
+              ]
+            },
+            {
+              "text": "Three years later she was promoted to deputy group leader on the council."
+            },
+            {
+              "text": "She resigned her seat in 2014 after her selection as the Conservative candidate for the Cannock Chase constituency in Staffordshire.",
+              "links": [
+                {
+                  "text": "Cannock Chase",
+                  "type": "internal",
+                  "page": "Cannock Chase (UK Parliament constituency)"
+                }
+              ]
+            },
+            {
+              "text": "The incumbent Conservative MP Aidan Burley had previously announced that he would be standing down at the next election.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Aidan Burley"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In the 2015 general election, she was elected with a majority of 4,923 (10.5%).",
+              "links": [
+                {
+                  "text": "2015 general election",
+                  "type": "internal",
+                  "page": "2015 United Kingdom general election"
+                }
+              ]
+            },
+            {
+              "text": "The following year, Milling was one of a number of MPs investigated by the Electoral Commission and the police for 2015 Unitallegedly breaching spending regulations in the election.",
+              "links": [
+                {
+                  "text": "Electoral Commission",
+                  "type": "internal",
+                  "page": "Electoral Commission (United Kingdom)"
+                },
+                {
+                  "text": "2015 Unitallegedly breaching spending regulations",
+                  "type": "internal",
+                  "page": "2015 United Kingdom general election party spending investigation",
+                  "anchor": "2014 and 2015 elections, Conservative Party"
+                }
+              ]
+            },
+            {
+              "text": "The Commission fined the Conservative Party £70,000 in March 2017 for \"significant failures\" in its reporting of campaign spending."
+            },
+            {
+              "text": "After completing their investigation, the police referred the matter to the Crown Prosecution Service who concluded that, although there was evidence of inaccuracy in the reporting of spending, they would not take further action as it was not clear that candidates or agents had knowingly acted dishonestly.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Crown Prosecution Service"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "During the 2015–2017 parliament, Milling served on the Business, Energy and Industrial Strategy Committee, Education, Skills and the Economy Sub-Committee.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Business, Energy and Industrial Strategy Committee"
+                }
+              ]
+            },
+            {
+              "text": "Parliamentary enquiries that she was part of include the collapse of BHS, and the working practices at Sports Direct.",
+              "links": [
+                {
+                  "text": "BHS",
+                  "type": "internal",
+                  "page": "British Home Stores"
+                },
+                {
+                  "type": "internal",
+                  "page": "Sports Direct"
+                }
+              ]
+            },
+            {
+              "text": "She also served on Bill Committees including for the Welfare Reform and Work Bill and Policing and Crime Bill."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Milling supported the UK remaining within the European Union in the 2016 UK EU membership referendum.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "European Union"
+                },
+                {
+                  "text": "2016 UK EU membership referendum",
+                  "type": "internal",
+                  "page": "2016 United Kingdom European Union membership referendum"
+                }
+              ]
+            },
+            {
+              "text": "After the referendum, she helped to organise Boris Johnson's 2016 Conservative leadership campaign.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Boris Johnson"
+                },
+                {
+                  "text": "2016 Conservative leadership campaign",
+                  "type": "internal",
+                  "page": "2016 Conservative Party leadership election"
+                }
+              ]
+            },
+            {
+              "text": "In the 2017 general election, she was re-elected with an increased majority of 8,391 (17.6%).",
+              "links": [
+                {
+                  "text": "2017 general election",
+                  "type": "internal",
+                  "page": "2017 United Kingdom general election"
+                }
+              ]
+            },
+            {
+              "text": "She was made an assistant government whip during the reshuffle on 9 January 2018.",
+              "links": [
+                {
+                  "text": "reshuffle on 9 January 2018",
+                  "type": "internal",
+                  "page": "2018 British cabinet reshuffle"
+                }
+              ]
+            },
+            {
+              "text": "Milling voted for then Prime Minister Theresa May's Brexit withdrawal agreement in early 2019.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Theresa May"
+                },
+                {
+                  "type": "internal",
+                  "page": "Brexit withdrawal agreement"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "After the election of Johnson as prime minister in July 2019, she was appointed as Deputy Chief Whip and Treasurer of the Household in his ministry.",
+              "links": [
+                {
+                  "text": "his ministry",
+                  "type": "internal",
+                  "page": "Second Johnson ministry"
+                }
+              ]
+            },
+            {
+              "text": "She voted for Johnson's Brexit withdrawal agreement in October 2019."
+            },
+            {
+              "text": "In the 2019 general election, she was re-elected with an increased majority of 19,879 (42.9%).",
+              "links": [
+                {
+                  "text": "2019 general election",
+                  "type": "internal",
+                  "page": "2019 United Kingdom general election"
+                }
+              ]
+            },
+            {
+              "text": "As part of the 2020 cabinet reshuffle, Milling was promoted to Chairman of the Conservative Party and Minister without Portfolio.",
+              "links": [
+                {
+                  "text": "2020 cabinet reshuffle",
+                  "type": "internal",
+                  "page": "2020 British cabinet reshuffle"
+                },
+                {
+                  "type": "internal",
+                  "page": "Chairman of the Conservative Party"
+                },
+                {
+                  "text": "Minister without Portfolio",
+                  "type": "internal",
+                  "page": "Minister without portfolio (United Kingdom)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "At the 2021 British cabinet reshuffle, Milling was made the new Minister of State for Asia and the Middle East, making her the only cabinet minister to leave the cabinet whilst remaining part of the government.",
+              "links": [
+                {
+                  "text": "2021 British cabinet reshuffle",
+                  "type": "internal",
+                  "page": "2021 British cabinet reshuffle"
+                },
+                {
+                  "type": "internal",
+                  "page": "Minister of State for Asia and the Middle East"
+                }
+              ]
+            },
+            {
+              "text": "In April-May 2022 she was sent to the British Virgin Islands following the arrest of former premier, Andrew Fahie, on drugs running charges in the United States.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "British Virgin Islands"
+                },
+                {
+                  "type": "internal",
+                  "page": "Andrew Fahie"
+                }
+              ]
+            },
+            {
+              "text": "The idea of direct rule from the UK was being considered but without the support of the acting premier Natalio Wheatley.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Natalio Wheatley"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Milling endorsed Nadhim Zahawi during the 2022 Conservative Party leadership election.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Nadhim Zahawi"
+                },
+                {
+                  "text": "2022 Conservative Party leadership election",
+                  "type": "internal",
+                  "page": "2022 Conservative Party leadership election (UK)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "By-election due to be held after councillor steps down",
+          "url": "https://www.rossendalefreepress.co.uk/news/local-news/by-election-due-held-after-councillor-7698144",
+          "work": "Rossendale Free Press",
+          "access-date": "4 March 2018",
+          "author": "Dan O'Donoghue",
+          "date": "1 September 2014",
+          "archive-url": "https://web.archive.org/web/20180305063739/https://www.rossendalefreepress.co.uk/news/local-news/by-election-due-held-after-councillor-7698144",
+          "archive-date": "5 March 2018",
+          "url-status": "live",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.theguardian.com/world/2014/jan/21/tory-mp-aidan-burley-nazi-stag-party-france-offensive-not-antisemitic",
+          "work": "The Guardian",
+          "title": "Tory MP Aidan Burley ruled 'stupid' but not antisemitic for Nazi stag party",
+          "date": "22 January 2014",
+          "access-date": "14 February 2020",
+          "last1": "Watt",
+          "first1": "Nicholas",
+          "last2": "Willsher",
+          "first2": "Kim",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.bbc.co.uk/news/uk-politics-26059862",
+          "work": "BBC News",
+          "title": "Nazi stag-do Tory MP Aidan Burley to step down",
+          "access-date": "14 February 2020",
+          "date": "5 February 2014",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://news.channel4.com/livepages/2016/election-expenses/",
+          "title": "Election Expenses Exposed",
+          "publisher": "Channel 4 News",
+          "access-date": "27 July 2018",
+          "date": "23 June 2016",
+          "archive-url": "https://web.archive.org/web/20180501093140/https://news.channel4.com/livepages/2016/election-expenses/",
+          "archive-date": "1 May 2018",
+          "url-status": "live",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.theguardian.com/politics/2017/mar/16/conservatives-fined-70000-for-campaign-spending-failures",
+          "work": "The Guardian",
+          "title": "Conservatives fined record £70,000 for campaign spending failures",
+          "date": "16 March 2017",
+          "access-date": "14 February 2020",
+          "last1": "Elgot",
+          "first1": "Jessica",
+          "last2": "Mason",
+          "first2": "Rowena",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.theguardian.com/politics/live/2017/may/10/general-election-2017-tory-mps-expenses-one-show-politics-live?page=with:block-5912e677e4b0f5ae171e0e40",
+          "title": "Corbyn says he is 'surprised' by CPS decision not to prosecute over Tory election expenses – as it happened",
+          "work": "The Guardian",
+          "last": "Sparrow",
+          "first": "Andrew",
+          "date": "10 May 2017",
+          "access-date": "14 February 2020",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://members.parliament.uk/member/4454/career",
+          "title": "Parliamentary career for Amanda Milling",
+          "access-date": "14 February 2020",
+          "publisher": "parliament.uk",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.parliament.uk/business/committees/committees-a-z/commons-select/work-and-pensions-committee/inquiries/parliament-2015/bhs-inquiry-16-17/membership/",
+          "title": "BHS Inquiry Committee – membership",
+          "publisher": "parliament.uk",
+          "access-date": "30 August 2016",
+          "url-status": "live",
+          "archive-url": "https://web.archive.org/web/20160822190103/http://www.parliament.uk/business/committees/committees-a-z/commons-select/work-and-pensions-committee/inquiries/parliament-2015/bhs-inquiry-16-17/membership/",
+          "archive-date": "22 August 2016",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://publications.parliament.uk/pa/cm201617/cmselect/cmbis/219/21901.htm#",
+          "title": "House of Commons – Employment practices at Sports Direct – Business, Innovation and Skills Committee",
+          "publisher": "parliament.uk",
+          "access-date": "30 August 2016",
+          "url-status": "live",
+          "archive-url": "https://web.archive.org/web/20160917062629/http://www.publications.parliament.uk/pa/cm201617/cmselect/cmbis/219/21901.htm",
+          "archive-date": "17 September 2016",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://services.parliament.uk/bills/2015-16/welfarereformandwork/committees/houseofcommonspublicbillcommitteeonthewelfarereformandworkbill201516.html",
+          "title": "House of Commons Public Bill Committee on the Welfare Reform and Work Bill 2015–16 — UK Parliament",
+          "publisher": "parliament.uk",
+          "access-date": "30 August 2016",
+          "url-status": "live",
+          "archive-url": "https://web.archive.org/web/20160917041623/http://services.parliament.uk/bills/2015-16/welfarereformandwork/committees/houseofcommonspublicbillcommitteeonthewelfarereformandworkbill201516.html",
+          "archive-date": "17 September 2016",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://publications.parliament.uk/pa/cm201516/cmpublic/policingandcrime/160315/am/160315s01.htm",
+          "title": "House of Commons Public Bill Committee : Policing and Crime Bill (15 March 2016)",
+          "publisher": "parliament.uk",
+          "access-date": "30 August 2016",
+          "url-status": "live",
+          "archive-url": "https://web.archive.org/web/20160917051000/http://www.publications.parliament.uk/pa/cm201516/cmpublic/policingandcrime/160315/am/160315s01.htm",
+          "archive-date": "17 September 2016",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.bbc.co.uk/news/uk-politics-eu-referendum-35616946",
+          "title": "EU vote: Where the cabinet and other MPs stand",
+          "date": "22 June 2016",
+          "access-date": "14 February 2020",
+          "work": "BBC News",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.standard.co.uk/lifestyle/london-life/tory-leadership-election-boris-johnson-s-transformation-into-a-prime-minister-in-waiting-a3283781.html",
+          "work": "London Evening Standard",
+          "title": "Tory leadership election: Boris Johnson's transformation into a Prime Minister in waiting",
+          "last1": "Murphy",
+          "first1": "Joe",
+          "last2": "Watts",
+          "first2": "Joseph",
+          "date": "29 June 2016",
+          "access-date": "14 February 2020",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.theguardian.com/politics/2018/jan/09/theresa-may-junior-ministerial-reshuffle-whos-in-whos-out",
+          "title": "Theresa May's junior ministerial reshuffle: who's in and who's out",
+          "last": "correspondent",
+          "first": "Peter Walker Political",
+          "date": "9 January 2018",
+          "work": "The Guardian",
+          "access-date": "9 January 2018",
+          "issn": "0261-3077",
+          "archive-url": "https://web.archive.org/web/20180116140702/https://www.theguardian.com/politics/2018/jan/09/theresa-may-junior-ministerial-reshuffle-whos-in-whos-out",
+          "archive-date": "16 January 2018",
+          "url-status": "live",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://ig.ft.com/brexit-exit-deal-vote/",
+          "archive-url": "https://web.archive.org/web/20190902092554/https://ig.ft.com/brexit-exit-deal-vote/",
+          "archive-date": "2 September 2019",
+          "date": "29 March 2019",
+          "title": "How MPs voted on May's withdrawal deal defeat",
+          "work": "Financial Times",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.gov.uk/government/people/amanda-milling",
+          "title": "Amanda Milling MP – gov.uk",
+          "publisher": "www.gov.uk",
+          "access-date": "28 July 2019",
+          "archive-url": "https://web.archive.org/web/20190728135003/https://www.gov.uk/government/people/amanda-milling",
+          "archive-date": "28 July 2019",
+          "url-status": "live",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.bbc.co.uk/news/uk-politics-50145265",
+          "work": "BBC News",
+          "date": "22 October 2019",
+          "access-date": "14 February 2020",
+          "title": "Brexit deal: How did my MP vote on the Withdrawal Agreement Bill?",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.theguardian.com/politics/2020/feb/13/boris-johnson-reshuffle-whos-in-whos-out-at-a-glance",
+          "work": "The Guardian",
+          "title": "Boris Johnson's reshuffle: who's in, who's out, at a glance",
+          "date": "13 February 2020",
+          "access-date": "14 February 2020",
+          "last1": "Proctor",
+          "first1": "Kate",
+          "last2": "Walker",
+          "first2": "Peter",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Amanda Milling sacked as Co-Chairman of Conservative Party in cabinet reshuffle",
+          "url": "https://www.denbighshirefreepress.co.uk/news/national/uk-today/19582566.amanda-milling-sacked-co-chairman-conservative-party/",
+          "date": "15 September 2021",
+          "access-date": "18 September 2021",
+          "website": "Denbighshire Free Press",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2022-04-30",
+          "title": "Plan for direct UK rule of British Virgin Islands opposed by acting premier",
+          "url": "https://www.theguardian.com/world/2022/apr/30/call-for-direct-rule-of-british-virgin-islands-resisted-by-acting-premier",
+          "access-date": "2022-05-01",
+          "website": "the Guardian",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2022-05-01",
+          "title": "British Virgin Islands: UK minister dispatched for governance talks",
+          "language": "en-GB",
+          "work": "BBC News",
+          "url": "https://www.bbc.com/news/uk-61280587",
+          "access-date": "2022-05-01",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Madeley",
+          "first1": "Peter",
+          "title": "Tory leadership race: Early favourite among region's MPs as nominations deadline looms",
+          "url": "https://www.expressandstar.com/news/politics/2022/07/12/tory-leadership-race-penny-mordaunt-an-early-favourite-among-regions-mps-as-nominations-deadline-looms/",
+          "access-date": "12 July 2022",
+          "work": "Express & Star",
+          "date": "12 July 2022",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.bbc.co.uk/news/politics/constituencies/E14000618",
+          "title": "Cannock Chase",
+          "access-date": "14 February 2020",
+          "archive-url": "https://web.archive.org/web/20200214092229/https://www.bbc.co.uk/news/politics/constituencies/E14000618",
+          "archive-date": "14 February 2020",
+          "work": "BBC News",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.bbc.co.uk/news/uk-politics-39865801",
+          "work": "BBC News",
+          "title": "No charges over 2015 Conservative battle bus cases",
+          "date": "10 May 2017",
+          "access-date": "27 July 2018",
+          "archive-url": "https://web.archive.org/web/20180628031934/https://www.bbc.co.uk/news/uk-politics-39865801",
+          "archive-date": "28 June 2018",
+          "url-status": "live",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Notes",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "notelist"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "commons category"
+        },
+        {
+          "parliament": "amanda-milling/4454",
+          "publicwhip": "Amanda_Milling",
+          "theywork": "amanda_milling",
+          "template": "uk mp links"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "list": [
+            "uk"
+          ],
+          "template": "s-par"
+        },
+        {
+          "before": "Aidan Burley",
+          "template": "s-bef"
+        },
+        {
+          "title": "Member of Parliament\nfor Cannock Chase",
+          "years": "2015–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "template": "s-off"
+        },
+        {
+          "before": "Christopher Pincher",
+          "template": "s-bef"
+        },
+        {
+          "title": "Treasurer of the Household",
+          "years": "2019–2020",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Stuart Andrew",
+          "template": "s-aft"
+        },
+        {
+          "before": "James Cleverly",
+          "template": "s-bef"
+        },
+        {
+          "title": "Minister without Portfolio",
+          "years": "2020–2021",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Oliver Dowden",
+          "template": "s-aft"
+        },
+        {
+          "before": "Nigel Adams",
+          "template": "s-bef"
+        },
+        {
+          "title": "Minister of State for Asia",
+          "years": "2021–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "template": "s-ppo"
+        },
+        {
+          "before": "Christopher Pincher",
+          "template": "s-bef"
+        },
+        {
+          "title": "Government Deputy Chief Whip in the House of Commons",
+          "years": "2019–2020",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Stuart Andrew",
+          "template": "s-aft"
+        },
+        {
+          "before": "James Cleverly\nBen Elliot",
+          "template": "s-bef"
+        },
+        {
+          "title": "Chairman of the Conservative Party\nServing with Ben Elliot",
+          "years": "2020–2021",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Oliver Dowden",
+          "template": "s-aft"
+        },
+        {
+          "template": "johnson cabinet"
+        },
+        {
+          "template": "west midlands conservative party mps"
+        },
+        {
+          "template": "conservative party (uk)"
+        },
+        {
+          "template": "authority control"
+        }
+      ]
+    }
+  ]
+}

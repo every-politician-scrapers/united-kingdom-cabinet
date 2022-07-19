@@ -1,0 +1,867 @@
+{
+  "title": "Karen Pierce",
+  "pageID": 35589852,
+  "categories": [
+    "1959 births",
+    "21st-century diplomats",
+    "People from Preston, Lancashire",
+    "British women ambassadors",
+    "Alumni of Girton College, Cambridge",
+    "Alumni of the London School of Economics",
+    "Ambassadors of the United Kingdom to Afghanistan",
+    "Ambassadors of the United Kingdom to the United States",
+    "Dames Commander of the Order of St Michael and St George",
+    "Living people",
+    "Permanent Representatives of the United Kingdom to the United Nations",
+    "Permanent Representatives to the World Trade Organization"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Dame Karen Elizabeth Pierce (born 23 September 1959) is a British diplomat who is currently British Ambassador to the United States at the Foreign, Commonwealth and Development Office, and was previously the Permanent Representative of the United Kingdom to the United Nations.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "British Ambassador to the United States"
+                },
+                {
+                  "type": "internal",
+                  "page": "Foreign, Commonwealth and Development Office"
+                },
+                {
+                  "type": "internal",
+                  "page": "Permanent Representative of the United Kingdom to the United Nations"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Dame Karen Elizabeth Pierce"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "British diplomat",
+          "template": "short description"
+        },
+        {
+          "date": "January 2021",
+          "template": "use dmy dates"
+        },
+        {
+          "date": "June 2015",
+          "template": "use british english"
+        },
+        {
+          "country": "GBR",
+          "size": "100%",
+          "list": [
+            "DCMG"
+          ],
+          "template": "post-nominals"
+        },
+        {
+          "year": "1959",
+          "month": "09",
+          "day": "23",
+          "df": "yes",
+          "template": "birth date and age"
+        },
+        {
+          "country": "GBR",
+          "size": "100%",
+          "list": [
+            "DCMG"
+          ],
+          "template": "post-nominals"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific_prefix": {
+            "text": "Her Excellency",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Her Excellency"
+              }
+            ]
+          },
+          "name": {
+            "text": "Dame Karen Pierce"
+          },
+          "image": {
+            "text": "File:Karen Pierce.jpg"
+          },
+          "caption": {
+            "text": "Pierce in 2016"
+          },
+          "office": {
+            "text": "British Ambassador to the United States",
+            "links": [
+              {
+                "text": "British Ambassador to the United States",
+                "type": "internal",
+                "page": "Ambassador of the United Kingdom to the United States"
+              }
+            ]
+          },
+          "status": {
+            "text": "Incumbent",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Incumbent"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "23 March 2020"
+          },
+          "predecessor": {
+            "text": "The Lord Darroch of Kew",
+            "links": [
+              {
+                "text": "The Lord Darroch of Kew",
+                "type": "internal",
+                "page": "Kim Darroch"
+              }
+            ]
+          },
+          "monarch": {
+            "text": "Elizabeth II",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Elizabeth II"
+              }
+            ]
+          },
+          "president": {
+            "text": "Donald Trump Joe Biden",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Donald Trump"
+              },
+              {
+                "type": "internal",
+                "page": "Joe Biden"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Boris Johnson",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Boris Johnson"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Permanent Representative of the United Kingdom to the United Nations",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Permanent Representative of the United Kingdom to the United Nations"
+              }
+            ]
+          },
+          "monarch1": {
+            "text": "Elizabeth II",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Elizabeth II"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "23 March 2018"
+          },
+          "term_end1": {
+            "text": "March 2020"
+          },
+          "predecessor1": {
+            "text": "Matthew Rycroft",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Matthew Rycroft"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Dame Barbara Woodward",
+            "links": [
+              {
+                "text": "Dame Barbara Woodward",
+                "type": "internal",
+                "page": "Barbara Woodward"
+              }
+            ]
+          },
+          "primeminister1": {
+            "text": "Theresa May\nBoris Johnson",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Theresa May"
+              },
+              {
+                "type": "internal",
+                "page": "Boris Johnson"
+              }
+            ]
+          },
+          "office2": {
+            "text": "British Ambassador to Afghanistan",
+            "links": [
+              {
+                "text": "British Ambassador to Afghanistan",
+                "type": "internal",
+                "page": "List of ambassadors of the United Kingdom to Afghanistan"
+              }
+            ]
+          },
+          "predecessor2": {
+            "text": "Richard Stagg",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Richard Stagg"
+              }
+            ]
+          },
+          "succeeded2": {
+            "text": "Dominic Jermey",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Dominic Jermey"
+              }
+            ]
+          },
+          "termend2": {
+            "text": "29 February 2016"
+          },
+          "termstart2": {
+            "text": "1 May 2015"
+          },
+          "monarch2": {
+            "text": "Elizabeth II",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Elizabeth II"
+              }
+            ]
+          },
+          "primeminister2": {
+            "text": "David Cameron",
+            "links": [
+              {
+                "type": "internal",
+                "page": "David Cameron"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "September 23, 1959"
+          },
+          "birth_place": {
+            "text": "Preston, Lancashire, UK",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Preston, Lancashire"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Girton College, Cambridge (BA) \n\nLondon School of Economics and Political Science (MSc)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Girton College, Cambridge"
+              },
+              {
+                "type": "internal",
+                "page": "London School of Economics and Political Science"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Charles Roxburgh",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Charles Roxburgh"
+              }
+            ]
+          },
+          "children": {
+            "text": "2",
+            "number": 2
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Birthdays",
+          "work": "The Guardian",
+          "pages": "41",
+          "date": "23 September 2014",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last": "Wintour",
+          "first": "Patrick",
+          "author-link": "Patrick Wintour",
+          "date": "27 November 2017",
+          "title": "Karen Pierce becomes first female UK ambassador to the UN",
+          "work": "The Guardian",
+          "url": "https://www.theguardian.com/world/2017/nov/27/karen-pierce-first-female-uk-ambassador-to-un",
+          "access-date": "3 May 2018",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "UK Names First Woman US Ambassador",
+          "url": "https://www.bbc.co.uk/news/uk-politics-51413307",
+          "date": "7 February 2020",
+          "access-date": "7 February 2020",
+          "publisher": "BBC",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Education",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Pierce was born in Preston, Lancashire, the granddaughter of Preston millworkers and only the second person in her family to go to university.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Preston, Lancashire"
+                }
+              ]
+            },
+            {
+              "text": "She was educated at Penwortham Girls' High School in Lancashire and Girton College, Cambridge (BA in English, later raised to MA).",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Penwortham Girls' High School"
+                },
+                {
+                  "type": "internal",
+                  "page": "Lancashire"
+                },
+                {
+                  "type": "internal",
+                  "page": "Girton College, Cambridge"
+                },
+                {
+                  "text": "BA",
+                  "type": "internal",
+                  "page": "Bachelor of Arts"
+                },
+                {
+                  "text": "MA",
+                  "type": "internal",
+                  "page": "Master of Arts (Oxbridge and Dublin)"
+                }
+              ]
+            },
+            {
+              "text": "In 2012 she gained an MSc degree in International Strategy and Diplomacy from the London School of Economics (LSE).",
+              "links": [
+                {
+                  "text": "MSc",
+                  "type": "internal",
+                  "page": "Master of Science"
+                },
+                {
+                  "type": "internal",
+                  "page": "London School of Economics"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://inews.co.uk/news/politics/karen-pierce-who-is-explained-uk-ambassador-us-international-relations-395478",
+          "title": "Meet Karen Pierce, the first woman to become the UK's ambassador to the US",
+          "first": "Richard",
+          "last": "Vaughan",
+          "date": "7 February 2020",
+          "website": "inews.co.uk",
+          "access-date": "6 March 2022",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.passblue.com/2019/06/12/call-me-dame-karen-uks-ambassador-dashes-style-with-diplomacy/",
+          "title": "Call Me Dame Karen: UK's Ambassador Dashes Style With Diplomacy",
+          "first": "Laura E.",
+          "last": "Kirkpatrick",
+          "publisher": "PassBlue",
+          "date": "12 June 2019",
+          "access-date": "6 March 2020",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.lse.ac.uk/News/Latest-news-from-LSE/2020/b-Feb-20/Dame-Karen-Pierce-new-UK-Ambassador-to-US",
+          "title": "LSE alumna to be UK's first female US Ambassador",
+          "publisher": "The London School of Economics and Science",
+          "date": "7 February 2020",
+          "access-date": "6 March 2020",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Pierce joined the Foreign and Commonwealth Office (FCO) in 1981.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Foreign and Commonwealth Office"
+                }
+              ]
+            },
+            {
+              "text": "After a period of training in Japanese, she was posted to Tokyo as a Third Secretary in 1984.",
+              "links": [
+                {
+                  "text": "Japanese",
+                  "type": "internal",
+                  "page": "Japanese language"
+                },
+                {
+                  "type": "internal",
+                  "page": "Tokyo"
+                }
+              ]
+            },
+            {
+              "text": "In 1987, she returned to London and joined the Security Policy Department of the FCO."
+            },
+            {
+              "text": "From 1992 to 1995, she was based in Washington, D.C., as Private Secretary to the Ambassador.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Washington, D.C."
+                },
+                {
+                  "type": "internal",
+                  "page": "Private Secretary"
+                }
+              ]
+            },
+            {
+              "text": "She held various positions at the FCO between 1996 and 2000: Team Leader for Ukraine, Belarus and Moldova (1996 to 1997), Deputy Head Eastern Adriatic (Balkans) Department (1997 to 1999), and Head of the FCO Newsroom (1999 to 2000).",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ukraine"
+                },
+                {
+                  "type": "internal",
+                  "page": "Belarus"
+                },
+                {
+                  "type": "internal",
+                  "page": "Moldova"
+                },
+                {
+                  "type": "internal",
+                  "page": "Balkans"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "From 2006 to 2009 Pierce was the UK's Deputy Permanent Representative to the United Nations in New York.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Permanent Representative"
+                }
+              ]
+            },
+            {
+              "text": "In this capacity, she acted as the President of the UN Security Council in April 2007 and in May 2008.",
+              "links": [
+                {
+                  "text": "President",
+                  "type": "internal",
+                  "page": "President of the United Nations Security Council"
+                },
+                {
+                  "text": "UN Security Council",
+                  "type": "internal",
+                  "page": "United Nations Security Council"
+                }
+              ]
+            },
+            {
+              "text": "From 2009 to 2012 she was Director, South Asia and Afghanistan at the FCO, acting as the UK Special Representative for Afghanistan and Pakistan June 2010 – June 2011.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "South Asia"
+                },
+                {
+                  "type": "internal",
+                  "page": "Afghanistan"
+                },
+                {
+                  "type": "internal",
+                  "page": "Pakistan"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "From 2012 to 2015 Pierce was the Permanent Representative of the United Kingdom to the United Nations in Geneva, and also to other international organisations in Geneva including the World Trade Organization.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "United Nations"
+                },
+                {
+                  "type": "internal",
+                  "page": "Geneva"
+                },
+                {
+                  "text": "international organisations in Geneva",
+                  "type": "internal",
+                  "page": "List of international organizations based in Geneva"
+                },
+                {
+                  "type": "internal",
+                  "page": "World Trade Organization"
+                }
+              ]
+            },
+            {
+              "text": "From May 2015 to February 2016 she was the United Kingdom's Ambassador to the Islamic Republic of Afghanistan.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ambassador"
+                },
+                {
+                  "type": "internal",
+                  "page": "Islamic Republic of Afghanistan"
+                }
+              ]
+            },
+            {
+              "text": "Until early 2018, she served as the FCO's Director General Political."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Pierce was appointed as the UK's Permanent Representative to the UN in March 2018, the first woman to take on this role."
+            },
+            {
+              "text": "During her time in office, Britain coordinated the Council's activities on Myanmar.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Myanmar"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "She was appointed Dame Commander of the Order of St Michael and St George (DCMG) in the 2018 Birthday Honours.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Dame Commander of the Order of St Michael and St George"
+                },
+                {
+                  "text": "2018 Birthday Honours",
+                  "type": "internal",
+                  "page": "2018 Birthday Honours"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On 7 February 2020, she was named as the new ambassador of the United Kingdom to the United States and became the first woman in the post, replacing Lord Darroch of Kew.",
+              "links": [
+                {
+                  "text": "ambassador of the United Kingdom to the United States",
+                  "type": "internal",
+                  "page": "List of ambassadors of the United Kingdom to the United States"
+                },
+                {
+                  "text": "Lord Darroch of Kew",
+                  "type": "internal",
+                  "page": "Kim Darroch"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "New UK Ambassador to Afghanistan Presents Letter of Credence to President Ghani",
+          "publisher": "Office of the President of the Islamic Republic of Afghanistan",
+          "date": "26 May 2015",
+          "url": "http://president.gov.af/en/news/46954",
+          "archive-url": "https://web.archive.org/web/20150715175845/https://president.gov.af/en/news/46954",
+          "archive-date": "15 July 2015",
+          "template": "citation",
+          "type": "press release"
+        },
+        {
+          "url": "https://www.un.org/press/en/2018/bio5076.doc.htm",
+          "title": "New Permanent Representative of United Kingdom Presents Credentials - Meetings Coverage and Press Releases",
+          "website": "www.un.org",
+          "access-date": "18 April 2018",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "number": "1095720812051685376",
+          "user": "UKUN_NewYork",
+          "date": "13 February 2019",
+          "title": "Formal investiture of Dame Karen Pierce today at Buckingham Palace. Her Royal Highness The Princess Royal has bestowed the honour of Dame Commander of St Michael and St George upon @KarenPierceUN in recognition of her long-term outstanding contribution to British foreign policy.",
+          "template": "citation",
+          "type": "tweet"
+        },
+        {
+          "title": "UK names first woman US ambassador",
+          "date": "7 February 2020",
+          "url": "https://www.bbc.co.uk/news/uk-politics-51413307",
+          "publisher": "BBC News",
+          "access-date": "7 February 2020",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Change of UK's Permanent Representative to the United Nations and World Trade Organisation in Geneva",
+          "url": "http://www.fco.gov.uk/en/news/latest-news/?view=PressR&id=640193382",
+          "publisher": "Foreign and Commonwealth Office",
+          "access-date": "1 July 2012",
+          "date": "5 August 2011",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "December 2020",
+          "template": "citation needed"
+        },
+        {
+          "date": "December 2020",
+          "template": "citation needed"
+        }
+      ]
+    },
+    {
+      "title": "Personal life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Pierce is married to Charles Roxburgh, a senior civil servant at HM Treasury.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Charles Roxburgh"
+                },
+                {
+                  "type": "internal",
+                  "page": "HM Treasury"
+                }
+              ]
+            },
+            {
+              "text": "Together they have two sons, born 1991 and 1997."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.gov.uk/government/people/charles-roxburgh",
+          "title": "Charles Roxburgh - GOV.UK",
+          "website": "www.gov.uk",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "c-span"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-dip"
+        },
+        {
+          "before": "Peter Gooderham",
+          "template": "s-bef"
+        },
+        {
+          "title": "British Permanent Representative to the United Nations in Geneva",
+          "years": "2012–2015",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Julian Braithwaite",
+          "template": "s-aft"
+        },
+        {
+          "before": "Sir Richard Stagg",
+          "template": "s-bef"
+        },
+        {
+          "title": "British Ambassador to Afghanistan",
+          "years": "2015–2016",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Dominic Jermey",
+          "template": "s-aft"
+        },
+        {
+          "before": "Matthew Rycroft",
+          "template": "s-bef"
+        },
+        {
+          "title": "British Permanent Representative to the United Nations",
+          "years": "2018–2020",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Dame Barbara Woodward",
+          "template": "s-aft"
+        },
+        {
+          "before": "Lord Darroch of Kew",
+          "template": "s-bef"
+        },
+        {
+          "title": "British Ambassador to the United States",
+          "years": "2020–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "template": "authority control"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "PIERCE, Karen Elizabeth, (Mrs C. F. Roxburgh), Who's Who 2014, A & C Black, 2014; online edn, Oxford University Press, 2014",
+            "links": [
+              {
+                "text": "PIERCE, Karen Elizabeth, (Mrs C. F. Roxburgh)",
+                "type": "external",
+                "site": "http://www.ukwhoswho.com/view/article/oupww/whoswho/U43012"
+              }
+            ],
+            "formatting": {
+              "italic": [
+                "Who's Who 2014"
+              ]
+            }
+          },
+          {
+            "text": "Karen Pierce CMG, gov.uk",
+            "links": [
+              {
+                "text": "Karen Pierce CMG",
+                "type": "external",
+                "site": "http://www.gov.uk/government/people/karen-pierce"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}

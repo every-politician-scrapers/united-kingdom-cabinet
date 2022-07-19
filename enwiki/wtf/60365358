@@ -1,0 +1,113 @@
+{
+  "title": "Chris Rampling",
+  "pageID": 60365358,
+  "categories": [
+    "1973 births",
+    "Living people",
+    "Members of HM Diplomatic Service",
+    "Alumni of Van Mildert College, Durham",
+    "Ambassadors of the United Kingdom to Lebanon",
+    "21st-century British diplomats"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Christopher Maxwell Rampling (born 8 October 1973, in London) is a British diplomat.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "London"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Christopher Maxwell Rampling"
+                ]
+              }
+            },
+            {
+              "text": "He served as the British Ambassador to Lebanon from September 2018 to December 2020.",
+              "links": [
+                {
+                  "text": "British Ambassador to Lebanon",
+                  "type": "internal",
+                  "page": "List of Ambassadors of the United Kingdom to Lebanon"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "British diplomat",
+          "template": "short description"
+        },
+        {
+          "date": "April 2022",
+          "template": "use dmy dates"
+        },
+        {
+          "country": "GBR",
+          "list": [
+            "MBE"
+          ],
+          "template": "postnominals"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-dip"
+        },
+        {
+          "before": "Hugo Shorter",
+          "template": "s-bef"
+        },
+        {
+          "title": "British Ambassador to Lebanon",
+          "years": "2018–2020",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Ian Collard",
+          "template": "s-aft"
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "title": "Chris Rampling MBE",
+          "url": "https://www.gov.uk/government/people/chris-rampling",
+          "website": "GOV.UK",
+          "accessdate": "30 March 2019",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "uk-diplomat-stub"
+        }
+      ]
+    }
+  ]
+}

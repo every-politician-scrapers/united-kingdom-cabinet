@@ -1,0 +1,1136 @@
+{
+  "title": "Simon Case",
+  "pageID": 49054708,
+  "categories": [
+    "1978 births",
+    "Living people",
+    "People educated at Bristol Grammar School",
+    "Alumni of Trinity College, Cambridge",
+    "Alumni of the University of London",
+    "Alumni of Queen Mary University of London",
+    "British civil servants",
+    "Civil servants in the Cabinet Office",
+    "GCHQ people",
+    "Principal Private Secretaries to the Prime Minister",
+    "Place of birth missing (living people)",
+    "Civil servants from Bristol",
+    "Commanders of the Royal Victorian Order",
+    "Members of the British Royal Household"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Simon Case (born 27 December 1978) is a British civil servant who is the current Cabinet Secretary and Head of the Home Civil Service since 9 September 2020, succeeding Sir Mark Sedwill.",
+              "links": [
+                {
+                  "text": "civil servant",
+                  "type": "internal",
+                  "page": "Civil Service (United Kingdom)"
+                },
+                {
+                  "text": "Cabinet Secretary",
+                  "type": "internal",
+                  "page": "Cabinet Secretary (United Kingdom)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Head of the Home Civil Service"
+                },
+                {
+                  "text": "Sir Mark Sedwill",
+                  "type": "internal",
+                  "page": "Mark Sedwill"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Simon Case"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Case was Downing Street Permanent Secretary to Prime Minister Boris Johnson from May to September 2020.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Downing Street"
+                },
+                {
+                  "type": "internal",
+                  "page": "Permanent Secretary"
+                },
+                {
+                  "type": "internal",
+                  "page": "Boris Johnson"
+                }
+              ]
+            },
+            {
+              "text": "That role had been vacant for eight years after Sir Jeremy Heywood left in 2012.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Jeremy Heywood"
+                }
+              ]
+            },
+            {
+              "text": "From January 2016 to May 2017, Case served under David Cameron and Theresa May as Principal Private Secretary to the Prime Minister of the United Kingdom.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "David Cameron"
+                },
+                {
+                  "type": "internal",
+                  "page": "Theresa May"
+                },
+                {
+                  "type": "internal",
+                  "page": "Principal Private Secretary to the Prime Minister of the United Kingdom"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "British civil servant",
+          "bot": "PearBOT 5",
+          "template": "short description"
+        },
+        {
+          "date": "June 2017",
+          "template": "engvarb"
+        },
+        {
+          "date": "June 2017",
+          "template": "use dmy dates"
+        },
+        {
+          "size": "100%",
+          "sep": ",",
+          "country": "GBR",
+          "list": [
+            "CVO"
+          ],
+          "template": "post-nominals"
+        },
+        {
+          "df": "yes",
+          "year": "1978",
+          "month": "12",
+          "day": "27",
+          "template": "birth date and age"
+        },
+        {
+          "spouse": "Elizabeth Kistruck",
+          "from": "2007",
+          "template": "marriage"
+        },
+        {
+          "size": "100%",
+          "sep": ",",
+          "country": "GBR",
+          "list": [
+            "CVO"
+          ],
+          "template": "post-nominals"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Simon Case"
+          },
+          "image": {
+            "text": "Simon Case (cropped).jpg"
+          },
+          "caption": {
+            "text": "Case in 2016"
+          },
+          "office": {
+            "text": "Cabinet Secretary\nHead of the Home Civil Service",
+            "links": [
+              {
+                "text": "Cabinet Secretary",
+                "type": "internal",
+                "page": "Cabinet Secretary (United Kingdom)"
+              },
+              {
+                "type": "internal",
+                "page": "Head of the Home Civil Service"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "9 September 2020"
+          },
+          "predecessor": {
+            "text": "Sir Mark Sedwill",
+            "links": [
+              {
+                "text": "Sir Mark Sedwill",
+                "type": "internal",
+                "page": "Mark Sedwill"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Boris Johnson",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Boris Johnson"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Downing Street Permanent Secretary",
+            "links": [
+              {
+                "text": "Downing Street Permanent Secretary",
+                "type": "internal",
+                "page": "10 Downing Street"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "22 May 2020"
+          },
+          "term_end1": {
+            "text": "1 September 2020"
+          },
+          "primeminister1": {
+            "text": "Boris Johnson",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Boris Johnson"
+              }
+            ]
+          },
+          "predecessor1": {
+            "text": "Sir Jeremy Heywood (2012)",
+            "links": [
+              {
+                "text": "Sir Jeremy Heywood",
+                "type": "internal",
+                "page": "Jeremy Heywood"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Samantha Jones (Acting; 2022)",
+            "links": [
+              {
+                "text": "Samantha Jones",
+                "type": "internal",
+                "page": "Samantha Jones (civil servant)"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Principal Private Secretary to the Prime Minister of the United Kingdom",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Principal Private Secretary to the Prime Minister of the United Kingdom"
+              }
+            ]
+          },
+          "primeminister2": {
+            "text": "David Cameron\nTheresa May",
+            "links": [
+              {
+                "type": "internal",
+                "page": "David Cameron"
+              },
+              {
+                "type": "internal",
+                "page": "Theresa May"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "11 January 2016"
+          },
+          "term_end2": {
+            "text": "10 May 2017"
+          },
+          "predecessor2": {
+            "text": "Chris Martin",
+            "links": [
+              {
+                "text": "Chris Martin",
+                "type": "internal",
+                "page": "Chris Martin (civil servant)"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Peter Hill",
+            "links": [
+              {
+                "text": "Peter Hill",
+                "type": "internal",
+                "page": "Peter Hill (civil servant)"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "December 27, 1978"
+          },
+          "birth_place": {
+            "text": "Bristol, England",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Bristol"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Elizabeth Kistruck (m. 2007)"
+          },
+          "children": {
+            "text": "3",
+            "number": 3
+          },
+          "education": {
+            "text": "Bristol Grammar School",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Bristol Grammar School"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Trinity College, Cambridge (BA)\nQueen Mary, University of London (PhD)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Trinity College, Cambridge"
+              },
+              {
+                "text": "BA",
+                "type": "internal",
+                "page": "Bachelor of Arts"
+              },
+              {
+                "type": "internal",
+                "page": "Queen Mary, University of London"
+              },
+              {
+                "text": "PhD",
+                "type": "internal",
+                "page": "Doctor of Philosophy"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "date": "2020-05-22",
+          "title": "Prince William loses right-hand man to Downing Street",
+          "url": "https://www.hellomagazine.com/royalty/2020052290315/prince-william-private-secretary-lands-job-downing-street/",
+          "access-date": "2020-07-03",
+          "website": "HELLO!",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "PM's new Principal Private Secretary: Simon Case",
+          "url": "https://www.gov.uk/government/news/pms-new-principal-private-secretary-simon-case",
+          "website": "GOV.UK",
+          "publisher": "Prime Minister's Office, 10 Downing Street",
+          "accessdate": "10 January 2016",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Early life and education",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Case was born on 27 December 1978 in Bristol, England.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Bristol"
+                }
+              ]
+            },
+            {
+              "text": "He was educated at Bristol Grammar School and Trinity College, Cambridge, graduating with a Bachelor of Arts (BA) degree in History.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Bristol Grammar School"
+                },
+                {
+                  "type": "internal",
+                  "page": "Trinity College, Cambridge"
+                },
+                {
+                  "type": "internal",
+                  "page": "Bachelor of Arts"
+                },
+                {
+                  "text": "History",
+                  "type": "internal",
+                  "page": "Faculty of History, University of Cambridge"
+                }
+              ]
+            },
+            {
+              "text": "While at Cambridge, he rowed and was President of Cambridge University Lightweight Rowing Club.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Cambridge University Lightweight Rowing Club"
+                }
+              ]
+            },
+            {
+              "text": "He then undertook postgraduate research in political history and studied at Queen Mary University of London and was awarded Doctor of Philosophy (PhD) degree from University of London in 2007.",
+              "links": [
+                {
+                  "text": "postgraduate research",
+                  "type": "internal",
+                  "page": "postgraduate research"
+                },
+                {
+                  "text": "political history",
+                  "type": "internal",
+                  "page": "political history"
+                },
+                {
+                  "text": "Queen Mary University of London",
+                  "type": "internal",
+                  "page": "Queen Mary, University of London"
+                },
+                {
+                  "type": "internal",
+                  "page": "Doctor of Philosophy"
+                },
+                {
+                  "type": "internal",
+                  "page": "University of London"
+                }
+              ]
+            },
+            {
+              "text": "His doctoral supervisor was Professor Peter Hennessy, and his thesis was titled The Joint Intelligence Committee and the German Question, 1947–61.",
+              "links": [
+                {
+                  "text": "doctoral supervisor",
+                  "type": "internal",
+                  "page": "doctoral supervisor"
+                },
+                {
+                  "type": "internal",
+                  "page": "Peter Hennessy"
+                },
+                {
+                  "text": "Joint Intelligence Committee",
+                  "type": "internal",
+                  "page": "Joint Intelligence Committee (United Kingdom)"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "The Joint Intelligence Committee and the German Question, 1947–61"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "last1": "Kidd",
+          "first1": "Patrick",
+          "title": "Dress down to climb ladders",
+          "url": "https://www.thetimes.co.uk/article/dress-down-to-climb-ladders-b2h35n0w7",
+          "accessdate": "2 September 2020",
+          "work": "Times",
+          "date": "2 September 2020",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "title": "The Joint Intelligence Committee and the German Question, 1947–61",
+          "url": "https://qmro.qmul.ac.uk/xmlui/handle/123456789/1495",
+          "website": "Queen Mary University of London",
+          "accessdate": "10 January 2016",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "CASE, Dr Simon",
+          "url": "http://www.ukwhoswho.com/view/article/oupww/whoswho/U283279",
+          "website": "Who's Who 2017",
+          "publisher": "Oxford University Press",
+          "accessdate": "23 March 2017",
+          "date": "November 2016",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Case joined the Civil Service in 2006.",
+              "links": [
+                {
+                  "text": "Civil Service",
+                  "type": "internal",
+                  "page": "Civil Service (United Kingdom)"
+                }
+              ]
+            },
+            {
+              "text": "He worked first within the Ministry of Defence as a policy adviser.",
+              "links": [
+                {
+                  "text": "Ministry of Defence",
+                  "type": "internal",
+                  "page": "Ministry of Defence (United Kingdom)"
+                }
+              ]
+            },
+            {
+              "text": "He then worked in the Northern Ireland Office and the Cabinet Office.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Northern Ireland Office"
+                },
+                {
+                  "type": "internal",
+                  "page": "Cabinet Office"
+                }
+              ]
+            },
+            {
+              "text": "In 2012, he served as Head of the Olympic Secretariat, a temporary team within the Cabinet Office that was set up to oversee the delivery of the 2012 Summer Olympics.",
+              "links": [
+                {
+                  "text": "Secretariat",
+                  "type": "internal",
+                  "page": "Secretariat (administrative office)"
+                },
+                {
+                  "text": "2012 Summer Olympics",
+                  "type": "internal",
+                  "page": "2012 Summer Olympics"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "From 2012 and July 2014, Case worked at 10 Downing Street as a Private Secretary to the Prime Minister and then as Deputy Principal Private Secretary to the Prime Minister.",
+              "links": [
+                {
+                  "text": "10 Downing Street",
+                  "type": "internal",
+                  "page": "10 Downing Street"
+                },
+                {
+                  "type": "internal",
+                  "page": "Private Secretary"
+                },
+                {
+                  "type": "internal",
+                  "page": "Principal Private Secretary"
+                }
+              ]
+            },
+            {
+              "text": "He then returned to the Cabinet Office, where he was Executive Director of the Implementation Group."
+            },
+            {
+              "text": "In March 2015, he joined Government Communications Headquarters (GCHQ) as Director of Strategy.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Government Communications Headquarters"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On 8 January 2016, Case was announced as the next Principal Private Secretary to the Prime Minister in succession to Chris Martin who had died while in office.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Principal Private Secretary to the Prime Minister"
+                },
+                {
+                  "text": "Chris Martin",
+                  "type": "internal",
+                  "page": "Chris Martin (civil servant)"
+                }
+              ]
+            },
+            {
+              "text": "Case took up the appointment on 11 January 2016."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In March 2017, Case was announced as the Director General for the UK–EU Partnership, being succeeded by Peter Hill as Principal Private Secretary to the Prime Minister on 10 May 2017.",
+              "links": [
+                {
+                  "text": "Peter Hill",
+                  "type": "internal",
+                  "page": "Peter Hill (civil servant)"
+                }
+              ]
+            },
+            {
+              "text": "He took up the post in May 2017."
+            },
+            {
+              "text": "In this role he was \"leading the UK Government's work on exiting and seeking a new partnership with the European Union within the UK Representation to the EU\".",
+              "links": [
+                {
+                  "text": "UK Representation to the EU",
+                  "type": "internal",
+                  "page": "List of permanent representatives of the United Kingdom to the European Union"
+                }
+              ]
+            },
+            {
+              "text": "On 23 June 2017, he was appointed a Commander of the Royal Victorian Order (CVO) in recognition of his service as Principal Private Secretary to the Prime Minister.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Commander of the Royal Victorian Order"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In January 2018, he was appointed Director General Northern Ireland and Ireland: in this role, he acted as the lead civil servant for finding a solution to the Irish border issue post-Brexit.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Irish border"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In March 2018, it was announced that Case would be the next Private Secretary to Prince William, Duke of Cambridge; he took up the appointment in July 2018.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Prince William, Duke of Cambridge"
+                }
+              ]
+            },
+            {
+              "text": "Also in 2018, Case was appointed a Visiting Professor at King's College London, having previously been a Visiting Senior Research Fellow at the university.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "King's College London"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "last1": "Chambers",
+          "first1": "Joshua",
+          "title": "The other Team GB",
+          "url": "http://www.civilserviceworld.com/the-other-team-gb",
+          "website": "Civil Service World",
+          "accessdate": "10 January 2016",
+          "date": "2 November 2012",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "CENTRAL CHANCERY OF THE ORDERS OF KNIGHTHOOD",
+          "url": "https://www.thegazette.co.uk/notice/2811817",
+          "accessdate": "8 July 2017",
+          "work": "London Gazette",
+          "date": "7 July 2017",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Director General Simon Case",
+          "url": "https://www.gov.uk/government/people/simon-case",
+          "website": "GOV.UK",
+          "accessdate": "28 March 2018",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Clare Lombardelli & Simon Case: New Visiting Professors",
+          "website": "King's College London",
+          "url": "https://www.kcl.ac.uk/archive/news/sspp/newsrecords/2018/clare-lombardelli-simon-case-new-visiting-professors",
+          "access-date": "2021-04-25",
+          "date": "2018",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last1": "Agbonlahor",
+          "first1": "Winnie",
+          "title": "PM's private secretary to lead Implementation Unit",
+          "url": "http://www.civilserviceworld.com/articles/news/pms-private-secretary-lead-implementation-unit",
+          "website": "Civil Service World",
+          "accessdate": "10 January 2016",
+          "date": "26 June 2014",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Downing Street names Simon Case as David Cameron's new principal private secretary",
+          "url": "http://www.civilserviceworld.com/articles/news/downing-street-names-simon-case-david-camerons-new-principal-private-secretary",
+          "website": "Civil Service World",
+          "accessdate": "10 January 2016",
+          "date": "8 January 2016",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Senior appointments at UK Permanent Representation to the EU",
+          "url": "https://www.gov.uk/government/news/senior-appointments-at-uk-permanent-representation-to-the-eu",
+          "website": "GOV.UK",
+          "publisher": "Foreign & Commonwealth Office",
+          "accessdate": "8 July 2017",
+          "date": "10 March 2017",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Simon Case",
+          "url": "https://www.gov.uk/government/people/simon-case",
+          "website": "GOV.UK",
+          "accessdate": "8 July 2017",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last1": "O'Carroll",
+          "first1": "Lisa",
+          "title": "Brexit official tasked with solving Irish border issue quits",
+          "url": "https://www.theguardian.com/politics/2018/mar/26/simon-case-brexit-irish-border-prince-william-private-secretary",
+          "accessdate": "28 March 2018",
+          "work": "The Guardian",
+          "date": "26 March 2018",
+          "language": "en",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Ship",
+          "first1": "Chris",
+          "title": "Prince William's new Private Secretary swaps Brexit for Royal Household",
+          "url": "http://www.itv.com/news/2018-03-26/prince-williams-new-private-secretary-swaps-brexit-for-royal-household/",
+          "website": "ITV News",
+          "accessdate": "28 March 2018",
+          "date": "26 March 2018",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Head of the Home Civil Service and Cabinet Secretary",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "In August 2020 Case was chosen by Prime Minister Boris Johnson as Cabinet Secretary and Head of the Home Civil Service, succeeding Mark Sedwill on 9 September 2020, the youngest Cabinet Secretary to date.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Boris Johnson"
+                },
+                {
+                  "text": "Cabinet Secretary",
+                  "type": "internal",
+                  "page": "Cabinet Secretary (United Kingdom)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Head of the Home Civil Service"
+                },
+                {
+                  "type": "internal",
+                  "page": "Mark Sedwill"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In April 2021, in light of the Greensill scandal, Case ordered all civil servants to declare paid roles or outside interests that \"might conflict\" with Civil Service rules after it emerged that a senior official had joined a firm while still a civil servant.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Greensill scandal"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On 15 June 2021, Case and Prime Minister Johnson jointly signed a Declaration on Government Reform intended to improve the way government operates in the UK.",
+              "formatting": {
+                "italic": [
+                  "Declaration on Government Reform"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In December 2021, the Prime Minister appointed Case to lead an inquiry into the Westminster Christmas parties controversy, where government departments had been alleged to have carried out social gatherings in late 2020 in contravention of COVID-19 regulations.",
+              "links": [
+                {
+                  "text": "Westminster Christmas parties controversy",
+                  "type": "internal",
+                  "page": "Westminster lockdown parties controversy"
+                },
+                {
+                  "type": "internal",
+                  "page": "COVID-19"
+                }
+              ]
+            },
+            {
+              "text": "Just over a week later, on 17 December 2021, it was announced that he was to recuse himself from the inquiry because of reports that a party had been held in his private office."
+            },
+            {
+              "text": "The next day, on 18 December 2021, Case officially resigned from the inquiry position."
+            },
+            {
+              "text": "His role in the inquiry was taken over by the civil servant Sue Gray.",
+              "links": [
+                {
+                  "text": "Sue Gray",
+                  "type": "internal",
+                  "page": "Sue Gray (civil servant)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In a letter to civil servants in May 2022, Case said that up to 91,000 civil servants would lose their jobs to return it to 2016 levels, which would be the biggest decrease in staff since World War Two."
+            },
+            {
+              "text": "Case said civil service staffing had grown \"substantially\" since 2016, partly because of the pandemic."
+            },
+            {
+              "text": "\"We must consider how we can streamline our workforce and equip ourselves with the skills we need to be an even more effective, lean and innovative service that continues to deliver for the people we serve,\" he wrote."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.ft.com/content/670d1f85-5173-44dc-aedb-170c6b0f0713",
+          "title": "Boris Johnson picks No 10 official to be head of UK civil service",
+          "work": "Financial Times",
+          "date": "31 August 2020",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Simon Case appointed as Cabinet Secretary and Head of the Civil Service",
+          "url": "https://www.gov.uk/government/news/simon-case-appointed-as-cabinet-secretary-and-head-of-the-civil-service",
+          "publisher": "Gov.uk",
+          "date": "2020-09-01",
+          "access-date": "2020-09-02",
+          "quote": "The Prime Minister has appointed Simon Case as the Cabinet Secretary and Head of the Civil Service. Simon is currently the Permanent Secretary in Number 10.",
+          "template": "citation",
+          "type": "press release"
+        },
+        {
+          "title": "Simon Case - Biography",
+          "url": "https://www.gov.uk/government/people/simon-case",
+          "website": "GOV.UK",
+          "access-date": "25 April 2021",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last1": "Zeffman",
+          "first1": "Henry",
+          "title": "Simon Case, the cabinet secretary, weighs in to Downing Street makeover row",
+          "url": "https://www.thetimes.co.uk/article/simon-case-the-cabinet-secretary-weighs-in-to-downing-street-makeover-row-mwcmcsmbm",
+          "access-date": "25 April 2021",
+          "work": "the Times",
+          "date": "23 April 2021",
+          "language": "en",
+          "quote": "Case, 42, the youngest-ever cabinet secretary",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "date": "2021-04-14",
+          "title": "Greensill row: Civil servants ordered to declare second jobs",
+          "url": "https://www.bbc.com/news/uk-politics-56751997",
+          "access-date": "2021-04-25",
+          "website": "BBC News",
+          "language": "en-GB",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "last": "Burford",
+          "first": "Rachael",
+          "date": "2021-12-08",
+          "title": "Boris Johnson orders inquiry into Downing Street 'Christmas party'",
+          "url": "https://www.standard.co.uk/news/politics/boris-johnson-pmqs-downing-street-christmas-party-inquiry-b970702.html",
+          "access-date": "2021-12-17",
+          "website": "www.standard.co.uk",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2021-12-17",
+          "title": "Top civil servant Simon Case set to quit No 10 party probe amid rule breach claims",
+          "language": "en-GB",
+          "work": "BBC News",
+          "url": "https://www.bbc.com/news/uk-politics-59701369",
+          "access-date": "2021-12-17",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last": "Scott",
+          "first": "Geraldine",
+          "date": "2018-12-18",
+          "title": "'Formidable' civil servant takes over Whitehall lockdown parties probe",
+          "language": "en",
+          "work": "Belfast Telegraph",
+          "url": "https://www.belfasttelegraph.co.uk/news/uk/formidable-civil-servant-takes-over-whitehall-lockdown-parties-probe-41162013.html",
+          "url-status": "live",
+          "access-date": "2021-12-21",
+          "archive-url": "https://archive.today/HCGQj#selection-1428.0-1641.131",
+          "archive-date": "2021-12-21",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.bbc.co.uk/news/uk-politics-61432498",
+          "title": "Boris Johnson wants to cut up to 91,000 civil service jobs",
+          "work": "BBC News",
+          "date": "13 May 2022",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Westminster Christmas parties controversy",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Case was the highest ranking public official to be implicated in the 'partygate' scandal; however, he stated he would not resign."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "Westminster lockdown parties controversy"
+          ],
+          "template": "main"
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.telegraph.co.uk/politics/2022/05/25/sue-gray-report-partygate-news-boris-johnson-pmqs-live-release/",
+          "title": "Sue Gray partygate latest news",
+          "work": "The Telegraph",
+          "date": "25 May 2022",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Personal life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "In 2007, Case married Elizabeth Kistruck, chief finance officer for Hotels.com at Expedia Inc. They have three daughters.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Hotels.com"
+                },
+                {
+                  "text": "Expedia Inc.",
+                  "type": "internal",
+                  "page": "Expedia, Inc."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "list": [
+            "30em"
+          ],
+          "template": "reflist"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-gov"
+        },
+        {
+          "before": "Chris Martin",
+          "template": "s-bef"
+        },
+        {
+          "title": "[[Principal Private Secretary to the Prime Minister of the United Kingdom|Principal Private Secretary\nto the Prime Minister]]",
+          "years": "2016–2017",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Peter Hill",
+          "template": "s-aft"
+        },
+        {
+          "last": "Sir Jeremy Heywood",
+          "template": "s-vac"
+        },
+        {
+          "title": "Downing Street Permanent Secretary",
+          "years": "2020",
+          "template": "s-ttl"
+        },
+        {
+          "last": "Samantha Jones\nActing",
+          "template": "s-vac"
+        },
+        {
+          "before": "Sir Mark Sedwill",
+          "template": "s-bef"
+        },
+        {
+          "title": "Head of the Home Civil Service\nCabinet Secretary",
+          "years": "2020–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "template": "s-court"
+        },
+        {
+          "before": "Miguel Head",
+          "template": "s-bef"
+        },
+        {
+          "list": [
+            ""
+          ],
+          "title": "Private Secretary to the Duke of Cambridge",
+          "years": "2018–2020",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Christian Jones",
+          "template": "s-aft"
+        },
+        {
+          "template": "principal private secretary to the prime minister"
+        },
+        {
+          "template": "heads of the home civil service"
+        },
+        {
+          "template": "secretaries of the cabinet"
+        }
+      ]
+    }
+  ]
+}

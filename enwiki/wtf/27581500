@@ -1,0 +1,840 @@
+{
+  "title": "James Morris (British politician)",
+  "pageID": 27581500,
+  "categories": [
+    "1967 births",
+    "Living people",
+    "People educated at Nottingham High School",
+    "Alumni of the University of Birmingham",
+    "Alumni of Wadham College, Oxford",
+    "Alumni of Cranfield University",
+    "Conservative Party (UK) MPs for English constituencies",
+    "UK MPs 2010–2015",
+    "UK MPs 2015–2017",
+    "UK MPs 2017–2019",
+    "UK MPs 2019–present",
+    "English cricketers",
+    "Oxford University cricketers"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "James George Morris (born 4 February 1967) is a British politician who is serving as Parliamentary Under-Secretary of State at the Department of Health and Social Care.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Parliamentary Under-Secretary of State"
+                },
+                {
+                  "type": "internal",
+                  "page": "Department of Health and Social Care"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "James George Morris"
+                ]
+              }
+            },
+            {
+              "text": "He has served as the Member of Parliament (MP) for Halesowen and Rowley Regis in the West Midlands since 2010.",
+              "links": [
+                {
+                  "text": "Member of Parliament",
+                  "type": "internal",
+                  "page": "Member of Parliament (United Kingdom)"
+                },
+                {
+                  "text": "Halesowen and Rowley Regis",
+                  "type": "internal",
+                  "page": "Halesowen and Rowley Regis (UK Parliament constituency)"
+                },
+                {
+                  "text": "West Midlands",
+                  "type": "internal",
+                  "page": "West Midlands (county)"
+                },
+                {
+                  "text": "2010",
+                  "type": "internal",
+                  "page": "2010 United Kingdom general election"
+                }
+              ]
+            },
+            {
+              "text": "He also served as Vice-Chamberlain of the Household from 2021 to 2022.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Vice-Chamberlain of the Household"
+                }
+              ]
+            },
+            {
+              "text": "He is a member of the Conservative Party.",
+              "links": [
+                {
+                  "text": "Conservative Party",
+                  "type": "internal",
+                  "page": "Conservative Party (UK)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "British politician",
+          "template": "short description"
+        },
+        {
+          "date": "July 2019",
+          "template": "blp sources"
+        },
+        {
+          "date": "June 2017",
+          "template": "use dmy dates"
+        },
+        {
+          "date": "March 2017",
+          "template": "use british english"
+        },
+        {
+          "year": "1967",
+          "month": "2",
+          "day": "4",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "James Morris"
+          },
+          "honorific-suffix": {
+            "text": "MP",
+            "links": [
+              {
+                "text": "MP",
+                "type": "internal",
+                "page": "Member of Parliament (United Kingdom)"
+              }
+            ]
+          },
+          "image": {
+            "text": "Official portrait of James Morris MP crop 2.jpg"
+          },
+          "caption": {
+            "text": "Official portrait, 2020"
+          },
+          "office": {
+            "text": "Parliamentary Under-Secretary of State for Health and Social Care",
+            "links": [
+              {
+                "text": "Parliamentary Under-Secretary of State for Health and Social Care",
+                "type": "internal",
+                "page": "Department of Health and Social Care"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Boris Johnson",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Boris Johnson"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "8 July 2022"
+          },
+          "predecessor": {
+            "text": "Maria Caulfield",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Maria Caulfield"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Vice-Chamberlain of the Household",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Vice-Chamberlain of the Household"
+              }
+            ]
+          },
+          "primeminister1": {
+            "text": "Boris Johnson",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Boris Johnson"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "17 September 2021"
+          },
+          "term_end1": {
+            "text": "8 July 2022"
+          },
+          "predecessor1": {
+            "text": "Marcus Jones",
+            "links": [
+              {
+                "text": "Marcus Jones",
+                "type": "internal",
+                "page": "Marcus Jones (politician)"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Michael Tomlinson",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Michael Tomlinson"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Lord Commissioner of the Treasury",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Lord Commissioner of the Treasury"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "14 February 2020"
+          },
+          "term_end2": {
+            "text": "17 September 2021"
+          },
+          "predecessor2": {
+            "text": "Michelle Donelan",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Michelle Donelan"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "incumbent"
+          },
+          "birth_date": {
+            "text": "February 4, 1967"
+          },
+          "birth_place": {
+            "text": "Nottingham, Nottinghamshire, England",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Nottingham"
+              },
+              {
+                "type": "internal",
+                "page": "Nottinghamshire"
+              }
+            ]
+          },
+          "party": {
+            "text": "Conservative",
+            "links": [
+              {
+                "text": "Conservative",
+                "type": "internal",
+                "page": "Conservative Party (UK)"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "University of Birmingham (BA) \nWadham College, Oxford (MPhil) \nCranfield School of Management (MBA)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of Birmingham"
+              },
+              {
+                "type": "internal",
+                "page": "Wadham College, Oxford"
+              },
+              {
+                "type": "internal",
+                "page": "Cranfield School of Management"
+              }
+            ]
+          },
+          "website": {
+            "text": "www.jamesmorris.co.uk"
+          },
+          "office3": {
+            "text": "Member of Parliament\nfor Halesowen and Rowley Regis",
+            "links": [
+              {
+                "text": "Member of Parliament",
+                "type": "internal",
+                "page": "Member of Parliament (United Kingdom)"
+              },
+              {
+                "text": "Halesowen and Rowley Regis",
+                "type": "internal",
+                "page": "Halesowen and Rowley Regis (UK Parliament constituency)"
+              }
+            ]
+          },
+          "predecessor3": {
+            "text": "Sylvia Heal",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sylvia Heal"
+              }
+            ]
+          },
+          "majority3": {
+            "text": "12,074 (28.5%)"
+          },
+          "term_start3": {
+            "text": "6 May 2010"
+          },
+          "primeminister2": {
+            "text": "Boris Johnson",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Boris Johnson"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "url": "http://www.ukwhoswho.com/view/article/oupww/whoswho/U251445/",
+          "title": "Who's Who",
+          "website": "Ukwhoswho.com",
+          "date": "5 December 2016",
+          "access-date": "29 May 2017",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Ministerial appointments: July 2022",
+          "url": "https://www.gov.uk/government/news/ministerial-appointments-july-2022",
+          "access-date": "2022-07-08",
+          "website": "GOV.UK",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.halesowennews.co.uk/news/local/8152842.Historic_Tory_win_in_Halesowen_and_Rowley_Regis/",
+          "title": "Historic Tory win in Halesowen and Rowley Regis (From Halesowen News)",
+          "website": "Halesowennews.co.uk",
+          "access-date": "29 May 2017",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Early life and career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Morris was born on 4 February 1967 in Nottingham and grew up in Nottinghamshire."
+            },
+            {
+              "text": "He has roots in the Black Country: his grandfather worked in the Halesowen Steel works in the 1930s and 1940s, his parents are from the Black Country and his uncle lives in Rowley Regis.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Black Country"
+                },
+                {
+                  "type": "internal",
+                  "page": "Halesowen"
+                },
+                {
+                  "type": "internal",
+                  "page": "Rowley Regis"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Morris was privately educated at Nottingham High School, an independent school for boys in his home city of Nottingham, followed by the University of Birmingham, where he obtained a degree in English Literature.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Nottingham High School"
+                },
+                {
+                  "text": "independent school",
+                  "type": "internal",
+                  "page": "independent school"
+                },
+                {
+                  "type": "internal",
+                  "page": "University of Birmingham"
+                }
+              ]
+            },
+            {
+              "text": "He then undertook Postgraduate research at Wadham College, Oxford.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Postgraduate research"
+                },
+                {
+                  "type": "internal",
+                  "page": "Wadham College, Oxford"
+                }
+              ]
+            },
+            {
+              "text": "He later studied at Cranfield School of Management.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Cranfield School of Management"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Before becoming involved in politics in Halesowen and Rowley Regis, Morris had a successful career as a small businessman specialising in computer software."
+            },
+            {
+              "text": "In 2003 he founded Mind the Gap, an independent campaign to promote civic action and to encourage more grass roots involvement in politics."
+            },
+            {
+              "text": "In 2004 he wrote a pamphlet entitled \"Change Starts Small\" – which explored how to get more local grass roots involvement in politics and argued that the British political system needed fundamental change."
+            },
+            {
+              "text": "Morris is married to Anna and they have two children."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Prior to the 2010 Election, Morris was the Chief Executive of Localis, a local government and localist think tank, where the mission was to 'stimulate and challenge the current orthodoxy of the governance of the UK.' During his time at the think tank, Localis released a number of reports, including The Million Vote Mandate, Can Localism Deliver?, and For Good Measure, all of which he edited.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Localis"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "url": "https://www.jamesmorris.co.uk/pdf/Change_Starts_Small.pdf",
+          "access-date": "2012-06-20",
+          "df": "dmy-all }}{{dead link|date=July 2020|bot=medic}}{{cbignore|bot=medic}} {{dead link|date=January 2021|undefined",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.localis.org.uk/archive/11/Publications.htm?offset=3",
+          "title": "Archived copy",
+          "access-date": "2012-06-20",
+          "url-status": "dead",
+          "archive-url": "https://web.archive.org/web/20140514235234/http://www.localis.org.uk/archive/11/Publications.htm?offset=3",
+          "archive-date": "14 May 2014",
+          "df": "dmy-all",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.jamesmorris.co.uk/about",
+          "title": "Archived copy",
+          "access-date": "2012-06-20",
+          "url-status": "dead",
+          "archive-url": "https://web.archive.org/web/20120715013641/http://www.jamesmorrismp.com/about",
+          "archive-date": "15 July 2012",
+          "df": "dmy-all",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "July 2019",
+          "template": "citation needed"
+        },
+        {
+          "date": "July 2019",
+          "template": "citation needed"
+        },
+        {
+          "date": "July 2019",
+          "template": "citation needed"
+        }
+      ]
+    },
+    {
+      "title": "Parliamentary career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Morris was selected as the seat's Conservative candidate after previous candidate Nigel Hastilow stepped down in November 2007 following Hastilow's remarks stating that warnings by Enoch Powell in his \"rivers of blood\" speech in 1968 had proved correct.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Nigel Hastilow"
+                },
+                {
+                  "type": "internal",
+                  "page": "Enoch Powell"
+                },
+                {
+                  "text": "\"rivers of blood\" speech",
+                  "type": "internal",
+                  "page": "Rivers of Blood speech"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Morris served on the Communities and Local Government Committee between 2010 and 2014."
+            },
+            {
+              "text": "He is a member of a number of APPGs, including Youth Affairs, United Nations and Mental Health."
+            },
+            {
+              "text": "In March 2011, the Sunday Mercury confirmed that Morris had the best attendance record of all 57 West Midlands MPs – attending 96% of votes.",
+              "formatting": {
+                "italic": [
+                  "Sunday Mercury"
+                ]
+              }
+            },
+            {
+              "text": "In the local area, Morris has been a supporter of the successful campaign to Save Rowley Hospital which secured and maintained in-patient facilities at the hospital."
+            },
+            {
+              "text": "He has also raised questions over the future for Halesowen Abbey in Parliament."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Morris generally voted against gay rights and against allowing marriage between two people of the same sex."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Morris was PPS to Esther McVey, but resigned his position in January 2015 in order to vote for a change in the law that would require planning permission to demolish or change the use of local pubs.",
+              "links": [
+                {
+                  "text": "PPS",
+                  "type": "internal",
+                  "page": "Parliamentary Private Secretary"
+                },
+                {
+                  "type": "internal",
+                  "page": "Esther McVey"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Morris was opposed to Brexit prior to the 2016 referendum, but since then has consistently voted for the UK to leave.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Brexit"
+                },
+                {
+                  "text": "2016 referendum",
+                  "type": "internal",
+                  "page": "2016 United Kingdom European Union membership referendum"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On 14 February 2020, Morris was appointed a Lord Commissioner of the Treasury (Government Whip) in the second Johnson ministry.",
+              "links": [
+                {
+                  "text": "Lord Commissioner of the Treasury",
+                  "type": "internal",
+                  "page": "Lords Commissioners of the Treasury"
+                },
+                {
+                  "text": "Government Whip",
+                  "type": "internal",
+                  "page": "Whip (politics)"
+                },
+                {
+                  "text": "second Johnson ministry",
+                  "type": "internal",
+                  "page": "second Johnson ministry"
+                }
+              ]
+            },
+            {
+              "text": "On 17 September 2021, he was appointed Vice-Chamberlain of the Household, a senior Government Whip, in the second cabinet reshuffle of the second Johnson ministry.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Vice-Chamberlain of the Household"
+                },
+                {
+                  "text": "Government Whip",
+                  "type": "internal",
+                  "page": "Whip (politics)"
+                },
+                {
+                  "text": "cabinet reshuffle",
+                  "type": "internal",
+                  "page": "2021 British cabinet reshuffle"
+                },
+                {
+                  "text": "second Johnson ministry",
+                  "type": "internal",
+                  "page": "second Johnson ministry"
+                }
+              ]
+            },
+            {
+              "text": "On account of this role, he was \"taken hostage\" at Buckingham Palace during the 2022 State Opening of Parliament.",
+              "links": [
+                {
+                  "text": "taken hostage",
+                  "type": "internal",
+                  "page": "State Opening of Parliament",
+                  "anchor": "Delivery of parliamentary hostage"
+                },
+                {
+                  "type": "internal",
+                  "page": "Buckingham Palace"
+                },
+                {
+                  "text": "2022 State Opening of Parliament",
+                  "type": "internal",
+                  "page": "2022 State Opening of Parliament"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "date": "January 2021",
+          "template": "better source needed"
+        }
+      ],
+      "references": [
+        {
+          "url": "http://news.bbc.co.uk/1/hi/programmes/politics_show/7080691.stm",
+          "work": "BBC News",
+          "first": "Nick",
+          "last": "Watson",
+          "title": "Enoch Powell's ghost",
+          "date": "7 November 2007",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://publications.parliament.uk/pa/cm/cmallparty/memi01.htm",
+          "title": "Register of All-Party Groups",
+          "date": "15 June 2012",
+          "work": "House of Commons of the United Kingdom",
+          "access-date": "20 June 2012",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "url": "http://www.dudleynews.co.uk/news/blackcountry/9063147.MP_and_Trust_voice_concerns_over_future_of_Halesowen_Abbey/",
+          "title": "MP and Trust voice concerns over future of Halesowen Abbey (From Dudley News)",
+          "website": "Dudleynews.co.uk",
+          "access-date": "29 May 2017",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "How James Morris Voted on Social Issues",
+          "url": "https://www.theyworkforyou.com/mp/24855/james_morris/halesowen_and_rowley_regis/votes",
+          "website": "They Work For You",
+          "access-date": "27 July 2019",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Halesowen and Rowley Regis MP resigns Govt post over pub issue",
+          "url": "http://www.halesowennews.co.uk/news/11760992.Halesowen_and_Rowley_Regis_MP_resigns_Govt_post_over_pub_issue/?ref=mr",
+          "access-date": "5 April 2015",
+          "publisher": "Halesowen News",
+          "date": "30 January 2015",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.gov.uk/government/news/ministerial-appointments-september-2021",
+          "title": "Ministerial appointments: September 2021",
+          "date": "16 September 2021",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Buckingham Palace has a centuries-old tradition of taking an MP hostage when the Queen or one of her representatives enter Parliament",
+          "url": "https://www.insider.com/buckingham-palace-queen-elizabeth-parliament-opening-hostage-2019-10",
+          "website": "Insider",
+          "access-date": "10 May 2022",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last1": "Goodenough",
+          "first1": "Tom",
+          "title": "Which Tory MPs back Brexit, who doesn't and who is still on the fence?",
+          "url": "http://blogs.spectator.co.uk/2016/02/which-tory-mps-back-brexit-who-doesnt-and-who-is-still-on-the-fence/",
+          "access-date": "11 October 2016",
+          "work": "The Spectator",
+          "date": "16 February 2016",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "list": [
+            "30em"
+          ],
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "parliament": "james-morris/3992",
+          "publicwhip": "james_morris",
+          "theywork": "james_morris",
+          "template": "uk mp links"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "list": [
+            "uk"
+          ],
+          "template": "s-par"
+        },
+        {
+          "before": "Sylvia Heal",
+          "template": "s-bef"
+        },
+        {
+          "title": "Member of Parliament for Halesowen & Rowley Regis",
+          "years": "2010–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "template": "west midlands conservative party mps"
+        },
+        {
+          "template": "authority control"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Official website",
+            "links": [
+              {
+                "text": "Official website",
+                "type": "external",
+                "site": "https://www.jamesmorris.co.uk/"
+              }
+            ]
+          },
+          {
+            "text": "CricketArchive Player Profile: James Morris",
+            "links": [
+              {
+                "text": "CricketArchive Player Profile: James Morris",
+                "type": "external",
+                "site": "http://www.cricketarchive.co.uk/Archive/Players/11/11371/11371.html"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}

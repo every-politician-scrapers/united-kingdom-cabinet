@@ -1,0 +1,213 @@
+{
+  "title": "Peter Hughes (diplomat)",
+  "pageID": 29165488,
+  "categories": [
+    "1953 births",
+    "Living people",
+    "Ambassadors of the United Kingdom to North Korea",
+    "High Commissioners of the United Kingdom to Belize",
+    "Officers of the Order of the British Empire"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Peter John Hughes (born 14 September 1953) is a British diplomat.",
+              "formatting": {
+                "bold": [
+                  "Peter John Hughes"
+                ]
+              }
+            },
+            {
+              "text": "From 2013 to 2018 he was the British High Commissioner to Belize.",
+              "links": [
+                {
+                  "text": "British High Commissioner to Belize",
+                  "type": "internal",
+                  "page": "List of High Commissioners of the United Kingdom to Belize"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Hughes joined the Foreign and Commonwealth Office (FCO) in 1976 and served in Islamabad, Rome, Warsaw, Sydney, Castries, Colombo and Kabul before being appointed Ambassador to North Korea in 2008 where he served until 2011.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Foreign and Commonwealth Office"
+                },
+                {
+                  "type": "internal",
+                  "page": "Islamabad"
+                },
+                {
+                  "type": "internal",
+                  "page": "Rome"
+                },
+                {
+                  "type": "internal",
+                  "page": "Warsaw"
+                },
+                {
+                  "type": "internal",
+                  "page": "Sydney"
+                },
+                {
+                  "type": "internal",
+                  "page": "Castries"
+                },
+                {
+                  "type": "internal",
+                  "page": "Colombo"
+                },
+                {
+                  "type": "internal",
+                  "page": "Kabul"
+                },
+                {
+                  "text": "Ambassador to North Korea",
+                  "type": "internal",
+                  "page": "List of ambassadors of the United Kingdom to North Korea"
+                }
+              ]
+            },
+            {
+              "text": "In 2009 he wrote a blog entry that noted the fair weather and festive mood in Pyongyang during that year's parliamentary election, prompting accusations in the British and South Korean press that he was an apologist for the North Korean government.",
+              "links": [
+                {
+                  "text": "blog",
+                  "type": "internal",
+                  "page": "blog"
+                },
+                {
+                  "text": "parliamentary election",
+                  "type": "internal",
+                  "page": "2009 North Korean parliamentary election"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "file": "File:Peter_Hughes.jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Peter_Hughes.jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Peter_Hughes.jpg",
+          "caption": "Peter Hughes",
+          "links": []
+        }
+      ],
+      "templates": [
+        {
+          "date": "April 2022",
+          "template": "use dmy dates"
+        },
+        {
+          "country": "GBR",
+          "list": [
+            "OBE"
+          ],
+          "template": "post-nominals"
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.gov.uk/government/news/change-of-british-high-commissioner-to-belize-in-october-2018#:~:text=Ms%20Claire%20Evans%20OBE%20has%20been%20appointed%20British%20High%20Commissioner%20to%20Belize.&text=Commissioner%20to%20Belize-,Ms%20Claire%20Evans%20OBE%20has%20been%20appointed%20British%20High%20Commissioner,her%20appointment%20in%20October%202018.",
+          "title": "Change of British High Commissioner to Belize in October 2018",
+          "publisher": "GOV.UK",
+          "date": "1 August 2018",
+          "access-date": "4 May 2021",
+          "template": "citation",
+          "type": "press release"
+        },
+        {
+          "last": "Freeman",
+          "first": "Colin",
+          "date": "19 Mar 2009",
+          "title": "Peter Hughes, Britain's ambassador to North Korea, in blogging row",
+          "url": "https://www.telegraph.co.uk/news/worldnews/asia/southkorea/5016273/Peter-Hughes-Britains-ambassador-to-North-Korea-in-blogging-row.html",
+          "newspaper": "The Daily Telegraph",
+          "accessdate": "12 Oct 2010",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "doi": "10.1093/ww/9780199540884.013.250537",
+          "title": "Hughes, Peter John, (born 14 Sept. 1953), HM Diplomatic Service; High Commissioner to Belize, since 2013",
+          "journal": "Who's Who",
+          "year": "2010",
+          "template": "citation",
+          "type": "journal"
+        }
+      ]
+    },
+    {
+      "title": "Honours",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Hughes was appointed Officer of the Order of the British Empire (OBE) in the 2012 Birthday Honours.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Officer of the Order of the British Empire"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-dip"
+        },
+        {
+          "before": "John Everard",
+          "title": "British Ambassador to North Korea",
+          "years": "2008&ndash;2011",
+          "after": "Karen Wolstenholme",
+          "template": "succession box"
+        },
+        {
+          "before": "Patrick Ashworth",
+          "title": "British High Commissioner to Belize",
+          "years": "2013&ndash;2018",
+          "after": "Claire Evans",
+          "template": "succession box"
+        },
+        {
+          "template": "uk-diplomat-stub"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,584 @@
+{
+  "title": "Nick Archer",
+  "pageID": 35633388,
+  "categories": [
+    "1960 births",
+    "Alumni of St Chad's College, Durham",
+    "Ambassadors of the United Kingdom to Denmark",
+    "High Commissioners of the United Kingdom to Malta",
+    "Members of the Royal Victorian Order",
+    "People educated at Denstone College",
+    "Living people"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Nicholas Stewart Archer (born 24 December 1960) is a British diplomat, the British ambassador to the Czech Republic (HM Diplomatic Service).",
+              "links": [
+                {
+                  "text": "HM Diplomatic Service",
+                  "type": "internal",
+                  "page": "Her Majesty's Diplomatic Service"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Nicholas Stewart Archer"
+                ]
+              }
+            },
+            {
+              "text": "Previously he served as ambassador to Denmark and High Commissioner to Malta."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Ambassador of the United Kingdom",
+          "template": "short description"
+        },
+        {
+          "list": [
+            "",
+            "the English cricketer",
+            "Nick Archer (cricketer)"
+          ],
+          "template": "about"
+        },
+        {
+          "date": "April 2022",
+          "template": "use dmy dates"
+        },
+        {
+          "country": "GBR",
+          "size": "100%",
+          "list": [
+            "MVO"
+          ],
+          "template": "post-nominals"
+        },
+        {
+          "year": "1960",
+          "month": "12",
+          "day": "24",
+          "template": "birth date and age"
+        },
+        {
+          "spouse": "Erica Power",
+          "from": "1999",
+          "template": "marriage"
+        },
+        {
+          "country": "GBR",
+          "size": "100%",
+          "list": [
+            "MVO"
+          ],
+          "template": "post-nominals"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Nick Archer"
+          },
+          "image": {
+            "text": "Nick Archer.jpg"
+          },
+          "office": {
+            "text": "British Ambassador to the Czech Republic",
+            "links": [
+              {
+                "text": "British Ambassador to the Czech Republic",
+                "type": "internal",
+                "page": "List of ambassadors of the United Kingdom to the Czech Republic"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Jan Thompson",
+            "links": [
+              {
+                "text": "Jan Thompson",
+                "type": "internal",
+                "page": "Jan Thompson (diplomat)"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Theresa May\nBoris Johnson",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Theresa May"
+              },
+              {
+                "type": "internal",
+                "page": "Boris Johnson"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "January 2018"
+          },
+          "office1": {
+            "text": "British Ambassador to Denmark",
+            "links": [
+              {
+                "text": "British Ambassador to Denmark",
+                "type": "internal",
+                "page": "List of Ambassadors of the United Kingdom to Denmark"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "2008",
+            "number": 2008
+          },
+          "term_end1": {
+            "text": "2012",
+            "number": 2012
+          },
+          "predecessor1": {
+            "text": "David Frost",
+            "links": [
+              {
+                "text": "David Frost",
+                "type": "internal",
+                "page": "David Frost (British diplomat)"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Vivien Life",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Vivien Life"
+              }
+            ]
+          },
+          "primeminister1": {
+            "text": "Gordon Brown\nDavid Cameron",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Gordon Brown"
+              },
+              {
+                "type": "internal",
+                "page": "David Cameron"
+              }
+            ]
+          },
+          "office2": {
+            "text": "British High Commissioner to Malta",
+            "links": [
+              {
+                "text": "British High Commissioner to Malta",
+                "type": "internal",
+                "page": "List of High Commissioners of the United Kingdom to Malta"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "2006",
+            "number": 2006
+          },
+          "term_end2": {
+            "text": "2008",
+            "number": 2008
+          },
+          "primeminister2": {
+            "text": "Tony Blair\nGordon Brown",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Tony Blair"
+              },
+              {
+                "type": "internal",
+                "page": "Gordon Brown"
+              }
+            ]
+          },
+          "predecessor2": {
+            "text": "Sir Vincent Fean",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Vincent Fean"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Louise Stanton",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Louise Stanton"
+              }
+            ]
+          },
+          "birth_name": {
+            "text": "Nicholas Stewart Archer"
+          },
+          "birth_date": {
+            "text": "December 24, 1960"
+          },
+          "education": {
+            "text": "Denstone College",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Denstone College"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "St Chad's College, Durham (BA)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "St Chad's College, Durham"
+              },
+              {
+                "text": "BA",
+                "type": "internal",
+                "page": "Bachelor of Arts"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Erica Power (m. 1999)"
+          },
+          "children": {
+            "text": "2",
+            "number": 2
+          }
+        }
+      ]
+    },
+    {
+      "title": "Early life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Nick Archer went to the independent Denstone College in East Staffordshire.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Denstone College"
+                },
+                {
+                  "type": "internal",
+                  "page": "East Staffordshire"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He attended St Chad's College, Durham University, gaining a BA in English and German in 1982.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "St Chad's College"
+                },
+                {
+                  "type": "internal",
+                  "page": "Durham University"
+                },
+                {
+                  "text": "BA",
+                  "type": "internal",
+                  "page": "Bachelor of Arts"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "Career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "He joined the Foreign and Commonwealth Office in 1983.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Foreign and Commonwealth Office"
+                }
+              ]
+            },
+            {
+              "text": "From 1995 to 1997 he was First Secretary in Oslo, and from 1997 to 2000 he was Assistant Private Secretary to the Prince of Wales.",
+              "links": [
+                {
+                  "text": "First Secretary",
+                  "type": "internal",
+                  "page": "First Secretary (diplomatic rank)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Assistant Private Secretary"
+                },
+                {
+                  "type": "internal",
+                  "page": "Prince of Wales"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He gained a more senior position, becoming Head of the FCO's NE Asia and Pacific Department from 2001 to 2002, then that of the FCO's Near East and N Africa Department from 2002 to 2005.",
+              "links": [
+                {
+                  "text": "FCO",
+                  "type": "internal",
+                  "page": "Foreign and commonwealth office"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "High Commissioner",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "In March 2006 he became the High Commissioner to Malta, remaining until August 2008.",
+              "links": [
+                {
+                  "text": "High Commissioner to Malta",
+                  "type": "internal",
+                  "page": "List of High Commissioners of the United Kingdom to Malta"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ambassador",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "He became the Ambassador to Denmark from 14 October 2008 until 2012.",
+              "links": [
+                {
+                  "text": "Ambassador to Denmark",
+                  "type": "internal",
+                  "page": "List of Ambassadors of the United Kingdom to Denmark"
+                }
+              ]
+            },
+            {
+              "text": "He then worked for 6 years for UK Trade & Investment, and was appointed Ambassador to the Czech Republic in January 2018."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "Change of Her Majesty’s Ambassador to the Czech Republic",
+          "url": "https://www.gov.uk/government/news/change-of-her-majestys-ambassador-to-the-czech-republic--3",
+          "website": "FCO UK",
+          "accessdate": "16 January 2018",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Personal life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "He was awarded the MVO in 2001.",
+              "links": [
+                {
+                  "text": "MVO",
+                  "type": "internal",
+                  "page": "Royal Victorian Order"
+                }
+              ]
+            },
+            {
+              "text": "He married Erica Power in 1999."
+            },
+            {
+              "text": "They have two sons, Alexander and Christian (born in 2004 and 2005)."
+            },
+            {
+              "text": "He has had Type 1 diabetes since his early 20s.",
+              "links": [
+                {
+                  "text": "Type 1 diabetes",
+                  "type": "internal",
+                  "page": "Diabetes mellitus type 1"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "UK in Denmark",
+            "links": [
+              {
+                "text": "UK in Denmark",
+                "type": "external",
+                "site": "http://ukindenmark.fco.gov.uk/en/about-us/our-embassy-in-copenhagen/"
+              }
+            ]
+          },
+          {
+            "text": "UK in Denmark at Flickr",
+            "links": [
+              {
+                "text": "UK in Denmark at Flickr",
+                "type": "external",
+                "site": "https://www.flickr.com/photos/ukindenmark/"
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "title": "Video clips",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-dip"
+        },
+        {
+          "before": "Jan Thompson",
+          "title": "British Ambassador to the Czech Republic",
+          "years": "2018&ndash;present",
+          "after": "Incumbent",
+          "template": "succession box"
+        },
+        {
+          "before": "David Frost",
+          "title": "British Ambassador to Denmark",
+          "years": "2008&ndash;2012",
+          "after": "Vivien Life",
+          "template": "succession box"
+        },
+        {
+          "before": "Sir Vincent Fean",
+          "title": "British High Commissioner to Malta",
+          "years": "2006&ndash;2008",
+          "after": "Louise Stanton",
+          "template": "succession box"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "UK Foreign Office",
+            "links": [
+              {
+                "text": "UK Foreign Office",
+                "type": "external",
+                "site": "https://www.youtube.com/watch?v=BF32ABa5VHY"
+              }
+            ]
+          },
+          {
+            "text": "British Council Denmark YouTube channel",
+            "links": [
+              {
+                "text": "British Council Denmark YouTube channel",
+                "type": "external",
+                "site": "https://www.youtube.com/user/BritishCouncilDE"
+              }
+            ]
+          },
+          {
+            "text": "Danish-UK Chamber of Commerce YouTube channel",
+            "links": [
+              {
+                "text": "Danish-UK Chamber of Commerce YouTube channel",
+                "type": "external",
+                "site": "https://www.youtube.com/user/DUCCChannel"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}

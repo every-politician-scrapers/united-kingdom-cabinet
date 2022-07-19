@@ -1,0 +1,785 @@
+{
+  "title": "Andrew Bailey (banker)",
+  "pageID": 20208494,
+  "categories": [
+    "1959 births",
+    "Alumni of Queens' College, Cambridge",
+    "Governors of the Bank of England",
+    "Chief Cashiers of the Bank of England",
+    "Deputy Governors of the Bank of England",
+    "Financial Conduct Authority people",
+    "Living people",
+    "People associated with the Bank of England",
+    "People educated at Wyggeston Grammar School for Boys"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Andrew John Bailey (born 30 March 1959) is a British central banker who has been Governor of the Bank of England since 16 March 2020.",
+              "links": [
+                {
+                  "text": "central banker",
+                  "type": "internal",
+                  "page": "central bank"
+                },
+                {
+                  "type": "internal",
+                  "page": "Governor of the Bank of England"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Andrew John Bailey"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Previously he served as the Chief Cashier of the Bank of England from January 2004 until April 2011, Deputy Governor of the Bank of England for Prudential Regulation from April 2013 to July 2016, and Chief Executive of the Financial Conduct Authority from 2016 to 2020.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Chief Cashier of the Bank of England"
+                },
+                {
+                  "text": "Deputy Governor of the Bank of England for Prudential Regulation",
+                  "type": "internal",
+                  "page": "Deputy Governor of the Bank of England",
+                  "anchor": "With specific responsibility (1998–present)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Financial Conduct Authority"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "British central banker",
+          "bot": "PearBOT 5",
+          "template": "short description"
+        },
+        {
+          "date": "June 2022",
+          "template": "use dmy dates"
+        },
+        {
+          "date": "June 2022",
+          "template": "use british english"
+        },
+        {
+          "df": "y",
+          "year": "1959",
+          "month": "3",
+          "day": "30",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Andrew Bailey"
+          },
+          "image": {
+            "text": "Andrew Bailey.jpg"
+          },
+          "office": {
+            "text": "121st Governor of the Bank of England",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Governor of the Bank of England"
+              }
+            ]
+          },
+          "appointed": {
+            "text": "Sajid Javid",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sajid Javid"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "16 March 2020"
+          },
+          "predecessor": {
+            "text": "Mark Carney",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mark Carney"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Chief Executive of the Financial Conduct Authority",
+            "links": [
+              {
+                "text": "Chief Executive of the Financial Conduct Authority",
+                "type": "internal",
+                "page": "Financial Conduct Authority"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "1 July 2016"
+          },
+          "term_end1": {
+            "text": "15 March 2020"
+          },
+          "predecessor1": {
+            "text": "Tracey McDermott",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Tracey McDermott"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Nikhil Rathi",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Nikhil Rathi"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Deputy Governor of the Bank of England for Prudential Regulation",
+            "links": [
+              {
+                "text": "Deputy Governor of the Bank of England for Prudential Regulation",
+                "type": "internal",
+                "page": "Deputy Governor of the Bank of England",
+                "anchor": "With specific responsibility (1998–present)"
+              }
+            ]
+          },
+          "governor2": {
+            "text": "Mark Carney",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Mark Carney"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "1 April 2013"
+          },
+          "term_end2": {
+            "text": "1 July 2016"
+          },
+          "predecessor2": {
+            "text": "Position established",
+            "formatting": {
+              "italic": [
+                "Position established"
+              ]
+            }
+          },
+          "successor2": {
+            "text": "Sam Woods",
+            "links": [
+              {
+                "text": "Sam Woods",
+                "type": "internal",
+                "page": "Sam Woods (civil servant)"
+              }
+            ]
+          },
+          "office3": {
+            "text": "Chief Cashier of the Bank of England",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Chief Cashier of the Bank of England"
+              }
+            ]
+          },
+          "governor3": {
+            "text": "Mervyn King",
+            "links": [
+              {
+                "text": "Mervyn King",
+                "type": "internal",
+                "page": "Mervyn King (economist)"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "1 January 2004"
+          },
+          "term_end3": {
+            "text": "1 April 2011"
+          },
+          "predecessor3": {
+            "text": "Merlyn Lowther",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Merlyn Lowther"
+              }
+            ]
+          },
+          "successor3": {
+            "text": "Chris Salmon",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Chris Salmon"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "March 30, 1959"
+          },
+          "birth_place": {
+            "text": "Leicester, England",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Leicester"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Cheryl Schonhardt-Bailey",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Cheryl Schonhardt-Bailey"
+              }
+            ]
+          },
+          "children": {
+            "text": "2",
+            "number": 2
+          },
+          "alma_mater": {
+            "text": "Queens' College, Cambridge (MA, PhD)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Queens' College, Cambridge"
+              }
+            ]
+          },
+          "occupation": {
+            "text": "Historian, central banker"
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.bankofengland.co.uk/about/people/andrew-bailey/biography",
+          "title": "Andrew Bailey",
+          "website": "www.bankofengland.co.uk",
+          "language": "en",
+          "access-date": "16 March 2020",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Education",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Bailey attended Wyggeston Boys' Grammar School, Leicester from where he went to Queens' College, Cambridge, where he gained a bachelor's degree in History (promoted to MA by seniority in 1985) and a PhD from the Faculty of History, University of Cambridge in 1984 with a thesis on The impact of the Napoleonic Wars on the development of the cotton industry in Lancashire: a study of the structure and behaviour of firms during the Industrial Revolution.",
+              "links": [
+                {
+                  "text": "Wyggeston Boys' Grammar School",
+                  "type": "internal",
+                  "page": "Wyggeston Grammar School for Boys"
+                },
+                {
+                  "type": "internal",
+                  "page": "Queens' College, Cambridge"
+                },
+                {
+                  "type": "internal",
+                  "page": "Faculty of History, University of Cambridge"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "The impact of the Napoleonic Wars on the development of the cotton industry in Lancashire: a study of the structure and behaviour of firms during the Industrial Revolution"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "The impact of the Napoleonic Wars on the development of the cotton industry in Lancashire: a study of the structure and behaviour of firms during the Industrial Revolution",
+          "url": "https://idiscover.lib.cam.ac.uk/permalink/f/16u99e0/44CAM_ALMA21428196350003606",
+          "website": "Cambridge University Library",
+          "access-date": "23 December 2019",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "Career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "After university, Bailey became a research officer at the London School of Economics, before joining the Bank of England in 1985.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "London School of Economics"
+                },
+                {
+                  "type": "internal",
+                  "page": "Bank of England"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He has worked at the Bank of England in a number of areas, most recently as executive director for banking services and as Chief Cashier, as well as head of the bank's Special Resolution Unit (SRU)."
+            },
+            {
+              "text": "Previous roles include Governor's private secretary, and head of the International Economic Analysis Division in Monetary Analysis."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Since the onset of the financial crisis in August 2007 and until April 2011, Bailey was responsible for the bank's special operations to resolve problems in the banking sector, and in 2009 was chairman and chief executive of Dunfermline Building Society Bridge Bank Ltd. On 1 April 2013 Bailey became the chief executive of the new Prudential Regulation Authority and the first deputy governor of the Bank of England for Prudential Regulation.",
+              "links": [
+                {
+                  "text": "Prudential Regulation Authority",
+                  "type": "internal",
+                  "page": "Prudential Regulation Authority (United Kingdom)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On 26 January 2016, it was announced that Andrew Bailey would take over as CEO of the UK Financial Conduct Authority.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Financial Conduct Authority"
+                }
+              ]
+            },
+            {
+              "text": "He replaced Tracey McDermott, who became acting CEO after Martin Wheatley resigned following a vote of no confidence by George Osborne in July 2015.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Tracey McDermott"
+                },
+                {
+                  "type": "internal",
+                  "page": "Martin Wheatley"
+                },
+                {
+                  "type": "internal",
+                  "page": "George Osborne"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In September 2019, allegations were made of Bailey falling asleep during a meeting between campaigners acting on behalf of the British Steel Pension Scheme and the FCA, to take faster action to protect those affected by what would become one of the UK's biggest pension miss-selling scandals."
+            },
+            {
+              "text": "A subsequent National Audit Office probe into the case concluded that members of the pension scheme suffered significant financial losses because FCA registered firms tailed to protect them."
+            },
+            {
+              "text": "This led to parliamentarians commenting that the FCA was asleep at the wheel."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In March 2020 the Treasury select committee criticised the performance of the Financial Conduct Authority."
+            },
+            {
+              "text": "The committee said it would monitor closely the culture, operations and transparency of the FCA."
+            },
+            {
+              "text": "This followed damning criticisms of the watchdog by consumer and industry groups during Bailey’s tenure as its chief executive."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On 3 June 2019, it was reported in The Times that Bailey was the favourite to replace Mark Carney as the new Governor of the Bank of England.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "The Times"
+                },
+                {
+                  "type": "internal",
+                  "page": "Mark Carney"
+                },
+                {
+                  "type": "internal",
+                  "page": "Governor of the Bank of England"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "The Times"
+                ]
+              }
+            },
+            {
+              "text": "Sajid Javid had also intervened in support of Bailey.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Sajid Javid"
+                }
+              ]
+            },
+            {
+              "text": "According to The Economist, \"He is widely seen within the bank as a safe pair of hands, an experienced technocrat who knows how to manage an organisation.\"",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "The Economist"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "The Economist"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 2021, Bailey objected to the title of a report by the House of Lords' Economic Affairs Committee, \"Quantitative easing: a dangerous addiction?\", saying \"[Addiction] is a word that has a very damaging and very particular meaning to many people who are suffering. I think it is wrong to use that word loosely, and frankly I think it was a very poor choice of language\".",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "House of Lords"
+                },
+                {
+                  "text": "Economic Affairs Committee",
+                  "type": "internal",
+                  "page": "Economic Affairs Committee (House of Lords)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In February 2022, Bailey faced criticism from union leaders over his comments asking workers not to demand a pay rise, in the context of the current cost-of-living crisis."
+            },
+            {
+              "text": "When pressed by parliamentarians as to Bailey's salary (in contrast to the average earnings of care workers) Bailey replied with an approximate figure of £500,000, also stating \"I can't tell you exactly what it was, I don't carry that around in my head\"."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In May 2022 Bailey stated that rising food prices is a \"major worry\" for the UK and other countries."
+            },
+            {
+              "text": "He stated how it \"is a major, major worry and it's not just I have to tell you a major worry for this country. There's a major worry for the developing world as well. And so if I had to sort of, sorry for being apocalyptic for a moment, but that is a major concern.\""
+            },
+            {
+              "text": "Bailey said the war in Ukraine was affecting food supplies.",
+              "links": [
+                {
+                  "text": "war in Ukraine",
+                  "type": "internal",
+                  "page": "2022 Russian invasion of Ukraine"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "His term will expire on 15 March 2028."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.bbc.com/news/business-35408302",
+          "title": "Andrew Bailey is new City watchdog boss",
+          "date": "26 January 2016",
+          "publisher": "BBC",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.theguardian.com/business/2015/jul/17/city-watchdog-chief-quits-fca-george-osborne",
+          "title": "City watchdog chief quits after George Osborne vote of no confidence",
+          "last": "Inman",
+          "first": "Phillip",
+          "date": "17 July 2015",
+          "newspaper": "The Guardian",
+          "access-date": "14 February 2017",
+          "issn": "0261-3077",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.ft.com/content/f8f154c2-2e8c-4127-9420-dce26a760502",
+          "title": "Ex-FCA chief Bailey 'fell asleep' in pensions mis-selling meeting",
+          "newspaper": "Financial Times",
+          "date": "18 March 2022",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.thisismoney.co.uk/money/markets/article-10628635/Andrew-Bailey-fell-asleep-meeting-pensions-scandal.html",
+          "title": "Andrew Bailey 'fell asleep' during meeting over pensions scandal",
+          "date": "18 March 2022",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.theguardian.com/business/2020/mar/05/concerns-raised-over-new-bank-of-england-governors-time-at-fco",
+          "title": "Concerns raised over new Bank of England governor's time at FCA",
+          "first": "Phillip",
+          "last": "Inman",
+          "date": "5 March 2020",
+          "via": "www.theguardian.com",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.thetimes.co.uk/article/the-week-ahead-67jtm7zbv",
+          "title": "The week ahead",
+          "last": "Costello",
+          "first": "Miles",
+          "date": "3 June 2019",
+          "work": "The Times",
+          "access-date": "3 June 2019",
+          "issn": "0140-0460}} |undefined",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.standard.co.uk/business/revealed-sajid-javid-scored-victory-over-rival-dominic-cummings-when-it-came-to-appointing-new-bank-a4354451.html",
+          "title": "Revealed: Sajid Javid scored victory over rival Dominic Cummings when it came to appointing new Bank of England Governor",
+          "date": "5 February 2020",
+          "work": "London Evening Standard",
+          "access-date": "9 February 2020",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.theguardian.com/business/2019/dec/20/andrew-bailey-appointed-head-of-bank-of-england",
+          "title": "Andrew Bailey appointed head of Bank of England",
+          "website": "The Guardian",
+          "date": "20 December 2019",
+          "access-date": "2 April 2020",
+          "last": "Partington",
+          "first": "Richard",
+          "quote": "Javid is understood to have decided on Bailey.",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.telegraph.co.uk/politics/2021/08/05/bank-england-governor-attacks-peers-describing-money-printing/",
+          "title": "Bank of England chief attacks peers for calling quantitative easing an 'addiction'",
+          "first1": "Lucy",
+          "last1": "Fisher",
+          "first2": "Russell",
+          "last2": "Lynch",
+          "newspaper": "The Telegraph",
+          "date": "5 August 2021",
+          "via": "www.telegraph.co.uk",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "date": "4 February 2022",
+          "title": "Bank of England boss criticised for asking workers not to demand pay rise",
+          "url": "https://www.theguardian.com/business/2022/feb/04/bank-of-england-boss-calls-for-wage-restraint-to-help-control-inflation",
+          "access-date": "4 February 2022",
+          "website": "The Guardian",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.reuters.com/world/uk/whats-your-pay-governor-boes-bailey-chided-over-wages-talk-2022-02-23/",
+          "title": "'What's your pay, governor?': BoE's Bailey chided over wages talk",
+          "newspaper": "Reuters",
+          "date": "23 February 2022",
+          "last1": "Bruce",
+          "first1": "Andy",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.bbc.com/news/business-61469532",
+          "title": "Bank governor in 'apocalyptic' warning over rising food prices",
+          "date": "16 May 2022",
+          "work": "BBC News",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "title": "Andrew Bailey takes over as governor of the Bank of England",
+          "url": "https://www.economist.com/britain/2020/03/15/andrew-bailey-takes-over-as-governor-of-the-bank-of-england",
+          "newspaper": "The Economist",
+          "date": "15 March 2020",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Personal life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "He is married to Cheryl Schonhardt-Bailey, professor of political science and head of the Department of Government at the London School of Economics and Political Science (LSE).",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Cheryl Schonhardt-Bailey"
+                },
+                {
+                  "text": "London School of Economics and Political Science",
+                  "type": "internal",
+                  "page": "London School of Economics"
+                }
+              ]
+            },
+            {
+              "text": "They have 2 children."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-gov"
+        },
+        {
+          "before": "Mark Carney",
+          "template": "s-bef"
+        },
+        {
+          "title": "Governor of the Bank of England",
+          "years": "2020–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "template": "governors of the bank of england"
+        },
+        {
+          "template": "monetary policy committee (united kingdom)"
+        },
+        {
+          "template": "g8-central bank"
+        },
+        {
+          "template": "g20-cbgovernors"
+        },
+        {
+          "template": "authority control"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Profile at the FSA",
+            "links": [
+              {
+                "text": "Profile at the FSA",
+                "type": "external",
+                "site": "http://www.fsa.gov.uk/pages/About/Who/Management/Retail/bailey.shtml"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}

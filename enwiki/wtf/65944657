@@ -1,0 +1,165 @@
+{
+  "title": "Harriet Cross",
+  "pageID": 65944657,
+  "categories": [
+    "British women ambassadors",
+    "British consuls",
+    "High Commissioners of the United Kingdom to Trinidad and Tobago",
+    "The Fletcher School at Tufts University alumni",
+    "Massachusetts Institute of Technology alumni",
+    "Year of birth missing (living people)",
+    "Living people"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Harriet Cross is a British diplomat who is the High Commissioner to Trinidad and Tobago (since September 2020).",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Trinidad and Tobago"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Harriet Cross"
+                ]
+              }
+            },
+            {
+              "text": "She was Consul-General in Boston, Massachusetts from 2016 to August 2020 (succeeding Susie Kitchens) and Deputy Ambassador at the British Embassy in Yemen before that.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Boston, Massachusetts"
+                },
+                {
+                  "type": "internal",
+                  "page": "Susie Kitchens"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "She was the fourth woman to manage the Boston consulate and the first consul since 1972 to represent the United Kingdom outside the European Union.",
+              "links": [
+                {
+                  "text": "since 1972",
+                  "type": "internal",
+                  "page": "European Communities Act 1972 (UK)"
+                },
+                {
+                  "text": "outside the European Union",
+                  "type": "internal",
+                  "page": "Brexit"
+                }
+              ]
+            },
+            {
+              "text": "While in Yemen, ongoing conflict there compelled her to organize the evacuation of the Embassy, and she subsequently spent the rest of her posting in Jeddah, Saudi Arabia.",
+              "links": [
+                {
+                  "text": "ongoing conflict there",
+                  "type": "internal",
+                  "page": "Yemeni Civil War (2015–present)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Cross earned a master's degree in International Relations from the Fletcher School of Law & Diplomacy at Tufts University (2019, Global Master of Arts Program (GMAP)), a First Class honours degree from the University of Warwick in Politics with French and an Executive Certificate in Management & Leadership from MIT.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Fletcher School of Law & Diplomacy"
+                },
+                {
+                  "type": "internal",
+                  "page": "Tufts University"
+                },
+                {
+                  "type": "internal",
+                  "page": "MIT"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "date": "June 2022",
+          "template": "refimprove"
+        },
+        {
+          "description": "British diplomat and High Commissioner to Trinidad and Tobago",
+          "template": "short description"
+        },
+        {
+          "date": "April 2022",
+          "template": "use dmy dates"
+        }
+      ],
+      "references": [
+        {
+          "last1": "Uebele",
+          "first1": "Hannah",
+          "title": "British Consul General To New England Takes On New Appointment",
+          "url": "https://www.wgbh.org/news/international-news/2020/08/04/british-consul-general-to-new-england-takes-on-new-appointment",
+          "access-date": "26 November 2020",
+          "publisher": "WGBH News",
+          "date": "August 4, 2020",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Shuman",
+          "first1": "Cary",
+          "title": "A Beacon of Diplomacy:Kitchens Concludes Distinguished Tenure as Consul General",
+          "url": "https://beaconhilltimes.com/2016/08/19/a-beacon-of-diplomacykitchens-concludes-distinguished-tenure-as-consul-general/",
+          "access-date": "23 January 2021",
+          "publisher": "Beacon Hill Times",
+          "date": "August 19, 2016",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.gov.uk/government/people/harriet-cross",
+          "title": "Harriet Cross, British Consul General in Boston",
+          "publisher": "gov.uk",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Harriet Cross",
+          "url": "https://fletcher.tufts.edu/people/harriet-cross",
+          "website": "The Fletcher School",
+          "publisher": "Tufts",
+          "access-date": "26 November 2020",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "uk-diplomat-stub"
+        }
+      ]
+    }
+  ]
+}

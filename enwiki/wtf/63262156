@@ -1,0 +1,257 @@
+{
+  "title": "Alison Blackburne",
+  "pageID": 63262156,
+  "categories": [
+    "Ambassadors of the United Kingdom to South Sudan",
+    "British expatriates in Pakistan",
+    "High Commissioners of the United Kingdom to Uganda",
+    "Permanent Representatives of the United Kingdom to the European Union",
+    "Living people",
+    "British women ambassadors",
+    "Year of birth missing (living people)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Alison Blackburne was the British Ambassador to South Sudan from April 2017 to May 2019 and the British High Commissioner to Uganda from August 2012 to November 2016.",
+              "links": [
+                {
+                  "text": "Ambassador to",
+                  "type": "internal",
+                  "page": "List of ambassadors of the United Kingdom to South Sudan"
+                },
+                {
+                  "type": "internal",
+                  "page": "South Sudan"
+                },
+                {
+                  "text": "High Commissioner to",
+                  "type": "internal",
+                  "page": "List of High Commissioners of the United Kingdom to Uganda"
+                },
+                {
+                  "type": "internal",
+                  "page": "Uganda"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Alison Blackburne"
+                ]
+              }
+            },
+            {
+              "text": "She is currently the Deputy High Commissioner to Pakistan."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Blackburne also served with the UK Permanent Representative to the EU.",
+              "links": [
+                {
+                  "text": "UK Permanent Representative to the EU",
+                  "type": "internal",
+                  "page": "List of Permanent Representatives of the United Kingdom to the European Union"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "British diplomat",
+          "template": "short description"
+        },
+        {
+          "date": "April 2022",
+          "template": "use dmy dates"
+        },
+        {
+          "template": "date",
+          "data": {
+            "year": "2017",
+            "month": "4",
+            "template": "start date",
+            "text": "April 2017"
+          }
+        },
+        {
+          "template": "date",
+          "data": {
+            "year": "2019",
+            "month": "5",
+            "template": "end date",
+            "text": "May 2019"
+          }
+        },
+        {
+          "template": "date",
+          "data": {
+            "year": "2012",
+            "month": "8",
+            "template": "start date",
+            "text": "August 2012"
+          }
+        },
+        {
+          "template": "date",
+          "data": {
+            "year": "2016",
+            "month": "11",
+            "template": "end date",
+            "text": "November 2016"
+          }
+        }
+      ],
+      "infoboxes": [
+        {
+          "office": {
+            "text": "Ambassador of the United Kingdom to South Sudan",
+            "links": [
+              {
+                "text": "Ambassador of the United Kingdom to South Sudan",
+                "type": "internal",
+                "page": "List of ambassadors of the United Kingdom to South Sudan"
+              }
+            ]
+          },
+          "termstart": {
+            "text": "April 2017"
+          },
+          "termend": {
+            "text": "May 2019"
+          },
+          "successor": {
+            "text": "Christopher Trott",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Christopher Trott"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Timothy Morris",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Timothy Morris"
+              }
+            ]
+          },
+          "monarch": {
+            "text": "Elizabeth II",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Elizabeth II"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Theresa May\nBoris Johnson",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Theresa May"
+              },
+              {
+                "type": "internal",
+                "page": "Boris Johnson"
+              }
+            ]
+          },
+          "office1": {
+            "text": "High Commissioner of the United Kingdom to Uganda",
+            "links": [
+              {
+                "text": "High Commissioner of the United Kingdom to Uganda",
+                "type": "internal",
+                "page": "List of High Commissioners of the United Kingdom to Uganda"
+              }
+            ]
+          },
+          "monarch1": {
+            "text": "Elizabeth II"
+          },
+          "termstart1": {
+            "text": "August 2012"
+          },
+          "termend1": {
+            "text": "November 2016"
+          },
+          "primeminister1": {
+            "text": "David Cameron\nTheresa May",
+            "links": [
+              {
+                "type": "internal",
+                "page": "David Cameron"
+              }
+            ]
+          },
+          "predecessor1": {
+            "text": "Martin Shearman",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Martin Shearman"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Peter West",
+            "links": [
+              {
+                "text": "Peter West",
+                "type": "internal",
+                "page": "Peter West (diplomat)"
+              }
+            ]
+          },
+          "image": {
+            "text": "Alison Blackburne.jpg"
+          },
+          "caption": {
+            "text": "Alison Blackburne in 2011"
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Mr Christopher Trott has been appointed Her Majesty's Ambassador to the Republic of South Sudan.",
+          "url": "https://www.africanews.com/2019/02/19/change-of-her-majesty-s-ambassador-to-south-sudan-may-2019/",
+          "accessdate": "2 March 2020",
+          "publisher": "Africa News",
+          "date": "February 19, 2019",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Alison Blackburne",
+          "url": "https://www.gov.uk/government/people/alison-blackburne",
+          "website": "Gov.uk",
+          "accessdate": "2 March 2020",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "uk-diplomat-stub"
+        }
+      ]
+    }
+  ]
+}

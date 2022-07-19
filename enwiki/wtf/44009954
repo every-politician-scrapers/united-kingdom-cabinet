@@ -1,0 +1,858 @@
+{
+  "title": "Natalie Evans, Baroness Evans of Bowes Park",
+  "pageID": 44009954,
+  "categories": [
+    "1975 births",
+    "Alumni of New Hall, Cambridge",
+    "Conservative Party (UK) life peers",
+    "Life peeresses created by Elizabeth II",
+    "Female members of the Cabinet of the United Kingdom",
+    "Leaders of the House of Lords",
+    "Living people",
+    "Lords Privy Seal",
+    "People educated at Henrietta Barnett School",
+    "People educated at Rockport School",
+    "Members of the Privy Council of the United Kingdom"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Natalie Jessica Evans, Baroness Evans of Bowes Park, (born 29 November 1975), is a British politician serving as Leader of the House of Lords since 2016.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Leader of the House of Lords"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Natalie Jessica Evans, Baroness Evans of Bowes Park"
+                ]
+              }
+            },
+            {
+              "text": "A member of the Conservative Party, she was made a life peer in 2014 and is the first Leader of the House of Lords to serve under two different prime ministers since Lord Shepherd in 1974 and the longest serving lords leader since 1951.",
+              "links": [
+                {
+                  "text": "Conservative Party",
+                  "type": "internal",
+                  "page": "Conservative Party (UK)"
+                },
+                {
+                  "text": "life peer",
+                  "type": "internal",
+                  "page": "life peer"
+                },
+                {
+                  "text": "Lord Shepherd",
+                  "type": "internal",
+                  "page": "Malcolm Shepherd, 2nd Baron Shepherd"
+                }
+              ]
+            },
+            {
+              "text": "She has been continuously serving in this position for six years."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Leader of the House of Lords (UK)",
+          "template": "short description"
+        },
+        {
+          "template": "redirect",
+          "redirect": "Baroness Evans",
+          "links": [
+            {
+              "page": "Lord Evans (disambiguation)",
+              "desc": ""
+            },
+            {
+              "desc": "Lord Evans"
+            }
+          ]
+        },
+        {
+          "date": "August 2019",
+          "template": "use british english"
+        },
+        {
+          "date": "August 2019",
+          "template": "use dmy dates"
+        },
+        {
+          "country": "GBR",
+          "size": "100%",
+          "list": [
+            "PC"
+          ],
+          "template": "post-nominals"
+        },
+        {
+          "year": "1975",
+          "month": "11",
+          "day": "29",
+          "df": "y",
+          "template": "birth date and age"
+        },
+        {
+          "spouse": "James Wild",
+          "from": "2010",
+          "template": "marriage"
+        },
+        {
+          "country": "GBR",
+          "sep": ",",
+          "size": "100%",
+          "list": [
+            "PC"
+          ],
+          "template": "post-nominals"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific-prefix": {
+            "text": "The Right Honourable",
+            "links": [
+              {
+                "type": "internal",
+                "page": "The Right Honourable"
+              }
+            ]
+          },
+          "name": {
+            "text": "The Baroness Evans of Bowes Park"
+          },
+          "image": {
+            "text": "File:Official portrait of Baroness Evans of Bowes Park crop 2.jpg"
+          },
+          "caption": {
+            "text": "Official portrait, 2018"
+          },
+          "office1": {
+            "text": "Leader of the House of Lords Lord Keeper of the Privy Seal",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Leader of the House of Lords"
+              },
+              {
+                "text": "Lord Keeper of the Privy Seal",
+                "type": "internal",
+                "page": "Lord Privy Seal"
+              }
+            ]
+          },
+          "primeminister1": {
+            "text": "Theresa May Boris Johnson",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Theresa May"
+              },
+              {
+                "type": "internal",
+                "page": "Boris Johnson"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "14 July 2016"
+          },
+          "predecessor1": {
+            "text": "The Baroness Stowell of Beeston",
+            "links": [
+              {
+                "text": "The Baroness Stowell of Beeston",
+                "type": "internal",
+                "page": "Tina Stowell, Baroness Stowell of Beeston"
+              }
+            ]
+          },
+          "office4": {
+            "text": "Baroness-in-Waiting Government Whip",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Baroness-in-Waiting"
+              },
+              {
+                "type": "internal",
+                "page": "Government Whip"
+              }
+            ]
+          },
+          "primeminister4": {
+            "text": "David Cameron",
+            "links": [
+              {
+                "type": "internal",
+                "page": "David Cameron"
+              }
+            ]
+          },
+          "term_start4": {
+            "text": "8 May 2015"
+          },
+          "term_end4": {
+            "text": "13 July 2016"
+          },
+          "predecessor4": {
+            "text": "The Baroness Jolly",
+            "links": [
+              {
+                "text": "The Baroness Jolly",
+                "type": "internal",
+                "page": "Judith Jolly, Baroness Jolly"
+              }
+            ]
+          },
+          "successor4": {
+            "text": "The Baroness Goldie",
+            "links": [
+              {
+                "text": "The Baroness Goldie",
+                "type": "internal",
+                "page": "Annabel Goldie"
+              }
+            ]
+          },
+          "office5": {
+            "text": "Member of the House of Lords Lord Temporal",
+            "links": [
+              {
+                "text": "Member of the House of Lords",
+                "type": "internal",
+                "page": "List of members of the House of Lords"
+              },
+              {
+                "text": "Lord Temporal",
+                "type": "internal",
+                "page": "Lords Temporal"
+              }
+            ]
+          },
+          "term_start5": {
+            "text": "28 October 2014 Life Peerage",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Life Peerage"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "November 29, 1975"
+          },
+          "spouse": {
+            "text": "James Wild (m. 2010)"
+          },
+          "party": {
+            "text": "Conservative",
+            "links": [
+              {
+                "text": "Conservative",
+                "type": "internal",
+                "page": "Conservative Party (UK)"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "New Hall, Cambridge",
+            "links": [
+              {
+                "type": "internal",
+                "page": "New Hall, Cambridge"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "title": "Early life and education",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Evans was born on 29 November 1975."
+            },
+            {
+              "text": "She was educated at Rockport School, The Henrietta Barnett School and at New Hall, Cambridge, where she studied social and political sciences and graduated in 1998.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Rockport School"
+                },
+                {
+                  "type": "internal",
+                  "page": "The Henrietta Barnett School"
+                },
+                {
+                  "type": "internal",
+                  "page": "New Hall, Cambridge"
+                },
+                {
+                  "text": "social and political sciences",
+                  "type": "internal",
+                  "page": "Social and Political Sciences"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "url": "https://www.gov.uk/government/people/natalie-evans-of-bowes-park",
+          "title": "Baroness Evans of Bowes Park - GOV.UK",
+          "website": "www.gov.uk",
+          "access-date": "2016-07-14",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Evans worked as a researcher for the House of Commons and then for the Social Market Foundation, a public policy think tank which aims to \"champion ideas that marry a pro-market orientation with concern for social justice\".",
+              "links": [
+                {
+                  "text": "House of Commons",
+                  "type": "internal",
+                  "page": "House of Commons of the United Kingdom"
+                },
+                {
+                  "type": "internal",
+                  "page": "Social Market Foundation"
+                }
+              ]
+            },
+            {
+              "text": "She moved to the Conservative Research Department in 1999, eventually becoming its deputy director.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Conservative Research Department"
+                }
+              ]
+            },
+            {
+              "text": "In 2002, she was appointed head of policy at the Investor Relations Society \"with a remit to help the Society play a leading role in influencing UK legislation, in particular the Financial Services Authority's review of the listing rules and regulations covering analyst research.\"",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Investor Relations Society"
+                }
+              ]
+            },
+            {
+              "text": "She later became its general manager."
+            },
+            {
+              "text": "In 2004, she became head of health and protection at the Association of British Insurers (2004–2006), and then worked as head of policy at the British Chambers of Commerce (2006–2008).",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Association of British Insurers"
+                },
+                {
+                  "type": "internal",
+                  "page": "British Chambers of Commerce"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 2008, Evans became deputy director at Policy Exchange, a centre-right think tank.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Policy Exchange"
+                },
+                {
+                  "text": "think tank",
+                  "type": "internal",
+                  "page": "think tank"
+                }
+              ]
+            },
+            {
+              "text": "In May 2010, she stood for election to the London Borough of Haringey as a Conservative Party candidate to be one of three councillors in the Bounds Green ward; she achieved 647 votes and was not elected.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "London Borough of Haringey"
+                },
+                {
+                  "type": "internal",
+                  "page": "Bounds Green"
+                },
+                {
+                  "text": "ward",
+                  "type": "internal",
+                  "page": "List of electoral wards in Greater London"
+                }
+              ]
+            },
+            {
+              "text": "On 5 November 2010, as deputy director at Policy Exchange, she introduced Home Secretary Theresa May at a speech about immigration hosted by the think tank.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Theresa May"
+                },
+                {
+                  "text": "immigration",
+                  "type": "internal",
+                  "page": "Immigration to the United Kingdom"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 2011, Evans left Policy Exchange to become chief operating officer at the New Schools Network.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "New Schools Network"
+                }
+              ]
+            },
+            {
+              "text": "She was then its director from January 2013 until May 2015."
+            },
+            {
+              "text": "The New Schools Network is a registered charity, and supports groups who wish to set up free schools.",
+              "links": [
+                {
+                  "text": "free schools",
+                  "type": "internal",
+                  "page": "Free schools in England"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.smf.co.uk/",
+          "title": "Home, The Social Market Foundation (SMF) think tank - Social Market Foundation",
+          "website": "Social Market Foundation",
+          "access-date": "6 October 2017",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "url": "https://www.gov.uk/government/speeches/immigration-home-secretarys-speech-of-5-november-2010",
+          "title": "Immigration: Home Secretary's speech of 5 November 2010 - Speeches - GOV.UK",
+          "website": "www.gov.uk",
+          "access-date": "2016-07-14",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.theguardian.com/politics/2014/aug/08/david-cameron-spotlight-lordships-given-tory-party-donors",
+          "title": "David Cameron in spotlight over two more peerages to Tory party donors",
+          "last": "Wintour",
+          "first": "Patrick",
+          "date": "2014-08-08",
+          "website": "The Guardian",
+          "access-date": "2016-07-14",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "title": "Storm as Tory party donors given peerages",
+          "date": "9 August 2014",
+          "work": "Yorkshire Post",
+          "via": "LexisNexis",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "House of Lords",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "She was made life peer as Baroness Evans of Bowes Park, of Bowes Park which borders the London Boroughs of Enfield and Haringey, on 12 September 2014.",
+              "links": [
+                {
+                  "text": "life peer",
+                  "type": "internal",
+                  "page": "life peer"
+                },
+                {
+                  "type": "internal",
+                  "page": "Bowes Park"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Baroness Evans of Bowes Park"
+                ]
+              }
+            },
+            {
+              "text": "Baroness Evans was formally introduced to the House of Lords along with Lord Cashman on 28 October 2014.",
+              "links": [
+                {
+                  "text": "introduced",
+                  "type": "internal",
+                  "page": "Introduction (House of Lords)"
+                },
+                {
+                  "type": "internal",
+                  "page": "House of Lords"
+                },
+                {
+                  "text": "Lord Cashman",
+                  "type": "internal",
+                  "page": "Michael Cashman"
+                }
+              ]
+            },
+            {
+              "text": "She was, at the time, the youngest female peer."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Evans served as a government whip in the House of Lords during the 2015 government, and spoke briefly in January 2016 about how \"education must be at the heart of our prison system if we are to rehabilitate effectively\"."
+            },
+            {
+              "text": "On 14 July 2016 Baroness Evans was appointed to the post of Leader of the House of Lords by then prime minister, Theresa May.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Leader of the House of Lords"
+                },
+                {
+                  "type": "internal",
+                  "page": "Theresa May"
+                }
+              ]
+            },
+            {
+              "text": "She remained in that office when Boris Johnson became Prime Minister in July 2019.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Boris Johnson"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "file": "File:Baroness_Evans_of_Bowes_Park_(51110960637).jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Baroness_Evans_of_Bowes_Park_(51110960637).jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Baroness_Evans_of_Bowes_Park_(51110960637).jpg",
+          "caption": "Evans at the Lords' dispatch box in 2021",
+          "links": []
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "url": "http://services.parliament.uk/calendar/Lords/MainChamber/2014/10/28/events.html",
+          "title": "Parliament UK: Parliamentary Calendar",
+          "website": "services.parliament.uk",
+          "access-date": "2016-07-14",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Prime Minister's Office",
+          "date": "23 May 2015",
+          "work": "The Times",
+          "edition": "1st National",
+          "pages": "78–79",
+          "via": "LexisNexis",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://www.belfasttelegraph.co.uk/news/uk/former-inmate-lord-hanningfield-calls-for-more-prisoner-education-34380429.html",
+          "title": "Former inmate Lord Hanningfield calls for more prisoner education - BelfastTelegraph.co.uk",
+          "access-date": "2016-07-14",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.theguardian.com/politics/blog/live/2016/jul/14/theresa-may-cabinet-reshuffle-boris-johnson-philip-hammond-rules-out-emergency-budget",
+          "title": "May's cabinet reshuffle: Michael Gove sacked and replaced with Elizabeth Truss - live updates",
+          "last": "Sparrow",
+          "first": "Andrew",
+          "last2": "Johnston",
+          "first2": "Chris",
+          "date": "2016-07-14",
+          "website": "The Guardian",
+          "access-date": "2016-07-14",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Personal life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Her husband James Wild was employed as a Special Adviser by Sir Michael Fallon MP, when he served as Secretary of State for Defence.",
+              "links": [
+                {
+                  "text": "James Wild",
+                  "type": "internal",
+                  "page": "James Wild (politician)"
+                },
+                {
+                  "text": "Special Adviser",
+                  "type": "internal",
+                  "page": "Special advisers (UK government)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Michael Fallon"
+                },
+                {
+                  "type": "internal",
+                  "page": "Secretary of State for Defence"
+                }
+              ]
+            },
+            {
+              "text": "He was elected the MP for North West Norfolk at the 2019 United Kingdom general election.",
+              "links": [
+                {
+                  "text": "North West Norfolk",
+                  "type": "internal",
+                  "page": "North West Norfolk (UK Parliament constituency)"
+                },
+                {
+                  "text": "2019 United Kingdom general election",
+                  "type": "internal",
+                  "page": "2019 United Kingdom general election"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.parliament.uk/biographies/lords/baroness-evans-of-bowes-park/4329/register-of-interests",
+          "title": "Baroness Evans of Bowes Park",
+          "website": "UK Parliament",
+          "access-date": "2017-01-15",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "list": [
+            "40em"
+          ],
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        },
+        {
+          "sentences": []
+        },
+        {
+          "sentences": []
+        },
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-off"
+        },
+        {
+          "rows": "2",
+          "before": "The Baroness Stowell of Beeston",
+          "template": "s-bef"
+        },
+        {
+          "title": "Leader of the House of Lords",
+          "years": "2016–present",
+          "template": "s-ttl"
+        },
+        {
+          "rows": "2",
+          "template": "s-inc"
+        },
+        {
+          "title": "Lord Privy Seal",
+          "years": "2016–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-ppo"
+        },
+        {
+          "before": "The Baroness Stowell of Beeston",
+          "template": "s-bef"
+        },
+        {
+          "title": "Leader of the Conservative Party in the House of Lords",
+          "years": "2016–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "list": [
+            "ew"
+          ],
+          "template": "s-prec"
+        },
+        {
+          "before": "Princess Alexandra",
+          "template": "s-bef"
+        },
+        {
+          "title": "Ladies as Lord Privy Seal",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Ambassadors and High Commissioners",
+          "template": "s-aft"
+        },
+        {
+          "template": "johnson cabinet"
+        },
+        {
+          "title": "May Cabinets",
+          "template": "navboxes top"
+        },
+        {
+          "template": "first may cabinet"
+        },
+        {
+          "template": "second may cabinet"
+        },
+        {
+          "template": "navboxes bottom"
+        },
+        {
+          "template": "officers of the lords and commons"
+        },
+        {
+          "template": "authority control"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Baroness Evans of Bowes Park – UK Parliament",
+            "links": [
+              {
+                "text": "Baroness Evans of Bowes Park",
+                "type": "external",
+                "site": "http://www.parliament.uk/biographies/lords/baroness-evans-of-bowes-park/4329"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}

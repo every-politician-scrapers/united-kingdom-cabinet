@@ -1,0 +1,195 @@
+{
+  "title": "Tina Redshaw",
+  "pageID": 64229045,
+  "categories": [
+    "British women ambassadors",
+    "Ambassadors of the United Kingdom to Cambodia",
+    "Ambassadors of the United Kingdom to East Timor",
+    "Year of birth missing (living people)",
+    "Living people"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Tina Redshaw is a British diplomat who became the first female UK Ambassador to Cambodia, succeeding Bill Longhurst.",
+              "links": [
+                {
+                  "text": "UK Ambassador to Cambodia",
+                  "type": "internal",
+                  "page": "List of ambassadors of the United Kingdom to Cambodia"
+                },
+                {
+                  "type": "internal",
+                  "page": "Bill Longhurst"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Tina Redshaw"
+                ]
+              }
+            },
+            {
+              "text": "She was Consul-General in Chongqing (2013 to 2016).",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Chongqing"
+                }
+              ]
+            },
+            {
+              "text": "Redshaw was Her Majesty's Ambassador to Timor-Leste from 2003 to 2007.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Timor-Leste"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Redshaw earned a Masters Degree in International Development Management from the Open University and a Bachelor's degree in Language and Linguistics from the University of York.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Open University"
+                },
+                {
+                  "type": "internal",
+                  "page": "University of York"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "British diplomat",
+          "template": "short description"
+        },
+        {
+          "date": "April 2022",
+          "template": "use dmy dates"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific-prefix": {
+            "text": "Her Excellency",
+            "links": [
+              {
+                "text": "Her Excellency",
+                "type": "internal",
+                "page": "Excellency"
+              }
+            ]
+          },
+          "name": {
+            "text": "Tina Redshaw"
+          },
+          "image": {
+            "text": "Tina Redshaw.jpg"
+          },
+          "office": {
+            "text": "Her Majesty's Ambassador to Cambodia",
+            "links": [
+              {
+                "text": "Her Majesty's Ambassador to Cambodia",
+                "type": "internal",
+                "page": "List of Ambassadors of the United Kingdom to Cambodia"
+              }
+            ]
+          },
+          "monarch": {
+            "text": "Elizabeth II",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Elizabeth II"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "July 2018"
+          },
+          "predecessor": {
+            "text": "Bill Longhurst",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Bill Longhurst"
+              }
+            ]
+          },
+          "birthname": {
+            "text": "Tina Susan Redshaw"
+          },
+          "nationality": {
+            "text": "British",
+            "links": [
+              {
+                "text": "British",
+                "type": "internal",
+                "page": "United Kingdom"
+              }
+            ]
+          },
+          "profession": {
+            "text": "Diplomat",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Diplomat"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.gov.uk/government/news/change-of-her-majestys-ambassador-to-cambodia-in-june-2018",
+          "title": "Change of Her Majesty's Ambassador to Cambodia in June 2018",
+          "publisher": "Foreign & Commonwealth Office",
+          "date": "17 January 2018",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "British Ambassador to Cambodia Tina Redshaw",
+          "url": "https://www.gov.uk/government/people/tina-redshaw",
+          "website": "GOV.UK",
+          "accessdate": "10 June 2020",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "An Exclusive Interview with the British Ambassador, HE Tina Redshaw",
+          "url": "https://ace-emagazine.org/Magazine/IS17-An-Exclusive-Interview-with-the-British-Ambassador-HE-Tina-Redshaw",
+          "accessdate": "10 June 2020",
+          "publisher": "I’m ACE Magazine",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "uk-diplomat-stub"
+        }
+      ]
+    }
+  ]
+}

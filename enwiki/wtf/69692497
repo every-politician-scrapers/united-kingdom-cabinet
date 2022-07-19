@@ -1,0 +1,239 @@
+{
+  "title": "Roderick Drummond",
+  "pageID": 69692497,
+  "categories": [
+    "Living people",
+    "Alumni of the University of Edinburgh",
+    "Ambassadors of the United Kingdom to Bahrain",
+    "High Commissioners of the United Kingdom to Fiji",
+    "High Commissioners of the United Kingdom to Tuvalu",
+    "Year of birth missing (living people)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Roderick Drummond is a British diplomat serving as British Ambassador to Bahrain since 2019.",
+              "links": [
+                {
+                  "text": "British Ambassador to Bahrain",
+                  "type": "internal",
+                  "page": "List of ambassadors of the United Kingdom to Bahrain"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Roderick Drummond"
+                ]
+              }
+            },
+            {
+              "text": "He previously served as British High Commissioner to Fiji from 2013 to 2016 whilst also serving as non-resident High Commissioner to the Republic of Kiribati, the Kingdom of Tonga and Tuvalu as well as Ambassador to the Republic of the Marshall Islands and the Federated States of Micronesia.",
+              "links": [
+                {
+                  "text": "British High Commissioner to Fiji",
+                  "type": "internal",
+                  "page": "High Commissioner of the United Kingdom to Fiji"
+                },
+                {
+                  "type": "internal",
+                  "page": "Republic of Kiribati"
+                },
+                {
+                  "type": "internal",
+                  "page": "Kingdom of Tonga"
+                },
+                {
+                  "type": "internal",
+                  "page": "Tuvalu"
+                },
+                {
+                  "type": "internal",
+                  "page": "Republic of the Marshall Islands"
+                },
+                {
+                  "type": "internal",
+                  "page": "Federated States of Micronesia"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "British diplomat",
+          "template": "short description"
+        },
+        {
+          "date": "January 2021",
+          "template": "use dmy dates"
+        },
+        {
+          "date": "January 2021",
+          "template": "use british english"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Roderick Drummond"
+          },
+          "office": {
+            "text": "British Ambassador to Bahrain",
+            "links": [
+              {
+                "text": "British Ambassador to Bahrain",
+                "type": "internal",
+                "page": "List of ambassadors of the United Kingdom to Bahrain"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "April 2019"
+          },
+          "predecessor": {
+            "text": "Simon Martin",
+            "links": [
+              {
+                "text": "Simon Martin",
+                "type": "internal",
+                "page": "Simon Martin (diplomat)"
+              }
+            ]
+          },
+          "monarch": {
+            "text": "Elizabeth II",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Elizabeth II"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Boris Johnson",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Boris Johnson"
+              }
+            ]
+          },
+          "office1": {
+            "text": "British High Commissioner to Fiji",
+            "links": [
+              {
+                "text": "British High Commissioner to Fiji",
+                "type": "internal",
+                "page": "High Commissioner of the United Kingdom to Fiji"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "2013",
+            "number": 2013
+          },
+          "term_end1": {
+            "text": "2016",
+            "number": 2016
+          },
+          "predecessor1": {
+            "text": "Steven Chandler (acting)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Steven Chandler"
+              }
+            ],
+            "formatting": {
+              "italic": [
+                "(acting)"
+              ]
+            }
+          },
+          "successor1": {
+            "text": "Melanie Hopkins",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Melanie Hopkins"
+              }
+            ]
+          },
+          "monarch1": {
+            "text": "Elizabeth II",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Elizabeth II"
+              }
+            ]
+          },
+          "primeminister1": {
+            "text": "David Cameron",
+            "links": [
+              {
+                "type": "internal",
+                "page": "David Cameron"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Yasmin"
+          },
+          "children": {
+            "text": "3",
+            "number": 3
+          },
+          "alma_mater": {
+            "text": "Edinburgh University",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Edinburgh University"
+              }
+            ]
+          },
+          "occupation": {
+            "text": "Diplomat"
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Change of Her Majesty's Ambassador to the Kingdom of Bahrain",
+          "url": "https://www.gov.uk/government/news/change-of-her-majestys-ambassador-to-the-kingdom-of-bahrain-august-2019",
+          "website": "FCDO",
+          "access-date": "6 January 2022",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "New Brit in Bahrain",
+          "url": "https://www.bahrainthismonth.com/magazine/interviews/new-brit-in-bahrain-he-roderick-drummond",
+          "website": "Bahrainthismonth",
+          "access-date": "6 January 2022",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "uk-diplomat-stub"
+        }
+      ]
+    }
+  ]
+}

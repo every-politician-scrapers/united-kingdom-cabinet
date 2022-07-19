@@ -1,0 +1,106 @@
+{
+  "title": "Christopher Yvon",
+  "pageID": 63025744,
+  "categories": [
+    "Living people",
+    "Year of birth missing (living people)",
+    "Ambassadors of the United Kingdom to North Macedonia"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        },
+        {
+          "sentences": [
+            {
+              "text": "Ambassador Christopher Yvon was the Permanent Representative of the United Kingdom to the Council of Europe since February 2016 and Chair of the Committee of the Parties of the Council of Europe Convention on Action against Trafficking in Human Beings.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Council of Europe"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Ambassador Christopher Yvon"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He was HM Ambassador to North Macedonia (2010–2014), led the British Embassy in Slovenia from 2014–2015, and was Chargé d'Affaires to Slovenia (2014 to 2015).",
+              "links": [
+                {
+                  "text": "HM Ambassador to North Macedonia",
+                  "type": "internal",
+                  "page": "List of ambassadors of the United Kingdom to North Macedonia"
+                },
+                {
+                  "type": "internal",
+                  "page": "Slovenia"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "file": "File:Macedonia-_Christopher_Yvon_(8436218908).jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Macedonia-_Christopher_Yvon_(8436218908).jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Macedonia-_Christopher_Yvon_(8436218908).jpg",
+          "caption": "Macedonia- Christopher Yvon (8436218908)",
+          "links": []
+        }
+      ],
+      "templates": [
+        {
+          "description": "Diplomat",
+          "template": "short description"
+        },
+        {
+          "date": "April 2022",
+          "template": "use dmy dates"
+        }
+      ],
+      "references": [
+        {
+          "title": "Christopher Yvon",
+          "url": "https://www.gov.uk/government/people/christopher-yvon",
+          "website": "Gov.uk",
+          "accessdate": "5 February 2020",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Memo",
+          "url": "http://lastradainternational.org/lsidocs/3249-LSI%20NGO%20Plaform%20letter%20to%20CoE%20COP%20-%20GRETA%20elections%20November%202018.pdf",
+          "website": "La Strada International",
+          "accessdate": "5 February 2020",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "date": "February 2020",
+          "template": "improve categories"
+        },
+        {
+          "template": "uk-diplomat-stub"
+        }
+      ]
+    }
+  ]
+}

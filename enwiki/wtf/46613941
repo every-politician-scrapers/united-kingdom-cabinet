@@ -1,0 +1,490 @@
+{
+  "title": "George Edgar",
+  "pageID": 46613941,
+  "categories": [
+    "1960 births",
+    "Living people",
+    "Alumni of Trinity College, Cambridge",
+    "Alumni of the Open University",
+    "Ambassadors of the United Kingdom to Cambodia",
+    "Ambassadors of the United Kingdom to North Macedonia",
+    "Ambassadors of the United Kingdom to Uzbekistan",
+    "Ambassadors of the European Union to Cambodia",
+    "High Commissioners of the United Kingdom to Fiji",
+    "British officials of the European Union"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Christopher George Edgar (born April 21, 1960) is a retired British and European diplomat who served as the British High Commissioner to the Republic of Fiji.",
+              "links": [
+                {
+                  "text": "Republic of Fiji",
+                  "type": "internal",
+                  "page": "Fiji"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Christopher George Edgar"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "British diplomat",
+          "bot": "PearBOT 5",
+          "template": "short description"
+        },
+        {
+          "list": [
+            "the U.S. academic",
+            "George Edgar (academic)"
+          ],
+          "template": "for"
+        },
+        {
+          "date": "October 2015",
+          "template": "use dmy dates"
+        },
+        {
+          "date": "October 2015",
+          "template": "use british english"
+        },
+        {
+          "country": "GBR",
+          "list": [
+            "OBE"
+          ],
+          "template": "post-nominals"
+        },
+        {
+          "year": "1960",
+          "month": "04",
+          "day": "21",
+          "df": "y",
+          "template": "birth date and age"
+        },
+        {
+          "country": "GBR",
+          "size": "75%",
+          "list": [
+            "OBE"
+          ],
+          "template": "post-nominals"
+        },
+        {
+          "template": "date",
+          "data": {
+            "year": "1960",
+            "month": "04",
+            "date": "21",
+            "df": "y",
+            "template": "birth date",
+            "text": "April 21, 1960"
+          }
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific-prefix": {
+            "text": "His Excellency",
+            "links": [
+              {
+                "text": "His Excellency",
+                "type": "internal",
+                "page": "Excellency"
+              }
+            ]
+          },
+          "name": {
+            "text": "George Edgar"
+          },
+          "image": {
+            "text": "File:George Edgar.jpg"
+          },
+          "office": {
+            "text": "British High Commissioner to Fiji",
+            "links": [
+              {
+                "text": "British High Commissioner to Fiji",
+                "type": "internal",
+                "page": "List of High Commissioners of the United Kingdom to Fiji"
+              }
+            ]
+          },
+          "monarch": {
+            "text": "Elizabeth II",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Elizabeth II"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Boris Johnson",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Boris Johnson"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "August 2020"
+          },
+          "term_end": {
+            "text": "January 2022"
+          },
+          "predecessor": {
+            "text": "Melanie Hopkins",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Melanie Hopkins"
+              }
+            ]
+          },
+          "successor": {
+            "text": "Brian Jones",
+            "links": [
+              {
+                "text": "Brian Jones",
+                "type": "internal",
+                "page": "Brian Jones(diplomat)"
+              }
+            ]
+          },
+          "office1": {
+            "text": "British Ambassador to Uzbekistan",
+            "links": [
+              {
+                "text": "British Ambassador to Uzbekistan",
+                "type": "internal",
+                "page": "List of Ambassadors of the United Kingdom to Uzbekistan"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "August 2012"
+          },
+          "term_end1": {
+            "text": "October 2015"
+          },
+          "predecessor1": {
+            "text": "Rupert Joy",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Rupert Joy"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Christopher Allan"
+          },
+          "office2": {
+            "text": "British Ambassador to Macedonia",
+            "links": [
+              {
+                "text": "British Ambassador to Macedonia",
+                "type": "internal",
+                "page": "List of Ambassadors of the United Kingdom to Macedonia"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "2001",
+            "number": 2001
+          },
+          "term_end2": {
+            "text": "2004",
+            "number": 2004
+          },
+          "predecessor2": {
+            "text": "Mark Dickinson",
+            "links": [
+              {
+                "text": "Mark Dickinson",
+                "type": "internal",
+                "page": "Mark Dickinson (diplomat)"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Robert Chatterton Dickson",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Robert Chatterton Dickson"
+              }
+            ]
+          },
+          "office3": {
+            "text": "British Ambassador to Cambodia",
+            "links": [
+              {
+                "text": "British Ambassador to Cambodia",
+                "type": "internal",
+                "page": "List of Ambassadors of the United Kingdom to Cambodia"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "1997",
+            "number": 1997
+          },
+          "term_end3": {
+            "text": "2000",
+            "number": 2000
+          },
+          "predecessor3": {
+            "text": "Paul Reddicliffe",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Paul Reddicliffe"
+              }
+            ]
+          },
+          "successor3": {
+            "text": "Stephen Bridges",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Stephen Bridges"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "April 21, 1960"
+          },
+          "nationality": {
+            "text": "British",
+            "links": [
+              {
+                "text": "British",
+                "type": "internal",
+                "page": "United Kingdom"
+              }
+            ]
+          },
+          "occupation": {
+            "text": "Diplomat"
+          },
+          "spouse": {
+            "text": "Elena Ryurikovna Nagornichnykh"
+          },
+          "children": {
+            "text": "2",
+            "number": 2
+          },
+          "alma_mater": {
+            "text": "Trinity College, Cambridge Open University",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Trinity College, Cambridge"
+              },
+              {
+                "type": "internal",
+                "page": "Open University"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Edgar, (Christopher) George {{!}} WHO'S WHO & WHO WAS WHO",
+          "url": "http://www.ukwhoswho.com/view/10.1093/ww/9780199540884.001.0001/ww-9780199540884-e-14627",
+          "language": "en",
+          "doi": "10.1093/ww/9780199540884.013.U14627",
+          "template": "citation",
+          "type": "journal"
+        },
+        {
+          "title": "Change of British High Commissioner to Fiji, December 2021",
+          "url": "https://www.gov.uk/government/news/change-of-british-high-commissioner-to-fiji-december-2021",
+          "website": "FCDO",
+          "access-date": "7 January 2022",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Early life and education",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Edgar is the son of Dr William Macreadie Edgar and Dr Freda Elizabeth Edgar."
+            },
+            {
+              "text": "He studied Philosophy at Trinity College, Cambridge and then completed a MA in Environment, Policy and Society at the Open University.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Trinity College, Cambridge"
+                },
+                {
+                  "type": "internal",
+                  "page": "Open University"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "EDGAR, (Christopher) George",
+          "url": "http://www.ukwhoswho.com/view/article/oupww/whoswho/U14627/EDGAR_Christopher_George?index=1&results=QuicksearchResults&query=0",
+          "website": "Who's Who 2014",
+          "publisher": "A & C Black",
+          "access-date": "5 May 2015",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Edgar joined the UK Foreign and Commonwealth Office (FCO) in 1981 and was posted to the British Embassy in Moscow.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Foreign and Commonwealth Office"
+                },
+                {
+                  "text": "British Embassy in Moscow",
+                  "type": "internal",
+                  "page": "Embassy of the United Kingdom in Moscow"
+                }
+              ]
+            },
+            {
+              "text": "He has served as British Ambassador to Cambodia, Ambassador to Macedonia, Consul General in St Petersburg; and interim Ambassador to the Holy See.",
+              "links": [
+                {
+                  "text": "British Ambassador to Cambodia",
+                  "type": "internal",
+                  "page": "List of Ambassadors of the United Kingdom to Cambodia"
+                },
+                {
+                  "text": "Ambassador to Macedonia",
+                  "type": "internal",
+                  "page": "List of Ambassadors of the United Kingdom to Macedonia"
+                },
+                {
+                  "text": "Consul General in St Petersburg",
+                  "type": "internal",
+                  "page": "Consulate-General of the United Kingdom, Saint Petersburg"
+                },
+                {
+                  "text": "interim Ambassador to the Holy See",
+                  "type": "internal",
+                  "page": "List of Ambassadors of the United Kingdom to the Holy See"
+                }
+              ]
+            },
+            {
+              "text": "He played a key role in Protocol Directorate in the FCO in relation to arrangements for the 2012 London Olympics.",
+              "links": [
+                {
+                  "text": "2012 London Olympics",
+                  "type": "internal",
+                  "page": "2012 Summer Olympics"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Edgar was appointed as the British Ambassador to Uzbekistan in August 2012.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "British Ambassador to Uzbekistan"
+                }
+              ]
+            },
+            {
+              "text": "In April 2015 the FCO announced that he would be replaced in autumn 2015 and would transfer to another Diplomatic Service appointment.",
+              "links": [
+                {
+                  "text": "Diplomatic Service",
+                  "type": "internal",
+                  "page": "Her Majesty's Diplomatic Service"
+                }
+              ]
+            },
+            {
+              "text": "He was appointed to be the European Union's ambassador to Cambodia, and took up the post on 1 December 2015.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "European Union"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "Change of Her Majesty's Ambassador to Uzbekistan",
+          "url": "https://www.gov.uk/government/news/change-of-her-majestys-ambassador-to-uzbekistan",
+          "publisher": "Foreign & Commonwealth Office",
+          "date": "10 April 2015",
+          "access-date": "12 October 2015",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "url": "https://www.gov.uk/government/people/christopher-george-edgar-obe",
+          "title": "Christopher George Edgar OBE",
+          "access-date": "5 May 2015",
+          "url-status": "unfit",
+          "archive-url": "https://web.archive.org/web/20150518214911/https://www.gov.uk/government/people/christopher-george-edgar-obe",
+          "archive-date": "18 May 2015",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    }
+  ]
+}

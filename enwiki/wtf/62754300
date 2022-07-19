@@ -1,0 +1,150 @@
+{
+  "title": "Duncan Norman",
+  "pageID": 62754300,
+  "categories": [
+    "Ambassadors of the United Kingdom to Albania",
+    "Members of HM Diplomatic Service",
+    "Living people",
+    "1971 births",
+    "Members of the Order of the British Empire",
+    "20th-century British diplomats",
+    "21st-century British diplomats"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Duncan Norman MBE (born 1971) is a British diplomat, serving since 2016 as the British Ambassador to Albania.",
+              "links": [
+                {
+                  "text": "MBE",
+                  "type": "internal",
+                  "page": "Order of the British Empire"
+                },
+                {
+                  "type": "internal",
+                  "page": "Albania"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Duncan Norman"
+                ]
+              }
+            },
+            {
+              "text": "Previously to this, he was the head of the Foreign and Commonwealth Office Afghanistan Unit.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Foreign and Commonwealth Office"
+                }
+              ]
+            },
+            {
+              "text": "He joined the FCO in 1990, and has also worked in Dhaka, Tortola, Yerevan and Riyadh."
+            },
+            {
+              "text": "He is married with one daughter."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Since his appointment to Albania he has engaged in activities such as celebrating the birthday of Queen Elizabeth II in Tirana and attending an event focusing on Albanian reforms of higher education.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Queen Elizabeth II"
+                },
+                {
+                  "type": "internal",
+                  "page": "Tirana"
+                },
+                {
+                  "text": "higher education",
+                  "type": "internal",
+                  "page": "higher education"
+                }
+              ]
+            },
+            {
+              "text": "In 2018, he attended a ceremony in Tirana to lay to rest seven British airmen who fatally crashed in Albania during the Second World War.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Second World War"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "date": "April 2022",
+          "template": "use dmy dates"
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.gulabin.com/britishdiplomatsdirectory/pdf/britishdiplomatsdirectory.pdf",
+          "title": "A Directory of British Diplomats",
+          "first": "Colin",
+          "last": "Mackie",
+          "website": "Colin Mackie's website",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Duncan Norman MBE",
+          "url": "https://www.gov.uk/government/people/duncan-norman",
+          "website": "gov.uk",
+          "accessdate": "6 January 2020",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Queen's Birthday Party 2017 in Tirana",
+          "url": "https://www.gov.uk/government/speeches/queens-birthday-party-2017-in-tirana",
+          "website": "gov.uk",
+          "accessdate": "6 January 2020",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Higher Education in Albania conference",
+          "url": "https://www.gov.uk/government/speeches/higher-education-conference",
+          "website": "gov.uk",
+          "accessdate": "6 January 2020",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last1": "Semini",
+          "first1": "Llazar",
+          "title": "74 years on, 7 UK WWII airmen laid to rest in Albania",
+          "url": "https://apnews.com/1fbc95e23d2f4cf6bbcb8b8fa66a22bd",
+          "website": "apnews.com",
+          "accessdate": "6 January 2020",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    }
+  ]
+}

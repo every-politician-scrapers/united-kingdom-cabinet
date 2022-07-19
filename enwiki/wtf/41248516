@@ -1,0 +1,1162 @@
+{
+  "title": "Nicholas Kay",
+  "pageID": 41248516,
+  "categories": [
+    "1958 births",
+    "Living people",
+    "People educated at Abingdon School",
+    "Alumni of St Edmund Hall, Oxford",
+    "Alumni of the University of Reading",
+    "Ambassadors of the United Kingdom to the Democratic Republic of the Congo",
+    "Ambassadors of the United Kingdom to the Republic of the Congo",
+    "Ambassadors of the United Kingdom to Sudan",
+    "British officials of the United Nations",
+    "Ambassadors of the United Kingdom to Afghanistan",
+    "Knights Commander of the Order of St Michael and St George"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Sir Nicholas Peter Kay (born 8 March 1958) is a British diplomat.",
+              "formatting": {
+                "bold": [
+                  "Sir Nicholas Peter Kay"
+                ]
+              }
+            },
+            {
+              "text": "He has served as the British ambassador to Afghanistan, Sudan and the Democratic Republic of the Congo.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Afghanistan"
+                },
+                {
+                  "type": "internal",
+                  "page": "Sudan"
+                },
+                {
+                  "type": "internal",
+                  "page": "Democratic Republic of the Congo"
+                }
+              ]
+            },
+            {
+              "text": "From 2013 to 2016 he was the United Nations Special Representative for Somalia.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "United Nations"
+                },
+                {
+                  "type": "internal",
+                  "page": "Somalia"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "British diplomat",
+          "template": "short description"
+        },
+        {
+          "date": "August 2017",
+          "template": "use dmy dates"
+        },
+        {
+          "date": "August 2017",
+          "template": "use british english"
+        },
+        {
+          "list": [
+            "KCMG"
+          ],
+          "country": "GBR",
+          "size": "100%",
+          "template": "post-nominals"
+        },
+        {
+          "year": "1958",
+          "month": "3",
+          "day": "8",
+          "df": "y",
+          "template": "birth date and age"
+        },
+        {
+          "country": "GBR",
+          "size": "100%",
+          "list": [
+            "KCMG"
+          ],
+          "template": "post-nominals"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Sir Nicholas Kay"
+          },
+          "image": {
+            "text": "File:2014 04 09 UNMASS Press Confrence-12 (13758988074).jpg"
+          },
+          "office": {
+            "text": "British Ambassador to Afghanistan",
+            "links": [
+              {
+                "text": "British Ambassador to Afghanistan",
+                "type": "internal",
+                "page": "List of ambassadors of the United Kingdom to Afghanistan"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "2017",
+            "number": 2017
+          },
+          "term_end": {
+            "text": "2018",
+            "number": 2018
+          },
+          "predecessor": {
+            "text": "Dominic Jermey",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Dominic Jermey"
+              }
+            ]
+          },
+          "successor": {
+            "text": "Giles Lever (chargé d'affaires)",
+            "links": [
+              {
+                "text": "chargé d'affaires",
+                "type": "internal",
+                "page": "chargé d'affaires"
+              }
+            ],
+            "formatting": {
+              "italic": [
+                "chargé d'affaires"
+              ]
+            }
+          },
+          "monarch": {
+            "text": "Elizabeth II",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Elizabeth II"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Theresa May",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Theresa May"
+              }
+            ]
+          },
+          "office2": {
+            "text": "United Nations Special Representative for Somalia",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Somalia"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "2013",
+            "number": 2013
+          },
+          "term_end2": {
+            "text": "2016",
+            "number": 2016
+          },
+          "appointer2": {
+            "text": "Ban Ki-moon",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ban Ki-moon"
+              }
+            ]
+          },
+          "predecessor2": {
+            "text": "Augustine Mahiga",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Augustine Mahiga"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Michael Keating",
+            "links": [
+              {
+                "text": "Michael Keating",
+                "type": "internal",
+                "page": "Michael Keating (United Kingdom)"
+              }
+            ]
+          },
+          "office3": {
+            "text": "British Ambassador to Sudan",
+            "links": [
+              {
+                "text": "British Ambassador to Sudan",
+                "type": "internal",
+                "page": "List of ambassadors of the United Kingdom to Sudan"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "2010",
+            "number": 2010
+          },
+          "term_end3": {
+            "text": "2012",
+            "number": 2012
+          },
+          "predecessor3": {
+            "text": "Rosalind Marsden",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Rosalind Marsden"
+              }
+            ]
+          },
+          "successor3": {
+            "text": "Peter Tibber",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Peter Tibber"
+              }
+            ]
+          },
+          "monarch3": {
+            "text": "Elizabeth II",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Elizabeth II"
+              }
+            ]
+          },
+          "primeminister3": {
+            "text": "David Cameron",
+            "links": [
+              {
+                "type": "internal",
+                "page": "David Cameron"
+              }
+            ]
+          },
+          "office4": {
+            "text": "British Ambassador to the Democratic Republic of the Congo",
+            "links": [
+              {
+                "text": "British Ambassador to the Democratic Republic of the Congo",
+                "type": "internal",
+                "page": "List of ambassadors of the United Kingdom to the Democratic Republic of Congo"
+              }
+            ]
+          },
+          "term_start4": {
+            "text": "2007",
+            "number": 2007
+          },
+          "term_end4": {
+            "text": "2010",
+            "number": 2010
+          },
+          "predecessor4": {
+            "text": "Andrew Sparkes",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Andrew Sparkes"
+              }
+            ]
+          },
+          "successor4": {
+            "text": "Neil Wigan",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Neil Wigan"
+              }
+            ]
+          },
+          "monarch4": {
+            "text": "Elizabeth II",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Elizabeth II"
+              }
+            ]
+          },
+          "primeminister4": {
+            "text": "Gordon Brown",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Gordon Brown"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "March 8, 1958"
+          },
+          "birth_place": {
+            "text": "Lincolnshire, United Kingdom",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Lincolnshire"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "British"
+          },
+          "education": {
+            "text": "Abingdon School",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Abingdon School"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "St Edmund Hall, Oxford (BA)\nUniversity of Reading (MA)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "St Edmund Hall, Oxford"
+              },
+              {
+                "text": "BA",
+                "type": "internal",
+                "page": "Bachelor of Arts"
+              },
+              {
+                "type": "internal",
+                "page": "University of Reading"
+              },
+              {
+                "text": "MA",
+                "type": "internal",
+                "page": "Master of Arts"
+              }
+            ]
+          },
+          "children": {
+            "text": "3",
+            "number": 3
+          },
+          "occupation": {
+            "text": "Diplomat"
+          }
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "Background",
+      "depth": 0
+    },
+    {
+      "title": "Education",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Kay was born on 8 March 1958 in Lincolnshire.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Lincolnshire"
+                }
+              ]
+            },
+            {
+              "text": "He was educated at Abingdon School and St Edmund Hall, Oxford, whence he has an BA degree in English language and literature.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Abingdon School"
+                },
+                {
+                  "type": "internal",
+                  "page": "St Edmund Hall, Oxford"
+                },
+                {
+                  "text": "BA",
+                  "type": "internal",
+                  "page": "Bachelor of Arts"
+                }
+              ]
+            },
+            {
+              "text": "He also has an MA in applied linguistics from the University of Reading.",
+              "links": [
+                {
+                  "text": "MA",
+                  "type": "internal",
+                  "page": "Master of Arts"
+                },
+                {
+                  "type": "internal",
+                  "page": "University of Reading"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Early career",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "From 1980 to 1994 Kay was an English language teacher in Cyprus, Saudi Arabia, Peru, Brazil, Spain and the UK."
+            },
+            {
+              "text": "In 1994 he joined the Foreign and Commonwealth Office (FCO).",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Foreign and Commonwealth Office"
+                }
+              ]
+            },
+            {
+              "text": "He served as the United Kingdom's Regional Coordinator for Southern Afghanistan and Head of the Provincial Reconstruction Team for Helmand Province from 2006 to 2007, British Ambassador to the Democratic Republic of Congo and Republic of the Congo from 2007 to 2010, British Ambassador to Sudan from 2010 to 2012, and Africa Director at the FCO from 2012 to 2013.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "United Kingdom"
+                },
+                {
+                  "type": "internal",
+                  "page": "Afghanistan"
+                },
+                {
+                  "type": "internal",
+                  "page": "Democratic Republic of Congo"
+                },
+                {
+                  "type": "internal",
+                  "page": "Republic of the Congo"
+                },
+                {
+                  "type": "internal",
+                  "page": "Sudan"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.gov.uk/government/people/nicholas-kay",
+          "title": "Sir Nicholas Kay KCMG",
+          "website": "gov.uk",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Secretary-General Appoints Nicholas Kay of United Kingdom as Special Representative for Somalia",
+          "url": "https://www.un.org/News/Press/docs/2013/sga1401.doc.htm",
+          "publisher": "United Nations",
+          "accessdate": "2 December 2013",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "UN Special Representative",
+      "depth": 0
+    },
+    {
+      "title": "Appointment",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": []
+        },
+        {
+          "sentences": [
+            {
+              "text": "On 29 April 2013, Kay was appointed by United Nations Secretary-General Ban Ki-moon as the new UN Special Representative for Somalia.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "United Nations"
+                },
+                {
+                  "type": "internal",
+                  "page": "Ban Ki-moon"
+                }
+              ]
+            },
+            {
+              "text": "He officially replaced Augustine Mahiga at the position on 3 June 2013.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Augustine Mahiga"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "file": "File:2013_06_08_SRSG_Kay_President_Hassan-2_(8994412534).jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/2013_06_08_SRSG_Kay_President_Hassan-2_(8994412534).jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/2013_06_08_SRSG_Kay_President_Hassan-2_(8994412534).jpg",
+          "caption": "Nicholas Kay with Somali president Hassan Sheikh Mohamud",
+          "links": []
+        }
+      ]
+    },
+    {
+      "title": "Vote of confidence",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "In December 2013, following a parliamentary vote of confidence, Kay paid tribute to the outgoing Prime Minister Abdi Farah Shirdon, noting that Shirdon had endeavoured to promote growth and progress and was an important principal in establishing the New Deal Compact between Somalia and its international partners.",
+              "links": [
+                {
+                  "text": "vote of confidence",
+                  "type": "internal",
+                  "page": "vote of confidence"
+                },
+                {
+                  "type": "internal",
+                  "page": "Abdi Farah Shirdon"
+                }
+              ]
+            },
+            {
+              "text": "He also commended the legislators on adhering to procedural rules during the vote, and pledged to work constructively with the succeeding administration."
+            },
+            {
+              "text": "Following the appointment of Abdiweli Sheikh Ahmed as the new Premier, Kay congratulated Ahmed on his appointment and pledged to continue supporting the Federal Government's peace and state-building efforts.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Abdiweli Sheikh Ahmed"
+                },
+                {
+                  "text": "Federal Government",
+                  "type": "internal",
+                  "page": "Federal Government of Somalia"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "SOMALIA: Nicholas Kay paid tribute today to Somalia’s outgoing Prime Minister, Abdi Farah Shirdon Saaid",
+          "url": "http://www.raxanreeb.com/2013/12/somalia-nicholas-kay-paid-tribute-today-to-somalias-outgoing-prime-minister-abdi-farah-shirdon-saaid/",
+          "accessdate": "2 December 2013",
+          "newspaper": "Raxanreeb",
+          "date": "2 December 2013",
+          "url-status": "dead",
+          "archiveurl": "https://web.archive.org/web/20131203011533/http://www.raxanreeb.com/2013/12/somalia-nicholas-kay-paid-tribute-today-to-somalias-outgoing-prime-minister-abdi-farah-shirdon-saaid/",
+          "archivedate": "3 December 2013",
+          "df": "dmy-all",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Somalia: UN envoy welcomes appointment of new prime minister",
+          "url": "http://www.midnimo.com/2013/12/22/somalia-un-envoy-welcomes-appointment-new-prime-minister/",
+          "accessdate": "22 December 2013",
+          "newspaper": "UN News Center",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Somalia-UN cooperative agreement",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "On 26 February 2014, Kay and Somalia's Minister of Foreign Affairs Abdirahman Duale Beyle signed a bilateral agreement outlining the terms of future cooperation between the United Nations and the Somali federal government.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Abdirahman Duale Beyle"
+                }
+              ]
+            },
+            {
+              "text": "According to Beyle, the pact came after extensive consultations between both parties."
+            },
+            {
+              "text": "Along with attorneys, President Hassan Sheikh Mohamud attended the signing of the agreement, which he commended for helping to strengthen cooperation between the Somali authorities and the UN.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Hassan Sheikh Mohamud"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "Somalia, UN sign agreement to strengthen co-operation",
+          "url": "http://sabahionline.com/en_GB/articles/hoa/articles/newsbriefs/2014/02/27/newsbrief-04",
+          "accessdate": "3 March 2014",
+          "newspaper": "Sabahi",
+          "date": "27 February 2014",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Jubaland agreement",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "In August 2013, the autonomous Jubaland administration signed a national reconciliation agreement in Addis Ababa with the Somali federal government.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Addis Ababa"
+                }
+              ]
+            },
+            {
+              "text": "Endorsed by the federal State Minister for the Presidency Farah Abdulkadir on behalf of President Hassan Sheikh Mohamud, the pact was brokered by the Foreign Ministry of Ethiopia and came after protracted bilateral talks.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ethiopia"
+                }
+              ]
+            },
+            {
+              "text": "Under the terms of the agreement, Jubaland will be administered for a two-year period by a Juba Interim Administration and led by the region's incumbent president, Ahmed Mohamed Islam."
+            },
+            {
+              "text": "The regional president will serve as the chairperson of a new Executive Council, to which he will appoint three deputies."
+            },
+            {
+              "text": "Management of Kismayo's seaport and airport will also be transferred to the Federal Government after a period of six months, and revenues and resources generated from these infrastructures will be earmarked for Jubaland's service delivery and security sectors as well as local institutional development."
+            },
+            {
+              "text": "Additionally, the agreement includes the integration of Jubaland's military forces under the central command of the Somali National Army (SNA), and stipulates that the Juba Interim Administration will command the regional police."
+            },
+            {
+              "text": "UN Special Envoy to Somalia Ambassador Kay hailed the pact as \"a breakthrough that unlocks the door for a better future for Somalia,\" with AUC, UN, EU and IGAD representatives also present at the signing."
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "file": "File:2014_05_18_Inauguration_Of_Guard_Unit-3_(14026389020).jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/2014_05_18_Inauguration_Of_Guard_Unit-3_(14026389020).jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/2014_05_18_Inauguration_Of_Guard_Unit-3_(14026389020).jpg",
+          "caption": "Kay inspecting the guard of honour during the inauguration of the United Nations Guard Unit in Somalia",
+          "links": []
+        }
+      ],
+      "references": [
+        {
+          "title": "Somalia: Jubaland gains recognition after intense bilateral talks in Ethiopia",
+          "url": "http://www.garoweonline.com/artman2/publish/Somalia_27/Somalia_Jubaland_gains_recognition_after_intense_bilateral_talks_in_Ethiopia_printer.shtml",
+          "accessdate": "11 September 2013",
+          "newspaper": "Garowe Online",
+          "date": "28 August 2013",
+          "url-status": "dead",
+          "archiveurl": "https://web.archive.org/web/20131012043444/http://www.garoweonline.com/artman2/publish/Somalia_27/Somalia_Jubaland_gains_recognition_after_intense_bilateral_talks_in_Ethiopia_printer.shtml",
+          "archivedate": "12 October 2013",
+          "df": "dmy-all",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last": "Wendoson",
+          "first": "Abera",
+          "title": "Somalia gives recognition to Jubaland interim administration",
+          "url": "http://www.ethpress.gov.et/herald/index.php/herald/news/3845-somalia-gives-recognition-to-jubaland-interim-administration?tmpl=component&print=1&page=",
+          "accessdate": "11 September 2013",
+          "newspaper": "Ethiopian Herald",
+          "url-status": "dead",
+          "archiveurl": "https://archive.today/20130911170044/http://www.ethpress.gov.et/herald/index.php/herald/news/3845-somalia-gives-recognition-to-jubaland-interim-administration?tmpl=component&print=1&page=",
+          "archivedate": "11 September 2013",
+          "df": "dmy-all",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last": "Sisay",
+          "first": "Andualem",
+          "title": "Somali government and Jubaland strike a peace deal",
+          "url": "http://www.africareview.com/News/Somali+government+and+Jubaland+strike+a+deal/-/979180/1972618/-/3a6xv7z/-/index.html",
+          "accessdate": "11 September 2013",
+          "newspaper": "Africa Review",
+          "date": "29 August 2013",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Garowe bilateral agreement",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "In October 2014, Prime Minister of Somalia Abdiweli Sheikh Ahmed led a federal government delegation to the autonomous Puntland region in northeastern Somalia.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Puntland"
+                }
+              ]
+            },
+            {
+              "text": "The delegates included Second Speaker of the Federal Parliament Mahad Abdalle Awad and Minister of Education Ahmed Mohamed Gurase, among other Cabinet members.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Mahad Abdalle Awad"
+                },
+                {
+                  "type": "internal",
+                  "page": "Ahmed Mohamed Gurase"
+                }
+              ]
+            },
+            {
+              "text": "They were received at the Garowe International Airport by senior Puntland leaders, including President Abdiweli Mohamed Ali and Vice President Abdihakim Abdullahi Haji Omar, and subsequently attended a well-organized welcoming ceremony at the Puntland presidential palace in Garowe alongside Ambassador Kay and various other members of the international community.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Garowe International Airport"
+                },
+                {
+                  "type": "internal",
+                  "page": "Abdiweli Mohamed Ali"
+                },
+                {
+                  "type": "internal",
+                  "page": "Abdihakim Abdullahi Haji Omar"
+                },
+                {
+                  "type": "internal",
+                  "page": "Garowe"
+                }
+              ]
+            },
+            {
+              "text": "Ahmed subsequently co-chaired a reconciliation conference in the city between the visiting federal officials and Puntland representatives led by President Ali."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "The three-day meeting concluded with a 12-point agreement between the stakeholders, with UN envoy to Somalia Ambassador Kay, EU Ambassador Michele Cervone d'Urso, IGAD representative Mohamed Abdi Afey, and Ethiopian Consul General Asmalash Woldamirat serving as witnesses."
+            },
+            {
+              "text": "According to federal Minister of Culture and Higher Education Duale Adan Mohamed, the pact stipulates that the recent tripartite agreement between Galmudug and Himan and Heeb establishing a new central regional state within Somalia only applies to the Galguduud and south Mudug provinces.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Duale Adan Mohamed"
+                },
+                {
+                  "type": "internal",
+                  "page": "Galmudug"
+                },
+                {
+                  "type": "internal",
+                  "page": "Himan and Heeb"
+                },
+                {
+                  "type": "internal",
+                  "page": "Galguduud"
+                },
+                {
+                  "type": "internal",
+                  "page": "Mudug"
+                }
+              ]
+            },
+            {
+              "text": "In keeping with a 2013 pact signed by former Prime Minister of Somalia Abdi Farah Shirdon and former Puntland President Abdirahman Mohamed Farole, the Garowe bilateral agreement also states that the Federal and Puntland authorities will work together to form a united and inclusive national army.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Abdirahman Mohamed Farole"
+                }
+              ]
+            },
+            {
+              "text": "Additionally, parliamentary committees consisting of Federal and Puntland representatives are mandated with ensuring equitable distribution of foreign assistance and overseeing eventual talks pertaining to the Provisional Constitution."
+            },
+            {
+              "text": "Ambassador Kay welcomed the agreement and urged both parties to work for the public interest, and IGAD representative Afey likewise hailed the reconciliation effort."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "SOMALIA: Prime Minister Abdiweli Shiekh Ahmed in Garowe in the second day",
+          "url": "http://www.raxanreeb.com/2014/10/somalia-prime-minister-abdiweli-shiekh-ahmed-in-garowe-in-the-second-day/",
+          "accessdate": "10 October 2014",
+          "agency": "Raxanreeb",
+          "date": "11 October 2014",
+          "archive-url": "https://web.archive.org/web/20141013144208/http://www.raxanreeb.com/2014/10/somalia-prime-minister-abdiweli-shiekh-ahmed-in-garowe-in-the-second-day/",
+          "archive-date": "13 October 2014",
+          "url-status": "dead",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Somalia: Puntland clinches deal with Federal Govt",
+          "url": "http://www.garoweonline.com/page/show/post/610/somalia-puntland-clinches-deal-with-federal-govt",
+          "accessdate": "14 October 2014",
+          "agency": "Garowe Online",
+          "date": "14 October 2014",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Benadir-UN bilateral cooperation",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "In November 2014, Ambassador Kay met with Mayor of Mogadishu Hassan Mohamed Hussein in the capital.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Hassan Mohamed Hussein"
+                }
+              ]
+            },
+            {
+              "text": "The two officials discussed a number of bilateral issues, including strengthening municipal security, training local government forces, and engaging the indigent."
+            },
+            {
+              "text": "Hussein also indicated that he and Kay agreed to accelerate ties between the Benadir administration and the UN."
+            },
+            {
+              "text": "Additionally, Kay applauded Hussein for pledging to hold fair city elections."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Already Companion of the Order of St Michael and St George (CMG), Kay was appointed Knight Commander of the Order of St Michael and St George (KCMG) in the 2016 Birthday Honours \"for services to diplomacy and to international peace and security.\"",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Companion of the Order of St Michael and St George"
+                },
+                {
+                  "type": "internal",
+                  "page": "Knight Commander of the Order of St Michael and St George"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Kay was replaced as Special Representative for Somalia at the end of 2015."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "url": "https://www.un.org/press/en/2015/sga1609.doc.htm",
+          "title": "Secretary-General Appoints Michael Keating of United Kingdom Special Representative for Somalia",
+          "publisher": "United Nations",
+          "date": "23 November 2015",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "UN envoy to Somalia meets Banadir governor in Mogadishu",
+          "url": "http://goobjoog.com/english/?p=6625",
+          "accessdate": "27 November 2014",
+          "agency": "Goobjoog",
+          "date": "26 November 2014",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "After Somalia",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Kay was the UK's Special Envoy to the Horn of Africa 2016–17, then was appointed ambassador to Afghanistan in July 2017.",
+              "links": [
+                {
+                  "text": "ambassador to Afghanistan",
+                  "type": "internal",
+                  "page": "U.K. Ambassador to Afghanistan"
+                }
+              ]
+            },
+            {
+              "text": "He took up the post on 21 August 2017."
+            },
+            {
+              "text": "In December 2018 he left the post of ambassador after being appointed to be NATO Senior Civilian Representative in Afghanistan from March 2019.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "NATO Senior Civilian Representative in Afghanistan"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.gov.uk/government/news/change-of-her-majestys-ambassador-to-afghanistan--4",
+          "title": "Change of Her Majesty's Ambassador to Afghanistan",
+          "publisher": "Foreign & Commonwealth Office",
+          "date": "27 July 2017",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://1tvnews.af/en/news/afghanistan/30885-britains-new-ambassador-to-afghanistan-nicholas-kay-takes-over",
+          "title": "Britain's new ambassador to Afghanistan Nicholas Kay takes over",
+          "newspaper": "ITV Afghanistan",
+          "date": "21 August 2017",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.gov.uk/government/news/uk-ambassador-to-afghanistan-appointed-as-next-nato-senior-civilian-representative",
+          "title": "UK Ambassador to Afghanistan appointed as next NATO Senior Civilian Representative",
+          "publisher": "Foreign & Commonwealth Office",
+          "date": "5 December 2018",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Personal life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Kay is married to Susan Ruth Wallace and has one son and two daughters."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "See also",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "List of Old Abingdonians",
+            "links": [
+              {
+                "type": "internal",
+                "page": "List of Old Abingdonians"
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "Nicholas Kay"
+          ],
+          "template": "commons category-inline"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-dip"
+        },
+        {
+          "before": "Andrew Sparkes",
+          "template": "s-bef"
+        },
+        {
+          "title": "British Ambassador to the Democratic Republic of the Congo",
+          "years": "2007–2010",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Neil Wigan",
+          "template": "s-aft"
+        },
+        {
+          "before": "Rosalind Marsden",
+          "template": "s-bef"
+        },
+        {
+          "title": "British Ambassador to Sudan",
+          "years": "2010–2012",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Peter Tibber",
+          "template": "s-aft"
+        },
+        {
+          "before": "Tim Hitchens",
+          "template": "s-bef"
+        },
+        {
+          "title": "Africa Director of the Foreign and Commonwealth Office",
+          "years": "2012–2013",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Nicholas Hailey",
+          "template": "s-aft"
+        },
+        {
+          "before": "Augustine Mahiga",
+          "template": "s-bef"
+        },
+        {
+          "title": "United Nations Special Representative for Somalia",
+          "years": "2013–2016",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Michael Keating",
+          "years": "2013–2016",
+          "template": "s-aft"
+        },
+        {
+          "template": "s-bef"
+        },
+        {
+          "title": "UK Special Envoy to the Horn of Africa",
+          "years": "2016–2017",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-aft"
+        },
+        {
+          "before": "Dominic Jermey",
+          "template": "s-bef"
+        },
+        {
+          "title": "British Ambassador to Afghanistan",
+          "years": "2017–2018",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Giles Lever (chargé d'affaires)",
+          "template": "s-aft"
+        },
+        {
+          "template": "authority control"
+        }
+      ]
+    }
+  ]
+}

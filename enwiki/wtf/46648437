@@ -1,0 +1,884 @@
+{
+  "title": "Kevin Foster (politician)",
+  "pageID": 46648437,
+  "categories": [
+    "1978 births",
+    "Living people",
+    "Alumni of the University of Warwick",
+    "Conservative Party (UK) MPs for English constituencies",
+    "UK MPs 2015–2017",
+    "People from Plymouth, Devon",
+    "Members of the Inner Temple",
+    "UK MPs 2017–2019",
+    "UK MPs 2019–present"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Kevin John Foster (born 31 December 1978) is a British Conservative Party politician who has been the Member of Parliament (MP) for Torbay since 2015.",
+              "links": [
+                {
+                  "text": "Conservative Party",
+                  "type": "internal",
+                  "page": "Conservative Party (UK)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Member of Parliament"
+                },
+                {
+                  "text": "Torbay",
+                  "type": "internal",
+                  "page": "Torbay (UK Parliament constituency)"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Kevin John Foster"
+                ]
+              }
+            },
+            {
+              "text": "Foster has served under Home Secretary Priti Patel as Parliamentary Under-Secretary of State for Safe and Legal Migration since 2019.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Home Secretary"
+                },
+                {
+                  "type": "internal",
+                  "page": "Priti Patel"
+                },
+                {
+                  "type": "internal",
+                  "page": "Parliamentary Under-Secretary of State for Safe and Legal Migration"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "British Conservative politician",
+          "template": "short description"
+        },
+        {
+          "list": [
+            "Kevin Foster"
+          ],
+          "template": "other people"
+        },
+        {
+          "date": "October 2019",
+          "template": "use british english"
+        },
+        {
+          "date": "October 2019",
+          "template": "use dmy dates"
+        },
+        {
+          "list": [
+            "Parliamentary Under-Secretary of State for Immigration and Future Borders from 2019 to 2021."
+          ],
+          "template": "efn"
+        },
+        {
+          "year": "1978",
+          "month": "12",
+          "day": "31",
+          "df": "y",
+          "template": "birth date and age"
+        },
+        {
+          "country": "GBR",
+          "list": [
+            "MP"
+          ],
+          "template": "post-nominals"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Kevin Foster"
+          },
+          "image": {
+            "text": "File:Official portrait of Kevin Foster crop 2.jpg"
+          },
+          "caption": {
+            "text": "Official portrait, 2017"
+          },
+          "honorific-suffix": {
+            "text": "MP",
+            "links": [
+              {
+                "text": "MP",
+                "type": "internal",
+                "page": "Member of Parliament (United Kingdom)"
+              }
+            ]
+          },
+          "office": {
+            "text": "Parliamentary Under-Secretary of State for Safe and Legal Migration",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Parliamentary Under-Secretary of State for Safe and Legal Migration"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Boris Johnson",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Boris Johnson"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "16 December 2019"
+          },
+          "predecessor": {
+            "text": "Seema Kennedy",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Seema Kennedy"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Parliamentary Under-Secretary of State for Wales",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Parliamentary Under-Secretary of State for Wales"
+              }
+            ]
+          },
+          "primeminister1": {
+            "text": "Theresa May\nBoris Johnson",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Theresa May"
+              },
+              {
+                "type": "internal",
+                "page": "Boris Johnson"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "4 April 2019"
+          },
+          "term_end1": {
+            "text": "16 December 2019"
+          },
+          "predecessor1": {
+            "text": "Nigel Adams",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Nigel Adams"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "David Davies",
+            "links": [
+              {
+                "text": "David Davies",
+                "type": "internal",
+                "page": "David T. C. Davies"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Member of Parliament\nfor Torbay",
+            "links": [
+              {
+                "text": "Member of Parliament",
+                "type": "internal",
+                "page": "Member of Parliament (United Kingdom)"
+              },
+              {
+                "text": "Torbay",
+                "type": "internal",
+                "page": "Torbay (UK Parliament constituency)"
+              }
+            ]
+          },
+          "majority2": {
+            "text": "17,749 (35.2%)"
+          },
+          "term_start2": {
+            "text": "7 May 2015"
+          },
+          "predecessor2": {
+            "text": "Adrian Sanders",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Adrian Sanders"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "December 31, 1978"
+          },
+          "birth_place": {
+            "text": "Plymouth, United Kingdom",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Plymouth"
+              },
+              {
+                "type": "internal",
+                "page": "United Kingdom"
+              }
+            ]
+          },
+          "party": {
+            "text": "Conservative",
+            "links": [
+              {
+                "text": "Conservative",
+                "type": "internal",
+                "page": "Conservative Party (UK)"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "University of Warwick",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of Warwick"
+              }
+            ]
+          },
+          "website": {
+            "text": "http://www.kevinjfoster.com/"
+          },
+          "signature": {
+            "text": "Kevin Foster Signature.png"
+          },
+          "signature_alt": {
+            "text": "Signature of Kevin Foster MP"
+          }
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "Early life and career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Kevin Foster was born in Plymouth, Devon on 31 December to Michael and Linda Foster.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Plymouth"
+                },
+                {
+                  "type": "internal",
+                  "page": "Devon"
+                }
+              ]
+            },
+            {
+              "text": "His early education was at the community school Hele's School.",
+              "links": [
+                {
+                  "text": "community school",
+                  "type": "internal",
+                  "page": "Community school (England and Wales)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Hele's School"
+                }
+              ]
+            },
+            {
+              "text": "Foster studied law at the University of Warwick (LLB, 2000; LLM, 2001).",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "University of Warwick"
+                }
+              ]
+            },
+            {
+              "text": "After graduating from university, he worked in the West Midlands as a paralegal and secretary for a number of firms."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Foster stood successfully as the Conservative candidate in the Cheylesmore ward of Coventry City Council in 2002.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Cheylesmore"
+                },
+                {
+                  "type": "internal",
+                  "page": "Coventry City Council"
+                },
+                {
+                  "text": "2002",
+                  "type": "internal",
+                  "page": "2002 Coventry City Council election"
+                }
+              ]
+            },
+            {
+              "text": "He was re-elected in 2004, 2007 and 2011.",
+              "links": [
+                {
+                  "text": "2004",
+                  "type": "internal",
+                  "page": "2004 Coventry City Council election"
+                },
+                {
+                  "text": "2007",
+                  "type": "internal",
+                  "page": "2007 Coventry City Council election"
+                },
+                {
+                  "text": "2011",
+                  "type": "internal",
+                  "page": "2011 Coventry City Council election"
+                }
+              ]
+            },
+            {
+              "text": "He served as Leader of the opposition for two years in Coventry, before standing down in 2013 to contest the 2015 general election in Torbay.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Coventry"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "url": "https://uk.linkedin.com/in/kevinjfoster",
+          "title": "Linkedin",
+          "publisher": "Linkedin",
+          "access-date": "30 August 2018",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.electionscentre.co.uk/wp-content/uploads/2015/06/Coventry-1973-2012.pdf",
+          "title": "Coventry City Council Election Results 1973-2012",
+          "publisher": "Plymouth University",
+          "access-date": "30 August 2018",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.coventrytelegraph.net/news/coventry-news/coventry-tory-leader-kevin-foster-3015284",
+          "title": "Coventry Tory leader Kevin Foster to stand down",
+          "work": "Coventry Telegraph",
+          "date": "25 April 2013",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Parliamentary career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Foster contested Coventry South in 2010 general election, coming second to incumbent Labour Party MP Jim Cunningham.",
+              "links": [
+                {
+                  "text": "Coventry South",
+                  "type": "internal",
+                  "page": "Coventry South (UK Parliament constituency)"
+                },
+                {
+                  "text": "2010 general election",
+                  "type": "internal",
+                  "page": "2010 United Kingdom general election"
+                },
+                {
+                  "text": "Labour Party",
+                  "type": "internal",
+                  "page": "Labour Party (UK)"
+                },
+                {
+                  "text": "Jim Cunningham",
+                  "type": "internal",
+                  "page": "Jim Cunningham (British politician)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Foster was elected at the 2015 general election as the Member of Parliament (MP) for Torbay in 2015.",
+              "links": [
+                {
+                  "text": "2015 general election",
+                  "type": "internal",
+                  "page": "2015 United Kingdom general election"
+                },
+                {
+                  "text": "Member of Parliament",
+                  "type": "internal",
+                  "page": "Member of Parliament (United Kingdom)"
+                },
+                {
+                  "text": "Torbay",
+                  "type": "internal",
+                  "page": "Torbay (UK Parliament constituency)"
+                }
+              ]
+            },
+            {
+              "text": "His election agent Alison Hernandez was investigated by the Independent Police Complaints Commission over allegations she failed to properly declare election expenses that were submitted in her role.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Alison Hernandez"
+                },
+                {
+                  "type": "internal",
+                  "page": "Independent Police Complaints Commission"
+                }
+              ]
+            },
+            {
+              "text": "This investigation was later dropped in 2017 by the Crown Prosecution Service as although \"the returns may have been inaccurate, there is insufficient evidence to prove to the criminal standard that any candidate or agent was dishonest\"."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Foster supported the United Kingdom (UK) remaining within the European Union (EU) prior to the 2016 membership referendum, but since then has almost always voted against UK membership of the EU in Parliament.",
+              "links": [
+                {
+                  "text": "2016 membership referendum",
+                  "type": "internal",
+                  "page": "2016 United Kingdom European Union membership referendum"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In the June 2017 general election, he held his seat with a majority of 14,283 (27.9%).",
+              "links": [
+                {
+                  "text": "June 2017 general election",
+                  "type": "internal",
+                  "page": "2017 United Kingdom general election"
+                }
+              ]
+            },
+            {
+              "text": "Foster voted for then Prime Minister Theresa May's Brexit withdrawal agreement in early 2019.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Theresa May"
+                }
+              ]
+            },
+            {
+              "text": "He was appointed as Parliamentary Private Secretary (PPS) in the Department for Communities and Local Government.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Parliamentary Private Secretary"
+                },
+                {
+                  "type": "internal",
+                  "page": "Department for Communities and Local Government"
+                }
+              ]
+            },
+            {
+              "text": "He later became PPS to then Minister for the Cabinet Office David Lidington.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Minister for the Cabinet Office"
+                },
+                {
+                  "type": "internal",
+                  "page": "David Lidington"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In July 2019, following Boris Johnson becoming prime minister, Foster served as Parliamentary Private Secretary to the Cabinet Office, Parliamentary Under-Secretary of State in the Wales Office, and an assistant government whip.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Boris Johnson"
+                },
+                {
+                  "text": "Parliamentary Private Secretary",
+                  "type": "internal",
+                  "page": "Parliamentary Private Secretary to the Cabinet Office"
+                },
+                {
+                  "type": "internal",
+                  "page": "Cabinet Office"
+                },
+                {
+                  "text": "Parliamentary Under-Secretary of State",
+                  "type": "internal",
+                  "page": "Parliamentary Under-Secretary of State for Wales"
+                },
+                {
+                  "type": "internal",
+                  "page": "Wales Office"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In December 2019, Foster was appointed as the Parliamentary-Under Secretary of State for Immigration, succeeding Seema Kennedy.",
+              "links": [
+                {
+                  "text": "Parliamentary-Under Secretary of State for Immigration",
+                  "type": "internal",
+                  "page": "Minister of State for Immigration"
+                },
+                {
+                  "type": "internal",
+                  "page": "Seema Kennedy"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In February 2022, Foster received widespread criticism for stating on Twitter that Ukrainian refugees could use the seasonal worker scheme in order to get into the UK.",
+              "links": [
+                {
+                  "text": "Ukrainian refugees",
+                  "type": "internal",
+                  "page": "2022 invasion of the Ukraine"
+                }
+              ]
+            },
+            {
+              "text": "Scottish First Minister, Nicola Sturgeon, and Shadow Foreign Secretary, David Lammy, were among the critics, with the latter saying that Foster's comments showed 'a shameful moral vacuum at the heart of Government'.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Nicola Sturgeon"
+                },
+                {
+                  "type": "internal",
+                  "page": "David Lammy"
+                }
+              ]
+            },
+            {
+              "text": "Foster deleted the tweet within hours."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "http://news.bbc.co.uk/1/shared/election2010/results/constituency/b23.stm",
+          "title": "Coventry South",
+          "access-date": "26 September 2019",
+          "publisher": "BBC News",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.bbc.com/news/politics/constituencies/E14000999",
+          "title": "Torbay Parliamentary constituency",
+          "publisher": "BBC",
+          "access-date": "8 May 2015",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.bbc.com/news/election-2015-32643605",
+          "title": "General Election 2015: Tories oust Devon Lib Dems",
+          "publisher": "BBC",
+          "access-date": "8 May 2015",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.theguardian.com/politics/2017/apr/12/devon-and-cornwall-pcc-expenses-inquiry-prosecutors",
+          "last": "Morris",
+          "first": "Steven",
+          "title": "Devon and Cornwall PCC expenses inquiry file sent to prosecutors",
+          "work": "The Guardian",
+          "date": "12 April 2017",
+          "access-date": "26 September 2019",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.northdevongazette.co.uk/news/investigation-into-pcc-alison-hernandez-s-election-spending-is-dropped-by-cps-1-5011220",
+          "work": "North Devon Gazette",
+          "date": "10 May 2017",
+          "access-date": "26 September 2019",
+          "title": "Investigation into PCC Alison Hernandez's election spending is dropped by CPS",
+          "last": "Howells",
+          "first": "Sarah",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.bbc.co.uk/news/uk-politics-eu-referendum-35616946",
+          "title": "EU vote: Where the cabinet and other MPs stand",
+          "date": "22 June 2016",
+          "access-date": "26 September 2019",
+          "publisher": "BBC News",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.bbc.co.uk/news/politics/constituencies/E14000999",
+          "title": "Torbay",
+          "publisher": "BBC News",
+          "access-date": "26 September 2019",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://ig.ft.com/brexit-exit-deal-vote/",
+          "archive-url": "https://web.archive.org/web/20190902092554/https://ig.ft.com/brexit-exit-deal-vote/",
+          "archive-date": "2 September 2019",
+          "date": "29 March 2019",
+          "title": "How MPs voted on May's withdrawal deal defeat",
+          "work": "Financial Times",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.conservativehome.com/parliament/2017/06/parliamentary-private-secretaries-full-list.html",
+          "publisher": "Conservative Home",
+          "date": "28 June 2017",
+          "access-date": "26 September 2019",
+          "title": "Parliamentary Private Secretaries: full list",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.conservativehome.com/parliament/2018/01/list-of-ppss.html",
+          "title": "List of PPS's",
+          "publisher": "Conservative Home",
+          "date": "22 January 2018",
+          "access-date": "26 September 2019",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.gov.uk/government/news/full-list-of-new-ministerial-and-government-appointments-july-2019",
+          "title": "Full list of new ministerial and government appointments: July 2019",
+          "publisher": "gov.uk",
+          "date": "30 July 2019",
+          "access-date": "26 September 2019",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.huffingtonpost.co.uk/entry/ukraine-refugees-priti-patel_uk_621b1c77e4b06e1cc5907767",
+          "title": "A Tory Minister Has Suggested Ukrainian Refugees Come To The UK To Pick Fruit",
+          "publisher": "Huff Post",
+          "date": "27 February 2022",
+          "access-date": "27 February 2022",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Ukraine conflict: UK urgently looking at help for refugees - Truss",
+          "url": "https://www.bbc.co.uk/news/uk-politics-60545469",
+          "date": "27 February 2022",
+          "website": "BBC News Online",
+          "accessdate": "27 February 2022",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "Personal life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Kevin Foster married Hazel Noonan (b."
+            },
+            {
+              "text": "1951) in 2017."
+            },
+            {
+              "text": "They met in Coventry when he was a University of Warwick student.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "University of Warwick"
+                }
+              ]
+            },
+            {
+              "text": "He was helping her to canvas for the Conservative Party in the local council elections in which she was a candidate."
+            },
+            {
+              "text": "The 28-year age gap between Foster and Noonan has drawn comparisons to French politician Emmanuel Macron, who is also substantially younger than his partner.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Emmanuel Macron"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.thetimes.co.uk/article/relative-values-kevin-foster-mp-38-and-his-66-year-old-wife-hazel-the-british-macrons-g58w96w8t",
+          "title": "Relative Values: Kevin Foster MP, 38, and his 66-year-old wife, Hazel — the British Macrons",
+          "work": "Sunday Times",
+          "date": "3 December 2017",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Notes",
+      "depth": 0,
+      "templates": [
+        {
+          "group": "efn",
+          "template": "notelist"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "parliament": "kevin-foster/4451",
+          "publicwhip": "Kevin_Foster",
+          "theywork": "kevin_foster",
+          "template": "uk mp links"
+        },
+        {
+          "list": [
+            "100746"
+          ],
+          "template": "c-span"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "list": [
+            "uk"
+          ],
+          "template": "s-par"
+        },
+        {
+          "before": "Adrian Sanders",
+          "template": "s-bef"
+        },
+        {
+          "title": "Member of Parliament\nfor Torbay",
+          "years": "2015–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "template": "south west conservative party mps"
+        },
+        {
+          "template": "minister of state for immigration"
+        },
+        {
+          "template": "authority control"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,536 @@
+{
+  "title": "Menna Rawlings",
+  "pageID": 46606228,
+  "categories": [
+    "1967 births",
+    "Living people",
+    "People from the London Borough of Hillingdon",
+    "Alumni of the London School of Economics",
+    "British women ambassadors",
+    "High Commissioners of the United Kingdom to Australia",
+    "Ambassadors of the United Kingdom to France",
+    "Dames Commander of the Order of St Michael and St George"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Dame Menna Frances Rawlings (née Hornung; born September 16, 1967) is a British diplomat serving as British Ambassador to France since 2021.",
+              "links": [
+                {
+                  "text": "British Ambassador to France",
+                  "type": "internal",
+                  "page": "List of ambassadors of the United Kingdom to France"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Dame Menna Frances Rawlings",
+                  "Hornung"
+                ]
+              }
+            },
+            {
+              "text": "Previously British High Commissioner to Australia from 2015 to 2019, she then served as Director General of Economic and Global Issues at the Foreign and Commonwealth Office from 2019 to 2020.",
+              "links": [
+                {
+                  "text": "British High Commissioner to Australia",
+                  "type": "internal",
+                  "page": "List of High Commissioners of the United Kingdom to Australia"
+                },
+                {
+                  "type": "internal",
+                  "page": "Foreign and Commonwealth Office"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "British diplomat",
+          "template": "short description"
+        },
+        {
+          "date": "March 2019",
+          "template": "use dmy dates"
+        },
+        {
+          "country": "GBR",
+          "size": "100%",
+          "list": [
+            "DCMG"
+          ],
+          "template": "post-nominals"
+        },
+        {
+          "year": "1967",
+          "month": "09",
+          "day": "16",
+          "df": "y",
+          "template": "birth date and age"
+        },
+        {
+          "country": "GBR",
+          "list": [
+            "",
+            "DCMG"
+          ],
+          "size": "100%",
+          "template": "post-nominals"
+        },
+        {
+          "template": "date",
+          "data": {
+            "year": "1967",
+            "month": "09",
+            "date": "16",
+            "df": "y",
+            "template": "birth date",
+            "text": "September 16, 1967"
+          }
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific-prefix": {
+            "text": "Her Excellency",
+            "links": [
+              {
+                "text": "Her Excellency",
+                "type": "internal",
+                "page": "Excellency"
+              }
+            ]
+          },
+          "name": {
+            "text": "Dame Menna Rawlings"
+          },
+          "image": {
+            "text": "File:Menna Rawlings.jpg"
+          },
+          "office": {
+            "text": "British Ambassador to France",
+            "links": [
+              {
+                "text": "British Ambassador to France",
+                "type": "internal",
+                "page": "List of ambassadors of the United Kingdom to France"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "23 August 2021"
+          },
+          "predecessor": {
+            "text": "The Lord Llewellyn of Steep",
+            "links": [
+              {
+                "text": "The Lord Llewellyn of Steep",
+                "type": "internal",
+                "page": "Edward Llewellyn, Baron Llewellyn of Steep"
+              }
+            ]
+          },
+          "monarch": {
+            "text": "Elizabeth II",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Elizabeth II"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Boris Johnson",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Boris Johnson"
+              }
+            ]
+          },
+          "office1": {
+            "text": "British High Commissioner to Australia",
+            "links": [
+              {
+                "text": "British High Commissioner to Australia",
+                "type": "internal",
+                "page": "List of High Commissioners of the United Kingdom to Australia"
+              }
+            ]
+          },
+          "monarch1": {
+            "text": "Elizabeth II",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Elizabeth II"
+              }
+            ]
+          },
+          "primeminister1": {
+            "text": "David Cameron Theresa May",
+            "links": [
+              {
+                "type": "internal",
+                "page": "David Cameron"
+              },
+              {
+                "type": "internal",
+                "page": "Theresa May"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "2015",
+            "number": 2015
+          },
+          "term_end1": {
+            "text": "2019",
+            "number": 2019
+          },
+          "predecessor1": {
+            "text": "Paul Madden",
+            "links": [
+              {
+                "text": "Paul Madden",
+                "type": "internal",
+                "page": "Paul Madden (diplomat)"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Victoria Treadell",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Victoria Treadell"
+              }
+            ]
+          },
+          "birth_name": {
+            "text": "Menna Frances Hornung"
+          },
+          "birth_date": {
+            "text": "September 16, 1967"
+          },
+          "birth_place": {
+            "text": "Hillingdon, Middlesex, England",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Hillingdon"
+              },
+              {
+                "type": "internal",
+                "page": "Middlesex"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "British"
+          },
+          "spouse": {
+            "text": "Mark John Rawlings"
+          },
+          "children": {
+            "text": "3",
+            "number": 3
+          }
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "title": "Her Excellency Menna Rawlings CMG",
+          "url": "https://www.gov.uk/government/people/menna-rawlings",
+          "website": "GOV.UK",
+          "accessdate": "4 May 2015",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Menna Hornung read International Relations at LSE, graduating BSc, before joining the Foreign and Commonwealth Office in 1989.",
+              "links": [
+                {
+                  "text": "LSE",
+                  "type": "internal",
+                  "page": "London School of Economics"
+                },
+                {
+                  "type": "internal",
+                  "page": "BSc"
+                },
+                {
+                  "type": "internal",
+                  "page": "Foreign and Commonwealth Office"
+                }
+              ]
+            },
+            {
+              "text": "In her early career, she served in London, as well as Brussels, Nairobi and Tel Aviv.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Brussels"
+                },
+                {
+                  "type": "internal",
+                  "page": "Nairobi"
+                },
+                {
+                  "type": "internal",
+                  "page": "Tel Aviv"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "From 2002 to 2004, she served as private secretary to the Permanent Under-Secretary of State for Foreign Affairs, then until 2008 she was posted as deputy high commissioner to Ghana at Accra.",
+              "links": [
+                {
+                  "text": "private secretary",
+                  "type": "internal",
+                  "page": "private secretary"
+                },
+                {
+                  "type": "internal",
+                  "page": "Permanent Under-Secretary of State for Foreign Affairs"
+                },
+                {
+                  "text": "deputy high commissioner",
+                  "type": "internal",
+                  "page": "High commissioner"
+                },
+                {
+                  "type": "internal",
+                  "page": "Accra"
+                }
+              ]
+            },
+            {
+              "text": "After three years in Washington, D.C. as HM Consul General, in 2011 she was posted back to the FCO in London as director for human resources, remaining there until 2014.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Washington, D.C."
+                },
+                {
+                  "text": "HM Consul General",
+                  "type": "internal",
+                  "page": "Consul (representative)"
+                },
+                {
+                  "text": "human resources",
+                  "type": "internal",
+                  "page": "human resources"
+                }
+              ]
+            },
+            {
+              "text": "From 2015 to 2018 she served as British High Commissioner to Australia, before again returning to London in 2019, being promoted to Director General of Economic and Global Issues at the Foreign and Commonwealth Office.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "British High Commissioner to Australia"
+                },
+                {
+                  "type": "internal",
+                  "page": "Director General"
+                },
+                {
+                  "type": "internal",
+                  "page": "Foreign and Commonwealth Office"
+                }
+              ]
+            },
+            {
+              "text": "She served in the role until 2020."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In April 2021, the Government nominated Rawlings for the role of British Ambassador to France, to take office in summer 2021.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "British Ambassador to France"
+                }
+              ]
+            },
+            {
+              "text": "News of her appointment coincided with reporting that for the first time, every British ambassador or high commissioner to a G7 country would be a woman.",
+              "links": [
+                {
+                  "text": "high commissioner",
+                  "type": "internal",
+                  "page": "high commissioner"
+                },
+                {
+                  "type": "internal",
+                  "page": "G7"
+                }
+              ]
+            },
+            {
+              "text": "She entered the role on 23 August 2021."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Already Companion of the Order of St Michael and St George (CMG), she was appointed Dame Commander of the Order of St Michael and St George (DCMG) in the 2022 New Year Honours for services to British foreign policy.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Companion of the Order of St Michael and St George"
+                },
+                {
+                  "type": "internal",
+                  "page": "Dame Commander of the Order of St Michael and St George"
+                },
+                {
+                  "text": "2022 New Year Honours",
+                  "type": "internal",
+                  "page": "2022 New Year Honours"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.gov.uk/government/news/change-of-her-majestys-ambassador-to-france-menna-rawlings--2",
+          "title": "Change of Her Majesty's Ambassador to France: Menna Rawlings",
+          "website": "GOV.UK",
+          "date": "29 April 2021",
+          "access-date": "29 April 2021",
+          "template": "citation",
+          "type": "press release"
+        },
+        {
+          "url": "https://www.theguardian.com/politics/2021/apr/29/new-uk-ambassador-to-france-menna-rawlings-women-hold-all-key-postings",
+          "title": "New UK ambassador to France means women hold all key postings",
+          "work": "The Guardian",
+          "last": "Wintour",
+          "first": "Patrick",
+          "date": "29 April 2021",
+          "access-date": "29 April 2021",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "number": "1429905737090744326",
+          "title": "First day as HM Ambassador to France.",
+          "last": "Rawlings",
+          "first": "Menna",
+          "user": "MennaRawlings",
+          "date": "23 August 2021",
+          "access-date": "23 August 2021",
+          "template": "citation",
+          "type": "tweet"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "url": "http://www.ukwhoswho.com/view/10.1093/ww/9780199540884.001.0001/ww-9780199540884-e-258231",
+          "title": "Rawlings, Menna Frances, (born 16 Sept. 1967), HM Diplomatic Service; High Commissioner to Australia, since 2015; ukwhoswho.com",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "See also",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "British Embassy in Paris",
+            "links": [
+              {
+                "type": "internal",
+                "page": "British Embassy in Paris"
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-dip"
+        },
+        {
+          "before": "Paul Madden",
+          "template": "s-bef"
+        },
+        {
+          "title": "British High Commissioner to Australia",
+          "years": "2015–2019",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Victoria Treadell",
+          "template": "s-aft"
+        },
+        {
+          "before": "The Lord Llewellyn of Steep",
+          "template": "s-bef"
+        },
+        {
+          "title": "British Ambassador to France",
+          "years": "2021–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "template": "authority control"
+        }
+      ]
+    }
+  ]
+}

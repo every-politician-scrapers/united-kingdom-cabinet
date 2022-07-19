@@ -1,0 +1,692 @@
+{
+  "title": "Michael Aron",
+  "pageID": 42831533,
+  "categories": [
+    "1959 births",
+    "Living people",
+    "People educated at Exeter School",
+    "Alumni of the University of Leeds",
+    "Alumni of the University of Westminster",
+    "Members of HM Diplomatic Service",
+    "Ambassadors of the United Kingdom to Kuwait",
+    "Ambassadors of the United Kingdom to Iraq",
+    "Ambassadors of the United Kingdom to Libya",
+    "Ambassadors of the United Kingdom to Sudan",
+    "Ambassadors of the United Kingdom to Yemen",
+    "20th-century British diplomats"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Michael Douglas Aron (born 22 March 1959) is a British diplomat who has been Ambassador to Kuwait, Iraq, Libya and Sudan, and ambassador to Yemen.",
+              "formatting": {
+                "bold": [
+                  "Michael Douglas Aron"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "British diplomat",
+          "bot": "PearBOT 5",
+          "template": "short description"
+        },
+        {
+          "date": "May 2014",
+          "template": "use dmy dates"
+        },
+        {
+          "date": "May 2014",
+          "template": "use british english"
+        },
+        {
+          "year": "1959",
+          "month": "3",
+          "day": "22",
+          "df": "y",
+          "template": "birth date and age"
+        },
+        {
+          "list": [
+            "2018",
+            "2"
+          ],
+          "alt": "is currently",
+          "template": "as of"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Michael Aron"
+          },
+          "image": {
+            "text": "Michael Aron, British diplomat.jpg"
+          },
+          "office": {
+            "text": "British Ambassador to Yemen",
+            "links": [
+              {
+                "text": "British Ambassador to Yemen",
+                "type": "internal",
+                "page": "List of ambassadors of the United Kingdom to Yemen"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "February 2018"
+          },
+          "predecessor": {
+            "text": "Simon Shercliff",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Simon Shercliff"
+              }
+            ]
+          },
+          "monarch": {
+            "text": "Elizabeth II",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Elizabeth II"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Theresa May\nBoris Johnson",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Theresa May"
+              },
+              {
+                "type": "internal",
+                "page": "Boris Johnson"
+              }
+            ]
+          },
+          "office1": {
+            "text": "British Ambassador to Sudan",
+            "links": [
+              {
+                "text": "British Ambassador to Sudan",
+                "type": "internal",
+                "page": "List of ambassadors of the United Kingdom to Sudan"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "2015",
+            "number": 2015
+          },
+          "term_end1": {
+            "text": "2018",
+            "number": 2018
+          },
+          "predecessor1": {
+            "text": "Peter Tibber",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Peter Tibber"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Irfan Siddiq",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Irfan Siddiq"
+              }
+            ]
+          },
+          "monarch1": {
+            "text": "Elizabeth II",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Elizabeth II"
+              }
+            ]
+          },
+          "primeminister1": {
+            "text": "David Cameron\nTheresa May",
+            "links": [
+              {
+                "type": "internal",
+                "page": "David Cameron"
+              },
+              {
+                "type": "internal",
+                "page": "Theresa May"
+              }
+            ]
+          },
+          "office2": {
+            "text": "British Ambassador to Libya",
+            "links": [
+              {
+                "text": "British Ambassador to Libya",
+                "type": "internal",
+                "page": "List of ambassadors of the United Kingdom to Libya"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "2013",
+            "number": 2013
+          },
+          "term_end2": {
+            "text": "2015",
+            "number": 2015
+          },
+          "predecessor2": {
+            "text": "Sir Dominic Asquith",
+            "links": [
+              {
+                "text": "Sir Dominic Asquith",
+                "type": "internal",
+                "page": "Dominic Asquith"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Peter Millett",
+            "links": [
+              {
+                "text": "Peter Millett",
+                "type": "internal",
+                "page": "Peter Millett (diplomat)"
+              }
+            ]
+          },
+          "monarch2": {
+            "text": "Elizabeth II",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Elizabeth II"
+              }
+            ]
+          },
+          "primeminister2": {
+            "text": "David Cameron",
+            "links": [
+              {
+                "type": "internal",
+                "page": "David Cameron"
+              }
+            ]
+          },
+          "office3": {
+            "text": "British Ambassador to Iraq",
+            "links": [
+              {
+                "text": "British Ambassador to Iraq",
+                "type": "internal",
+                "page": "List of ambassadors of the United Kingdom to Iraq"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "2011",
+            "number": 2011
+          },
+          "term_end3": {
+            "text": "2012",
+            "number": 2012
+          },
+          "predecessor3": {
+            "text": "John Jenkins",
+            "links": [
+              {
+                "text": "John Jenkins",
+                "type": "internal",
+                "page": "John Jenkins (diplomat)"
+              }
+            ]
+          },
+          "successor3": {
+            "text": "Simon Collis",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Simon Collis"
+              }
+            ]
+          },
+          "monarch3": {
+            "text": "Elizabeth II",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Elizabeth II"
+              }
+            ]
+          },
+          "primeminister3": {
+            "text": "David Cameron",
+            "links": [
+              {
+                "type": "internal",
+                "page": "David Cameron"
+              }
+            ]
+          },
+          "office4": {
+            "text": "British Ambassador to Kuwait",
+            "links": [
+              {
+                "text": "British Ambassador to Kuwait",
+                "type": "internal",
+                "page": "List of ambassadors of the United Kingdom to Kuwait"
+              }
+            ]
+          },
+          "term_start4": {
+            "text": "2008",
+            "number": 2008
+          },
+          "term_end4": {
+            "text": "2009",
+            "number": 2009
+          },
+          "predecessor4": {
+            "text": "Stuart Laing",
+            "links": [
+              {
+                "text": "Stuart Laing",
+                "type": "internal",
+                "page": "Stuart Laing (diplomat)"
+              }
+            ]
+          },
+          "successor4": {
+            "text": "Frank Baker",
+            "links": [
+              {
+                "text": "Frank Baker",
+                "type": "internal",
+                "page": "Frank Baker (diplomat)"
+              }
+            ]
+          },
+          "monarch4": {
+            "text": "Elizabeth II",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Elizabeth II"
+              }
+            ]
+          },
+          "primeminister4": {
+            "text": "Gordon Brown",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Gordon Brown"
+              }
+            ]
+          },
+          "birth_name": {
+            "text": "Michael Douglas Aron"
+          },
+          "birth_date": {
+            "text": "March 22, 1959"
+          },
+          "education": {
+            "text": "Exeter School\nUniversity of Leeds\nPolytechnic of Central London",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Exeter School"
+              },
+              {
+                "type": "internal",
+                "page": "University of Leeds"
+              },
+              {
+                "type": "internal",
+                "page": "Polytechnic of Central London"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Rachel Barker (divorced)"
+          },
+          "children": {
+            "text": "4",
+            "number": 4
+          },
+          "nationality": {
+            "text": "British"
+          },
+          "occupation": {
+            "text": "Diplomat"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Aron was educated at Exeter School, Leeds University and the Polytechnic of Central London.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Exeter School"
+                },
+                {
+                  "type": "internal",
+                  "page": "Leeds University"
+                },
+                {
+                  "type": "internal",
+                  "page": "Polytechnic of Central London"
+                }
+              ]
+            },
+            {
+              "text": "He taught English in Sudan before joining the Foreign and Commonwealth Office (FCO) in 1984.",
+              "links": [
+                {
+                  "text": "English",
+                  "type": "internal",
+                  "page": "English language"
+                },
+                {
+                  "type": "internal",
+                  "page": "Sudan"
+                },
+                {
+                  "type": "internal",
+                  "page": "Foreign and Commonwealth Office"
+                }
+              ]
+            },
+            {
+              "text": "He has served at New York, Brasilia and Brussels.",
+              "links": [
+                {
+                  "text": "New York",
+                  "type": "internal",
+                  "page": "New York City"
+                },
+                {
+                  "type": "internal",
+                  "page": "Brasilia"
+                },
+                {
+                  "type": "internal",
+                  "page": "Brussels"
+                }
+              ]
+            },
+            {
+              "text": "He was Ambassador to Kuwait 2008–09, Head of the Middle East Department at the FCO 2010–11, Ambassador to Iraq 2011–12, acting Head of Mission at Tripoli September 2012 to January 2013, and Ambassador to Libya from January 2013 until June 2015.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ambassador"
+                },
+                {
+                  "type": "internal",
+                  "page": "Kuwait"
+                },
+                {
+                  "type": "internal",
+                  "page": "Iraq"
+                },
+                {
+                  "type": "internal",
+                  "page": "Head of Mission"
+                },
+                {
+                  "type": "internal",
+                  "page": "Tripoli"
+                },
+                {
+                  "type": "internal",
+                  "page": "Libya"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "After the outbreak of the Libyan Civil War in 2014, Aron supervised the evacuation of British citizens from Tripoli on the Royal Navy survey ship HMS Enterprise.",
+              "links": [
+                {
+                  "text": "Libyan Civil War",
+                  "type": "internal",
+                  "page": "Libyan Civil War (2014)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Tripoli"
+                },
+                {
+                  "text": "HMS ''Enterprise''",
+                  "type": "internal",
+                  "page": "HMS Enterprise (H88)"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "Enterprise"
+                ]
+              }
+            },
+            {
+              "text": "He and his remaining staff then closed the embassy and left Libya to set up a temporary office in Tunis.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Tunis"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In April 2015, Aron was appointed Ambassador to the Republic of Sudan, and took up the appointment in August of that year.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Republic of Sudan"
+                }
+              ]
+            },
+            {
+              "text": "In February 2018 he was transferred at short notice to be Ambassador to Yemen."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "last": "Spencer",
+          "first": "Richard",
+          "author-link": "Richard Spencer (journalist)",
+          "date": "3 August 2014",
+          "title": "Royal Navy evacuates 100 Britons from Libya as fighting worsens",
+          "url": "https://www.telegraph.co.uk/news/worldnews/africaandindianocean/libya/11009140/Royal-Navy-evacuates-100-Britons-from-Libya-as-fighting-worsens.html",
+          "newspaper": "The Telegraph",
+          "location": "London",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "Family",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Aron was married to Rachel (née Barker) who was also a diplomat, now retired after being British Ambassador to Belgium from 2007 to 2010.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "British Ambassador to Belgium"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "née"
+                ]
+              }
+            },
+            {
+              "text": "They have two sons and two daughters."
+            },
+            {
+              "text": "They divorced in 2016."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-dip"
+        },
+        {
+          "before": "Stuart Laing",
+          "template": "s-bef"
+        },
+        {
+          "title": "British Ambassador to Kuwait",
+          "years": "2008–2009",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Frank Baker",
+          "template": "s-aft"
+        },
+        {
+          "before": "John Jenkins",
+          "template": "s-bef"
+        },
+        {
+          "title": "British Ambassador to Iraq",
+          "years": "2011–2012",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Simon Collis",
+          "template": "s-aft"
+        },
+        {
+          "before": "Sir Dominic Asquith",
+          "template": "s-bef"
+        },
+        {
+          "title": "British Ambassador to Libya",
+          "years": "2013–2015",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Peter Millett",
+          "template": "s-aft"
+        },
+        {
+          "before": "Peter Tibber",
+          "template": "s-bef"
+        },
+        {
+          "title": "British Ambassador to Sudan",
+          "years": "2015–2018",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Irfan Siddiq",
+          "template": "s-aft"
+        },
+        {
+          "before": "Simon Shercliff",
+          "template": "s-bef"
+        },
+        {
+          "title": "British Ambassador to Yemen",
+          "years": "2018–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "template": "uk-diplomat-stub"
+        }
+      ]
+    }
+  ]
+}

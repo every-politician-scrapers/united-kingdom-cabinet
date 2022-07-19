@@ -1,0 +1,972 @@
+{
+  "title": "Paul Madden (diplomat)",
+  "pageID": 36799945,
+  "categories": [
+    "1959 births",
+    "Living people",
+    "High Commissioners of the United Kingdom to Australia",
+    "High Commissioners of the United Kingdom to Singapore",
+    "Ambassadors of the United Kingdom to Japan",
+    "Alumni of Gonville and Caius College, Cambridge",
+    "Alumni of Durham University",
+    "Alumni of SOAS University of London",
+    "People from Ottery St Mary",
+    "Companions of the Order of St Michael and St George",
+    "Fellows of the Royal Geographical Society",
+    "20th-century British diplomats",
+    "21st-century British diplomats"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Paul Damian Madden (born 25 April 1959) is a retired British diplomat, who was High Commissioner to Singapore and to Australia, and Ambassador to Japan between 2017 and 2021.",
+              "links": [
+                {
+                  "text": "High Commissioner to Singapore",
+                  "type": "internal",
+                  "page": "List of High Commissioners of the United Kingdom to Singapore"
+                },
+                {
+                  "text": "to Australia",
+                  "type": "internal",
+                  "page": "List of High Commissioners of the United Kingdom to Australia"
+                },
+                {
+                  "text": "Ambassador to Japan",
+                  "type": "internal",
+                  "page": "List of ambassadors of the United Kingdom to Japan"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Paul Damian Madden"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "British diplomat",
+          "template": "short description"
+        },
+        {
+          "date": "December 2013",
+          "template": "use dmy dates"
+        },
+        {
+          "date": "December 2013",
+          "template": "use british english"
+        },
+        {
+          "country": "GBR",
+          "size": "100%",
+          "list": [
+            "CMG",
+            "FRGS"
+          ],
+          "template": "post-nominals"
+        },
+        {
+          "year": "1959",
+          "month": "4",
+          "day": "25",
+          "df": "y",
+          "template": "birth date and age"
+        },
+        {
+          "country": "GBR",
+          "list": [
+            "CMG",
+            "FRGS"
+          ],
+          "template": "post-nominals"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Paul Madden"
+          },
+          "image": {
+            "text": "Paul Madden CMG FRGS.png"
+          },
+          "office": {
+            "text": "British Ambassador to Japan",
+            "links": [
+              {
+                "text": "British Ambassador to Japan",
+                "type": "internal",
+                "page": "List of ambassadors of the United Kingdom to Japan"
+              }
+            ]
+          },
+          "monarch": {
+            "text": "Elizabeth II",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Elizabeth II"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "January 2017"
+          },
+          "term_end": {
+            "text": "February 2021"
+          },
+          "primeminister": {
+            "text": "Theresa May\nBoris Johnson",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Theresa May"
+              },
+              {
+                "type": "internal",
+                "page": "Boris Johnson"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Sir Tim Hitchens",
+            "links": [
+              {
+                "text": "Sir Tim Hitchens",
+                "type": "internal",
+                "page": "Tim Hitchens"
+              }
+            ]
+          },
+          "successor": {
+            "text": "Julia Longbottom",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Julia Longbottom"
+              }
+            ]
+          },
+          "office1": {
+            "text": "British High Commissioner to Australia",
+            "links": [
+              {
+                "type": "internal",
+                "page": "British High Commissioner to Australia"
+              }
+            ]
+          },
+          "monarch1": {
+            "text": "Elizabeth II",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Elizabeth II"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "2011",
+            "number": 2011
+          },
+          "term_end1": {
+            "text": "2015",
+            "number": 2015
+          },
+          "primeminister1": {
+            "text": "David Cameron",
+            "links": [
+              {
+                "type": "internal",
+                "page": "David Cameron"
+              }
+            ]
+          },
+          "predecessor1": {
+            "text": "Baroness Amos",
+            "links": [
+              {
+                "text": "Baroness Amos",
+                "type": "internal",
+                "page": "Valerie Amos, Baroness Amos"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Menna Rawlings",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Menna Rawlings"
+              }
+            ]
+          },
+          "office2": {
+            "text": "British High Commissioner to Singapore",
+            "links": [
+              {
+                "type": "internal",
+                "page": "British High Commissioner to Singapore"
+              }
+            ]
+          },
+          "monarch2": {
+            "text": "Elizabeth II",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Elizabeth II"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "2007",
+            "number": 2007
+          },
+          "term_end2": {
+            "text": "2011",
+            "number": 2011
+          },
+          "primeminister2": {
+            "text": "Tony Blair Gordon Brown David Cameron",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Tony Blair"
+              },
+              {
+                "type": "internal",
+                "page": "Gordon Brown"
+              },
+              {
+                "type": "internal",
+                "page": "David Cameron"
+              }
+            ]
+          },
+          "predecessor2": {
+            "text": "Sir Alan Collins",
+            "links": [
+              {
+                "text": "Sir Alan Collins",
+                "type": "internal",
+                "page": "Alan Stanley Collins"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Antony Phillipson",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Antony Phillipson"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "April 25, 1959"
+          },
+          "birth_place": {
+            "text": "Devon, England",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Devon"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Sarah"
+          },
+          "children": {
+            "text": "3",
+            "number": 3
+          },
+          "alma_mater": {
+            "text": "University of Cambridge Durham University SOAS",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of Cambridge"
+              },
+              {
+                "type": "internal",
+                "page": "Durham University"
+              },
+              {
+                "text": "SOAS",
+                "type": "internal",
+                "page": "School of Oriental and African Studies"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Change of Her Majesty's Ambassador to Japan: Julia Longbottom",
+          "url": "https://www.gov.uk/government/news/change-of-her-majestys-ambassador-to-japan--3",
+          "website": "GOV.UK",
+          "publisher": "Foreign and Commonwealth Office",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Education",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Madden was educated at The King's School, Ottery St Mary, and Gonville and Caius College, Cambridge, where he gained a BA degree in economic geography (later upgraded to MA).",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "The King's School, Ottery St Mary"
+                },
+                {
+                  "type": "internal",
+                  "page": "Gonville and Caius College, Cambridge"
+                },
+                {
+                  "text": "BA",
+                  "type": "internal",
+                  "page": "Bachelor of Arts"
+                },
+                {
+                  "text": "economic geography",
+                  "type": "internal",
+                  "page": "economic geography"
+                },
+                {
+                  "text": "MA",
+                  "type": "internal",
+                  "page": "Master of Arts (Oxbridge and Dublin)"
+                }
+              ]
+            },
+            {
+              "text": "He has a Master of Business Administration degree from Durham University.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Master of Business Administration"
+                },
+                {
+                  "type": "internal",
+                  "page": "Durham University"
+                }
+              ]
+            },
+            {
+              "text": "He is a Fellow of the Royal Geographical Society.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Royal Geographical Society"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 1983, Madden entered an essay contest sponsored by the Japanese Ministry of Foreign Affairs and was granted a study tour in Japan.",
+              "links": [
+                {
+                  "text": "Japanese Ministry of Foreign Affairs",
+                  "type": "internal",
+                  "page": "Ministry of Foreign Affairs (Japan)"
+                }
+              ]
+            },
+            {
+              "text": "He learned Japanese at the University of London, School of Oriental and African Studies and the British Embassy's school in Kamakura.",
+              "links": [
+                {
+                  "text": "University of London, School of Oriental and African Studies",
+                  "type": "internal",
+                  "page": "SOAS University of London"
+                },
+                {
+                  "type": "internal",
+                  "page": "Kamakura"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "last1": "Madden",
+          "first1": "Paul",
+          "title": "Farewell to Japan",
+          "url": "https://blogs.fcdo.gov.uk/paulmadden/2021/02/22/farewell-to-japan/",
+          "website": "Foreign, Commonwealth & Development Office Blogs",
+          "publisher": "Foreign, Commonwealth and Development Office",
+          "access-date": "3 March 2021",
+          "date": "22 February 2021",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Madden began his career in the Department of Trade and Industry where he was Private Secretary to the Minister 1984–86.",
+              "links": [
+                {
+                  "text": "Department of Trade and Industry",
+                  "type": "internal",
+                  "page": "Department of Trade and Industry (United Kingdom)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Private Secretary"
+                }
+              ]
+            },
+            {
+              "text": "He then studied Japanese at the School of Oriental and African Studies, University of London, and at Kamakura, Kanagawa, Japan, before joining the Diplomatic Service.",
+              "links": [
+                {
+                  "text": "Japanese",
+                  "type": "internal",
+                  "page": "Japanese language"
+                },
+                {
+                  "type": "internal",
+                  "page": "School of Oriental and African Studies"
+                },
+                {
+                  "type": "internal",
+                  "page": "University of London"
+                },
+                {
+                  "type": "internal",
+                  "page": "Kamakura"
+                },
+                {
+                  "text": "Kanagawa",
+                  "type": "internal",
+                  "page": "Kanagawa Prefecture"
+                },
+                {
+                  "type": "internal",
+                  "page": "Japan"
+                },
+                {
+                  "text": "Diplomatic Service",
+                  "type": "internal",
+                  "page": "Her Majesty's Diplomatic Service"
+                }
+              ]
+            },
+            {
+              "text": "He served at the Embassy in Tokyo 1988–92, at the Foreign and Commonwealth Office (FCO), dealing with EU enlargement and Environmental issues, 1992–96, and at the Embassy in Washington, D.C. 1996–2000.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Tokyo"
+                },
+                {
+                  "type": "internal",
+                  "page": "Foreign and Commonwealth Office"
+                },
+                {
+                  "text": "EU",
+                  "type": "internal",
+                  "page": "European Union"
+                },
+                {
+                  "type": "internal",
+                  "page": "Washington, D.C."
+                }
+              ]
+            },
+            {
+              "text": "He was Deputy High Commissioner in Singapore 2000–03, Assistant Director of Information at the FCO 2003–04, and Managing Director at UK Trade & Investment 2004–06.",
+              "links": [
+                {
+                  "text": "High Commissioner",
+                  "type": "internal",
+                  "page": "High Commissioner (Commonwealth)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Singapore"
+                },
+                {
+                  "type": "internal",
+                  "page": "UK Trade & Investment"
+                }
+              ]
+            },
+            {
+              "text": "He was British High Commissioner in Singapore 2007–11 and High Commissioner to Australia 2011–15.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Australia"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Madden was appointed Companion of the Order of St Michael and St George (CMG) in the 2013 Birthday Honours, for services to the UK and improving UK-Australian relations.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Companion of the Order of St Michael and St George"
+                },
+                {
+                  "text": "2013 Birthday Honours",
+                  "type": "internal",
+                  "page": "2013 Birthday Honours"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In April 2016 Madden was appointed British Ambassador to Japan in succession to Tim Hitchens.",
+              "links": [
+                {
+                  "text": "British Ambassador to Japan",
+                  "type": "internal",
+                  "page": "List of ambassadors of the United Kingdom to Japan"
+                },
+                {
+                  "type": "internal",
+                  "page": "Tim Hitchens"
+                }
+              ]
+            },
+            {
+              "text": "He took up his appointment in January 2017 as planned."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.gov.uk/government/people/paul-madden",
+          "title": "His Excellency Paul Madden CMG",
+          "website": "gov.uk",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.gov.uk/government/news/change-of-british-high-commissioner-to-australia",
+          "title": "Change of British High Commissioner to Australia",
+          "publisher": "Foreign & Commonwealth Office",
+          "date": "20 November 2014",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.gov.uk/government/news/change-of-her-majestys-ambassador-to-japan--2",
+          "title": "Change of Her Majesty's Ambassador to Japan",
+          "publisher": "Foreign & Commonwealth Office",
+          "date": "7 April 2016",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.gov.uk/government/people/paul-madden",
+          "title": "British Ambassador to Japan: His Excellency Paul Madden CMG",
+          "website": "GOV.UK",
+          "access-date": "22 February 2021",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "As ambassador to Japan",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "On 18 January 2017, Madden completed the Ceremony of the Presentation of Credentials which was held at Tokyo Imperial Palace.",
+              "links": [
+                {
+                  "text": "the Presentation of Credentials",
+                  "type": "internal",
+                  "page": "Letter of credence"
+                },
+                {
+                  "type": "internal",
+                  "page": "Tokyo Imperial Palace"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Madden represented UK-Japan relations during a period in which the two countries had £32 billion in bilateral yearly trade.",
+              "links": [
+                {
+                  "text": "UK-Japan relations",
+                  "type": "internal",
+                  "page": "Japan–United Kingdom relations"
+                }
+              ]
+            },
+            {
+              "text": "He oversaw regular visits to Japan by the Royal Navy during a period of increased tensions with China and North Korea.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Royal Navy"
+                }
+              ]
+            },
+            {
+              "text": "He also supported the creation of the UK-Japan Comprehensive Economic Partnership Agreement in the aftermath of Britain's departure from the European Union and successfully lobbied the Japanese government to support the UK's application to join the Comprehensive and Progressive Agreement for Trans-Pacific Partnership.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "UK-Japan Comprehensive Economic Partnership Agreement"
+                },
+                {
+                  "text": "Britain's departure from the European Union",
+                  "type": "internal",
+                  "page": "Brexit"
+                },
+                {
+                  "type": "internal",
+                  "page": "Comprehensive and Progressive Agreement for Trans-Pacific Partnership"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On 6 August 2017, Madden attended the Hiroshima Peace Memorial Ceremony held in Hiroshima City.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Hiroshima Peace Memorial Ceremony"
+                },
+                {
+                  "text": "Hiroshima City",
+                  "type": "internal",
+                  "page": "Hiroshima"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 2019, Madden accompanied the Prince of Wales to the enthronement of Emperor Naruhito and attended the 2019 Rugby World Cup, which was hosted by Japan.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Prince of Wales"
+                },
+                {
+                  "text": "enthronement",
+                  "type": "internal",
+                  "page": "Enthronement of the Japanese emperor"
+                },
+                {
+                  "type": "internal",
+                  "page": "Naruhito"
+                },
+                {
+                  "text": "2019 Rugby World Cup",
+                  "type": "internal",
+                  "page": "2019 Rugby World Cup"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In February 2020, SARS-CoV-2 reached Japan on board the Japanese-built, British-registered Diamond Princess cruise ship.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "SARS-CoV-2"
+                },
+                {
+                  "text": "Diamond Princess",
+                  "type": "internal",
+                  "page": "Diamond Princess (ship)"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "Diamond Princess"
+                ]
+              }
+            },
+            {
+              "text": "Madden worked with Japanese authorities to arrange evacuation from the ship."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Madden retired in March 2021 and was replaced as Ambassador to Japan by Julia Longbottom.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Julia Longbottom"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "file": "File:ポール・マデン信任状棒呈式20170118.ogg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/%E3%83%9D%E3%83%BC%E3%83%AB%E3%83%BB%E3%83%9E%E3%83%87%E3%83%B3%E4%BF%A1%E4%BB%BB%E7%8A%B6%E6%A3%92%E5%91%88%E5%BC%8F20170118.ogg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/%E3%83%9D%E3%83%BC%E3%83%AB%E3%83%BB%E3%83%9E%E3%83%87%E3%83%B3%E4%BF%A1%E4%BB%BB%E7%8A%B6%E6%A3%92%E5%91%88%E5%BC%8F20170118.ogg",
+          "caption": "British Ambassador to Japan Presentation Ceremony Bar at the Imperial Palace in Japan",
+          "links": []
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.mofa.go.jp/mofaj/press/release/press4_004178.html",
+          "title": "駐日英国大使の信任状捧呈",
+          "trans-title": "The Presentation of Credentials from The Ambassador Extraordinary and Plenipotentiary of the United Kingdom of Great Britain and Northern Ireland",
+          "website": "MOFA, Japan",
+          "access-date": "22 February 2021",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.city.hiroshima.lg.jp/soshiki/49/10661.html",
+          "date": "21 October 2019",
+          "title": "平成29年(2017年)度の平和記念式典参列大使",
+          "trans-title": "List of attendees as ambassador to \"The Hiroshima Peace Memorial Ceremony in 2017\"",
+          "website": "Hiroshima City Office",
+          "language": "ja",
+          "access-date": "22 February 2021",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Bibliography",
+      "depth": 0,
+      "templates": [
+        {
+          "date": "August 2015",
+          "template": "expand list"
+        }
+      ]
+    },
+    {
+      "title": "Books",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "references": [
+        {
+          "author": "Madden, Paul",
+          "title": "Raffles : lessons in business leadership",
+          "location": "Singapore",
+          "publisher": "WhosWho Publishing",
+          "year": "2003",
+          "template": "citation",
+          "type": "cite book"
+        }
+      ]
+    },
+    {
+      "title": "Plays",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Madden wrote a play, \"Alternate Serve\", that was played at the Sydney Short and Sweet Theatre Festival, on 28 January 2015."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "date": "December 2020",
+          "template": "fact"
+        }
+      ],
+      "references": [
+        {
+          "url": "https://twitter.com/PaulMaddenUK/status/560712685344403456",
+          "title": "Paul Madden's Tweet about his Play",
+          "publisher": "Paul Madden",
+          "date": "29 January 2015",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Book reviews",
+      "depth": 1,
+      "tables": [
+        [
+          {
+            "Date": {
+              "text": "April 2013"
+            },
+            "Review article": {
+              "text": ""
+            },
+            "Work(s) reviewed": {
+              "text": ""
+            }
+          }
+        ]
+      ],
+      "references": [
+        {
+          "author": "Madden, Paul",
+          "date": "April 2013",
+          "title": "Raffles' prize",
+          "journal": "Australian Book Review",
+          "volume": "350",
+          "pages": "46",
+          "template": "citation",
+          "type": "cite journal"
+        },
+        {
+          "author": "Glendinning, Victoria",
+          "author-link": "Victoria Glendinning",
+          "title": "Raffles and the golden opportunity, 1781-1826",
+          "location": "London",
+          "publisher": "Profile Books",
+          "year": "2012",
+          "template": "citation",
+          "type": "cite book"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-dip"
+        },
+        {
+          "before": "Sir Alan Collins",
+          "template": "s-bef"
+        },
+        {
+          "title": "British High Commissioner to Singapore",
+          "years": "2007–2011",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Antony Phillipson",
+          "template": "s-aft"
+        },
+        {
+          "before": "The Baroness Amos",
+          "template": "s-bef"
+        },
+        {
+          "title": "British High Commissioner to Australia",
+          "years": "2011–2015",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Menna Rawlings",
+          "template": "s-aft"
+        },
+        {
+          "before": "Tim Hitchens",
+          "template": "s-bef"
+        },
+        {
+          "title": "British Ambassador to Japan",
+          "years": "2017–2021",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Julia Longbottom",
+          "template": "s-aft"
+        },
+        {
+          "template": "authority control"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "MADDEN, Paul Damian, Who's Who 2013, A & C Black, 2013; online edn, Oxford University Press, Dec 2012",
+            "links": [
+              {
+                "text": "MADDEN, Paul Damian",
+                "type": "external",
+                "site": "http://www.ukwhoswho.com/view/article/oupww/whoswho/U42865"
+              }
+            ],
+            "formatting": {
+              "italic": [
+                "Who's Who 2013"
+              ]
+            }
+          }
+        ]
+      ]
+    }
+  ]
+}

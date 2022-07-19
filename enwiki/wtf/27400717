@@ -1,0 +1,481 @@
+{
+  "title": "Alexander Ellis (diplomat)",
+  "pageID": 27400717,
+  "categories": [
+    "1967 births",
+    "Living people",
+    "People educated at The Dragon School",
+    "People educated at Winchester College",
+    "Alumni of Magdalene College, Cambridge",
+    "Ambassadors of the United Kingdom to Portugal",
+    "Ambassadors of the United Kingdom to Brazil",
+    "Companions of the Order of St Michael and St George",
+    "High Commissioners of the United Kingdom to India"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Alexander Wykeham \"Alex\" Ellis CMG (born 5 June 1967) is a British civil servant, currently British High Commissioner to India.",
+              "links": [
+                {
+                  "text": "CMG",
+                  "type": "internal",
+                  "page": "Companion of the Order of St Michael and St George"
+                },
+                {
+                  "text": "High Commissioner",
+                  "type": "internal",
+                  "page": "High Commissioner (Commonwealth)"
+                },
+                {
+                  "text": "India",
+                  "type": "internal",
+                  "page": "List of High Commissioners of the United Kingdom to India"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Alexander Wykeham \"Alex\" Ellis"
+                ]
+              }
+            },
+            {
+              "text": "Previously, he was Deputy National Security Adviser for the Integrated Review on diplomacy, development and defence.",
+              "links": [
+                {
+                  "text": "Deputy National Security Adviser",
+                  "type": "internal",
+                  "page": "National Security Council (United Kingdom)",
+                  "anchor": "National Security Secretariat"
+                }
+              ]
+            },
+            {
+              "text": "Ellis was previously the Director General of the Department for Exiting the EU.",
+              "links": [
+                {
+                  "text": "Department for Exiting the EU",
+                  "type": "internal",
+                  "page": "Department for Exiting the European Union"
+                }
+              ]
+            },
+            {
+              "text": "He had previously been Britain's ambassador to Brazil from July 2013 to January 2017."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "British diplomat",
+          "template": "short description"
+        },
+        {
+          "date": "April 2022",
+          "template": "use dmy dates"
+        },
+        {
+          "year": "1967",
+          "month": "06",
+          "day": "05",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Alexander Ellis"
+          },
+          "honorific-suffix": {
+            "text": "CMG",
+            "links": [
+              {
+                "text": "CMG",
+                "type": "internal",
+                "page": "Companion of the Order of St Michael and St George"
+              }
+            ]
+          },
+          "image": {
+            "text": "File:Alexander Ellis.jpg"
+          },
+          "office": {
+            "text": "British High Commissioner to India",
+            "links": [
+              {
+                "text": "British High Commissioner to India",
+                "type": "internal",
+                "page": "List of High Commissioners of the United Kingdom to India"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "2021",
+            "number": 2021
+          },
+          "primeminister": {
+            "text": "Boris Johnson",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Boris Johnson"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Sir Philip Barton",
+            "links": [
+              {
+                "text": "Sir Philip Barton",
+                "type": "internal",
+                "page": "Philip Barton"
+              }
+            ]
+          },
+          "ambassador_from1": {
+            "text": "United Kingdom"
+          },
+          "country1": {
+            "text": "Brazil"
+          },
+          "term_start1": {
+            "text": "2013",
+            "number": 2013
+          },
+          "term_end1": {
+            "text": "2017",
+            "number": 2017
+          },
+          "monarch1": {
+            "text": "Elizabeth II",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Elizabeth II"
+              }
+            ]
+          },
+          "primeminister1": {
+            "text": "David Cameron\nTheresa May",
+            "links": [
+              {
+                "type": "internal",
+                "page": "David Cameron"
+              },
+              {
+                "type": "internal",
+                "page": "Theresa May"
+              }
+            ]
+          },
+          "predecessor1": {
+            "text": "Alan Charlton",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Alan Charlton"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Vijay Rangarajan",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Vijay Rangarajan"
+              }
+            ]
+          },
+          "ambassador_from2": {
+            "text": "United Kingdom"
+          },
+          "country2": {
+            "text": "Portugal"
+          },
+          "term_start2": {
+            "text": "2007",
+            "number": 2007
+          },
+          "term_end2": {
+            "text": "2011",
+            "number": 2011
+          },
+          "monarch2": {
+            "text": "Elizabeth II",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Elizabeth II"
+              }
+            ]
+          },
+          "primeminister2": {
+            "text": "Gordon Brown\nDavid Cameron",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Gordon Brown"
+              },
+              {
+                "type": "internal",
+                "page": "David Cameron"
+              }
+            ]
+          },
+          "predecessor2": {
+            "text": "John Buck",
+            "links": [
+              {
+                "text": "John Buck",
+                "type": "internal",
+                "page": "John Buck (diplomat)"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Jill Gallard",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jill Gallard"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "June 5, 1967"
+          },
+          "birth_place": {
+            "text": "London, United Kingdom",
+            "links": [
+              {
+                "type": "internal",
+                "page": "London"
+              },
+              {
+                "type": "internal",
+                "page": "United Kingdom"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Magdalene College, Cambridge",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Magdalene College, Cambridge"
+              }
+            ]
+          },
+          "occupation": {
+            "text": "Civil Servant"
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Alex Ellis presents credentials as British High Commissioner to India",
+          "url": "https://www.gov.uk/government/news/alex-ellis-presents-credentials-as-british-high-commissioner-to-india",
+          "website": "gov.uk",
+          "access-date": "23 April 2021",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.gov.uk/government/people/alex-ellis",
+          "title": "Deputy National Security Adviser Alex Ellis",
+          "publisher": "UK Cabinet Office",
+          "access-date": "17 April 2020",
+          "quote": "Alex Ellis started as Deputy National Security Adviser for the Integrated Review on diplomacy, development and defence in January 2020. Prior to that he was Director General in the Department for Exiting the EU for three years.",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.gov.uk/government/news/british-ambassador-to-brazil-to-join-department-for-exiting-the-eu",
+          "title": "British Ambassador to Brazil to join Department for Exiting the EU - GOV.UK",
+          "website": "www.gov.uk",
+          "language": "en",
+          "access-date": "2017-04-12",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Ellis was educated at Dragon School, Oxford, Winchester College and Magdalene College, Cambridge.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Dragon School"
+                },
+                {
+                  "type": "internal",
+                  "page": "Winchester College"
+                },
+                {
+                  "type": "internal",
+                  "page": "Magdalene College, Cambridge"
+                }
+              ]
+            },
+            {
+              "text": "He taught history at St Edward's School, Oxford before joining the Foreign and Commonwealth Office (FCO) in 1990.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "St Edward's School, Oxford"
+                },
+                {
+                  "type": "internal",
+                  "page": "Foreign and Commonwealth Office"
+                }
+              ]
+            },
+            {
+              "text": "He was British ambassador to Portugal 2007–10 and Director of Strategy at the FCO 2011–13 before being appointed ambassador to Brazil.",
+              "links": [
+                {
+                  "text": "ambassador",
+                  "type": "internal",
+                  "page": "ambassador"
+                },
+                {
+                  "type": "internal",
+                  "page": "Portugal"
+                },
+                {
+                  "type": "internal",
+                  "page": "Brazil"
+                }
+              ]
+            },
+            {
+              "text": "In November 2016 it was announced that Ellis would become Director General at the Department for Exiting the European Union.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Department for Exiting the European Union"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Ellis was appointed Companion of the Order of St Michael and St George (CMG) in the 2013 Queen's Birthday Honours.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Companion of the Order of St Michael and St George"
+                },
+                {
+                  "type": "internal",
+                  "page": "Queen's Birthday Honours"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-dip"
+        },
+        {
+          "before": "John Buck",
+          "template": "s-bef"
+        },
+        {
+          "title": "British Ambassador to Portugal",
+          "years": "2007–2010",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Jill Gallard",
+          "template": "s-aft"
+        },
+        {
+          "before": "Alan Charlton",
+          "template": "s-bef"
+        },
+        {
+          "title": "British Ambassador to Brazil",
+          "years": "2013–2017",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Vijay Rangarajan",
+          "template": "s-aft"
+        },
+        {
+          "template": "authority control"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "ELLIS, Alexander Wykeham, Who's Who 2013, A & C Black, 2013; online edn, Oxford University Press, Dec 2012",
+            "links": [
+              {
+                "text": "ELLIS, Alexander Wykeham",
+                "type": "external",
+                "site": "http://www.ukwhoswho.com/view/article/oupww/whoswho/U246503"
+              }
+            ],
+            "formatting": {
+              "italic": [
+                "Who's Who 2013"
+              ]
+            }
+          },
+          {
+            "text": "Alex Ellis, British Ambassador to Brazil, British Embassy Brasilia",
+            "links": [
+              {
+                "text": "Alex Ellis, British Ambassador to Brazil",
+                "type": "external",
+                "site": "https://www.gov.uk/government/people/alex-ellis"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}

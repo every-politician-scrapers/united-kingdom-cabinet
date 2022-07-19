@@ -1,0 +1,158 @@
+{
+  "title": "Antony Stokes",
+  "pageID": 52910672,
+  "categories": [
+    "1965 births",
+    "Living people",
+    "Alumni of Queens' College, Cambridge",
+    "Alumni of University College London",
+    "Lieutenants of the Royal Victorian Order",
+    "Ambassadors of the United Kingdom to Cuba",
+    "Ambassadors of the United Kingdom to Vietnam",
+    "Members of HM Diplomatic Service",
+    "Officers of the Order of the British Empire",
+    "20th-century British diplomats"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Nigel Antony David Stokes (born 21 January 1965) has been  British Ambassador to Cuba since 2016.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Cuba"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Nigel Antony David Stokes"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Stokes was educated at Queens' College, Cambridge and University College London (PhD, 1990).",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Queens' College, Cambridge"
+                },
+                {
+                  "type": "internal",
+                  "page": "University College London"
+                }
+              ]
+            },
+            {
+              "text": "After working for Schlumberger and Mars, Incorporated he joined Her Majesty's Diplomatic Service in 1994.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Schlumberger"
+                },
+                {
+                  "type": "internal",
+                  "page": "Mars, Incorporated"
+                },
+                {
+                  "type": "internal",
+                  "page": "Her Majesty's Diplomatic Service"
+                }
+              ]
+            },
+            {
+              "text": "He served in Bangkok, Seoul and Riga before his appointment as Ambassador to the Socialist Republic of Vietnam in 2010.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Bangkok"
+                },
+                {
+                  "type": "internal",
+                  "page": "Seoul"
+                },
+                {
+                  "type": "internal",
+                  "page": "Riga"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Stokes was appointed Officer of the Order of the British Empire (OBE) in the 2022 New Year Honours for services to British foreign policy.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Officer of the Order of the British Empire"
+                },
+                {
+                  "text": "2022 New Year Honours",
+                  "type": "internal",
+                  "page": "2022 New Year Honours"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "date": "September 2019",
+          "template": "use dmy dates"
+        },
+        {
+          "country": "GBR",
+          "size": "100%",
+          "list": [
+            "LVO",
+            "OBE"
+          ],
+          "template": "post-nominals"
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "uk-diplomat-stub"
+        }
+      ]
+    }
+  ]
+}

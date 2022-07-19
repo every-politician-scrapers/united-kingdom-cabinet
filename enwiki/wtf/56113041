@@ -1,0 +1,375 @@
+{
+  "title": "Sian MacLeod",
+  "pageID": 56113041,
+  "categories": [
+    "1962 births",
+    "Living people",
+    "Alumni of the Royal Academy of Music",
+    "Ambassadors of the United Kingdom to the Czech Republic",
+    "Organization for Security and Co-operation in Europe",
+    "Officers of the Order of the British Empire",
+    "British women ambassadors",
+    "Ambassadors of the United Kingdom to Serbia"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Sian Christina MacLeod (born 31 May 1962) is a British diplomat who was formerly head of the UK delegation to the Organization for Security and Co-operation in Europe (OSCE) in Vienna.",
+              "formatting": {
+                "bold": [
+                  "Sian Christina MacLeod"
+                ]
+              }
+            },
+            {
+              "text": "She is now the British Ambassador to Serbia."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "date": "December 2017",
+          "template": "use dmy dates"
+        },
+        {
+          "date": "December 2017",
+          "template": "use british english"
+        },
+        {
+          "country": "GBR",
+          "size": "100%",
+          "list": [
+            "OBE"
+          ],
+          "template": "post-nominals"
+        },
+        {
+          "year": "1962",
+          "month": "5",
+          "day": "31",
+          "df": "y",
+          "template": "birth date and age"
+        },
+        {
+          "country": "GBR",
+          "size": "100%",
+          "list": [
+            "OBE"
+          ],
+          "template": "post-nominals"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Sian MacLeod"
+          },
+          "image": {
+            "text": "Sian MacLeod - February 2017.jpg"
+          },
+          "office": {
+            "text": "British Ambassador to Serbia",
+            "links": [
+              {
+                "text": "British Ambassador to Serbia",
+                "type": "internal",
+                "page": "List of ambassadors of the United Kingdom to Serbia"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "2019",
+            "number": 2019
+          },
+          "predecessor": {
+            "text": "Denis Keefe",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Denis Keefe"
+              }
+            ]
+          },
+          "monarch": {
+            "text": "Elizabeth II",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Elizabeth II"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Boris Johnson",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Boris Johnson"
+              }
+            ]
+          },
+          "office1": {
+            "text": "British Ambassador to the Czech Republic",
+            "links": [
+              {
+                "text": "British Ambassador to the Czech Republic",
+                "type": "internal",
+                "page": "List of ambassadors of the United Kingdom to the Czech Republic"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "2009",
+            "number": 2009
+          },
+          "term_end1": {
+            "text": "2013",
+            "number": 2013
+          },
+          "predecessor1": {
+            "text": "Linda Duffield",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Linda Duffield"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Jan Thompson"
+          },
+          "monarch1": {
+            "text": "Elizabeth II",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Elizabeth II"
+              }
+            ]
+          },
+          "primeminister1": {
+            "text": "Gordon Brown\nDavid Cameron",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Gordon Brown"
+              },
+              {
+                "type": "internal",
+                "page": "David Cameron"
+              }
+            ]
+          },
+          "birth_name": {
+            "text": "Sian Christina MacLeod"
+          },
+          "birth_date": {
+            "text": "May 31, 1962"
+          },
+          "education": {
+            "text": "Royal Academy of Music (BMus)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Royal Academy of Music"
+              },
+              {
+                "text": "BMus",
+                "type": "internal",
+                "page": "Bachelor of Music"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.gov.uk/government/news/change-of-her-majestys-ambassador-to-serbia-sian-macleod",
+          "title": "Change of Her Majesty's Ambassador to Serbia: Sian MacLeod",
+          "date": "14 January 2019",
+          "publisher": "Foreign & Commonwealth Office",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "MacLeod graduated from the Royal Academy of Music with a BMus degree in 1983.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Royal Academy of Music"
+                },
+                {
+                  "text": "BMus",
+                  "type": "internal",
+                  "page": "Bachelor of Music"
+                }
+              ]
+            },
+            {
+              "text": "She joined the Foreign and Commonwealth Office (FCO) in 1986 and served in Moscow 1988–92.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Foreign and Commonwealth Office"
+                }
+              ]
+            },
+            {
+              "text": "After the collapse of the Soviet Union she served briefly as deputy head of mission in Vilnius, Lithuania, in 1992.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Soviet Union"
+                },
+                {
+                  "text": "head of mission",
+                  "type": "internal",
+                  "page": "head of mission"
+                }
+              ]
+            },
+            {
+              "text": "She then returned to the FCO until she was posted to The Hague 1996–2000."
+            },
+            {
+              "text": "She was sent back to Moscow 2004–07, first as political counsellor and then as minister and deputy head of mission.",
+              "links": [
+                {
+                  "text": "minister",
+                  "type": "internal",
+                  "page": "Minister (diplomacy)"
+                }
+              ]
+            },
+            {
+              "text": "She was ambassador to the Czech Republic 2009–13 and was appointed to be head of the UK delegation to the OSCE in 2015 (with the rank of ambassador).",
+              "links": [
+                {
+                  "text": "OSCE",
+                  "type": "internal",
+                  "page": "Organization for Security and Co-operation in Europe"
+                }
+              ]
+            },
+            {
+              "text": "In January 2019 she was appointed to be ambassador to the Republic of Serbia from summer 2019.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Republic of Serbia"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "MacLeod was appointed OBE in 2002 \"in recognition of services in support of operations in Afghanistan during the period 1st October 2001 to 31st March 2002\"."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.gov.uk/government/people/sian-macleod",
+          "title": "Sian MacLeod, Head of UK Delegation to the OSCE, Vienna",
+          "publisher": "gov.uk",
+          "accessdate": "22 December 2017",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.gov.uk/government/news/change-of-her-majestys-ambassador-to-serbia-sian-macleod",
+          "title": "Change of Her Majesty's Ambassador to Serbia: Sian MacLeod",
+          "date": "14 January 2019",
+          "publisher": "Foreign & Commonwealth Office",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "url": "http://www.ukwhoswho.com/view/10.1093/ww/9780199540884.001.0001/ww-9780199540884-e-250427?rskey=QnVDuK&result=1#ww-9780199540884-e-250427-div1-9",
+          "title": "Who's Who",
+          "entry": "Macleod, Sian Christina",
+          "publisher": "A&C Black",
+          "date": "1 December 2017",
+          "template": "citation",
+          "type": "book"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-dip"
+        },
+        {
+          "before": "Linda Duffield",
+          "template": "s-bef"
+        },
+        {
+          "title": "British Ambassador to the Czech Republic",
+          "years": "2009–2013",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Jan Thompson",
+          "template": "s-aft"
+        },
+        {
+          "before": "Dominic Schroeder",
+          "template": "s-bef"
+        },
+        {
+          "title": "Head of the UK delegation to the OSCE",
+          "years": "2015–2019",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Neil Bush",
+          "template": "s-aft"
+        },
+        {
+          "before": "Denis Keefe",
+          "template": "s-bef"
+        },
+        {
+          "title": "British Ambassador to Serbia",
+          "years": "2019–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        }
+      ]
+    }
+  ]
+}

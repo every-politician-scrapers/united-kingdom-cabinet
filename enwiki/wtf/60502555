@@ -1,0 +1,212 @@
+{
+  "title": "Michael Davenport (diplomat)",
+  "pageID": 60502555,
+  "categories": [
+    "1961 births",
+    "Living people",
+    "Members of HM Diplomatic Service",
+    "Ambassadors of the United Kingdom to Serbia",
+    "Ambassadors of the United Kingdom to Kuwait",
+    "Alumni of Gonville and Caius College, Cambridge",
+    "Organization for Security and Co-operation in Europe",
+    "20th-century British diplomats"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Michael Hayward Davenport (born 25 September 1961) is a British diplomat, who served as British Ambassador to Kuwait.",
+              "links": [
+                {
+                  "text": "British Ambassador to Kuwait",
+                  "type": "internal",
+                  "page": "List of ambassadors of the United Kingdom to Kuwait"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Michael Hayward Davenport"
+                ]
+              }
+            },
+            {
+              "text": "In 2021 he became the head of the OSCE Mission in Kosovo.",
+              "links": [
+                {
+                  "text": "OSCE",
+                  "type": "internal",
+                  "page": "Organization for Security and Co-operation in Europe"
+                },
+                {
+                  "type": "internal",
+                  "page": "Kosovo"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Davenport studied French and German at Gonville and Caius College, Cambridge University.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Cambridge University"
+                }
+              ]
+            },
+            {
+              "text": "He lectured at Graz University in Austria from 1983 to 1984 and then trained as a solicitor at Macfarlanes in London.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Graz University"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He changed careers to join the Foreign Office in 1988, starting as a Desk Officer in the East Africa Department.",
+              "links": [
+                {
+                  "text": "Foreign Office",
+                  "type": "internal",
+                  "page": "Foreign and Commonwealth Office"
+                }
+              ]
+            },
+            {
+              "text": "He served in Russia and Poland, where he was Consul-General and Direction of Trade Promotion (2000–2003), then as Deputy Head of Mission in Cairo."
+            },
+            {
+              "text": "From 2010 to 2013 he served as British Ambassador to Serbia and from 2013 to 2017 as EU Ambassador and Head of the EU Delegation in Serbia.",
+              "links": [
+                {
+                  "text": "British Ambassador to Serbia",
+                  "type": "internal",
+                  "page": "List of ambassadors of the United Kingdom to Serbia"
+                }
+              ]
+            },
+            {
+              "text": "He is an Honorary Citizen of Pančevo, Serbia."
+            },
+            {
+              "text": "In October 2017 he presented his credentials to Sheikh Sabah, Amir of Kuwait as British Ambassador to the State of Kuwait."
+            },
+            {
+              "text": "He was succeeded by Belinda Lewis in April 2021."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "British diplomat",
+          "template": "short description"
+        },
+        {
+          "date": "April 2022",
+          "template": "use dmy dates"
+        },
+        {
+          "country": "GBR",
+          "size": "100%",
+          "list": [
+            "MBE"
+          ],
+          "template": "postnominals"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-dip"
+        },
+        {
+          "before": "Stephen Wordsworth",
+          "template": "s-bef"
+        },
+        {
+          "title": "British Ambassador to Serbia",
+          "years": "2010&ndash;2013",
+          "template": "s-ttl"
+        },
+        {
+          "after": "David McFarlane",
+          "template": "s-aft"
+        },
+        {
+          "before": "Matthew Lodge",
+          "template": "s-bef"
+        },
+        {
+          "title": "British Ambassador to Kuwait",
+          "years": "2017&ndash;2021",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Belinda Lewis",
+          "template": "s-aft"
+        }
+      ],
+      "references": [
+        {
+          "number": "1373962426647990273",
+          "user": "OSCEKosovo",
+          "author": "OSCE Kosovo",
+          "title": "A very warm welcome to #Kosovo to our new Mission Head Amb. Michael Davenport.",
+          "date": "22 March 2021",
+          "template": "citation",
+          "type": "tweet"
+        },
+        {
+          "title": "Davenport, Michael Hayward",
+          "url": "http://www.ukwhoswho.com/abstract/10.1093/ww/9780199540884.001.0001/ww-9780199540884-e-42258?rskey=8UPY4Y&result=1",
+          "website": "Who's Who (UK)",
+          "accessdate": "15 April 2019",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.gov.uk/government/news/change-of-her-majestys-ambassador-to-kuwait--3#:~:text=Ms%20Belinda%20Lewis%20has%20been,her%20appointment%20during%20April%202021.",
+          "title": "Change of Her Majesty's Ambassador to Kuwait: Belinda Lewis",
+          "publisher": "GOV.UK",
+          "date": "28 October 2020",
+          "access-date": "2 May 2021",
+          "template": "citation",
+          "type": "press release"
+        },
+        {
+          "title": "Michael Davenport MBE",
+          "url": "https://www.gov.uk/government/people/michael-davenport",
+          "website": "GOV.UK",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "uk-diplomat-stub"
+        }
+      ]
+    }
+  ]
+}

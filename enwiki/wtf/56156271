@@ -1,0 +1,543 @@
+{
+  "title": "Jonathan Wilks",
+  "pageID": 56156271,
+  "categories": [
+    "1967 births",
+    "Living people",
+    "Alumni of University College, Durham",
+    "Alumni of St Antony's College, Oxford",
+    "Ambassadors of the United Kingdom to Yemen",
+    "Ambassadors of the United Kingdom to Oman",
+    "Ambassadors of the United Kingdom to Iraq",
+    "Companions of the Order of St Michael and St George",
+    "Presidents of the Durham Union"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Jonathan Paul (Jon) Wilks (born 30 September 1967 ) is a British diplomat who was the Ambassador to Iraq from 2017 to 2019, Ambassador to Oman from 2014 to 2017 and Ambassador to Yemen from 2010 to 2011.",
+              "formatting": {
+                "bold": [
+                  "Jonathan Paul (Jon) Wilks"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "British diplomat",
+          "template": "short description"
+        },
+        {
+          "date": "December 2017",
+          "template": "use dmy dates"
+        },
+        {
+          "date": "December 2017",
+          "template": "use british english"
+        },
+        {
+          "country": "GBR",
+          "size": "100%",
+          "list": [
+            "CMG"
+          ],
+          "template": "postnominals"
+        },
+        {
+          "year": "1967",
+          "month": "9",
+          "day": "30",
+          "df": "y",
+          "template": "birth date and age"
+        },
+        {
+          "country": "GBR",
+          "size": "100%",
+          "list": [
+            "CMG"
+          ],
+          "template": "post-nominals"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Jonathan Wilks"
+          },
+          "image": {
+            "text": "Jonathan Wilks.jpg"
+          },
+          "office": {
+            "text": "British Ambassador to Iraq",
+            "links": [
+              {
+                "text": "British Ambassador to Iraq",
+                "type": "internal",
+                "page": "List of ambassadors of the United Kingdom to Iraq"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "2017",
+            "number": 2017
+          },
+          "term_end": {
+            "text": "September 2019"
+          },
+          "predecessor": {
+            "text": "Frank Baker",
+            "links": [
+              {
+                "text": "Frank Baker",
+                "type": "internal",
+                "page": "Frank Baker (diplomat)"
+              }
+            ]
+          },
+          "successor": {
+            "text": "Stephen Hickey",
+            "links": [
+              {
+                "text": "Stephen Hickey",
+                "type": "internal",
+                "page": "Stephen Hickey (diplomat)"
+              }
+            ]
+          },
+          "monarch": {
+            "text": "Elizabeth II",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Elizabeth II"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Theresa May\nBoris Johnson",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Theresa May"
+              },
+              {
+                "type": "internal",
+                "page": "Boris Johnson"
+              }
+            ]
+          },
+          "office1": {
+            "text": "British Ambassador to Oman",
+            "links": [
+              {
+                "text": "British Ambassador to Oman",
+                "type": "internal",
+                "page": "List of ambassadors of the United Kingdom to Oman"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "2014",
+            "number": 2014
+          },
+          "term_end1": {
+            "text": "2017",
+            "number": 2017
+          },
+          "predecessor1": {
+            "text": "Jamie Bowden",
+            "links": [
+              {
+                "text": "Jamie Bowden",
+                "type": "internal",
+                "page": "Jamie Bowden (diplomat)"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Hamish Cowell",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Hamish Cowell"
+              }
+            ]
+          },
+          "monarch1": {
+            "text": "Elizabeth II",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Elizabeth II"
+              }
+            ]
+          },
+          "primeminister1": {
+            "text": "David Cameron\nTheresa May",
+            "links": [
+              {
+                "type": "internal",
+                "page": "David Cameron"
+              },
+              {
+                "type": "internal",
+                "page": "Theresa May"
+              }
+            ]
+          },
+          "office2": {
+            "text": "British Ambassador to Yemen",
+            "links": [
+              {
+                "text": "British Ambassador to Yemen",
+                "type": "internal",
+                "page": "List of ambassadors of the United Kingdom to Yemen"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "2010",
+            "number": 2010
+          },
+          "term_end2": {
+            "text": "2011",
+            "number": 2011
+          },
+          "predecessor2": {
+            "text": "Timothy Torlot",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Timothy Torlot"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Nicholas Hopton",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Nicholas Hopton"
+              }
+            ]
+          },
+          "monarch2": {
+            "text": "Elizabeth II",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Elizabeth II"
+              }
+            ]
+          },
+          "primeminister2": {
+            "text": "David Cameron",
+            "links": [
+              {
+                "type": "internal",
+                "page": "David Cameron"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "September 30, 1967"
+          },
+          "birth_place": {
+            "text": "Callow End, Worcestershire, England",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Callow End"
+              },
+              {
+                "type": "internal",
+                "page": "Worcestershire"
+              }
+            ]
+          },
+          "education": {
+            "text": "The Chase School",
+            "links": [
+              {
+                "type": "internal",
+                "page": "The Chase School"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Durham University (BSc)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Durham University"
+              },
+              {
+                "text": "BSc",
+                "type": "internal",
+                "page": "Bachelor of Science"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "Career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Wilks was born at Callow End, Worcestershire, and educated at The Chase School, Malvern, and Durham University where he graduated in 1989 with a BSc degree in natural sciences.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Callow End"
+                },
+                {
+                  "type": "internal",
+                  "page": "The Chase School"
+                },
+                {
+                  "type": "internal",
+                  "page": "Durham University"
+                },
+                {
+                  "text": "BSc",
+                  "type": "internal",
+                  "page": "Bachelor of Science"
+                },
+                {
+                  "text": "natural sciences",
+                  "type": "internal",
+                  "page": "natural sciences"
+                }
+              ]
+            },
+            {
+              "text": "He was also President of the Durham Union."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "After graduation he joined the Foreign and Commonwealth Office (FCO).",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Foreign and Commonwealth Office"
+                }
+              ]
+            },
+            {
+              "text": "After Arabic language training in London and Cairo 1991–93 he was posted to Khartoum 1993–96 and Riyadh 1996–99."
+            },
+            {
+              "text": "He then returned to Durham University for a MA in Middle East Politics (2000), then went to St Antony's College, Oxford for a MPhil in International Relations (2002).",
+              "links": [
+                {
+                  "text": "MA",
+                  "type": "internal",
+                  "page": "Master of Arts"
+                },
+                {
+                  "type": "internal",
+                  "page": "St Antony's College, Oxford"
+                },
+                {
+                  "text": "MPhil",
+                  "type": "internal",
+                  "page": "Master of Philosophy"
+                }
+              ]
+            },
+            {
+              "text": "After six months' secondment at the Cabinet Office, he was deputy head of the team that reopened the British mission in Baghdad after the Iraq War, from April to November 2003.",
+              "links": [
+                {
+                  "text": "secondment",
+                  "type": "internal",
+                  "page": "secondment"
+                },
+                {
+                  "type": "internal",
+                  "page": "Cabinet Office"
+                },
+                {
+                  "type": "internal",
+                  "page": "Iraq War"
+                }
+              ]
+            },
+            {
+              "text": "He was deputy head of the Iraq policy unit at the FCO 2004–05 and of the security policy group 2005–07."
+            },
+            {
+              "text": "In 2007 he was appointed the British government's first regional Arabic spokesman, based in Dubai."
+            },
+            {
+              "text": "He was deputy head of mission in Baghdad 2009–10, then Ambassador to Yemen 2010–11.",
+              "links": [
+                {
+                  "text": "head of mission",
+                  "type": "internal",
+                  "page": "head of mission"
+                },
+                {
+                  "type": "internal",
+                  "page": "Yemen"
+                }
+              ]
+            },
+            {
+              "text": "In 2012 he did the"
+            },
+            {
+              "text": "Higher Command and Staff Course at the Military Staff College, Shrivenham, then was UK Special Representative to the Syrian Opposition 2012–13, UKSpecial Representative for Syria 2013–14 and Ambassador to Oman 2014–17.",
+              "links": [
+                {
+                  "text": "Military Staff College",
+                  "type": "internal",
+                  "page": "Joint Services Command and Staff College"
+                },
+                {
+                  "type": "internal",
+                  "page": "Oman"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Wilks was appointed CMG in the 2012 Birthday Honours.",
+              "links": [
+                {
+                  "text": "CMG",
+                  "type": "internal",
+                  "page": "Companion of the Order of St Michael and St George"
+                },
+                {
+                  "text": "2012 Birthday Honours",
+                  "type": "internal",
+                  "page": "2012 Birthday Honours"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "Queen's Birthday Honours",
+          "journal": "Durham First",
+          "date": "2013",
+          "issue": "33",
+          "page": "27",
+          "url": "https://issuu.com/durhamfirst/docs/durham_first_issue_33_jan_2013",
+          "accessdate": "8 November 2018",
+          "language": "en",
+          "template": "citation",
+          "type": "journal"
+        },
+        {
+          "title": "Durham Union Society (Photographs)",
+          "url": "http://reed.dur.ac.uk/xtf/view?docId=ark/32150_s19w0323082.xml",
+          "website": "Catalogue of Durham University Records: Associations and Societies",
+          "accessdate": "13 September 2019",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.gov.uk/government/news/change-of-her-majestys-ambassador-to-iraq--2",
+          "title": "Change of Her Majesty's Ambassador to Iraq",
+          "publisher": "Foreign & Commonwealth Office",
+          "date": "26 July 2017",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-dip"
+        },
+        {
+          "before": "Timothy Torlot",
+          "template": "s-bef"
+        },
+        {
+          "title": "British Ambassador to Yemen",
+          "years": "2010–2011",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Nicholas Hopton",
+          "template": "s-aft"
+        },
+        {
+          "before": "Jamie Bowden",
+          "template": "s-bef"
+        },
+        {
+          "title": "British Ambassador to Oman",
+          "years": "2014–2017",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Hamish Cowell",
+          "template": "s-aft"
+        },
+        {
+          "before": "Frank Baker",
+          "template": "s-bef"
+        },
+        {
+          "title": "British Ambassador to Iraq",
+          "years": "2017–2019",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Stephen Hickey",
+          "template": "s-aft"
+        },
+        {
+          "template": "authority control"
+        }
+      ]
+    }
+  ]
+}

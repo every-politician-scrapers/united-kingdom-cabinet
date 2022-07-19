@@ -1,0 +1,537 @@
+{
+  "title": "Susan le Jeune d'Allegeershecque",
+  "pageID": 53445144,
+  "categories": [
+    "Living people",
+    "1963 births",
+    "Alumni of the University of Bristol",
+    "British women ambassadors",
+    "Ambassadors of the United Kingdom to Austria",
+    "High Commissioners of the United Kingdom to Canada",
+    "Companions of the Order of St Michael and St George",
+    "British people of French descent"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Susan Jane le Jeune d'Allegeershecque (born 29 April 1963) is a British diplomat who, most recently, served as British High Commissioner to Canada from 2017 to 2021.",
+              "links": [
+                {
+                  "text": "British High Commissioner to Canada",
+                  "type": "internal",
+                  "page": "List of High Commissioners of the United Kingdom to Canada"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Susan Jane le Jeune d'Allegeershecque"
+                ]
+              }
+            },
+            {
+              "text": "She previously served as British Ambassador to Austria from 2012 to 2016.",
+              "links": [
+                {
+                  "text": "British Ambassador to Austria",
+                  "type": "internal",
+                  "page": "List of ambassadors of the United Kingdom to Austria"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "British diplomat",
+          "template": "short description"
+        },
+        {
+          "date": "September 2018",
+          "template": "use dmy dates"
+        },
+        {
+          "date": "September 2018",
+          "template": "use british english"
+        },
+        {
+          "list": [
+            "le Jeune d'Allegeershecque"
+          ],
+          "template": "family name hatnote"
+        },
+        {
+          "year": "1963",
+          "month": "4",
+          "day": "29",
+          "df": "y",
+          "template": "birth date and age"
+        },
+        {
+          "country": "GBR",
+          "list": [
+            "CMG"
+          ],
+          "template": "post-nominals"
+        },
+        {
+          "list": [
+            "Miller"
+          ],
+          "template": "nee"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific-prefix": {
+            "text": "Her Excellency",
+            "links": [
+              {
+                "text": "Her Excellency",
+                "type": "internal",
+                "page": "Excellency"
+              }
+            ]
+          },
+          "name": {
+            "text": "Susan le Jeune d'Allegeershecque"
+          },
+          "honorific-suffix": {
+            "text": "CMG",
+            "links": [
+              {
+                "text": "CMG",
+                "type": "internal",
+                "page": "Order of St Michael and St George"
+              }
+            ]
+          },
+          "image": {
+            "text": "Austria- Susan le Jeune d'Allegeershecque (8453004654).jpg"
+          },
+          "office": {
+            "text": "British High Commissioner to Canada",
+            "links": [
+              {
+                "text": "British High Commissioner to Canada",
+                "type": "internal",
+                "page": "List of High Commissioners of the United Kingdom to Canada"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Howard Drake",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Howard Drake"
+              }
+            ]
+          },
+          "successor": {
+            "text": "Susannah Goshko",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Susannah Goshko"
+              }
+            ]
+          },
+          "termstart": {
+            "text": "August 1, 2017"
+          },
+          "termend": {
+            "text": "August 30, 2021"
+          },
+          "monarch": {
+            "text": "Elizabeth II",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Elizabeth II"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Theresa May Boris Johnson",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Theresa May"
+              },
+              {
+                "type": "internal",
+                "page": "Boris Johnson"
+              }
+            ]
+          },
+          "office1": {
+            "text": "British Ambassador to Austria",
+            "links": [
+              {
+                "text": "British Ambassador to Austria",
+                "type": "internal",
+                "page": "List of ambassadors of the United Kingdom to Austria"
+              }
+            ]
+          },
+          "preceded1": {
+            "text": "Simon Smith",
+            "links": [
+              {
+                "text": "Simon Smith",
+                "type": "internal",
+                "page": "Simon Smith (diplomat)"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Leigh Turner",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Leigh Turner"
+              }
+            ]
+          },
+          "termstart1": {
+            "text": "August 2012"
+          },
+          "termend1": {
+            "text": "August 2016"
+          },
+          "monarch1": {
+            "text": "Elizabeth II",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Elizabeth II"
+              }
+            ]
+          },
+          "primeminister1": {
+            "text": "David Cameron\nTheresa May",
+            "links": [
+              {
+                "type": "internal",
+                "page": "David Cameron"
+              },
+              {
+                "type": "internal",
+                "page": "Theresa May"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "April 29, 1963"
+          },
+          "birth_name": {
+            "text": "Susan Jane Miller"
+          },
+          "spouse": {
+            "text": "Stephane le Jeune d'Allegeershecque"
+          },
+          "occupation": {
+            "text": "Diplomat"
+          },
+          "nationality": {
+            "text": "British",
+            "links": [
+              {
+                "text": "British",
+                "type": "internal",
+                "page": "United Kingdom"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "University of Bristol",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of Bristol"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.gov.uk/government/news/change-of-british-high-commissioner-to-canada--3",
+          "title": "Change of British High Commissioner to Canada",
+          "date": "2017-02-22",
+          "website": "www.gov.uk",
+          "access-date": "2011-11-02",
+          "author": "Foreign & Commonwealth Office",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.gov.uk/government/people/susan-le-jeune-dallegeershecque",
+          "title": "Minister Counsellor, British Embassy, Paris Susan le Jeune d'Allegeershecque CMG",
+          "last": "Foreign & Commonwealth Office",
+          "website": "www.gov.uk",
+          "access-date": "2017-03-10",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.ukwhoswho.com/view/article/oupww/whoswho/U41639",
+          "title": "le JEUNE d'ALLEGEERSHECQUE, Susan Jane",
+          "date": "2016",
+          "website": "Who's Who 2017",
+          "publisher": "A & C Black",
+          "access-date": "2017-03-10",
+          "edition": "online",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Life and career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Educated at Ipswich High School for Girls, she took a BA degree from the University of Bristol and immediately joined the Foreign and Commonwealth Office in 1985.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ipswich High School for Girls"
+                },
+                {
+                  "text": "BA",
+                  "type": "internal",
+                  "page": "Bachelor of Arts"
+                },
+                {
+                  "type": "internal",
+                  "page": "University of Bristol"
+                },
+                {
+                  "type": "internal",
+                  "page": "Foreign and Commonwealth Office"
+                }
+              ]
+            },
+            {
+              "text": "She served in London and at the permanent representation to the European Union, the High Commission in Singapore, and the Embassies in Venezuela, Colombia, and the United States.",
+              "links": [
+                {
+                  "text": "Singapore",
+                  "type": "internal",
+                  "page": "High Commissioners of the United Kingdom to Singapore"
+                },
+                {
+                  "text": "Venezuela",
+                  "type": "internal",
+                  "page": "List of ambassadors of the United Kingdom to Venezuela"
+                },
+                {
+                  "text": "Colombia",
+                  "type": "internal",
+                  "page": "List of ambassadors of the United Kingdom to Colombia"
+                },
+                {
+                  "text": "United States",
+                  "type": "internal",
+                  "page": "Embassy of the United Kingdom, Washington, D.C."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 2007, she took over as Director of Human Resources at the Foreign Office, replacing Sir David Warren.",
+              "links": [
+                {
+                  "text": "Sir David Warren",
+                  "type": "internal",
+                  "page": "David Warren (diplomat)"
+                }
+              ]
+            },
+            {
+              "text": "She served there for four years until 2011, when she was replaced by Menna Rawlings.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Menna Rawlings"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In the New Year Honours for 2010, le Jeune d'Allegeershecque was appointed a Companion of the Order of St Michael and St George (CMG).",
+              "links": [
+                {
+                  "text": "New Year Honours for 2010",
+                  "type": "internal",
+                  "page": "2010 New Year Honours"
+                },
+                {
+                  "type": "internal",
+                  "page": "Companion of the Order of St Michael and St George"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "She then served as British Ambassador to Austria from 2012 until 2016, a post which included serving as the UK's permanent representative to the international organisations based in Vienna, such as the United Nations.",
+              "links": [
+                {
+                  "text": "British Ambassador to Austria",
+                  "type": "internal",
+                  "page": "List of ambassadors of the United Kingdom to Austria"
+                },
+                {
+                  "text": "permanent representative",
+                  "type": "internal",
+                  "page": "permanent representative"
+                },
+                {
+                  "text": "United Nations",
+                  "type": "internal",
+                  "page": "United Nations Office at Vienna"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In February 2017, it was announced that le Jeune d'Allegeershecque would succeed Howard Drake from August 2017 as British High Commissioner to Canada.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Howard Drake"
+                },
+                {
+                  "text": "British High Commissioner to Canada",
+                  "type": "internal",
+                  "page": "List of High Commissioners of the United Kingdom to Canada"
+                }
+              ]
+            },
+            {
+              "text": "She left this position in August 2021, and was succeeded by Susannah Goshko."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "url": "https://www.gov.uk/government/news/change-of-her-majesty-s-ambassador-to-the-republic-of-austria-and-the-united-kingdom-permanent-representative-to-the-united-nations",
+          "title": "Change of Her Majesty's Ambassador to the Republic of Austria and the United Kingdom Permanent Representative to the United Nations",
+          "date": "2017-03-10",
+          "website": "www.gov.uk",
+          "access-date": "2017-03-10",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "author": "UK in Canada 🇬🇧🇨🇦",
+          "user": "UKinCanada",
+          "number": "1435315775548444673",
+          "date": "7 September 2021",
+          "title": "It is our pleasure to welcome the new British High Commissioner to Canada, Susannah Goshko. Susannah officially takes up her appointment today and joins the UKinCanada team! 🇬🇧🇨🇦 Follow along @SusannahGoshko 👉 https://t.co/xDjwi4PCTh https://t.co/Hb49ETemhK",
+          "language": "en",
+          "access-date": "28 February 2022",
+          "archive-url": "https://web.archive.org/web/20211120023815/https://twitter.com/UKinCanada/status/1435315775548444673",
+          "archive-date": "20 November 2021",
+          "url-status": "live",
+          "template": "citation",
+          "type": "tweet"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "id": "susanlejeunefco",
+          "template": "twitter"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-gov"
+        },
+        {
+          "before": "Sir David Warren",
+          "template": "s-bef"
+        },
+        {
+          "title": "Director of Human Resources,\nForeign and Commonwealth Office",
+          "years": "2007–2012",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Menna Rawlings",
+          "template": "s-aft"
+        },
+        {
+          "template": "s-dip"
+        },
+        {
+          "before": "Simon Smith",
+          "template": "s-bef"
+        },
+        {
+          "title": "Ambassador to Austria",
+          "years": "2012–2016",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Leigh Turner",
+          "template": "s-aft"
+        },
+        {
+          "before": "Howard Drake",
+          "template": "s-bef"
+        },
+        {
+          "title": "High Commissioner to Canada",
+          "years": "2017–2021",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Susannah Goshko",
+          "template": "s-aft"
+        },
+        {
+          "template": "authority control"
+        }
+      ]
+    }
+  ]
+}

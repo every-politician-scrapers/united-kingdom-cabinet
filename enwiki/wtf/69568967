@@ -1,0 +1,293 @@
+{
+  "title": "John Edwards (regulator)",
+  "pageID": 69568967,
+  "categories": [
+    "20th-century New Zealand lawyers",
+    "Living people",
+    "Year of birth missing (living people)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "John Edwards is a New Zealand lawyer and civil servant who is the UK Information Commissioner, and was previously the New Zealand Privacy Commissioner from 2014 to 2021.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "New Zealand"
+                },
+                {
+                  "text": "Information Commissioner",
+                  "type": "internal",
+                  "page": "Information Commissioner's Office"
+                },
+                {
+                  "text": "Privacy Commissioner",
+                  "type": "internal",
+                  "page": "Privacy Commissioner (New Zealand)"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "John Edwards"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "date": "December 2021",
+          "template": "use dmy dates"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "John Edwards"
+          },
+          "image": {
+            "text": "File:John Edwards Sept 2018.jpg"
+          },
+          "caption": {
+            "text": "Edwards in 2018"
+          },
+          "order": {
+            "text": "Sixth"
+          },
+          "office": {
+            "text": "Information Commissioner's Office"
+          },
+          "term_start": {
+            "text": "3 January 2022"
+          },
+          "predecessor": {
+            "text": "Elizabeth Denham",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Elizabeth Denham"
+              }
+            ]
+          },
+          "order2": {
+            "text": "Third"
+          },
+          "office2": {
+            "text": "Privacy Commissioner (New Zealand)"
+          },
+          "term_start2": {
+            "text": "17 February 2014"
+          },
+          "term_end2": {
+            "text": "31 December 2021"
+          },
+          "predecessor2": {
+            "text": "Marie Shroff",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Marie Shroff"
+              }
+            ]
+          },
+          "citizenship": {
+            "text": "New Zealand",
+            "links": [
+              {
+                "type": "internal",
+                "page": "New Zealand"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Victoria University of Wellington",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Victoria University of Wellington"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.gov.uk/government/news/john-edwards-is-confirmed-as-the-new-information-commissioner",
+          "title": "John Edwards is confirmed as the new Information Commissioner",
+          "location": "London",
+          "publisher": "Department for Digital, Culture, Media and Sport",
+          "date": "21 December 2021",
+          "access-date": "21 December 2021",
+          "template": "citation",
+          "type": "press release"
+        },
+        {
+          "url": "https://www.privacy.org.nz/about-us/who-we-are/",
+          "title": "Office of the Privacy Commissioner {{!}} Who we are",
+          "publisher": "Office of the Privacy Commissioner",
+          "access-date": "21 December 2021",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Personal life and career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Edwards was brought up in New Plymouth and practised law in Wellington for over 20 years specialising in information law.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "New Plymouth"
+                },
+                {
+                  "type": "internal",
+                  "page": "Wellington"
+                }
+              ]
+            },
+            {
+              "text": "He also served as legal counsel for the New Zealand Families Commission from 2003 to 2013, and as a senior solicitor at the Ministry of Health from 1997 to 1999.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Families Commission"
+                },
+                {
+                  "text": "Ministry of Health",
+                  "type": "internal",
+                  "page": "Ministry of Health (New Zealand)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://newsletter.ico.org.uk/q/1bBsGp03DkQ6kKWDmKw/wv",
+          "title": "ICO's January e-newsletter",
+          "date": "January 2022",
+          "access-date": "17 January 2022",
+          "mailing-list": "ICO e-newsletter",
+          "template": "citation",
+          "type": "mailing list"
+        },
+        {
+          "url": "https://www.grcworldforums.com/data-protection-and-privacy/who-is-facebook-hating-john-edwards-tipped-as-the-new-uk-information-commissioner/2272.article",
+          "title": "Who Is ‘Facebook-Hating’ John Edwards, Tipped as the New UK Information Commissioner?",
+          "date": "26 July 2021",
+          "first": "Robert",
+          "last": "Bateman",
+          "website": "grcworldforums.com",
+          "access-date": "21 December 2021",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "New Zealand Privacy Commissioner",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Edwards was the New Zealand Privacy Commissioner, first appointed in 2014 and held the post until 31 December 2021."
+            },
+            {
+              "text": "During his tenure he was also chairman of the Global Privacy Assembly from 2014 to 2017."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.computerweekly.com/news/252505879/NZ-privacy-lead-John-Edwards-named-new-information-commissioner",
+          "title": "NZ privacy lead John Edwards named new information commissioner",
+          "first": "Alex",
+          "last": "Scroxton",
+          "work": "Computer Weekly",
+          "date": "26 August 2021",
+          "access-date": "21 December 2021",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "UK Information Commissioner",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "On 21 December 2021, Edwards was formally appointed by letters patent as the UK's sixth Information Commissioner, and took office on 3 January 2022.",
+              "links": [
+                {
+                  "text": "letters patent",
+                  "type": "internal",
+                  "page": "letters patent"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-gov"
+        },
+        {
+          "before": "Marie Shroff",
+          "template": "s-bef"
+        },
+        {
+          "title": "Privacy Commissioner (New Zealand)",
+          "years": "2014–2021",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Liz MacPherson",
+          "as": "Acting Privacy Commissioner",
+          "template": "s-aft"
+        },
+        {
+          "before": "Elizabeth Denham",
+          "template": "s-bef"
+        },
+        {
+          "title": "Information Commissioner (United Kingdom)",
+          "years": "2022–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "template": "newzealand-law-bio-stub"
+        }
+      ]
+    }
+  ]
+}

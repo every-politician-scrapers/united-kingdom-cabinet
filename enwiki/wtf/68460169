@@ -1,0 +1,222 @@
+{
+  "title": "Simon Shercliff",
+  "pageID": 68460169,
+  "categories": [
+    "1972 births",
+    "Living people",
+    "People educated at Wells Cathedral School",
+    "Alumni of St Catharine's College, Cambridge",
+    "British diplomats",
+    "Companions of the Order of St Michael and St George",
+    "Ambassadors of the United Kingdom to Yemen",
+    "Ambassadors of the United Kingdom to Iran",
+    "Civil servants in the Foreign Office"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Simon Shercliff (born 23 December 1972) is a British diplomat, and Ambassador to Iran.",
+              "formatting": {
+                "bold": [
+                  "Simon Shercliff"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Shercliff was educated at Wells Cathedral School.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Wells Cathedral School"
+                }
+              ]
+            },
+            {
+              "text": "He graduated from the St Catharine's College, Cambridge in 1995, with a degree in Earth Sciences.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "St Catharine's College, Cambridge"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In the 2021 New Year Honours, Shercliff, then Director, National Security, Foreign, Commonwealth and Development Office was made a Companion of the Order of St Michael and St George (CMG) \"For services to British foreign policy and National Security.\"",
+              "links": [
+                {
+                  "text": "2021 New Year Honours",
+                  "type": "internal",
+                  "page": "2021 New Year Honours"
+                },
+                {
+                  "text": "Companion of the Order of St Michael and St George",
+                  "type": "internal",
+                  "page": "Order of St Michael and St George"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In August 2021, he became the British Ambassador to Iran."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He is married to Emma Louise Shercliff, and they have two children."
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "file": "File:Simon_Shercliff.jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Simon_Shercliff.jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Simon_Shercliff.jpg",
+          "caption": "Simon Shercliff",
+          "links": []
+        }
+      ],
+      "templates": [
+        {
+          "description": "British diplomat",
+          "template": "short description"
+        },
+        {
+          "date": "April 2022",
+          "template": "use dmy dates"
+        },
+        {
+          "country": "GBR",
+          "list": [
+            "CMG",
+            "OBE"
+          ],
+          "template": "post-nominals"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-dip"
+        },
+        {
+          "before": "Edmund Fitton-Brown",
+          "template": "s-bef"
+        },
+        {
+          "title": "British Ambassador to Yemen",
+          "years": "2017–2018",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Michael Aron",
+          "template": "s-aft"
+        },
+        {
+          "before": "Robert Macaire",
+          "template": "s-bef"
+        },
+        {
+          "title": "British Ambassador to Iran",
+          "years": "2021–present",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Incumbent",
+          "template": "s-aft"
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "date": "2020-12-30",
+          "title": "The New Year Honours 2021",
+          "url": "https://www.gov.uk/government/collections/the-new-year-honours-2021",
+          "url-status": "live",
+          "access-date": "2020-12-31",
+          "website": "GOV.UK",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last1": "Wintour",
+          "first1": "Patrick",
+          "title": "UK ambassador angers Iran with ‘insulting’ embassy photo gaffe",
+          "url": "https://www.theguardian.com/world/2021/aug/12/uk-ambassador-angers-iran-insulting-embassy-photo-gaffe",
+          "access-date": "12 August 2021",
+          "work": "The Guardian",
+          "date": "12 August 2021",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Simon Shercliff – from Wells to the world (and back)",
+          "url": "https://wellensianassociation.alumni-online.com/frmProfile.aspx?S=5j36i3k",
+          "access-date": "12 August 2021",
+          "work": "Wells Cathedral School",
+          "date": "9 August 2019",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Simon Shercliff CMG OBE",
+          "url": "https://www.gov.uk/government/people/simon-shercliff",
+          "website": "FCO",
+          "access-date": "12 August 2021",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "New Year Honours for Catz alumni",
+          "url": "https://www.caths.cam.ac.uk/NY-honours-2021",
+          "access-date": "12 August 2021",
+          "work": "St Catharine’s College",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Change of Her Majesty’s Ambassador to the Islamic Republic of Iran: Simon Shercliff",
+          "url": "https://www.gov.uk/government/news/change-of-her-majestys-ambassador-to-the-islamic-republic-of-iran-simon-shercliff",
+          "access-date": "12 August 2021",
+          "work": "FCO",
+          "date": "21 June 2021",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    }
+  ]
+}

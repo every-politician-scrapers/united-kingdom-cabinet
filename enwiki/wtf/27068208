@@ -1,0 +1,696 @@
+{
+  "title": "Stephen Lovegrove",
+  "pageID": 27068208,
+  "categories": [
+    "People educated at Warwick School",
+    "Alumni of Corpus Christi College, Oxford",
+    "English civil servants",
+    "Knights Commander of the Order of the Bath",
+    "1966 births",
+    "Living people",
+    "Permanent Under-Secretaries of State for Energy and Climate Change",
+    "Permanent Under-Secretaries of State for Defence"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Sir Stephen Augustus Lovegrove (born 30 November 1966) is a British civil servant who was appointed as UK National Security Adviser with effect from the end of March 2021, having previously served as the Permanent Secretary of the Ministry of Defence.",
+              "links": [
+                {
+                  "text": "civil servant",
+                  "type": "internal",
+                  "page": "civil servant"
+                },
+                {
+                  "text": "UK National Security Adviser",
+                  "type": "internal",
+                  "page": "National Security Adviser (United Kingdom)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Permanent Secretary of the Ministry of Defence"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Sir Stephen Augustus Lovegrove"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "British civil servant",
+          "template": "short description"
+        },
+        {
+          "date": "November 2019",
+          "template": "use british english"
+        },
+        {
+          "date": "November 2019",
+          "template": "use dmy dates"
+        },
+        {
+          "country": "GBR",
+          "list": [
+            "KCB"
+          ],
+          "size": "100%",
+          "template": "post-nominals"
+        },
+        {
+          "year": "1966",
+          "month": "11",
+          "day": "30",
+          "df": "yes",
+          "template": "birth date and age"
+        },
+        {
+          "country": "GBR",
+          "size": "100%",
+          "list": [
+            "KCB"
+          ],
+          "template": "post-nominals"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Sir Stephen Lovegrove"
+          },
+          "image": {
+            "text": "Stephen Lovegrove - 2018 (4247416) (cropped).jpg"
+          },
+          "caption": {
+            "text": "Lovegrove in 2018"
+          },
+          "office": {
+            "text": "United Kingdom National Security Adviser",
+            "links": [
+              {
+                "text": "United Kingdom National Security Adviser",
+                "type": "internal",
+                "page": "National Security Adviser (United Kingdom)"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "24 March 2021"
+          },
+          "predecessor": {
+            "text": "David Quarrey (acting)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "David Quarrey"
+              }
+            ],
+            "formatting": {
+              "italic": [
+                "(acting)"
+              ]
+            }
+          },
+          "primeminister": {
+            "text": "Boris Johnson",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Boris Johnson"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Permanent Under-Secretary of State for Defence",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Permanent Under-Secretary of State for Defence"
+              }
+            ]
+          },
+          "1blankname1": {
+            "text": "Sec. of State",
+            "links": [
+              {
+                "text": "Sec. of State",
+                "type": "internal",
+                "page": "Secretary of State for Defence"
+              }
+            ]
+          },
+          "1namedata1": {
+            "text": "Sir Michael Fallon Gavin Williamson Penny Mordaunt Ben Wallace",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sir Michael Fallon"
+              },
+              {
+                "type": "internal",
+                "page": "Gavin Williamson"
+              },
+              {
+                "type": "internal",
+                "page": "Penny Mordaunt"
+              },
+              {
+                "text": "Ben Wallace",
+                "type": "internal",
+                "page": "Ben Wallace (politician)"
+              }
+            ]
+          },
+          "predecessor1": {
+            "text": "Jon Thompson",
+            "links": [
+              {
+                "text": "Jon Thompson",
+                "type": "internal",
+                "page": "Jon Thompson (civil servant)"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "David Williams",
+            "links": [
+              {
+                "text": "David Williams",
+                "type": "internal",
+                "page": "David Williams (British civil servant)"
+              }
+            ]
+          },
+          "primeminister1": {
+            "text": "David Cameron\nTheresa May\nBoris Johnson",
+            "links": [
+              {
+                "type": "internal",
+                "page": "David Cameron"
+              },
+              {
+                "type": "internal",
+                "page": "Theresa May"
+              },
+              {
+                "type": "internal",
+                "page": "Boris Johnson"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "April 2016"
+          },
+          "term_end1": {
+            "text": "March 2021"
+          },
+          "office2": {
+            "text": "Permanent Under-Secretary of State for Energy and Climate Change",
+            "links": [
+              {
+                "text": "Permanent Under-Secretary of State for Energy and Climate Change",
+                "type": "internal",
+                "page": "Department of Energy and Climate Change"
+              }
+            ]
+          },
+          "1blankname2": {
+            "text": "Sec. of State",
+            "links": [
+              {
+                "text": "Sec. of State",
+                "type": "internal",
+                "page": "Secretary of State for Energy and Climate Change"
+              }
+            ]
+          },
+          "1namedata2": {
+            "text": "Ed Davey Amber Rudd",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ed Davey"
+              },
+              {
+                "type": "internal",
+                "page": "Amber Rudd"
+              }
+            ]
+          },
+          "predecessor2": {
+            "text": "Moira Wallace",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Moira Wallace"
+              }
+            ]
+          },
+          "primeminister2": {
+            "text": "David Cameron",
+            "links": [
+              {
+                "type": "internal",
+                "page": "David Cameron"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "4 February 2013"
+          },
+          "term_end2": {
+            "text": "March 2016"
+          },
+          "birth_name": {
+            "text": "Stephen Augustus Lovegrove"
+          },
+          "birth_date": {
+            "text": "November 30, 1966"
+          },
+          "spouse": {
+            "text": "Kate Brooke",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Kate Brooke"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Corpus Christi College, Oxford",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Corpus Christi College, Oxford"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.gov.uk/government/news/new-permanent-secretary-for-ministry-of-defence",
+          "title": "New Permanent Secretary for Ministry of Defence - News stories - GOV.UK",
+          "website": "www.gov.uk",
+          "access-date": "2016-03-19",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.gov.uk/government/news/international-affairs-appointments-in-no10-and-cabinet-office",
+          "title": "International Affairs Appointments in No.10 and Cabinet Office",
+          "publisher": "UK Government",
+          "accessdate": "30 January 2021",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Early life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Lovegrove was born in 1966, the second child of John and Zenia Stewart Lovegrove."
+            },
+            {
+              "text": "His father was a Warwickshire industrialist and entrepreneur.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Warwickshire"
+                }
+              ]
+            },
+            {
+              "text": "Lovegrove was educated at Warwick School and at Corpus Christi College, Oxford, where he was awarded a first class degree in English in 1989.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Warwick School"
+                },
+                {
+                  "type": "internal",
+                  "page": "Corpus Christi College, Oxford"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Between 1990 and 1994 Lovegrove worked for Hydra Associates, a strategic media consultancy."
+            },
+            {
+              "text": "In 1995, he joined Deutsche Morgan Grenfell (subsequently Deutsche Bank), where he remained until 2004 and became head of the European media team.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Deutsche Morgan Grenfell"
+                },
+                {
+                  "type": "internal",
+                  "page": "Deutsche Bank"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In April 2004, he joined the Shareholder Executive, becoming acting Chief Executive on 27 June 2007 and Chief Executive on 18 April 2008.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Shareholder Executive"
+                }
+              ]
+            },
+            {
+              "text": "In that capacity, he was also appointed to the Board of the London Organising Committee of the Olympic Games and Paralympic Games and acted as chairman of (the no longer trading) British Nuclear Fuels Ltd.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "London Organising Committee of the Olympic Games and Paralympic Games"
+                },
+                {
+                  "text": "British Nuclear Fuels Ltd",
+                  "type": "internal",
+                  "page": "BNFL"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He was appointed as Permanent Secretary of the Department of Energy and Climate Change with effect from 4 February 2013."
+            },
+            {
+              "text": "In March 2016, after three years in that post, the Government announced his appointment as Permanent Secretary of the Ministry of Defence."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Since February 2016 he has also served as a non-executive director of Grosvenor Britain & Ireland, one of the principal operating companies of the Grosvenor Group.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Grosvenor Group"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Lovegrove was appointed Companion of the Order of the Bath (CB) in the 2013 New Year Honours and Knight Commander of the Order of the Bath (KCB) in the 2019 Birthday Honours.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Companion of the Order of the Bath"
+                },
+                {
+                  "text": "2013 New Year Honours",
+                  "type": "internal",
+                  "page": "2013 New Year Honours"
+                },
+                {
+                  "type": "internal",
+                  "page": "Knight Commander of the Order of the Bath"
+                },
+                {
+                  "text": "2019 Birthday Honours",
+                  "type": "internal",
+                  "page": "2019 Birthday Honours"
+                }
+              ]
+            },
+            {
+              "text": "He is an Honorary Fellow of Corpus Christi College, Oxford.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Corpus Christi College, Oxford"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In January 2021 it was announced that Lovegrove would become National Security Adviser at the end of March 2021.",
+              "links": [
+                {
+                  "text": "National Security Adviser",
+                  "type": "internal",
+                  "page": "National Security Adviser (United Kingdom)"
+                }
+              ]
+            },
+            {
+              "text": "The announcement came as David Frost was pulled out from assuming the role seven months after being appointed.",
+              "links": [
+                {
+                  "text": "David Frost",
+                  "type": "internal",
+                  "page": "David Frost, Baron Frost"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Lovegrove has been criticised by Conservatives including Jacob Rees-Mogg for endorsing Black Lives Matter, which Lovegrove claims is not a political organisation.",
+              "links": [
+                {
+                  "text": "Conservatives",
+                  "type": "internal",
+                  "page": "Conservative Party (UK)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Jacob Rees-Mogg"
+                },
+                {
+                  "type": "internal",
+                  "page": "Black Lives Matter"
+                }
+              ]
+            },
+            {
+              "text": "In late 2021, Lovegrove authored a document titled \"Mission Critical\" telling MI5 and MI6 employees to check their \"white privilege\" and avoid words such as \"manpower\", \"strong\" and \"grip\".",
+              "links": [
+                {
+                  "text": "white privilege",
+                  "type": "internal",
+                  "page": "white privilege"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "url": "https://www.bloomberg.com/news/articles/2021-01-29/u-k-names-lovegrove-national-security-adviser-instead-of-frost",
+          "title": "U.K. Names Lovegrove National Security Adviser Instead of Frost",
+          "work": "Bloomberg",
+          "last": "Morales",
+          "first": "Alex",
+          "date": "29 January 2021",
+          "access-date": "10 February 2021",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Top MoD mandarin: supporting BLM is ‘not political’",
+          "url": "https://www.spectator.co.uk/article/top-mod-mandarin-supporting-blm-is-not-political-",
+          "access-date": "24 February 2022",
+          "work": "The Spectator",
+          "date": "8 November 2021",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Stone",
+          "first1": "Jon",
+          "title": "Jacob Rees-Mogg says senior civil servants should not endorse Black Lives Matter",
+          "url": "https://www.independent.co.uk/news/uk/politics/jacob-reesmogg-black-lives-matter-b2020391.html",
+          "archive-url": "https://ghostarchive.org/archive/20220525/https://www.independent.co.uk/news/uk/politics/jacob-reesmogg-black-lives-matter-b2020391.html",
+          "archive-date": "25 May 2022",
+          "url-access": "subscription",
+          "url-status": "live",
+          "access-date": "24 February 2022",
+          "work": "The Independent",
+          "date": "22 February 2022",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Britain's spies told to check their 'white privilege' and stop saying 'manpower'",
+          "url": "https://www.telegraph.co.uk/news/2022/02/24/britains-spies-told-check-white-privilege-stop-saying-manpower/",
+          "access-date": "24 February 2022",
+          "work": "The Daily Telegraph",
+          "date": "24 February 2022",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Personal life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "In 1997, Lovegrove married the screenwriter Kate Brooke.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Kate Brooke"
+                }
+              ]
+            },
+            {
+              "text": "They have two daughters and live in London."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Sources",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Who's Who (2009 edition)",
+            "formatting": {
+              "italic": [
+                "Who's Who"
+              ]
+            }
+          },
+          {
+            "text": "Shareholder Executive web-site (accessed on 22 April 2010)",
+            "links": [
+              {
+                "text": "Shareholder Executive web-site",
+                "type": "external",
+                "site": "https://web.archive.org/web/20110207111024/http://www.bis.gov.uk/about/management-team/stephen-lovegrove"
+              }
+            ]
+          },
+          {
+            "text": "L.O.C.O.G. web-site (accessed on 22 April 2010)",
+            "links": [
+              {
+                "text": "L.O.C.O.G. web-site",
+                "type": "external",
+                "site": "https://web.archive.org/web/20111129001742/http://www.london2012.com/about-us/the-people-delivering-the-games/the-london-organising-committee/locog-board.php"
+              }
+            ]
+          }
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-gov"
+        },
+        {
+          "before": "Moira Wallace",
+          "template": "s-bef"
+        },
+        {
+          "title": "Permanent Secretary of the\n[[Department of Energy and Climate Change|Department of Energy\nand Climate Change]]",
+          "years": "2013–2016",
+          "template": "s-ttl"
+        },
+        {
+          "reason": "Department abolished",
+          "template": "s-non"
+        },
+        {
+          "before": "Sir Jon Thompson",
+          "title": "Permanent Secretary of the Ministry of Defence",
+          "years": "2016–2021",
+          "after": "David Williams",
+          "template": "succession box"
+        },
+        {
+          "template": "nsa"
+        }
+      ]
+    }
+  ]
+}

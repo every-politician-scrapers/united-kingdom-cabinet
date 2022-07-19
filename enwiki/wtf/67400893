@@ -1,0 +1,379 @@
+{
+  "title": "Peter Tibber",
+  "pageID": 67400893,
+  "categories": [
+    "1956 births",
+    "Living people",
+    "Ambassadors of the United Kingdom to Colombia",
+    "Ambassadors of the United Kingdom to Sudan",
+    "Alumni of University College, Oxford",
+    "Companions of the Order of St Michael and St George"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Peter Tibber (born 7 September 1956) is a British diplomat, who served as the British Ambassador to Sudan from 2011 to 2015 and the British Ambassador to Colombia from 2015 to 2019.",
+              "links": [
+                {
+                  "text": "British Ambassador to Sudan",
+                  "type": "internal",
+                  "page": "List of ambassadors of the United Kingdom to Sudan"
+                },
+                {
+                  "text": "British Ambassador to Colombia",
+                  "type": "internal",
+                  "page": "List of ambassadors of the United Kingdom to Colombia"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Peter Tibber"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "British diplomat",
+          "template": "short description"
+        },
+        {
+          "date": "April 2022",
+          "template": "use dmy dates"
+        },
+        {
+          "year": "1956",
+          "month": "09",
+          "day": "07",
+          "template": "birth date and age"
+        },
+        {
+          "country": "GBR",
+          "list": [
+            "CMG"
+          ],
+          "size": "100%",
+          "template": "post-nominals"
+        },
+        {
+          "country": "GBR",
+          "list": [
+            "CMG"
+          ],
+          "size": "100%",
+          "template": "post-nominals"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Peter Tibber"
+          },
+          "office2": {
+            "text": "British Ambassador to Sudan",
+            "links": [
+              {
+                "text": "British Ambassador to Sudan",
+                "type": "internal",
+                "page": "List of ambassadors of the United Kingdom to Sudan"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "September 7, 1956"
+          },
+          "monarch2": {
+            "text": "Elizabeth II",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Elizabeth II"
+              }
+            ]
+          },
+          "successor": {
+            "text": "Colin Martin-Reynolds"
+          },
+          "successor2": {
+            "text": "Michael Aron",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Michael Aron"
+              }
+            ]
+          },
+          "termend2": {
+            "text": "2015",
+            "number": 2015
+          },
+          "termstart2": {
+            "text": "2011",
+            "number": 2011
+          },
+          "predecessor2": {
+            "text": "Nicholas Kay",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Nicholas Kay"
+              }
+            ]
+          },
+          "office": {
+            "text": "British Ambassador to Colombia",
+            "links": [
+              {
+                "text": "British Ambassador to Colombia",
+                "type": "internal",
+                "page": "List of ambassadors of the United Kingdom to Colombia"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Lindsay Croisdale-Appleby",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Lindsay Croisdale-Appleby"
+              }
+            ]
+          },
+          "monarch": {
+            "text": "Elizabeth II",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Elizabeth II"
+              }
+            ]
+          },
+          "termend": {
+            "text": "2019",
+            "number": 2019
+          },
+          "termstart": {
+            "text": "2015",
+            "number": 2015
+          },
+          "alma_mater": {
+            "text": "University College, Oxford",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University College, Oxford"
+              }
+            ]
+          },
+          "birth_name": {
+            "text": "Peter Harris Tibber"
+          },
+          "image": {
+            "text": "Peter_Tibber.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Early life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Peter Harris Tibber was born on 7 September 1956."
+            },
+            {
+              "text": "He is the son of Anthony Harris Tibber, a Circuit Judge."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Tibber was educated at Haberdashers’ Aske’s School, an independent school in Elstree, Hertfordshire.",
+              "links": [
+                {
+                  "text": "Haberdashers’ Aske’s School",
+                  "type": "internal",
+                  "page": "Haberdashers' Aske's Boys' School"
+                },
+                {
+                  "text": "independent school",
+                  "type": "internal",
+                  "page": "Independent school (UK)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Elstree"
+                },
+                {
+                  "type": "internal",
+                  "page": "Hertfordshire"
+                }
+              ]
+            },
+            {
+              "text": "Tibber attended University College, Oxford and graduated with a degree in history in 1976.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "University College, Oxford"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "date": "2021",
+          "title": "Honourable Mentions",
+          "journal": "The Martlet",
+          "publisher": "University College, Oxford",
+          "issue": "13",
+          "page": "50",
+          "template": "citation",
+          "type": "journal"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "Career",
+      "depth": 0
+    },
+    {
+      "title": "Ambassador to Sudan",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Tibber served as the British Ambassador to Sudan from 2011 to 2015.",
+              "links": [
+                {
+                  "text": "British Ambassador to Sudan",
+                  "type": "internal",
+                  "page": "List of ambassadors of the United Kingdom to Sudan"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Ambassador to Colombia",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Tibber served as the British Ambassador to Colombia from 2015 to 2019.",
+              "links": [
+                {
+                  "text": "British Ambassador to Colombia",
+                  "type": "internal",
+                  "page": "List of ambassadors of the United Kingdom to Colombia"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In the 2020 Birthday Honours, Tibber was appointed a Companion of the Order of St Michael and St George for \"services to British foreign policy\".",
+              "links": [
+                {
+                  "text": "2020 Birthday Honours",
+                  "type": "internal",
+                  "page": "2020 Birthday Honours"
+                },
+                {
+                  "type": "internal",
+                  "page": "Companion of the Order of St Michael and St George"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "date": "10 October 2020",
+          "title": "Peter Tibber - Order of Saint Michael and Saint George",
+          "url": "https://www.thegazette.co.uk/notice/3645552",
+          "url-status": "live",
+          "access-date": "15 April 2021",
+          "website": "The London Gazette",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Personal life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Tibber married Eve Levy-Huet in 1983."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "id": "U37698",
+          "surname": "Tibber",
+          "othernames": "Peter Harris",
+          "year": "2020",
+          "template": "who's who"
+        },
+        {
+          "id": "PeterTibber",
+          "template": "twitter"
+        }
+      ]
+    }
+  ]
+}

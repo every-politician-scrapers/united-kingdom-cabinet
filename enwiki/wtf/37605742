@@ -1,0 +1,321 @@
+{
+  "title": "Judith Farnworth",
+  "pageID": 37605742,
+  "categories": [
+    "1966 births",
+    "Living people",
+    "People educated at Manchester High School for Girls",
+    "Alumni of the College of St Hild and St Bede, Durham",
+    "Alumni of the University of East Anglia",
+    "Ambassadors of the United Kingdom to Kyrgyzstan",
+    "Ambassadors of the United Kingdom to Armenia",
+    "British women ambassadors"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Judith Margaret Farnworth (born 25 April 1966) is a former British diplomat.",
+              "formatting": {
+                "bold": [
+                  "Judith Margaret Farnworth"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "She was educated at Manchester High School for Girls, the University of Durham (BA Honours in Russian with Philosophy, 1988) and at the University of East Anglia (MA in International relations, 1990).",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Manchester High School for Girls"
+                },
+                {
+                  "text": "University of Durham",
+                  "type": "internal",
+                  "page": "Durham University"
+                },
+                {
+                  "type": "internal",
+                  "page": "University of East Anglia"
+                },
+                {
+                  "type": "internal",
+                  "page": "International relations"
+                }
+              ]
+            },
+            {
+              "text": "She joined the Foreign and Commonwealth Office after graduation in 1991, first as Senior Research Analyst at the Research and Analsysis Department in London.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Foreign and Commonwealth Office"
+                }
+              ]
+            },
+            {
+              "text": "From 2000 to 2004 she was head of the political section of the British Embassy in the Ukraine."
+            },
+            {
+              "text": "Deputy Head of Mission and Her Mayesty's Consul she was from 2005 to 2008 at the British Embassy in Riga and from 2008 to 2012 in Kyiv, returning to the Ukraine.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Kyiv"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "She was appointed UK Ambassador to Kyrgyzstan in 2012, as the first ambassador in the newly founded embassy in Bishkek.",
+              "links": [
+                {
+                  "text": "UK Ambassador to Kyrgyzstan",
+                  "type": "internal",
+                  "page": "List of ambassadors of the United Kingdom to Kyrgyzstan"
+                },
+                {
+                  "type": "internal",
+                  "page": "Bishkek"
+                }
+              ]
+            },
+            {
+              "text": "Diplomatic relations between the UK and Kyrgyzstan were formerly maintained by the British embassy in Kazakhstan."
+            },
+            {
+              "text": "She was succeeded in Kyrgyzstan by Robin Ord-Smith in 2015.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Robin Ord-Smith"
+                }
+              ]
+            },
+            {
+              "text": "In September 2015 she became the UK Ambassador to Armenia.",
+              "links": [
+                {
+                  "text": "UK Ambassador to Armenia",
+                  "type": "internal",
+                  "page": "List of ambassadors of the United Kingdom to Armenia"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "British diplomat",
+          "template": "short description"
+        },
+        {
+          "date": "April 2022",
+          "template": "use dmy dates"
+        },
+        {
+          "year": "1966",
+          "month": "04",
+          "day": "25",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Judith Farnworth"
+          },
+          "image": {
+            "text": "File:Judithfarnworth.jpg"
+          },
+          "office": {
+            "text": "British Ambassador to Armenia",
+            "links": [
+              {
+                "text": "British Ambassador to Armenia",
+                "type": "internal",
+                "page": "List of ambassadors of the United Kingdom to Armenia"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "September 2015"
+          },
+          "term_end": {
+            "text": "September 2019"
+          },
+          "predecessor": {
+            "text": "Katherine Leach"
+          },
+          "successor": {
+            "text": "John Gallagher"
+          },
+          "monarch": {
+            "text": "Elizabeth II",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Elizabeth II"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "David Cameron\nTheresa May\nBoris Johnson",
+            "links": [
+              {
+                "type": "internal",
+                "page": "David Cameron"
+              },
+              {
+                "type": "internal",
+                "page": "Theresa May"
+              },
+              {
+                "type": "internal",
+                "page": "Boris Johnson"
+              }
+            ]
+          },
+          "office2": {
+            "text": "British Ambassador to Kyrgyzstan",
+            "links": [
+              {
+                "text": "British Ambassador to Kyrgyzstan",
+                "type": "internal",
+                "page": "List of ambassadors of the United Kingdom to Kyrgyzstan"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "2012",
+            "number": 2012
+          },
+          "term_end2": {
+            "text": "2015",
+            "number": 2015
+          },
+          "predecessor2": {
+            "text": "New position"
+          },
+          "successor2": {
+            "text": "Robin Ord-Smith",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Robin Ord-Smith"
+              }
+            ]
+          },
+          "primeminister2": {
+            "text": "David Cameron",
+            "links": [
+              {
+                "type": "internal",
+                "page": "David Cameron"
+              }
+            ]
+          },
+          "monarch2": {
+            "text": "Elizabeth II",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Elizabeth II"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "April 25, 1966"
+          },
+          "alma_mater": {
+            "text": "Durham University (BA)\nUniversity of East Anglia (MA)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Durham University"
+              },
+              {
+                "type": "internal",
+                "page": "University of East Anglia"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "British Ambassador to Kyrgyzstan - Judith Margaret Farnworth",
+          "url": "https://www.gov.uk/government/people/judith-margaret-farnworth",
+          "access-date": "2018-06-18",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Change of Her Majesty's Ambassador to Armenia",
+          "url": "https://www.gov.uk/government/news/change-of-her-majestys-ambassador-to-armenia",
+          "website": "Foreign and Commonwealth Office",
+          "access-date": "18 June 2018",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-dip"
+        },
+        {
+          "before": "New position",
+          "template": "s-bef"
+        },
+        {
+          "title": "British Ambassador to Kyrgyzstan",
+          "years": "2012&ndash;2015",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Robin Ord-Smith",
+          "template": "s-aft"
+        },
+        {
+          "before": "Katherine Leach",
+          "template": "s-bef"
+        },
+        {
+          "title": "British Ambassador to Armenia",
+          "years": "2015&ndash;2019",
+          "template": "s-ttl"
+        },
+        {
+          "after": "John Gallagher",
+          "template": "s-aft"
+        },
+        {
+          "template": "uk-diplomat-stub"
+        }
+      ]
+    }
+  ]
+}

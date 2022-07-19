@@ -1,0 +1,240 @@
+{
+  "title": "Carolyn Davidson (diplomat)",
+  "pageID": 65818440,
+  "categories": [
+    "Living people",
+    "1964 births",
+    "Ambassadors of the United Kingdom to Guatemala",
+    "21st-century British diplomats",
+    "British women ambassadors",
+    "Japan–United Kingdom relations"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Carolyn Jayne Davidson (born 18 April 1964) is a British diplomat who has been the British consul general to Osaka since August 2021.",
+              "links": [
+                {
+                  "text": "British consul general to Osaka",
+                  "type": "internal",
+                  "page": "Consulate General of the United Kingdom, Osaka"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Carolyn Jayne Davidson"
+                ]
+              }
+            },
+            {
+              "text": "She was previously the British ambassador to Guatemala from November 2017 to August 2019.",
+              "links": [
+                {
+                  "text": "British ambassador to Guatemala",
+                  "type": "internal",
+                  "page": "List of ambassadors of the United Kingdom to Guatemala"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "British diplomat",
+          "template": "short description"
+        },
+        {
+          "date": "April 2022",
+          "template": "use dmy dates"
+        },
+        {
+          "list": [
+            "Sarah Wooten",
+            "ja",
+            "セーラ・ウテン"
+          ],
+          "template": "illm"
+        },
+        {
+          "year": "1964",
+          "month": "4",
+          "day": "18",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "office": {
+            "text": "British Ambassador to Guatemala",
+            "links": [
+              {
+                "text": "British Ambassador to Guatemala",
+                "type": "internal",
+                "page": "List of ambassadors of the United Kingdom to Guatemala"
+              }
+            ]
+          },
+          "termstart": {
+            "text": "November 2017"
+          },
+          "termend": {
+            "text": "August 2019"
+          },
+          "predecessor": {
+            "text": "Tom Carter",
+            "links": [
+              {
+                "text": "Tom Carter",
+                "type": "internal",
+                "page": "Tom Carter (diplomat)"
+              }
+            ]
+          },
+          "successor": {
+            "text": "Nick Whittingham",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Nick Whittingham"
+              }
+            ]
+          },
+          "office2": {
+            "text": "British Consul General to Osaka",
+            "links": [
+              {
+                "text": "British Consul General to Osaka",
+                "type": "internal",
+                "page": "Consulate General of the United Kingdom, Osaka"
+              }
+            ]
+          },
+          "termstart2": {
+            "text": "August 2021"
+          },
+          "birth_date": {
+            "text": "April 18, 1964"
+          },
+          "image": {
+            "text": "File:Carolyn Davidson, UK Ambassador to Guatemala.jpg"
+          },
+          "spouse": {
+            "text": "Tom Carter",
+            "links": [
+              {
+                "text": "Tom Carter",
+                "type": "internal",
+                "page": "Tom Carter (diplomat)"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "title": "Carolyn Davidson",
+          "url": "https://www.gov.uk/government/people/carolyn-davidson",
+          "access-date": "2020-11-11",
+          "website": "GOV.UK",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Davidson joined the Foreign Office in 1986.",
+              "links": [
+                {
+                  "text": "Foreign Office",
+                  "type": "internal",
+                  "page": "Foreign, Commonwealth and Development Office"
+                }
+              ]
+            },
+            {
+              "text": "She succeeded her husband Tom Carter.",
+              "links": [
+                {
+                  "text": "Tom Carter",
+                  "type": "internal",
+                  "page": "Tom Carter (diplomat)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "last": "Pidd",
+          "first": "Helen",
+          "date": "2008-08-01",
+          "title": "Saturday interview: Helen Pidd talks to the married couple who are also joint British high commissioners in Zambia",
+          "language": "en-GB",
+          "work": "The Guardian",
+          "url": "https://www.theguardian.com/world/2008/aug/02/zambia",
+          "access-date": "2020-11-11",
+          "issn": "0261-3077",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "id": "CJDavidsonFCDO",
+          "template": "twitter"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "uk-diplomat-stub"
+        }
+      ]
+    }
+  ]
+}

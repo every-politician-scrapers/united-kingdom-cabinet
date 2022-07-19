@@ -1,0 +1,114 @@
+{
+  "title": "Nicola Pollitt",
+  "pageID": 64456525,
+  "categories": [
+    "Ambassadors of the United Kingdom to Nepal",
+    "British women ambassadors",
+    "Year of birth missing (living people)",
+    "Living people"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Nicola Kathryn Pollitt has been the British Ambassador to Nepal since November 2019.",
+              "links": [
+                {
+                  "text": "British Ambassador to Nepal",
+                  "type": "internal",
+                  "page": "List of ambassadors of the United Kingdom to Nepal"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Nicola Kathryn Pollitt"
+                ]
+              }
+            },
+            {
+              "text": "Pollitt is the first woman British Ambassador to Nepal in more than two hundred years."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "She is one of seven female ambassadors to Nepal, out of a total of 27 resident ambassadors."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "date": "April 2022",
+          "template": "use dmy dates"
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.gov.uk/government/news/change-of-her-majestys-ambassador-to-nepal-november-2019",
+          "title": "Change of Her Majesty’s Ambassador to Nepal - November 2019",
+          "website": "GOV.UK",
+          "language": "en",
+          "access-date": "2019-06-07",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "First British Woman Ambassador to Nepal in 200 Years",
+          "url": "https://www.southasiatime.com/2019/05/30/nicola-pollitt-appointed-as-the-new-british-envoy-to-nepal/",
+          "accessdate": "4 July 2020",
+          "publisher": "South Asia Time",
+          "date": "May 30, 2019",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Subba",
+          "first1": "Sanghamitra",
+          "title": "Her Excellencies Women envoys to Nepal share their experiences of being posted to Kathmandu",
+          "url": "https://www.nepalitimes.com/here-now/her-excellencies/",
+          "accessdate": "4 July 2020",
+          "publisher": "The Nepali Times",
+          "date": "March 6, 2020",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-dip"
+        },
+        {
+          "before": "Richard Morris",
+          "template": "s-bef"
+        },
+        {
+          "title": "British Ambassador to Nepal",
+          "years": "2019&ndash;present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "uk-diplomat-stub"
+        }
+      ]
+    }
+  ]
+}

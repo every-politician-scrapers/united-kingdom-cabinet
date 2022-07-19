@@ -1,0 +1,307 @@
+{
+  "title": "Kate Smith (diplomat)",
+  "pageID": 53161798,
+  "categories": [
+    "Living people",
+    "British diplomats",
+    "British women diplomats",
+    "Companions of the Order of St Michael and St George",
+    "Year of birth missing (living people)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Katherine Lucy Smith is a British diplomat who served as British Ambassador to Greece from January 2017 until July 2021.",
+              "links": [
+                {
+                  "text": "British Ambassador to Greece",
+                  "type": "internal",
+                  "page": "List of Ambassadors of the United Kingdom to Greece"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Katherine Lucy Smith"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Smith joined the Foreign and Commonwealth Office in 1987, serving in Lusaka and then in London in the Central African Department.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Foreign and Commonwealth Office"
+                },
+                {
+                  "type": "internal",
+                  "page": "Lusaka"
+                }
+              ]
+            },
+            {
+              "text": "She then did a tour in Athens in 1991, and then in the Counter-Proliferation Department focusing on Chemical and Biological Weapons.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Athens"
+                }
+              ]
+            },
+            {
+              "text": "Later she served at the UN in New York and on security postings in London before becoming Deputy Head of Mission at the British Embassy in Tehran from 2005 to 2007.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Deputy Head of Mission"
+                },
+                {
+                  "text": "British Embassy in Tehran",
+                  "type": "internal",
+                  "page": "Embassy of the United Kingdom, Tehran"
+                }
+              ]
+            },
+            {
+              "text": "She was appointed a Companion of the Order of St Michael and St George (CMG) in the New Year's Honours for 2008.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Order of St Michael and St George"
+                },
+                {
+                  "text": "New Year's Honours for 2008",
+                  "type": "internal",
+                  "page": "2008 New Year Honours"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On return from Tehran, Smith was seconded to Royal Dutch Shell where she served as international adviser from 2008 and then head of UK governmental relations from 2009 until 2012.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Royal Dutch Shell"
+                }
+              ]
+            },
+            {
+              "text": "She returned to the FCO as Director of the Americas."
+            },
+            {
+              "text": "In 2017 she succeeded John Kittmer as Her Majesty's Ambassador to the Hellenic Republic.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "John Kittmer"
+                },
+                {
+                  "text": "Her Majesty's Ambassador to the Hellenic Republic",
+                  "type": "internal",
+                  "page": "List of Ambassadors of the United Kingdom to Greece"
+                }
+              ]
+            },
+            {
+              "text": "In 2021 she was in turn succeeded in Greece by Matthew Lodge.",
+              "links": [
+                {
+                  "text": "Matthew Lodge",
+                  "type": "internal",
+                  "page": "Matthew Lodge (diplomat)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "British diplomat",
+          "template": "short description"
+        },
+        {
+          "date": "February 2017",
+          "template": "use dmy dates"
+        },
+        {
+          "date": "February 2017",
+          "template": "use british english"
+        },
+        {
+          "country": "GBR",
+          "size": "100%",
+          "list": [
+            "CMG"
+          ],
+          "template": "postnominals"
+        },
+        {
+          "country": "GBR",
+          "list": [
+            "CMG"
+          ],
+          "template": "post-nominals"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Kate Smith"
+          },
+          "image": {
+            "text": "S960 PHOTO K Smith.jpg"
+          },
+          "office": {
+            "text": "British Ambassador to Greece",
+            "links": [
+              {
+                "text": "British Ambassador to Greece",
+                "type": "internal",
+                "page": "List of Ambassadors of the United Kingdom to Greece"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "John Kittmer",
+            "links": [
+              {
+                "type": "internal",
+                "page": "John Kittmer"
+              }
+            ]
+          },
+          "successor": {
+            "text": "Matthew Lodge",
+            "links": [
+              {
+                "text": "Matthew Lodge",
+                "type": "internal",
+                "page": "Matthew Lodge (diplomat)"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "January 2017"
+          },
+          "term_end": {
+            "text": "July 2021"
+          },
+          "monarch": {
+            "text": "Elizabeth II",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Elizabeth II"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Theresa May\nBoris Johnson",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Theresa May"
+              },
+              {
+                "type": "internal",
+                "page": "Boris Johnson"
+              }
+            ]
+          },
+          "birth_name": {
+            "text": "Katherine Lucy Smith"
+          },
+          "nationality": {
+            "text": "British"
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.thegazette.co.uk/London/issue/58557/supplement/3",
+          "title": "The London Gazette",
+          "date": "2007-12-29",
+          "series": "Supplement 58557",
+          "publisher": "HM Government",
+          "page": "3",
+          "access-date": "2017-02-11",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.gov.uk/government/news/change-of-her-majestys-ambassador-to-greece",
+          "title": "Change of Her Majesty's Ambassador to Greece",
+          "website": "www.gov.uk",
+          "series": "Press releases",
+          "language": "en",
+          "access-date": "2017-02-12",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.gov.uk/government/people/kate-smith",
+          "title": "Ms Kate Smith CMG - GOV.UK",
+          "website": "www.gov.uk",
+          "language": "en",
+          "access-date": "2017-02-12",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.gov.uk/government/news/change-of-her-majestys-ambassador-to-greece-matthew-lodge",
+          "title": "Change of Her Majesty's Ambassador to Greece",
+          "website": "www.gov.uk",
+          "series": "Press releases",
+          "language": "en",
+          "access-date": "2021-08-21",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-dip"
+        },
+        {
+          "before": "John Kittmer",
+          "template": "s-bef"
+        },
+        {
+          "title": "British Ambassador to Greece",
+          "years": "2017–2021",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Matthew Lodge (diplomat)",
+          "template": "s-aft"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "uk-diplomat-stub"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,494 @@
+{
+  "title": "Michael Gifford",
+  "pageID": 41520297,
+  "categories": [
+    "1961 births",
+    "Living people",
+    "People educated at Hastings Grammar School",
+    "Ambassadors of the United Kingdom to North Korea",
+    "Ambassadors of the United Kingdom to Yemen",
+    "Ambassadors of the United Kingdom to Kazakhstan",
+    "Officers of the Order of the British Empire",
+    "Members of HM Diplomatic Service",
+    "20th-century British diplomats",
+    "21st-century British diplomats"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Michael John Gifford (born 2 April 1961) is a British diplomat who has been the United Kingdom's Ambassador to Kazakhstan since January 2018.",
+              "links": [
+                {
+                  "text": "United Kingdom's Ambassador to Kazakhstan",
+                  "type": "internal",
+                  "page": "List of ambassadors of the United Kingdom to Kazakhstan"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Michael John Gifford"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "British diplomat",
+          "template": "short description"
+        },
+        {
+          "list": [
+            "the British diplomat",
+            "the British banker",
+            "Roger Gifford"
+          ],
+          "template": "about"
+        },
+        {
+          "date": "January 2018",
+          "template": "use dmy dates"
+        },
+        {
+          "date": "January 2018",
+          "template": "use british english"
+        },
+        {
+          "country": "GBR",
+          "size": "100%",
+          "list": [
+            "OBE"
+          ],
+          "template": "postnominals"
+        },
+        {
+          "year": "1961",
+          "month": "4",
+          "day": "2",
+          "df": "y",
+          "template": "birth date and age"
+        },
+        {
+          "country": "GBR",
+          "size": "100%",
+          "list": [
+            "OBE"
+          ],
+          "template": "postnominals"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific-prefix": {
+            "text": "His Excellency",
+            "links": [
+              {
+                "text": "His Excellency",
+                "type": "internal",
+                "page": "Excellency"
+              }
+            ]
+          },
+          "name": {
+            "text": "Michael Gifford"
+          },
+          "image": {
+            "text": "Michaelgifford.jpg"
+          },
+          "office": {
+            "text": "British Ambassador to Kazakhstan",
+            "links": [
+              {
+                "text": "British Ambassador to Kazakhstan",
+                "type": "internal",
+                "page": "List of ambassadors of the United Kingdom to Kazakhstan"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "January 2018"
+          },
+          "predecessor": {
+            "text": "Carolyn Browne",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Carolyn Browne"
+              }
+            ]
+          },
+          "monarch": {
+            "text": "Elizabeth II",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Elizabeth II"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Theresa May\nBoris Johnson",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Theresa May"
+              },
+              {
+                "type": "internal",
+                "page": "Boris Johnson"
+              }
+            ]
+          },
+          "office2": {
+            "text": "British Ambassador to North Korea",
+            "links": [
+              {
+                "text": "British Ambassador to North Korea",
+                "type": "internal",
+                "page": "List of ambassadors of the United Kingdom to North Korea"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "2012",
+            "number": 2012
+          },
+          "term_end2": {
+            "text": "2015",
+            "number": 2015
+          },
+          "predecessor2": {
+            "text": "Karen Wolstenholme",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Karen Wolstenholme"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Alastair Morgan",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Alastair Morgan"
+              }
+            ]
+          },
+          "monarch2": {
+            "text": "Elizabeth II",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Elizabeth II"
+              }
+            ]
+          },
+          "primeminister2": {
+            "text": "David Cameron",
+            "links": [
+              {
+                "type": "internal",
+                "page": "David Cameron"
+              }
+            ]
+          },
+          "office3": {
+            "text": "British Ambassador to Yemen",
+            "links": [
+              {
+                "text": "British Ambassador to Yemen",
+                "type": "internal",
+                "page": "List of ambassadors of the United Kingdom to Yemen"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "2004",
+            "number": 2004
+          },
+          "term_end3": {
+            "text": "2007",
+            "number": 2007
+          },
+          "predecessor3": {
+            "text": "Frances Guy",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Frances Guy"
+              }
+            ]
+          },
+          "successor3": {
+            "text": "Timothy Torlot",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Timothy Torlot"
+              }
+            ]
+          },
+          "monarch3": {
+            "text": "Elizabeth II",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Elizabeth II"
+              }
+            ]
+          },
+          "primeminister3": {
+            "text": "Tony Blair",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Tony Blair"
+              }
+            ]
+          },
+          "birth_name": {
+            "text": "Michael John Gifford"
+          },
+          "birth_date": {
+            "text": "April 2, 1961"
+          },
+          "nationality": {
+            "text": "British"
+          },
+          "spouse": {
+            "text": "Patricia Owen"
+          },
+          "children": {
+            "text": "2",
+            "number": 2
+          },
+          "education": {
+            "text": "Hastings Grammar School",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Hastings Grammar School"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Gifford, Michael John",
+          "publisher": "Who's Who 2018",
+          "date": "1 December 2017",
+          "doi": "10.1093/ww/9780199540884.013.42706",
+          "template": "citation",
+          "type": "document"
+        }
+      ]
+    },
+    {
+      "title": "Career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Gifford joined the Foreign and Commonwealth Office in 1981.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Foreign and Commonwealth Office"
+                }
+              ]
+            },
+            {
+              "text": "From 2004 until 2007 he served as the British Ambassador to Yemen.",
+              "links": [
+                {
+                  "text": "British Ambassador to Yemen",
+                  "type": "internal",
+                  "page": "List of ambassadors of the United Kingdom to Yemen"
+                }
+              ]
+            },
+            {
+              "text": "He was then the Deputy Head of Mission in Cairo.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Cairo"
+                }
+              ]
+            },
+            {
+              "text": "He became the Ambassador to North Korea in October 2012.",
+              "links": [
+                {
+                  "text": "Ambassador to North Korea",
+                  "type": "internal",
+                  "page": "List of ambassadors of the United Kingdom to North Korea"
+                }
+              ]
+            },
+            {
+              "text": "He left that appointment in December 2015 and was succeeded by Alastair Morgan.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Alastair Morgan"
+                }
+              ]
+            },
+            {
+              "text": "After full-time Russian language training he was appointed to be the Ambassador to Kazakhstan from early 2018.",
+              "links": [
+                {
+                  "text": "Ambassador to Kazakhstan",
+                  "type": "internal",
+                  "page": "List of ambassadors of the United Kingdom to Kazakhstan"
+                }
+              ]
+            },
+            {
+              "text": "He will leave this post in late summer 2021 and retire from the Diplomatic Service."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Gifford was appointed Officer of the Order of the British Empire (OBE) in the 2022 New Year Honours for services to British foreign policy.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Officer of the Order of the British Empire"
+                },
+                {
+                  "text": "2022 New Year Honours",
+                  "type": "internal",
+                  "page": "2022 New Year Honours"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "Change of Her Majesty's Ambassador to the Democratic People's Republic of Korea",
+          "url": "https://www.gov.uk/government/news/change-of-her-majestys-ambassador-to-the-democratic-peoples-republic-of-korea--2",
+          "publisher": "Foreign & Commonwealth Office",
+          "accessdate": "6 January 2016",
+          "date": "11 May 2015",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Change of Her Majesty's Ambassador to Kazakhstan",
+          "url": "https://www.gov.uk/government/news/change-of-her-majestys-ambassador-to-kazakhstan",
+          "publisher": "Foreign & Commonwealth Office",
+          "date": "20 January 2017",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.gov.uk/government/news/change-of-her-majestys-ambassador-to-kazakhstan-kathy-leach",
+          "title": "Change of Her Majesty's Ambassador to Kazakhstan: Kathy Leach",
+          "publisher": "GOV.UK",
+          "date": "17 December 2020",
+          "access-date": "4 May 2021",
+          "template": "citation",
+          "type": "press release"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "title": "British Ambassador to Democratic People's Republic of Korea: Michael Gifford",
+          "url": "http://www.gov.uk/government/people/michael-gifford",
+          "publisher": "Foreign & Commonwealth Office",
+          "accessdate": "2 January 2014",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Personal life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Gifford is married to his wife, Patricia, and the couple have one son and one daughter."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-dip"
+        },
+        {
+          "before": "Frances Guy",
+          "template": "s-bef"
+        },
+        {
+          "title": "British Ambassador to Yemen",
+          "years": "2004–2007",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Timothy Torlot",
+          "template": "s-aft"
+        },
+        {
+          "before": "Karen Wolstenholme",
+          "template": "s-bef"
+        },
+        {
+          "title": "British Ambassador to North Korea",
+          "years": "2012–2015",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Alastair Morgan",
+          "template": "s-aft"
+        },
+        {
+          "before": "Carolyn Browne",
+          "template": "s-bef"
+        },
+        {
+          "title": "British Ambassador to Kazakhstan",
+          "years": "2018–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "template": "uk-diplomat-stub"
+        }
+      ]
+    }
+  ]
+}

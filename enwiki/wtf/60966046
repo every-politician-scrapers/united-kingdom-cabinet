@@ -1,0 +1,550 @@
+{
+  "title": "Alison Blake",
+  "pageID": 60966046,
+  "categories": [
+    "Living people",
+    "People educated at the John Roan School",
+    "Alumni of Merton College, Oxford",
+    "British women ambassadors",
+    "High Commissioners of the United Kingdom to Bangladesh",
+    "Ambassadors of the United Kingdom to Afghanistan",
+    "Governors of the Falkland Islands",
+    "Commissioners for South Georgia and the South Sandwich Islands",
+    "Companions of the Order of St Michael and St George",
+    "Year of birth missing (living people)",
+    "Fellows of Merton College, Oxford"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Alison Mary Blake is a British diplomat who is the Governor Designate of the Falkland Islands and Commissioner Designate of the South Georgia and the South Sandwich Islands.",
+              "links": [
+                {
+                  "text": "Governor",
+                  "type": "internal",
+                  "page": "Governor of the Falkland Islands"
+                },
+                {
+                  "type": "internal",
+                  "page": "Falkland Islands"
+                },
+                {
+                  "text": "Commissioner",
+                  "type": "internal",
+                  "page": "Commissioner for South Georgia and the South Sandwich Islands"
+                },
+                {
+                  "type": "internal",
+                  "page": "South Georgia and the South Sandwich Islands"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Alison Mary Blake"
+                ]
+              }
+            },
+            {
+              "text": "She previously served as High Commissioner to Bangladesh and Ambassador to Afghanistan.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Bangladesh"
+                },
+                {
+                  "type": "internal",
+                  "page": "Afghanistan"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "British diplomat",
+          "bot": "PearBOT 5",
+          "template": "short description"
+        },
+        {
+          "date": "June 2019",
+          "template": "use dmy dates"
+        },
+        {
+          "date": "June 2019",
+          "template": "use british english"
+        },
+        {
+          "country": "GBR",
+          "size": "100%",
+          "list": [
+            "CMG"
+          ],
+          "template": "post-nominals"
+        },
+        {
+          "country": "GBR",
+          "size": "100%",
+          "list": [
+            "CMG"
+          ],
+          "template": "post-nominals"
+        }
+      ],
+      "infoboxes": [
+        {
+          "honorific-prefix": {
+            "text": "Her Excellency",
+            "links": [
+              {
+                "text": "Her Excellency",
+                "type": "internal",
+                "page": "Excellency"
+              }
+            ]
+          },
+          "name": {
+            "text": "Alison Blake"
+          },
+          "image": {
+            "text": "Alison Blake.jpg"
+          },
+          "birth_name": {
+            "text": "Alison Mary Blake"
+          },
+          "office": {
+            "text": "Governor of the Falkland Islands [[Commissioner for South Georgia and the South Sandwich Islands|Commissioner for South Georgia and\nthe South Sandwich Islands]]",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Governor of the Falkland Islands"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "July 2022"
+          },
+          "succeeding": {
+            "text": "Nigel Phillips",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Nigel Phillips"
+              }
+            ]
+          },
+          "monarch": {
+            "text": "Elizabeth II",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Elizabeth II"
+              }
+            ]
+          },
+          "1blankname": {
+            "text": "Chief Executive",
+            "links": [
+              {
+                "text": "Chief Executive",
+                "type": "internal",
+                "page": "Chief Executive of the Falkland Islands"
+              }
+            ]
+          },
+          "1namedata": {
+            "text": "Andy Keeling"
+          },
+          "office2": {
+            "text": "British Ambassador to Afghanistan",
+            "links": [
+              {
+                "text": "British Ambassador to Afghanistan",
+                "type": "internal",
+                "page": "List of ambassadors of the United Kingdom to Afghanistan"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "2019",
+            "number": 2019
+          },
+          "term_end2": {
+            "text": "2021",
+            "number": 2021
+          },
+          "predecessor2": {
+            "text": "Sir Nicholas Kay",
+            "links": [
+              {
+                "text": "Sir Nicholas Kay",
+                "type": "internal",
+                "page": "Nicholas Kay"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Sir Laurie Bristow",
+            "links": [
+              {
+                "text": "Sir Laurie Bristow",
+                "type": "internal",
+                "page": "Laurie Bristow"
+              }
+            ]
+          },
+          "monarch2": {
+            "text": "Elizabeth II",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Elizabeth II"
+              }
+            ]
+          },
+          "primeminister2": {
+            "text": "Boris Johnson",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Boris Johnson"
+              }
+            ]
+          },
+          "office3": {
+            "text": "British High Commissioner to Bangladesh",
+            "links": [
+              {
+                "text": "British High Commissioner to Bangladesh",
+                "type": "internal",
+                "page": "List of High Commissioners of the United Kingdom to Bangladesh"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "2016",
+            "number": 2016
+          },
+          "term_end3": {
+            "text": "2019",
+            "number": 2019
+          },
+          "predecessor3": {
+            "text": "Robert Gibson"
+          },
+          "successor3": {
+            "text": "Robert Chatterton Dickson"
+          },
+          "monarch3": {
+            "text": "Elizabeth II",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Elizabeth II"
+              }
+            ]
+          },
+          "primeminister3": {
+            "text": "Theresa May",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Theresa May"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Peter Henry"
+          },
+          "alma_mater": {
+            "text": "Merton College, Oxford (MA)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Merton College, Oxford"
+              },
+              {
+                "text": "MA",
+                "type": "internal",
+                "page": "Master of Arts"
+              }
+            ]
+          },
+          "occupation": {
+            "text": "Diplomat"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Blake was educated at Roan School for Girls and Merton College, Oxford, where she gained a MA degree in ancient and modern history in 1980.",
+              "links": [
+                {
+                  "text": "Roan School for Girls",
+                  "type": "internal",
+                  "page": "The John Roan School"
+                },
+                {
+                  "type": "internal",
+                  "page": "Merton College, Oxford"
+                },
+                {
+                  "text": "MA",
+                  "type": "internal",
+                  "page": "Master of Arts"
+                }
+              ]
+            },
+            {
+              "text": "She worked as an archaeologist for the Museum of London, English Heritage and the Greater London Council from 1983 to 1987."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "She joined the Ministry of Defence in 1989 and for a period served as assistant private secretary to the Secretary of State for Defence.",
+              "links": [
+                {
+                  "text": "Ministry of Defence",
+                  "type": "internal",
+                  "page": "Ministry of Defence (United Kingdom)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Secretary of State for Defence"
+                }
+              ]
+            },
+            {
+              "text": "She left the MOD in 1995 and transferred to the Foreign and Commonwealth Office (FCO) and was at the UK delegation to NATO in Brussels 1996–99; deputy head of the Eastern Adriatic Department at the FCO 1999–2001; at the embassy in Washington, D.C., 2001–05; on secondment to the Cabinet Office as Head of Foreign and Development Policy 2006–07; head of the Conflict Group at the FCO 2007–11; deputy High Commissioner to Pakistan 2011–14.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Foreign and Commonwealth Office"
+                },
+                {
+                  "type": "internal",
+                  "page": "Washington, D.C."
+                },
+                {
+                  "text": "High Commissioner",
+                  "type": "internal",
+                  "page": "High Commissioner (Commonwealth)"
+                }
+              ]
+            },
+            {
+              "text": "She became High Commissioner to Bangladesh in January 2016 and moved to become Ambassador to Afghanistan in May 2019."
+            },
+            {
+              "text": "She was succeeded by Sir Laurie Bristow in June 2021.",
+              "links": [
+                {
+                  "text": "Sir Laurie Bristow",
+                  "type": "internal",
+                  "page": "Laurie Bristow"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Blake was appointed a Companion of the Order of St. Michael and St. George (CMG) in the 2018 New Year Honours \"for services to British foreign and security policy.\"",
+              "links": [
+                {
+                  "text": "2018 New Year Honours",
+                  "type": "internal",
+                  "page": "2018 New Year Honours"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In March 2022 the Foreign, Commonwealth & Development Office announced that Blake would be the new Governor of the Falkland Islands and Commissioner for South Georgia and the South Sandwich Islands, succeeding Nigel Phillips in July 2022.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Foreign, Commonwealth & Development Office"
+                },
+                {
+                  "type": "internal",
+                  "page": "Governor of the Falkland Islands"
+                },
+                {
+                  "type": "internal",
+                  "page": "Commissioner for South Georgia and the South Sandwich Islands"
+                },
+                {
+                  "type": "internal",
+                  "page": "Nigel Phillips"
+                }
+              ]
+            },
+            {
+              "text": "She is the first female governor of the islands."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.ukwhoswho.com/view/10.1093/ww/9780199540884.001.0001/ww-9780199540884-e-285068",
+          "title": "Blake, Alison Mary",
+          "work": "Who's Who 2018",
+          "date": "1 December 2018",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.gov.uk/government/news/change-of-british-high-commissioner-to-bangladesh",
+          "title": "Change of British High Commissioner to Bangladesh",
+          "publisher": "Foreign & Commonwealth Office",
+          "date": "12 October 2015",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.gov.uk/government/news/change-of-her-majestys-ambassador-to-afghanistan-may-2019",
+          "title": "Change of Her Majesty's Ambassador to Afghanistan – May 2019",
+          "publisher": "Foreign & Commonwealth Office",
+          "date": "15 April 2019",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.gov.uk/government/news/change-of-her-majestys-ambassador-to-afghanistan-laurie-bristow",
+          "title": "Change of Her Majesty's Ambassador to Afghanistan: Laurie Bristow",
+          "website": "GOV.UK",
+          "publisher": "Foreign, Commonwealth & Development Office",
+          "date": "24 May 2021",
+          "access-date": "27 May 2021",
+          "template": "citation",
+          "type": "press release"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "url": "https://www.gov.uk/government/news/change-of-governor-of-the-falkland-islands-alison-mary-blake-cmg",
+          "title": "Change of Governor of the Falkland Islands: Alison Mary Blake CMG",
+          "website": "GOV.UK",
+          "publisher": "Foreign, Commonwealth & Development Office",
+          "date": "14 March 2022",
+          "access-date": "24 March 2022",
+          "template": "citation",
+          "type": "press release"
+        },
+        {
+          "url": "https://en.mercopress.com/2022/03/15/first-woman-governor-of-the-falkland-islands-alison-mary-blake-cmg",
+          "title": "First Woman Governor of the Falkland Islands: Alison Mary Blake CMG",
+          "website": "www.mercopress.com",
+          "publisher": "MercoPress",
+          "date": "15 March 2022",
+          "access-date": "24 March 2022",
+          "template": "citation",
+          "type": "press release"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        },
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-dip"
+        },
+        {
+          "before": "Robert Gibson",
+          "template": "s-bef"
+        },
+        {
+          "title": "British High Commissioner to Bangladesh",
+          "years": "2016–2019",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Robert Chatterton Dickson",
+          "template": "s-aft"
+        },
+        {
+          "before": "Nicholas Kay",
+          "template": "s-bef"
+        },
+        {
+          "title": "British Ambassador to Afghanistan",
+          "years": "2019–2021",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Laurie Bristow",
+          "template": "s-aft"
+        },
+        {
+          "template": "s-off"
+        },
+        {
+          "rows": "2",
+          "before": "Nigel Phillips",
+          "template": "s-bef"
+        },
+        {
+          "title": "Governor of the Falkland Islands",
+          "years": "2022&ndash;present",
+          "template": "s-ttl"
+        },
+        {
+          "rows": "2",
+          "template": "s-inc"
+        },
+        {
+          "title": "Commissioner for South Georgia and the South Sandwich Islands",
+          "years": "2022&ndash;present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "uk-diplomat-stub"
+        },
+        {
+          "template": "falklands-stub"
+        }
+      ]
+    }
+  ]
+}

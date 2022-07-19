@@ -1,0 +1,904 @@
+{
+  "title": "Laurie Bristow",
+  "pageID": 4343837,
+  "categories": [
+    "1963 births",
+    "Living people",
+    "People educated at Colchester Royal Grammar School",
+    "Alumni of Trinity College, Cambridge",
+    "Ambassadors of the United Kingdom to Azerbaijan",
+    "Ambassadors of the United Kingdom to Russia",
+    "Ambassadors of the United Kingdom to Afghanistan",
+    "Knights Commander of the Order of St Michael and St George"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Sir Laurence Stanley Charles Bristow (born 23 November 1963) is a British diplomat who served as British Ambassador to Afghanistan between June and November 2021, notably during the fall of Kabul.",
+              "links": [
+                {
+                  "text": "British Ambassador to Afghanistan",
+                  "type": "internal",
+                  "page": "List of ambassadors of the United Kingdom to Afghanistan"
+                },
+                {
+                  "text": "fall of Kabul",
+                  "type": "internal",
+                  "page": "Fall of Kabul (2021)"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Sir Laurence Stanley Charles Bristow"
+                ]
+              }
+            },
+            {
+              "text": "He served as British Ambassador to Azerbaijan from 2004 to 2007 and British Ambassador to Russia from 2016 to 2020.",
+              "links": [
+                {
+                  "text": "British Ambassador to Azerbaijan",
+                  "type": "internal",
+                  "page": "List of ambassadors of the United Kingdom to Azerbaijan"
+                },
+                {
+                  "text": "British Ambassador to Russia",
+                  "type": "internal",
+                  "page": "List of ambassadors of the United Kingdom to Russia"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "British diplomat",
+          "bot": "PearBOT 5",
+          "template": "short description"
+        },
+        {
+          "date": "February 2016",
+          "template": "use dmy dates"
+        },
+        {
+          "date": "February 2016",
+          "template": "use british english"
+        },
+        {
+          "list": [
+            "David Cameron",
+            "Theresa May",
+            "Boris Johnson"
+          ],
+          "template": "unbulleted list"
+        },
+        {
+          "year": "1963",
+          "month": "11",
+          "day": "23",
+          "df": "y",
+          "template": "birth date and age"
+        },
+        {
+          "country": "GBR",
+          "size": "100%",
+          "list": [
+            "KCMG"
+          ],
+          "template": "post-nominals"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Sir Laurie Bristow"
+          },
+          "honorific_suffix": {
+            "text": "KCMG",
+            "links": [
+              {
+                "text": "KCMG",
+                "type": "internal",
+                "page": "Order of St Michael and St George"
+              }
+            ]
+          },
+          "image": {
+            "text": "Laurie Bristow.jpg"
+          },
+          "office": {
+            "text": "British Ambassador to Afghanistan",
+            "links": [
+              {
+                "text": "British Ambassador to Afghanistan",
+                "type": "internal",
+                "page": "List of ambassadors of the United Kingdom to Afghanistan"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "June 2021"
+          },
+          "term_end": {
+            "text": "November 2021"
+          },
+          "predecessor": {
+            "text": "Alison Blake",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Alison Blake"
+              }
+            ]
+          },
+          "successor": {
+            "text": "Martin Longden (chargé d'affaires)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Martin Longden"
+              }
+            ]
+          },
+          "monarch": {
+            "text": "Elizabeth II",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Elizabeth II"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Boris Johnson",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Boris Johnson"
+              }
+            ]
+          },
+          "office1": {
+            "text": "British Ambassador to Russia",
+            "links": [
+              {
+                "text": "British Ambassador to Russia",
+                "type": "internal",
+                "page": "List of ambassadors of the United Kingdom to Russia"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "January 2016"
+          },
+          "term_end1": {
+            "text": "January 2020"
+          },
+          "predecessor1": {
+            "text": "Sir Tim Barrow",
+            "links": [
+              {
+                "text": "Sir Tim Barrow",
+                "type": "internal",
+                "page": "Tim Barrow"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Deborah Bronnert",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Deborah Bronnert"
+              }
+            ]
+          },
+          "monarch1": {
+            "text": "Elizabeth II",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Elizabeth II"
+              }
+            ]
+          },
+          "primeminister1": {
+            "text": "David Cameron\n\nTheresa May\n\nBoris Johnson"
+          },
+          "office2": {
+            "text": "British Ambassador to Azerbaijan",
+            "links": [
+              {
+                "text": "British Ambassador to Azerbaijan",
+                "type": "internal",
+                "page": "List of ambassadors of the United Kingdom to Azerbaijan"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "18 February 2004"
+          },
+          "term_end2": {
+            "text": "2007",
+            "number": 2007
+          },
+          "predecessor2": {
+            "text": "Andy Tucker",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Andy Tucker"
+              }
+            ]
+          },
+          "successor2": {
+            "text": "Carolyn Browne",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Carolyn Browne"
+              }
+            ]
+          },
+          "monarch2": {
+            "text": "Elizabeth II",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Elizabeth II"
+              }
+            ]
+          },
+          "primeminister2": {
+            "text": "Tony Blair",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Tony Blair"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "November 23, 1963"
+          },
+          "nationality": {
+            "text": "British"
+          },
+          "spouse": {
+            "text": "Fiona"
+          },
+          "children": {
+            "text": "2",
+            "number": 2
+          },
+          "education": {
+            "text": "Colchester Royal Grammar School",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Colchester Royal Grammar School"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Trinity College, Cambridge (BA) University of Cambridge (PhD) The Open University (MBA)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Trinity College, Cambridge"
+              },
+              {
+                "text": "BA",
+                "type": "internal",
+                "page": "Bachelor of Arts"
+              },
+              {
+                "type": "internal",
+                "page": "University of Cambridge"
+              },
+              {
+                "type": "internal",
+                "page": "PhD"
+              },
+              {
+                "type": "internal",
+                "page": "The Open University"
+              },
+              {
+                "type": "internal",
+                "page": "MBA"
+              }
+            ]
+          },
+          "occupation": {
+            "text": "Diplomat"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Education and personal life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Bristow was educated at Colchester Royal Grammar School, and Trinity College, Cambridge, where he graduated with a BA in 1986.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Colchester Royal Grammar School"
+                },
+                {
+                  "type": "internal",
+                  "page": "Trinity College, Cambridge"
+                },
+                {
+                  "text": "BA",
+                  "type": "internal",
+                  "page": "Bachelor of Arts"
+                }
+              ]
+            },
+            {
+              "text": "He received a PhD in English literature from the University of Cambridge in 1990, with a thesis called \"Ezra Pound: Poetry and Public Speaking\".",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "PhD"
+                },
+                {
+                  "type": "internal",
+                  "page": "University of Cambridge"
+                }
+              ]
+            },
+            {
+              "text": "He also gained a MBA in 2001 from The Open University.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "MBA"
+                },
+                {
+                  "type": "internal",
+                  "page": "The Open University"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Bristow is married to Fiona and has two sons."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "last1": "Oliphant",
+          "first1": "Roland",
+          "title": "Britain's ambassador to Afghanistan plans to stay in Kabul 'for as long as possible'",
+          "url": "https://www.telegraph.co.uk/world-news/2021/08/16/britains-ambassador-afghanistan-plans-stay-kabul-long-possible/",
+          "access-date": "16 August 2021",
+          "work": "The Telegraph",
+          "date": "16 August 2021",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://www.ukwhoswho.com/view/article/oupww/whoswho/U10000004",
+          "title": "BRISTOW, Dr. Laurence Stanley Charles",
+          "work": "Who's Who 2015, online edition",
+          "author": "A & C Black",
+          "publisher": "Oxford University Press",
+          "year": "2015",
+          "accessdate": "2015-10-17",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.linkedin.com/in/laurie-bristow-84604b2/",
+          "title": "LinkedIn profile",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Bristow joined the Foreign and Commonwealth Office (FCO) in 1990.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Foreign and Commonwealth Office"
+                }
+              ]
+            },
+            {
+              "text": "In the winter of early 1992, after attending a year of Romanian language training in the UK, he was posted to Bucharest, Romania, where he worked for three years as second secretary.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Bucharest"
+                },
+                {
+                  "text": "second secretary",
+                  "type": "internal",
+                  "page": "second secretary"
+                }
+              ]
+            },
+            {
+              "text": "He then returned to the FCO in London, where he worked in the European Union department.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "London"
+                },
+                {
+                  "type": "internal",
+                  "page": "European Union"
+                }
+              ]
+            },
+            {
+              "text": "From 1996 to 1998 he served as private secretary to the Minister of State for Europe.",
+              "links": [
+                {
+                  "text": "private secretary",
+                  "type": "internal",
+                  "page": "private secretary"
+                },
+                {
+                  "type": "internal",
+                  "page": "Minister of State for Europe"
+                }
+              ]
+            },
+            {
+              "text": "After a year of Turkish language training, he worked in Ankara, Turkey as head of the political section from 1999 to 2002.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ankara"
+                }
+              ]
+            },
+            {
+              "text": "From 2002 to 2003 he worked in Rome at the NATO Defence College.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Rome"
+                },
+                {
+                  "type": "internal",
+                  "page": "NATO Defence College"
+                }
+              ]
+            },
+            {
+              "text": "In 2003 he worked on the Iraq policy unit at the FCO."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Bristow was British Ambassador to Azerbaijan from 18 February 2004 to 2007.",
+              "links": [
+                {
+                  "text": "British Ambassador to Azerbaijan",
+                  "type": "internal",
+                  "page": "List of ambassadors of the United Kingdom to Azerbaijan"
+                }
+              ]
+            },
+            {
+              "text": "He was minister (deputy head of mission) in Moscow from 2007 to 2010.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Moscow"
+                }
+              ]
+            },
+            {
+              "text": "He then returned to London as Director, Eastern Europe and Central Asia, from 2010 until 2012."
+            },
+            {
+              "text": "He subsequently replaced Thomas Drew as Director, Intelligence and National Security.",
+              "links": [
+                {
+                  "text": "Thomas Drew",
+                  "type": "internal",
+                  "page": "Thomas Drew (diplomat)"
+                }
+              ]
+            },
+            {
+              "text": "In 2015, he was succeeded by Jonathan Allen and appointed to be Ambassador to Russia, a role he served in from January 2016.",
+              "links": [
+                {
+                  "text": "Jonathan Allen",
+                  "type": "internal",
+                  "page": "Jonathan Allen (diplomat)"
+                },
+                {
+                  "text": "Ambassador to Russia",
+                  "type": "internal",
+                  "page": "List of ambassadors of the United Kingdom to Russia"
+                }
+              ]
+            },
+            {
+              "text": "In response to the poisoning of Sergei and Yulia Skripal, he had \"difficult conversations\" with the Russian government about deterrence.",
+              "links": [
+                {
+                  "text": "poisoning of Sergei and Yulia Skripal",
+                  "type": "internal",
+                  "page": "poisoning of Sergei and Yulia Skripal"
+                },
+                {
+                  "type": "internal",
+                  "page": "Russian government"
+                }
+              ]
+            },
+            {
+              "text": "His tenure ended in January 2020, and he was succeeded by Deborah Bronnert.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Deborah Bronnert"
+                }
+              ]
+            },
+            {
+              "text": "In March 2020 he was appointed Regional Ambassador for COP26 - China, Eastern Europe, Central Asia, Middle East, North Africa, jointly at the Foreign and Commonwealth Office and the Cabinet Office."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Bristow succeeded Alison Blake as Ambassador to Afghanistan in June 2021.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Alison Blake"
+                },
+                {
+                  "text": "Ambassador to Afghanistan",
+                  "type": "internal",
+                  "page": "List of ambassadors of the United Kingdom to Afghanistan"
+                }
+              ]
+            },
+            {
+              "text": "As Kabul fell to the Taliban on 15 August 2021 and people attempted to flee Afghanistan, Bristow remained at Kabul's airport, personally processing visa applications of British and Afghan nationals.",
+              "links": [
+                {
+                  "text": "Kabul fell to the Taliban",
+                  "type": "internal",
+                  "page": "Fall of Kabul (2021)"
+                },
+                {
+                  "text": "Kabul's airport",
+                  "type": "internal",
+                  "page": "Kabul International Airport"
+                },
+                {
+                  "text": "visa",
+                  "type": "internal",
+                  "page": "Travel visa"
+                }
+              ]
+            },
+            {
+              "text": "He later attempted to leave on 21 August (as reported by the Sunday Times and others), but was ordered to stay."
+            },
+            {
+              "text": "Bristow flew back to the UK on 29 August, announcing that the Embassy would operate from Qatar \"for the time being\".",
+              "links": [
+                {
+                  "text": "the Embassy",
+                  "type": "internal",
+                  "page": "Embassy of the United Kingdom, Kabul"
+                },
+                {
+                  "type": "internal",
+                  "page": "Qatar"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.gulabin.com/britishdiplomatsdirectory/pdf/britishdiplomatsdirectory.pdf",
+          "title": "British Diplomats Directory",
+          "date": "2015",
+          "accessdate": "2015-10-17",
+          "last": "Mackie",
+          "first": "Colin",
+          "page": "624",
+          "url-status": "dead",
+          "archiveurl": "https://web.archive.org/web/20160304104239/http://www.gulabin.com/britishdiplomatsdirectory/pdf/britishdiplomatsdirectory.pdf",
+          "archivedate": "4 March 2016",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Laurie Bristow",
+          "url": "https://www.azer.com/aiweb/categories/magazine/ai121_folder/121_articles/121_faces_british_embassy.html",
+          "website": "azer.com",
+          "access-date": "15 August 2021",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.gulabin.com/britishdiplomatsdirectory/pdf/britishdiplomatsdirectory.pdf",
+          "title": "British Diplomats Directory",
+          "date": "2015",
+          "accessdate": "2015-10-17",
+          "last": "Mackie",
+          "first": "Colin",
+          "page": "798",
+          "url-status": "dead",
+          "archiveurl": "https://web.archive.org/web/20160304104239/http://www.gulabin.com/britishdiplomatsdirectory/pdf/britishdiplomatsdirectory.pdf",
+          "archivedate": "4 March 2016",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.gulabin.com/britishdiplomatsdirectory/pdf/britishdiplomatsdirectory.pdf",
+          "title": "British Diplomats Directory",
+          "date": "2015",
+          "accessdate": "2015-10-17",
+          "last": "Mackie",
+          "first": "Colin",
+          "page": "912",
+          "url-status": "dead",
+          "archiveurl": "https://web.archive.org/web/20160304104239/http://www.gulabin.com/britishdiplomatsdirectory/pdf/britishdiplomatsdirectory.pdf",
+          "archivedate": "4 March 2016",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.parliament.uk/documents/commons-committees/foreign-affairs/Informalmeetings2014-15June%20-%20Nov.pdf",
+          "title": "Informal Meetings held by the Foreign Affairs Committee in Session 2014-15",
+          "date": "2015",
+          "accessdate": "2015-10-17",
+          "website": "Proceedings of the Foreign Affairs Committee",
+          "publisher": "UK Parliament",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Senior staff and salary data: March 2013",
+          "url": "https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/206624/SMS__Organogram_data_at_310313_published.csv/preview",
+          "website": "gov.uk",
+          "accessdate": "2015-10-17",
+          "publisher": "Her Majesty's Government",
+          "date": "2013-12-09",
+          "last": "Foreign & Commonwealth Office",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.gulabin.com/britishdiplomatsdirectory/pdf/britishdiplomatsdirectory.pdf",
+          "title": "British Diplomats Directory",
+          "date": "2015",
+          "accessdate": "2015-10-17",
+          "last": "Mackie",
+          "first": "Colin",
+          "page": "914",
+          "url-status": "dead",
+          "archiveurl": "https://web.archive.org/web/20160304104239/http://www.gulabin.com/britishdiplomatsdirectory/pdf/britishdiplomatsdirectory.pdf",
+          "archivedate": "4 March 2016",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.gov.uk/government/news/change-of-her-majestys-ambassador-to-russia",
+          "title": "Change of Her Majesty's Ambassador to Russia",
+          "publisher": "Foreign & Commonwealth Office",
+          "date": "18 November 2015",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.gov.uk/government/news/change-of-her-majestys-ambassador-to-afghanistan-laurie-bristow",
+          "title": "Change of Her Majesty's Ambassador to Afghanistan: Laurie Bristow",
+          "website": "GOV.UK",
+          "publisher": "Foreign, Commonwealth & Development Office",
+          "date": "24 May 2021",
+          "access-date": "27 May 2021",
+          "template": "citation",
+          "type": "press release"
+        },
+        {
+          "last1": "Selby",
+          "first1": "Jenn",
+          "last2": "Vaughan",
+          "first2": "Richard",
+          "title": "Afghanistan: UK ambassador Laurie Bristow remains in Kabul airport to process visas for evacuees",
+          "url": "https://inews.co.uk/news/politics/afghanistan-uk-ambassador-laurie-bristow-kabul-british-afghan-nationals-flee-taliban-1152597",
+          "access-date": "16 August 2021",
+          "work": "i",
+          "date": "16 August 2021",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Shipman",
+          "first1": "Timm",
+          "last2": "Glancy",
+          "first2": "Josh",
+          "title": "The £2 trillion Afghani-shambles \"A senior Foreign Office mandarin phoned Bristow and ordered him to stay\"",
+          "url": "https://www.thetimes.co.uk/article/the-2-trillion-afghani-shambles-58sdwt3t7",
+          "access-date": "11 March 2022",
+          "work": "i",
+          "date": "22 August 2021",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Revealed:The Times view on the British embassy in Kabul: Diplomatic Breakdown",
+          "url": "https://www.thetimes.co.uk/article/the-times-view-on-the-british-embassy-in-kabul-diplomatic-breakdown-q5np30phn",
+          "work": "i",
+          "date": "28 August 2021",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last": "Bowden",
+          "first": "George",
+          "last2": "Wright",
+          "first2": "Katie",
+          "date": "2021-08-29",
+          "title": "Afghanistan: British ambassador home as last UK troops leave",
+          "language": "en-GB",
+          "work": "BBC News",
+          "url": "https://www.bbc.com/news/uk-58372437",
+          "access-date": "2021-08-29",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Davidson",
+          "first1": "Anna",
+          "title": "The UC Interview Series: Sir Laurie Bristow",
+          "url": "https://uc.web.ox.ac.uk/article/the-uc-interview-series-sir-laurie-bristow",
+          "publisher": "University Consortium",
+          "access-date": "15 August 2021",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.gov.uk/government/people/laurie-bristow",
+          "title": "Dr Laurie Bristow KCMG",
+          "website": "GOV.UK",
+          "access-date": "18 August 2021",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Honours",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Bristow was appointed Companion of the Order of St Michael and St George (CMG) \"for services to British foreign policy interests and national security\" in the 2015 New Year Honours and promoted as Knight Commander of the Order of St Michael and St George (KCMG) in the 2019 New Year Honours.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Companion of the Order of St Michael and St George"
+                },
+                {
+                  "text": "2015 New Year Honours",
+                  "type": "internal",
+                  "page": "2015 New Year Honours"
+                },
+                {
+                  "type": "internal",
+                  "page": "Knight Commander of the Order of St Michael and St George"
+                },
+                {
+                  "text": "2019 New Year Honours",
+                  "type": "internal",
+                  "page": "2019 New Year Honours"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "url": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/767768/DS_O_NY19_M_G_HMTQ.pdf",
+          "title": "NEW YEAR 2019 DIPLOMATIC SERVICE AND OVERSEAS LIST",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-dip"
+        },
+        {
+          "years": "2004–2007",
+          "title": "British Ambassador to Azerbaijan",
+          "before": "Andy Tucker",
+          "after": "Carolyn Browne",
+          "template": "succession box"
+        },
+        {
+          "before": "Sir Tim Barrow",
+          "template": "s-bef"
+        },
+        {
+          "years": "2016–2020",
+          "title": "British Ambassador to Russia",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Deborah Bronnert",
+          "template": "s-aft"
+        },
+        {
+          "before": "Alison Blake",
+          "template": "s-bef"
+        },
+        {
+          "title": "British Ambassador to Afghanistan",
+          "years": "2021",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Martin Longden",
+          "as": "chargé d'affaires",
+          "template": "s-aft"
+        },
+        {
+          "template": "authority control"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1827 @@
+{
+  "title": "Johnny Mercer (politician)",
+  "pageID": 46648734,
+  "categories": [
+    "1981 births",
+    "British Army personnel of the War in Afghanistan (2001–2021)",
+    "British Army Commandos officers",
+    "Conservative Party (UK) MPs for English constituencies",
+    "Members of the Parliament of the United Kingdom for constituencies in Devon",
+    "Graduates of the Royal Military Academy Sandhurst",
+    "Living people",
+    "People educated at Eastbourne College",
+    "Royal Artillery officers",
+    "UK MPs 2015–2017",
+    "UK MPs 2017–2019",
+    "UK MPs 2019–present",
+    "People from Dartford"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "John Luther Mercer (born 17 August 1981) is a British Conservative politician and former British Army officer.",
+              "links": [
+                {
+                  "text": "Conservative",
+                  "type": "internal",
+                  "page": "Conservative Party (UK)"
+                },
+                {
+                  "type": "internal",
+                  "page": "British Army"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "John Luther Mercer"
+                ]
+              }
+            },
+            {
+              "text": "He has served as Member of Parliament for Plymouth Moor View since 2015.",
+              "links": [
+                {
+                  "text": "Member of Parliament",
+                  "type": "internal",
+                  "page": "Member of Parliament (United Kingdom)"
+                },
+                {
+                  "text": "Plymouth Moor View",
+                  "type": "internal",
+                  "page": "Plymouth Moor View (UK Parliament constituency)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Mercer served as Parliamentary Under-Secretary of State for Defence People and Veterans from July 2019 until April 2021, when, after notifying the chief whip that he intended to resign, he was dismissed by Prime Minister Boris Johnson.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Parliamentary Under-Secretary of State for Defence People and Veterans"
+                },
+                {
+                  "type": "internal",
+                  "page": "Boris Johnson"
+                }
+              ]
+            },
+            {
+              "text": "In July 2022, he was appointed Minister for Veterans’ Affairs at the Cabinet Office - attending Cabinet - as part of the caretaker administration following Boris Johnson’s resignation."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "British Conservative politician",
+          "template": "short description"
+        },
+        {
+          "date": "August 2021",
+          "template": "use dmy dates"
+        },
+        {
+          "date": "October 2019",
+          "template": "use british english"
+        },
+        {
+          "list": [
+            "Parliamentary Under-Secretary of State (2019–22)"
+          ],
+          "template": "efn"
+        },
+        {
+          "year": "1981",
+          "month": "8",
+          "day": "17",
+          "df": "yes",
+          "template": "birth date and age"
+        },
+        {
+          "spouse": "Felicity Cornelius",
+          "from": "2014",
+          "template": "marriage"
+        },
+        {
+          "list": [
+            "United Kingdom"
+          ],
+          "template": "army"
+        }
+      ],
+      "infoboxes": [
+        {
+          "embed": {
+            "text": "yes"
+          },
+          "allegiance": {
+            "text": "🇬🇧 United Kingdom",
+            "links": [
+              {
+                "text": "United Kingdom",
+                "type": "internal",
+                "page": "united kingdom"
+              }
+            ]
+          },
+          "serviceyears": {
+            "text": "2002–2013"
+          },
+          "rank": {
+            "text": "Captain",
+            "links": [
+              {
+                "text": "Captain",
+                "type": "internal",
+                "page": "Captain (British Army and Royal Marines)"
+              }
+            ]
+          },
+          "servicenumber": {
+            "text": "558186",
+            "number": 558186
+          },
+          "unit": {
+            "text": "29th Commando Regiment Royal Artillery",
+            "links": [
+              {
+                "text": "29th Commando Regiment Royal Artillery",
+                "type": "internal",
+                "page": "29th Commando Regiment Royal Artillery"
+              }
+            ]
+          },
+          "battles": {
+            "text": "War in Afghanistan\n*Operation Herrick",
+            "links": [
+              {
+                "text": "War in Afghanistan",
+                "type": "internal",
+                "page": "War in Afghanistan (2001–present)"
+              },
+              {
+                "type": "internal",
+                "page": "Operation Herrick"
+              }
+            ]
+          }
+        },
+        {
+          "name": {
+            "text": "Johnny Mercer"
+          },
+          "honorific-suffix": {
+            "text": "MP",
+            "links": [
+              {
+                "text": "MP",
+                "type": "internal",
+                "page": "Member of Parliament (United Kingdom)"
+              }
+            ]
+          },
+          "image": {
+            "text": "Official portrait of Johnny Mercer (cropped).jpg"
+          },
+          "caption": {
+            "text": "Official portrait, 2017"
+          },
+          "office": {
+            "text": "Minister of State for Veterans' Affairs",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Minister of State for Veterans' Affairs"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Boris Johnson",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Boris Johnson"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "7 July 2022"
+          },
+          "predecessor": {
+            "text": "Leo Docherty",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Leo Docherty"
+              }
+            ]
+          },
+          "primeminister1": {
+            "text": "Boris Johnson"
+          },
+          "term_start1": {
+            "text": "28 July 2019"
+          },
+          "term_end1": {
+            "text": "20 April 2021"
+          },
+          "predecessor1": {
+            "text": "Tobias Ellwood",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Tobias Ellwood"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Leo Docherty"
+          },
+          "office2": {
+            "text": "Member of Parliament\nfor Plymouth Moor View",
+            "links": [
+              {
+                "text": "Member of Parliament",
+                "type": "internal",
+                "page": "Member of Parliament (United Kingdom)"
+              },
+              {
+                "text": "Plymouth Moor View",
+                "type": "internal",
+                "page": "Plymouth Moor View (UK Parliament constituency)"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "7 May 2015"
+          },
+          "predecessor2": {
+            "text": "Alison Seabeck",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Alison Seabeck"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "August 17, 1981"
+          },
+          "birth_place": {
+            "text": "Dartford, Kent, England",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Dartford"
+              },
+              {
+                "type": "internal",
+                "page": "Kent"
+              }
+            ]
+          },
+          "children": {
+            "text": "3",
+            "number": 3
+          },
+          "spouse": {
+            "text": "Felicity Cornelius (m. 2014)"
+          },
+          "party": {
+            "text": "Conservative",
+            "links": [
+              {
+                "text": "Conservative",
+                "type": "internal",
+                "page": "Conservative Party (UK)"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Royal Military Academy, Sandhurst",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Royal Military Academy, Sandhurst"
+              }
+            ]
+          },
+          "website": {
+            "text": "johnnymercer.co.uk/"
+          },
+          "majority2": {
+            "text": "12,897 (29.2%)"
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Ministerial appointments: July 2022",
+          "url": "https://www.gov.uk/government/news/ministerial-appointments-july-2022",
+          "access-date": "2022-07-07",
+          "website": "GOV.UK",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Early life and career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "John Mercer was born in Dartford on 17 August 1981.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Dartford"
+                }
+              ]
+            },
+            {
+              "text": "The son of a banker and a nurse, he grew up in a strict Baptist family with seven siblings.",
+              "links": [
+                {
+                  "text": "banker",
+                  "type": "internal",
+                  "page": "bank"
+                },
+                {
+                  "text": "nurse",
+                  "type": "internal",
+                  "page": "Nursing"
+                },
+                {
+                  "text": "strict Baptist",
+                  "type": "internal",
+                  "page": "strict Baptist"
+                }
+              ]
+            },
+            {
+              "text": "Between 1995 and 2000, he was educated at Eastbourne College, a co-educational independent school in Eastbourne in East Sussex.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Eastbourne College"
+                },
+                {
+                  "text": "independent school",
+                  "type": "internal",
+                  "page": "independent school"
+                },
+                {
+                  "type": "internal",
+                  "page": "Eastbourne"
+                },
+                {
+                  "type": "internal",
+                  "page": "East Sussex"
+                }
+              ]
+            },
+            {
+              "text": "After completing school, he worked as an intern in the City of London from 2000 to 2002.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "City of London"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.telegraph.co.uk/politics/2018/05/06/military-charities-exploiting-soldiers-ptsd-says-tory-mp-johnny/",
+          "title": "Tory MP Johnny Mercer: My battles with mental illness - and how Army veterans are being exploited and failed",
+          "first": "Anna",
+          "last": "Mikhailova",
+          "date": "6 May 2018",
+          "newspaper": "The Daily Telegraph",
+          "access-date": "7 May 2018",
+          "location": "London",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "title": "Mercer, Johnny",
+          "encyclopedia": "WHO'S WHO",
+          "url": "http://www.ukwhoswho.com/view/10.1093/ww/9780199540884.001.0001/ww-9780199540884-e-283875",
+          "language": "en",
+          "doi": "10.1093/ww/9780199540884.013.U283875",
+          "isbn": "978-0-19-954088-4",
+          "template": "citation",
+          "type": "encyclopedia"
+        },
+        {
+          "url": "http://www.johnnyforplymouth.co.uk/life-before-being-an-mp/",
+          "title": "Life before being an MP",
+          "publisher": "Johnny For Plymouth",
+          "access-date": "29 February 2016",
+          "url-status": "live",
+          "archive-url": "https://web.archive.org/web/20160306035122/http://www.johnnyforplymouth.co.uk/life-before-being-an-mp/",
+          "archive-date": "6 March 2016",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Military career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Mercer was commissioned as a second lieutenant in the Royal Artillery after graduating from the Royal Military Academy, Sandhurst, in June 2003 and was promoted to lieutenant in April 2005.",
+              "links": [
+                {
+                  "text": "second lieutenant",
+                  "type": "internal",
+                  "page": "second lieutenant"
+                },
+                {
+                  "type": "internal",
+                  "page": "Royal Artillery"
+                },
+                {
+                  "type": "internal",
+                  "page": "Royal Military Academy, Sandhurst"
+                },
+                {
+                  "text": "lieutenant",
+                  "type": "internal",
+                  "page": "lieutenant"
+                }
+              ]
+            },
+            {
+              "text": "Mercer passed the All Arms Commando Course and served mostly with 29th Commando Regiment Royal Artillery and 3rd Regiment Royal Horse Artillery.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "All Arms Commando Course"
+                },
+                {
+                  "text": "29th Commando Regiment Royal Artillery",
+                  "type": "internal",
+                  "page": "29th Commando Regiment Royal Artillery"
+                },
+                {
+                  "text": "3rd Regiment Royal Horse Artillery",
+                  "type": "internal",
+                  "page": "3rd Regiment Royal Horse Artillery"
+                }
+              ]
+            },
+            {
+              "text": "He did three tours in Afghanistan: as a liaison and training officer with Afghan forces; attached to a Special Forces unit; and as a co-ordinator of artillery and air strikes in support of ground operations."
+            },
+            {
+              "text": "Mercer retired from military service in December 2013 with the rank of captain."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Two years after becoming an MP, in June 2017, Mercer published We Were Warriors: One Soldier's Story of Brutal Combat, a memoir of his upbringing and army service, especially his time in Afghanistan.",
+              "formatting": {
+                "italic": [
+                  "We Were Warriors: One Soldier's Story of Brutal Combat"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Mr Mercer worked to help military veterans to obtain a veterans ID card but unfortunately could not continue once stepping down from the position of Parliamentary Under-Secretary of State for Defence People and Veterans in April 2021.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Parliamentary Under-Secretary of State for Defence People and Veterans"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "Political career",
+      "depth": 0
+    },
+    {
+      "title": "Member of Parliament",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Mercer has said publicly that he had not been politically active in his younger years and the first time he voted was for himself when he first ran for office."
+            },
+            {
+              "text": "He said that he entered politics with a view to improving the care of veterans and felt that he was a Conservative because he regarded a \"massive welfare state that saps the ambition and drive of a younger generation\" as a problem."
+            },
+            {
+              "text": "After contacting ex-military Conservative MP Bob Stewart, he was selected as the Conservative Party candidate for Plymouth Moor View two months after leaving the army in February 2014.",
+              "links": [
+                {
+                  "text": "Bob Stewart",
+                  "type": "internal",
+                  "page": "Bob Stewart (politician)"
+                },
+                {
+                  "text": "Plymouth Moor View",
+                  "type": "internal",
+                  "page": "Plymouth Moor View (UK Parliament constituency)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Mercer has said he was largely responsible for organising his own campaign \"on the cheap\"."
+            },
+            {
+              "text": "To raise funds, he worked on building sites and appeared in a Dove shower gel advertisement."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He was elected to the House of Commons as the Member of Parliament for Plymouth Moor View at the 2015 general election, defeating the incumbent Labour MP, Alison Seabeck.",
+              "links": [
+                {
+                  "text": "Member of Parliament",
+                  "type": "internal",
+                  "page": "Member of Parliament (United Kingdom)"
+                },
+                {
+                  "text": "Plymouth Moor View",
+                  "type": "internal",
+                  "page": "Plymouth Moor View (UK Parliament constituency)"
+                },
+                {
+                  "text": "2015 general election",
+                  "type": "internal",
+                  "page": "2015 United Kingdom general election"
+                },
+                {
+                  "text": "Labour",
+                  "type": "internal",
+                  "page": "Labour Party (UK)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Alison Seabeck"
+                }
+              ]
+            },
+            {
+              "text": "Mercer delivered his maiden speech in the House of Commons on 1 June 2015, stating his \"main missions\" in Parliament to be improving provision for mental health and support for war veterans."
+            },
+            {
+              "text": "He has been critical of the Iraq Historic Allegations Team.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Iraq Historic Allegations Team"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Mercer was opposed to Brexit prior to the 2016 EU referendum.",
+              "links": [
+                {
+                  "text": "2016 EU referendum",
+                  "type": "internal",
+                  "page": "2016 United Kingdom European Union membership referendum"
+                }
+              ]
+            },
+            {
+              "text": "He later said that the result to leave should be respected."
+            },
+            {
+              "text": "Mercer was re-elected with an increased majority at the snap 2017 general election, and has focused on care for veterans.",
+              "links": [
+                {
+                  "text": "2017 general election",
+                  "type": "internal",
+                  "page": "2017 United Kingdom general election"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In July 2018 Mercer appeared in Celebrity Hunted, a Channel 4 television programme where participants go on the run and images are released of them so people can try to track them down.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Celebrity Hunted"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "Celebrity Hunted"
+                ]
+              }
+            },
+            {
+              "text": "While taking part in the programme he missed the meeting of the Health and Social Care Committee, of which he was a member, shortly before Parliament rose for the summer recess."
+            },
+            {
+              "text": "Mercer defended his decision, stating that he had used his position to raise money for charity and had brought his parliamentary roles into filming."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In October 2018, Mercer took on a second job working 20 hours a month as a consultant to Crucial Academy for a salary of £85,000 (equivalent to £350 per hour)."
+            },
+            {
+              "text": "Local Labour candidate Charlotte Holloway accused him of neglecting his constituency duties to earn a \"staggering\" amount of money."
+            },
+            {
+              "text": "Mercer said the accusation \"smacked of political jealousy\"."
+            },
+            {
+              "text": "In April 2019 the BBC reported that his salary at Crucial Academy was funded by the marketing agent for the failed London Capital and Finance bond scheme, although Crucial Group later denied this."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In an interview with The House magazine in October 2018, Mercer suggested that his values no longer aligned with the current Conservative party leadership and said there would be \"absolutely no chance\" that he would start as a candidate of the party at this time.",
+              "links": [
+                {
+                  "text": "The House",
+                  "type": "internal",
+                  "page": "The House (magazine)"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "The House"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In the House of Commons he sat on the Defence Committee, the Defence Sub-Committee (2015–19) and the Health and Social Care Committee (2017–19).",
+              "links": [
+                {
+                  "text": "House of Commons",
+                  "type": "internal",
+                  "page": "House of Commons of the United Kingdom"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On 8 May 2019, Mercer announced that he would no longer support the government's legislative agenda until it ended the system for prosecuting historical allegations against British soldiers, in particular in relation to actions during the British Army's presence in Northern Ireland during the Troubles of the latter third of the twentieth century.",
+              "links": [
+                {
+                  "text": "the Troubles",
+                  "type": "internal",
+                  "page": "the Troubles"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "last1": "Bennett",
+          "first1": "Owen",
+          "title": "Johnny Mercer: We need to 'grow up' over Iraq, my 'gippingly' embarrassing Dove advert and why Tony Blair is my political hero",
+          "url": "http://www.huffingtonpost.co.uk/2015/09/01/johnny-mercer-we-need-to-_n_8070974.html",
+          "access-date": "23 November 2015",
+          "work": "Huffington Post",
+          "date": "1 September 2015",
+          "url-status": "live",
+          "archive-url": "https://web.archive.org/web/20151002114510/http://www.huffingtonpost.co.uk/2015/09/01/johnny-mercer-we-need-to-_n_8070974.html",
+          "archive-date": "2 October 2015",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Mason",
+          "first1": "Rowena",
+          "title": "Plymouth MP appears half-naked in Dove shower gel advert",
+          "url": "https://www.theguardian.com/politics/2015/jul/07/plymouth-mp-dove-men-care-advert-johnny-mercer",
+          "access-date": "23 November 2015",
+          "newspaper": "The Guardian",
+          "location": "London",
+          "date": "7 July 2015",
+          "url-status": "live",
+          "archive-url": "https://web.archive.org/web/20151124063310/http://www.theguardian.com/politics/2015/jul/07/plymouth-mp-dove-men-care-advert-johnny-mercer",
+          "archive-date": "24 November 2015",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Plymouth MP is half-naked shower advert model confirms Dove",
+          "url": "https://www.plymouthherald.co.uk/Model-claims-naked-body-Plymouth-MP-s-shower-gel/story-26897760-detail/story.html",
+          "location": "Plymouth",
+          "work": "The Herald",
+          "access-date": "7 January 2018",
+          "date": "14 July 2015",
+          "first1": "Patrick",
+          "last1": "Daly",
+          "first2": "Sam",
+          "last2": "Blackledge",
+          "archive-url": "https://web.archive.org/web/20150716204014/https://www.plymouthherald.co.uk/Model-claims-naked-body-Plymouth-MP-s-shower-gel/story-26897760-detail/story.html",
+          "archive-date": "16 July 2015",
+          "url-status": "dead",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last": "Kirkup",
+          "first": "James",
+          "url": "https://www.telegraph.co.uk/news/politics/11646320/Cynical-about-politicians-This-speech-by-Johnny-Mercer-MP-should-make-you-think-again.html",
+          "title": "Cynical about politicians? This speech by Johnny Mercer MP should make you think again",
+          "newspaper": "The Daily Telegraph",
+          "location": "London",
+          "date": "2 June 2015",
+          "access-date": "3 June 2015",
+          "url-status": "live",
+          "archive-url": "https://web.archive.org/web/20150602232719/http://www.telegraph.co.uk/news/politics/11646320/Cynical-about-politicians-This-speech-by-Johnny-Mercer-MP-should-make-you-think-again.html",
+          "archive-date": "2 June 2015",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://www.plymouthherald.co.uk/johnny-mercer-why-i-have-changed-my-mind-over-brexit/story-30243057-detail/story.html",
+          "title": "Johnny Mercer: Why I have changed my mind over Brexit",
+          "newspaper": "Plymouth Herald",
+          "date": "2 April 2017",
+          "access-date": "22 July 2017",
+          "url-status": "dead",
+          "archive-url": "https://web.archive.org/web/20170405044409/http://www.plymouthherald.co.uk/johnny-mercer-why-i-have-changed-my-mind-over-brexit/story-30243057-detail/story.html",
+          "archive-date": "5 April 2017",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://www.plymouthherald.co.uk/plymouth-moor-view-election-result-conservative-johnny-mercer-re-elected/story-30380638-detail/story.html",
+          "title": "Plymouth Moor View result: Conservative Johnny Mercer re-elected",
+          "date": "9 June 2017",
+          "newspaper": "Plymouth Herald",
+          "access-date": "22 July 2017",
+          "url-status": "dead",
+          "archive-url": "https://web.archive.org/web/20170609072325/http://www.plymouthherald.co.uk/plymouth-moor-view-election-result-conservative-johnny-mercer-re-elected/story-30380638-detail/story.html",
+          "archive-date": "9 June 2017",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.plymouthherald.co.uk/news/plymouth-news/johnny-mercer-celebrity-hunted-nhs-1828063",
+          "title": "Plymouth MP 'missed key NHS debate to appear on reality TV show'",
+          "date": "26 July 2018",
+          "access-date": "10 October 2018",
+          "work": "Plymouth Herald",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.plymouthherald.co.uk/news/plymouth-news/johnny-mercer-hunted-tory-mp-1835507",
+          "title": "Tory MP explains why he missed parliament talk to go on reality TV show",
+          "date": "28 July 2018",
+          "access-date": "10 October 2018",
+          "work": "Plymouth Herald",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.plymouthherald.co.uk/news/plymouth-news/labour-candidate-blasts-plymouth-tory-2082152",
+          "title": "Labour candidate blasts Plymouth Tory MP's £85,000 a year second job",
+          "date": "7 October 2018",
+          "access-date": "10 October 2018",
+          "work": "Plymouth Herald",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Quevatre",
+          "first1": "Chris",
+          "title": "MP Johnny Mercer's salary funded by failed bond scheme marketing agent",
+          "url": "https://www.bbc.co.uk/news/uk-england-devon-47884273",
+          "access-date": "24 April 2019",
+          "work": "BBC News",
+          "publisher": "BBC News",
+          "date": "24 April 2019",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.eveningexpress.co.uk/news/business/company-linked-to-mp-taking-legal-action-over-bbc-report/",
+          "title": "Company linked to MP 'taking legal action' over BBC report",
+          "work": "The Evening Express",
+          "date": "24 April 2019",
+          "access-date": "27 April 2019",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Johnny Mercer has said he would not vote Conservative if he was not already an MP for the party",
+          "url": "https://www.politicshome.com/news/uk/political-parties/conservative-party/news/99157/excl-johnny-mercer-i-would-not-vote-tory-if",
+          "work": "PoliticsHome",
+          "first": "Sebastian",
+          "last": "Whale",
+          "date": "18 October 2018",
+          "access-date": "21 October 2018",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.belfasttelegraph.co.uk/news/uk/tory-mp-mercer-strikes-over-troubles-soldiers-prosecutions-38093858.html",
+          "title": "Tory MP Mercer strikes over Troubles soldiers' prosecutions",
+          "work": "Belfast Telegraph",
+          "date": "8 May 2019",
+          "first": "Jonathan",
+          "last": "Bell",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Prince",
+          "first1": "Rosa",
+          "title": "Afghanistan veteran Johnny Mercer's Westminster mission",
+          "url": "https://www.telegraph.co.uk/news/politics/conservative/11654990/Afghanistan-veteran-Johnny-Mercers-Westminster-mission.html",
+          "access-date": "23 November 2015",
+          "newspaper": "The Daily Telegraph",
+          "date": "6 June 2015",
+          "url-status": "live",
+          "archive-url": "https://web.archive.org/web/20151127032111/http://www.telegraph.co.uk/news/politics/conservative/11654990/Afghanistan-veteran-Johnny-Mercers-Westminster-mission.html",
+          "archive-date": "27 November 2015",
+          "location": "London",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Somper",
+          "first1": "James",
+          "title": "British soldiers cleared of Iraqi civilian's death could now face prosecution",
+          "url": "https://www.independent.co.uk/news/world/middle-east/british-soldiers-cleared-of-iraqi-civilians-death-could-now-face-prosecution-a7314616.html",
+          "access-date": "12 October 2016",
+          "work": "The Independent",
+          "location": "London",
+          "date": "18 September 2016",
+          "quote": "Mr Mercer, who has just started chairing a parliamentary select committee inquiry into the post-operational support given to armed forces personnel said that he was \"deeply ashamed\" of the decision and labelled Ihat and the 1,500 cases it is currently investigating as a \"fatally flawed process\" that should be shut down",
+          "url-status": "live",
+          "archive-url": "https://web.archive.org/web/20161012225414/http://www.independent.co.uk/news/world/middle-east/british-soldiers-cleared-of-iraqi-civilians-death-could-now-face-prosecution-a7314616.html",
+          "archive-date": "12 October 2016",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://blogs.spectator.co.uk/2016/02/which-tory-mps-back-brexit-who-doesnt-and-who-is-still-on-the-fence/",
+          "title": "Which Tory MPs back Brexit, who doesn't and who is still on the fence?",
+          "last1": "Goodenough",
+          "first1": "Tom",
+          "date": "16 February 2016",
+          "work": "The Spectator",
+          "access-date": "11 October 2016",
+          "archive-url": "https://web.archive.org/web/20170203120144/http://blogs.spectator.co.uk/2016/02/which-tory-mps-back-brexit-who-doesnt-and-who-is-still-on-the-fence/",
+          "archive-date": "3 February 2017",
+          "url-status": "live",
+          "location": "London",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.standard.co.uk/lifestyle/books/we-were-warriors-one-soldier-s-story-of-brutal-combat-by-johnny-mercer-review-a3571146.html",
+          "title": "We Were Warriors: One Soldier's Story of Brutal Combat - review",
+          "date": "22 June 2017",
+          "work": "London Evening Standard",
+          "access-date": "22 July 2017",
+          "url-status": "live",
+          "archive-url": "https://web.archive.org/web/20170630164814/http://www.standard.co.uk/lifestyle/books/we-were-warriors-one-soldier-s-story-of-brutal-combat-by-johnny-mercer-review-a3571146.html",
+          "archive-date": "30 June 2017",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Johnny Mercer",
+          "url": "https://www.parliament.uk/biographies/commons/johnny-mercer/4485",
+          "website": "Parliament UK",
+          "access-date": "21 October 2020",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Expenses",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Mercer has been challenged over his expenses several times."
+            },
+            {
+              "text": "His campaign to get elected as an MP in 2015 was subsequently the subject of a police investigation following allegations that it breached rules on campaign spending."
+            },
+            {
+              "text": "Mercer admitted to police that his account of expenses had been incorrect, but stated that the errors were minor and his spending had not breached legal limits."
+            },
+            {
+              "text": "The Crown Prosecution Service decided not to charge him, and the case was dropped.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Crown Prosecution Service"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In November 2015, he was criticised by the TaxPayers' Alliance after it was revealed he had purchased five Apple iMac computers on his Commons expenses, rather than 'cheaper equivalents'.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "TaxPayers' Alliance"
+                },
+                {
+                  "type": "internal",
+                  "page": "Apple iMac"
+                }
+              ]
+            },
+            {
+              "text": "Mercer responded that the purchases were appropriate and 'were cheaper than the desktop computers offered to MPs by the House of Commons' official supplier'."
+            },
+            {
+              "text": "He was criticised in May 2016 for claiming £2,500 on expenses for \"professional services\" on social media management, and in December 2017 the Independent Parliamentary Standards Authority opened an investigation to determine whether Mercer had been paid business expenses he should not have been.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Independent Parliamentary Standards Authority"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "As of 2015, Mercer employed his wife on a part-time basis."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "date": "February 2021",
+          "template": "by whom"
+        },
+        {
+          "date": "April 2021",
+          "template": "needs update"
+        },
+        {
+          "date": "April 2021",
+          "template": "needs update"
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.plymouthherald.co.uk/plymouth-mp-admitted-expenses-error-in-police-interview/story-30261634-detail/story.html",
+          "title": "No action against Plymouth MP after 'admitting expenses error",
+          "last": "Blackledge",
+          "first": "Sam",
+          "date": "10 April 2017",
+          "work": "Plymouth Herald}}{{Dead link|date=February 2020 |bot=InternetArchiveBot |fix-attempted=yes |undefined",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.theguardian.com/politics/2017/apr/10/tory-election-spending-johnny-mercer-mp-police-some-claims-were-wrong",
+          "title": "Tory election spending: MP admitted to police some claims were wrong",
+          "date": "10 April 2017",
+          "newspaper": "The Guardian",
+          "access-date": "11 April 2017",
+          "archive-url": "https://web.archive.org/web/20170410205330/https://www.theguardian.com/politics/2017/apr/10/tory-election-spending-johnny-mercer-mp-police-some-claims-were-wrong",
+          "archive-date": "10 April 2017",
+          "url-status": "live",
+          "location": "London",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.bbc.co.uk/news/uk-england-devon-33444137",
+          "title": "MP Johnny Mercer's campaign expenditure investigated",
+          "date": "8 July 2015",
+          "access-date": "23 November 2015",
+          "archive-url": "https://web.archive.org/web/20151009010531/http://www.bbc.co.uk/news/uk-england-devon-33444137",
+          "archive-date": "9 October 2015",
+          "url-status": "live",
+          "work": "BBC News",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.standard.co.uk/news/politics/tory-mp-johnny-mercer-accused-over-3500-expenses-claim-for-five-imacs-a3115271.html",
+          "title": "Tory MP Johnny Mercer accused over £3,500 expenses claim for five iMacs",
+          "date": "16 November 2015",
+          "access-date": "10 October 2018",
+          "work": "Evening Standard",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.plymouthherald.co.uk/news/plymouth-news/johnny-mercer-expenses-investigation-watchdog-873385",
+          "title": "Johnny Mercer expenses investigation: Watchdog launches probe into Plymouth MP",
+          "date": "4 December 2017",
+          "work": "Plymouth Herald",
+          "access-date": "10 October 2018",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.telegraph.co.uk/news/newstopics/mps-expenses/11706561/One-in-four-MPs-employs-a-family-member-the-full-list-revealed.html",
+          "title": "One in five MPs employs a family member: the full list revealed",
+          "date": "29 June 2015",
+          "work": "The Daily Telegraph",
+          "access-date": "10 October 2018",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Junior ministerial role",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Mercer was an early backer of Boris Johnson in the 2019 Conservative Party leadership election.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Boris Johnson"
+                },
+                {
+                  "text": "2019 Conservative Party leadership election",
+                  "type": "internal",
+                  "page": "2019 Conservative Party leadership election"
+                }
+              ]
+            },
+            {
+              "text": "He said that he believed \"Boris is the man of the moment\" and was capable of securing a better Brexit deal for the United Kingdom."
+            },
+            {
+              "text": "On 28 July 2019, Mercer was appointed as Minister for Defence People and Veterans in Johnson's government.",
+              "links": [
+                {
+                  "text": "Minister for Defence People and Veterans",
+                  "type": "internal",
+                  "page": "Minister for Veterans"
+                }
+              ]
+            },
+            {
+              "text": "In the role, Mercer's responsibility includes armed forces personnel and veterans' welfare."
+            },
+            {
+              "text": "Mercer was also tasked by the Prime Minister to focus on ending the legal pursuit of former service personnel, especially those who had served during the Troubles in Northern Ireland.",
+              "links": [
+                {
+                  "text": "the Troubles",
+                  "type": "internal",
+                  "page": "the Troubles"
+                },
+                {
+                  "type": "internal",
+                  "page": "Northern Ireland"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On 27 September 2019, Mercer was accused of having broken the ministerial code for not resigning from his role at a training firm whilst in government."
+            },
+            {
+              "text": "He held a second job as a director of Crucial Academy Ltd, which retrains former military personnel."
+            },
+            {
+              "text": "Shadow Cabinet ministers Tom Watson and Nia Griffith wrote a letter to the Cabinet Secretary Mark Sedwill asking him to investigate whether Mercer had broken the code through his directorship at the company.",
+              "links": [
+                {
+                  "text": "Shadow Cabinet",
+                  "type": "internal",
+                  "page": "Shadow Cabinet of Jeremy Corbyn"
+                },
+                {
+                  "text": "Tom Watson",
+                  "type": "internal",
+                  "page": "Tom Watson (Labour politician)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Nia Griffith"
+                },
+                {
+                  "text": "Cabinet Secretary",
+                  "type": "internal",
+                  "page": "Cabinet Secretary (United Kingdom)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Mark Sedwill"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Mercer held his seat in the 2019 general election, increasing his majority to nearly 13,000 votes.",
+              "links": [
+                {
+                  "text": "2019 general election",
+                  "type": "internal",
+                  "page": "2019 United Kingdom general election"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On 20 April 2021, Mercer was \"sacked by text\" after offering to resign at the end of Wednesday 21 April, but refusing to go earlier."
+            },
+            {
+              "text": "In a tweet, Mercer said he was \"relieved of [his] responsibilities in Government\" because of his disagreements with the scope of the proposed Overseas Operations Bill."
+            },
+            {
+              "text": "The bill was designed to protect veterans from vexatious allegations but Human Rights Watch argued that the law's enactment would give immunity to British soldiers from prosecution for war crimes and other serious crimes against humanity.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Human Rights Watch"
+                },
+                {
+                  "text": "war crimes",
+                  "type": "internal",
+                  "page": "war crimes"
+                }
+              ]
+            },
+            {
+              "text": "Because the bill only covered operations conducted outside the United Kingdom, Mercer said it was a \"red line\" for him that British soldiers who served in Northern Ireland would be excluded from the Bill."
+            },
+            {
+              "text": "The bill's key proposals were rejected by the House of Lords."
+            },
+            {
+              "text": "Mercer told Times Radio that he thought the Second Johnson ministry was \"the most distrustful, awful environment I've ever worked in\".",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Times Radio"
+                },
+                {
+                  "type": "internal",
+                  "page": "Second Johnson ministry"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He returned to government after the 2022 British cabinet reshuffle.",
+              "links": [
+                {
+                  "text": "2022 British cabinet reshuffle",
+                  "type": "internal",
+                  "page": "2022 British cabinet reshuffle"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://twitter.com/JohnnyMercerUK/status/1148706813363310593",
+          "title": "Brilliant. And why I backed him from the start. Can't wait to get back to this.",
+          "work": "Twitter",
+          "date": "9 July 2019",
+          "access-date": "20 July 2019",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.plymouthherald.co.uk/news/plymouth-news/johnny-mercer-reveals-backs-boris-3087210",
+          "last": "Telford",
+          "first": "William",
+          "date": "14 July 2019",
+          "title": "Johnny Mercer reveals why he backs Boris and wants Brexit",
+          "website": "Plymouth Herald",
+          "access-date": "18 December 2019",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.politicshome.com/news/uk/defence/news/105617/johnny-mercer-gets-defence-minister-job-boris-johnson-pledges-dedicated",
+          "last": "Honeycombe-Foster",
+          "first": "Matt",
+          "date": "29 July 2019",
+          "title": "Johnny Mercer gets defence minister job as Boris Johnson pledges dedicated veterans' office",
+          "website": "Politics Home",
+          "access-date": "18 December 2019",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.theguardian.com/politics/2019/sep/27/defence-minister-may-have-breached-rules-over-second-job",
+          "title": "UK minister 'may have breached' rules over second job",
+          "last": "Syal",
+          "first": "Rajeev",
+          "date": "27 September 2019",
+          "work": "The Guardian",
+          "access-date": "28 September 2019",
+          "language": "en-GB",
+          "issn": "0261-3077",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.bbc.com/news/politics/constituencies/E14000879",
+          "title": "Plymouth Moor View parliamentary constituency - Election 2019",
+          "access-date": "13 December 2019",
+          "language": "en-GB",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.plymouthherald.co.uk/news/plymouth-news/plymouth-moor-view-election-results-3639542",
+          "title": "Tory Johnny Mercer wins Plymouth Moor View with huge majority",
+          "last": "O'Leary",
+          "first": "Miles",
+          "date": "13 December 2019",
+          "work": "Plymouth Herald",
+          "access-date": "13 December 2019",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "date": "21 April 2021",
+          "title": "Johnny Mercer: Sacked minister attacks 'distrustful' government",
+          "language": "en-GB",
+          "work": "BBC News",
+          "url": "https://www.bbc.com/news/uk-politics-56838589",
+          "access-date": "21 April 2021",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Overseas Operations (Service Personnel and Veterans) Bill - Parliamentary Bills - UK Parliament",
+          "url": "https://bills.parliament.uk/bills/2727",
+          "access-date": "21 April 2021",
+          "website": "bills.parliament.uk",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "user": "JohnnyMercerUK",
+          "author": "Johnny Mercer",
+          "number": "1384572401179144193",
+          "title": "I'm sorry to have been relieved of my responsibilities in Government tonight.",
+          "template": "citation",
+          "type": "tweet"
+        },
+        {
+          "url": "https://www.hrw.org/news/2020/09/23/uk-seeks-stop-justice-war-crimes",
+          "title": "UK Seeks to Stop Justice for War Crimes",
+          "work": "hrw.org",
+          "date": "23 September 2020",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "20 April 2021",
+          "title": "Johnny Mercer: Tory MP resigns as defence minister",
+          "language": "en-GB",
+          "work": "BBC News",
+          "url": "https://www.bbc.com/news/uk-politics-56823348",
+          "access-date": "20 April 2021",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "date": "20 April 2021",
+          "title": "Defence minister Johnny Mercer resigns from government",
+          "url": "http://www.theguardian.com/politics/2021/apr/20/defence-minister-johnny-mercer-on-brink-of-resigning",
+          "access-date": "20 April 2021",
+          "work": "The Guardian",
+          "language": "en",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://www.theguardian.com/uk-news/2021/apr/13/peers-seek-to-block-limit-on-uk-soldiers-accountability-for-war-crimes",
+          "title": "Peers vote to halt plans to limit UK soldiers' accountability for war crimes",
+          "date": "13 April 2021",
+          "work": "The Guardian",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "date": "21 April 2021",
+          "title": "Johnny Mercer: Sacked minister attacks 'distrustful' government",
+          "language": "en-GB",
+          "work": "BBC News",
+          "url": "https://www.bbc.com/news/uk-politics-56838589",
+          "access-date": "22 April 2021",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last": "Eve",
+          "first": "Carl",
+          "date": "2022-07-07",
+          "title": "Plymouth MP dismissed as minister is now back in the cabinet",
+          "url": "https://www.plymouthherald.co.uk/news/plymouth-news/plymouth-mp-dismissed-veterans-minister-7305975",
+          "access-date": "2022-07-07",
+          "website": "Plymouth Live",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Personal life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Mercer is married to Felicity and they have three children."
+            },
+            {
+              "text": "The family live in a small village on the edge of Bodmin Moor, in Cornwall.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Bodmin Moor"
+                },
+                {
+                  "type": "internal",
+                  "page": "Cornwall"
+                }
+              ]
+            },
+            {
+              "text": "For his work in Parliament, Mercer stays in a hotel on expenses.",
+              "links": [
+                {
+                  "text": "Parliament",
+                  "type": "internal",
+                  "page": "Parliament of the United Kingdom"
+                }
+              ]
+            },
+            {
+              "text": "When first elected, he slept in East London on his boat several nights a week, stating in The Daily Telegraph at the time that it reduced his expenses costs.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "East London"
+                },
+                {
+                  "type": "internal",
+                  "page": "The Daily Telegraph"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "The Daily Telegraph"
+                ]
+              }
+            },
+            {
+              "text": "After local media reported he had started using hotels instead, he said it was due to the weather conditions and that his expenses claims were still lower than the maximum that could be allowed."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On a summer boat trip in 2016, he rescued fellow Conservative MP Scott Mann who jumped into the water having been \"ashamed to admit\" he could not swim.",
+              "links": [
+                {
+                  "text": "Scott Mann",
+                  "type": "internal",
+                  "page": "Scott Mann (politician)"
+                }
+              ]
+            },
+            {
+              "text": "In 2018 he won Channel 4's Celebrity Hunted Stand Up to Cancer, sharing the title with AJ Pritchard.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Channel 4"
+                },
+                {
+                  "text": "Stand Up to Cancer",
+                  "type": "internal",
+                  "page": "Stand Up to Cancer (UK)"
+                },
+                {
+                  "type": "internal",
+                  "page": "AJ Pritchard"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "Stand Up to Cancer"
+                ]
+              }
+            },
+            {
+              "text": "In August 2020, Mercer sustained a head injury while canoeing on the Tamar, which was treated at Launceston medical centre and he subsequently spent three nights in Derriford hospital following an infection complication requiring surgery."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "Johnny Mercer on life in the army, his childhood demons and the broken Tory \"brand\"",
+          "url": "https://www.newstatesman.com/politics/elections/2018/02/johnny-mercer-life-army-his-childhood-demons-and-broken-tory-brand",
+          "access-date": "10 October 2018",
+          "work": "New Statesman",
+          "location": "London",
+          "date": "9 February 2018",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "MP ditches plan to save expenses by staying on his yacht then racks up £12,500 in hotel bills",
+          "url": "https://www.devonlive.com/news/devon-news/mp-ditches-plan-save-expenses-745242",
+          "work": "Devon Live",
+          "access-date": "10 October 2018",
+          "date": "8 November 2017",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last": "Clarke",
+          "first": "Michael",
+          "date": "4 January 2016",
+          "title": "Tory MP decides to live on boat to beat London's high house prices",
+          "url": "https://www.standard.co.uk/news/politics/mp-lives-on-boat-to-beat-high-london-house-prices-a3147911.html",
+          "access-date": "2 August 2021",
+          "website": "www.standard.co.uk",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Timms",
+          "first": "Katie",
+          "date": "13 November 2018",
+          "title": "Plymouth MP Johnny Mercer wins Celebrity Hunted",
+          "url": "https://www.plymouthherald.co.uk/news/celebs-tv/live-celebrity-hunted-johnny-mercer-2217242",
+          "access-date": "2 August 2021",
+          "website": "PlymouthLive",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Interview with Kay Burley and Johnny Mercer MP for Celebrity Hunted {{!}} Channel 4",
+          "url": "https://www.channel4.com/press/news/interview-kay-burley-and-johnny-mercer-mp-celebrity-hunted",
+          "access-date": "2 August 2021",
+          "website": "www.channel4.com",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "26 August 2020",
+          "title": "MP injures head in canoe accident",
+          "language": "en-GB",
+          "work": "BBC News",
+          "url": "https://www.bbc.com/news/uk-england-devon-53921050",
+          "access-date": "7 September 2020",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Riley-Smith",
+          "first1": "Ben",
+          "title": "Tory MP sleeps on boat in east London to avoid 'obscene' house prices in capital",
+          "url": "https://www.telegraph.co.uk/news/politics/conservative/12062383/Tory-MP-sleeps-on-boat-in-east-London-to-avoid-obscene-house-prices-in-capital.html",
+          "access-date": "3 January 2016",
+          "work": "The Daily Telegraph",
+          "location": "London",
+          "date": "2 January 2016",
+          "url-status": "live",
+          "archive-url": "https://web.archive.org/web/20160102213443/http://www.telegraph.co.uk/news/politics/conservative/12062383/Tory-MP-sleeps-on-boat-in-east-London-to-avoid-obscene-house-prices-in-capital.html",
+          "archive-date": "2 January 2016",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "I Am An Adult, And I Am Unable To Swim",
+          "last": "Mann",
+          "first": "Scott",
+          "work": "The Huffington Post",
+          "date": "18 November 2016",
+          "access-date": "18 November 2016",
+          "url": "http://www.huffingtonpost.co.uk/scott-mann/learning-to-swim-adult_b_13049418.html",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Tory MP Johnny Mercer rescued colleague who was afraid to admit he couldn't swim from drowning",
+          "last": "McCann",
+          "first": "Kate",
+          "newspaper": "The Daily Telegraph",
+          "location": "London",
+          "date": "18 November 2016",
+          "access-date": "18 November 2016",
+          "url": "https://www.telegraph.co.uk/news/2016/11/18/hero-mp-rescued-colleague-from-drowning-after-he-was-afraid-to-a/",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Non-swimmer North Cornwall MP Scott Mann rescued after trying to swim to shore on Rame Peninsula",
+          "website": "Cornwall Live",
+          "publisher": "Local World",
+          "date": "18 November 2016",
+          "access-date": "18 November 2016",
+          "url": "http://www.cornwalllive.com/non-swimmer-north-cornwall-mp-scott-mann-rescued-after-trying-to-swim-to-shore-on-rame-peninsula/story-29915929-detail/story.html",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Honours",
+      "depth": 0,
+      "tables": [
+        [
+          {
+            "col1": {
+              "text": "OSM for Afghanistan w bar.svg"
+            },
+            "col2": {
+              "text": "OSM for Afghanistan (with Clasp)",
+              "links": [
+                {
+                  "text": "OSM for Afghanistan (with Clasp)",
+                  "type": "internal",
+                  "page": "Operational Service Medal for Afghanistan"
+                }
+              ]
+            }
+          },
+          {
+            "col1": {
+              "text": "QEII Diamond Jubilee Medal ribbon.svg"
+            },
+            "col2": {
+              "text": "Queen Elizabeth II Diamond Jubilee Medal",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Queen Elizabeth II Diamond Jubilee Medal"
+                }
+              ]
+            }
+          }
+        ]
+      ]
+    },
+    {
+      "title": "Notes",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "notelist"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    },
+    {
+      "title": "External links",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "parliament": "johnny-mercer/4485",
+          "publicwhip": "Johnny_Mercer",
+          "theywork": "johnny_mercer",
+          "template": "uk mp links"
+        },
+        {
+          "list": [
+            "100781"
+          ],
+          "template": "c-span"
+        },
+        {
+          "id": "7320090",
+          "template": "imdb name"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "list": [
+            "uk"
+          ],
+          "template": "s-par"
+        },
+        {
+          "before": "Alison Seabeck",
+          "template": "s-bef"
+        },
+        {
+          "title": "Member of Parliament\nfor Plymouth Moor View",
+          "years": "2015–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "template": "s-off"
+        },
+        {
+          "before": "Tobias Ellwood",
+          "template": "s-bef"
+        },
+        {
+          "title": "Parliamentary Under-Secretary of State for Defence People and Veterans",
+          "years": "2019–2021",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Leo Docherty",
+          "template": "s-aft"
+        },
+        {
+          "before": "New post",
+          "template": "s-bef"
+        },
+        {
+          "title": "Minister of State for Veterans' Affairs",
+          "years": "2022–",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "template": "south west conservative party mps"
+        },
+        {
+          "template": "authority control"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Official website",
+            "links": [
+              {
+                "text": "Official website",
+                "type": "external",
+                "site": "https://johnnymercer.co.uk/"
+              }
+            ]
+          },
+          {
+            "text": "Ex-Army heads criticise investigation into Iraq abuse allegations on the BBC website",
+            "links": [
+              {
+                "text": "Ex-Army heads criticise investigation into Iraq abuse allegations",
+                "type": "external",
+                "site": "http://www.bbc.co.uk/programmes/p04bk6jt"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "text": "Ex-Army heads criticise investigation into Iraq abuse allegations on the BBC website",
+            "links": [
+              {
+                "text": "Ex-Army heads criticise investigation into Iraq abuse allegations",
+                "type": "external",
+                "site": "http://www.bbc.co.uk/programmes/p04bk6jt"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}
