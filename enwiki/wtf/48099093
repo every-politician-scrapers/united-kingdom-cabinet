@@ -209,7 +209,7 @@
               ]
             },
             {
-              "text": "In July 2022, Badenoch resigned from the government and has stood to replace Johnson in the 2022 Conservative Party leadership election.",
+              "text": "In July 2022, Badenoch resigned from the government and stood to replace Johnson in the 2022 Conservative Party leadership election.",
               "links": [
                 {
                   "text": "2022 Conservative Party leadership election",
@@ -219,7 +219,7 @@
               ]
             },
             {
-              "text": "Badenoch came in fourth place on the first ballot in a field of eight candidates and remains one of four active candidates as of 18 July 2022."
+              "text": "Badenoch came in fourth place on the first ballot in a field of eight candidates but was eliminated from the leadership contest on 19 July 2022, after receiving the lowest number of votes from Conservative MPs."
             }
           ]
         },
@@ -693,6 +693,15 @@
           "url-status": "live",
           "template": "citation",
           "type": "book"
+        },
+        {
+          "title": "Conservative leadership latest: Badenoch out as Sunak wins fourth Tory vote",
+          "url": "https://www.bbc.co.uk/news/live/uk-politics-62216697",
+          "access-date": "2022-07-19",
+          "website": "BBC News",
+          "language": "en-gb",
+          "template": "citation",
+          "type": "web"
         },
         {
           "last": "Burford",
@@ -1221,7 +1230,7 @@
               ]
             },
             {
-              "text": "Badenoch (as she now was, following her marriage in 2012) was therefore declared to be the new Assembly Member."
+              "text": "Badenoch (as she had become, following her marriage in 2012) was therefore declared to be the new Assembly Member."
             },
             {
               "text": "She went on to retain her seat in the Assembly in the 2016 election.",
@@ -2446,6 +2455,9 @@
                   "ConservativeHome"
                 ]
               }
+            },
+            {
+              "text": "She was eliminated in the fourth round of voting, winning 59 votes in that round."
             }
           ]
         },
@@ -2511,6 +2523,25 @@
             },
             "Position / Candidates": {
               "text": "4 / 5"
+            },
+            "Ref": {
+              "text": ""
+            }
+          },
+          {
+            "Date": {
+              "text": "19 July 2022"
+            },
+            "Votes Received": {
+              "text": "59",
+              "number": 59
+            },
+            "%": {
+              "text": "16.5",
+              "number": 16.5
+            },
+            "Position / Candidates": {
+              "text": "4 / 4"
             },
             "Ref": {
               "text": ""
@@ -2586,6 +2617,16 @@
           "title": "Tory leadership latest: Tom Tugendhat knocked out of Tory leadership race",
           "template": "citation",
           "type": "web"
+        },
+        {
+          "title": "Three remain in Tory leadership race after Kemi Badenoch eliminated",
+          "url": "https://www.itv.com/news/2022-07-19/three-remain-in-tory-leadership-race-after-kemi-badenoch-eliminated",
+          "access-date": "19 July 2022",
+          "work": "ITV News",
+          "date": "19 July 2022",
+          "language": "en",
+          "template": "citation",
+          "type": "news"
         }
       ]
     },

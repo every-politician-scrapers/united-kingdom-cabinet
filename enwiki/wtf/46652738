@@ -68,6 +68,9 @@
                   "page": "September 2019 suspension of rebel Conservative MPs"
                 }
               ]
+            },
+            {
+              "text": "He does \"not get to edit Newsnight\"."
             }
           ]
         }
@@ -352,6 +355,12 @@
           "website": "Conservative Home",
           "template": "citation",
           "type": "web"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
         },
         {
           "template": "citation",

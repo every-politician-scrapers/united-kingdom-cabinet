@@ -846,11 +846,11 @@
         {
           "sentences": [
             {
-              "text": "Mordaunt was born on 4 March 1973 in Torquay, Devon.",
+              "text": "Mordaunt was born on 4 March 1973 in Torbay, Devon.",
               "links": [
                 {
                   "type": "internal",
-                  "page": "Torquay"
+                  "page": "Torbay"
                 },
                 {
                   "type": "internal",
@@ -1083,7 +1083,14 @@
               ]
             },
             {
-              "text": "Lord Moylan, who formerly was the deputy leader of Kensington and Chelsea council where Mordaunt was hired as a Director of Communications, said: \"we had to get rid of her after a few months because she was incompetent.\""
+              "text": "Lord Moylan, who was the deputy leader of Kensington and Chelsea council where Mordaunt was hired as a Director of Communications, said: \"we had to get rid of her after a few months because she was incompetent.\"",
+              "links": [
+                {
+                  "text": "Lord Moylan",
+                  "type": "internal",
+                  "page": "Daniel Moylan, Baron Moylan"
+                }
+              ]
             }
           ]
         },
@@ -1136,11 +1143,6 @@
       ],
       "templates": [
         {
-          "date": "July 2022",
-          "reason": "Who's Who isn't a WP:RS",
-          "template": "better source"
-        },
-        {
           "list": [
             "Arethusa",
             "cruiser",
@@ -1192,6 +1194,12 @@
           "language": "en",
           "template": "citation",
           "type": "web"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
         },
         {
           "url": "https://hansard.parliament.uk/Commons/2010-06-21/debates/1006219000001/StrategicDefenceAndSecurityReview#contribution-10062128000001",
@@ -1686,13 +1694,21 @@
         {
           "sentences": [
             {
-              "text": "In June 2020, Mordaunt said that some Overseas Development Assistance should instead be spent on a replacement for the Royal Yacht Britannia.",
+              "text": "In June 2020, Mordaunt produced a proposal for a pair of ships with the primary role of specialising in trade, research, and humanitarian work."
+            },
+            {
+              "text": "The vessels were to be funded by private, research, commercial and charitable funds, in partnership with the UK's Overseas Development Assistance budget.",
               "links": [
                 {
                   "text": "Overseas Development Assistance",
                   "type": "internal",
                   "page": "Development aid"
-                },
+                }
+              ]
+            },
+            {
+              "text": "The vessels could also be used as \"cost effective and secure\" accommodation for members of the Royal Family on visits, so would effectively be successor to the Royal Yacht Britannia which had been decommissioned in 1997.",
+              "links": [
                 {
                   "text": "Royal Yacht ''Britannia''",
                   "type": "internal",
@@ -1704,6 +1720,18 @@
                   "Britannia"
                 ]
               }
+            },
+            {
+              "text": "Mordaunt said of it, “We know that industry would also support as would a growing coalition of commercial and trade ventures, research organisations, shipbuilders and ship support companies, maritime training organisations and medical and health projects”."
+            },
+            {
+              "text": "The director of the Global Britain Programme at the Henry Jackson Society, said: \"These new ships will help project Britain's image around the world\".",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Henry Jackson Society"
+                }
+              ]
             }
           ]
         }
@@ -1976,15 +2004,15 @@
         {
           "last1": "Hope",
           "first1": "Christopher",
-          "title": "Spend the aid budget on a successor to HMY Britannia, Penny Mordaunt tells Boris Johnson",
-          "url": "https://www.telegraph.co.uk/news/2020/06/17/spend-aid-budget-successor-hmy-britannia-penny-mordaunt-tells/",
-          "access-date": "29 November 2020",
-          "work": "The Telegraph",
           "date": "17 June 2020",
-          "url-access": "subscription",
-          "archive-date": "26 November 2020",
-          "archive-url": "https://web.archive.org/web/20201126155457/https://www.telegraph.co.uk/news/2020/06/17/spend-aid-budget-successor-hmy-britannia-penny-mordaunt-tells/",
+          "title": "Spend the aid budget on a successor to HMY Britannia, Penny Mordaunt tells Boris Johnson",
+          "work": "The Telegraph",
+          "url": "https://www.telegraph.co.uk/news/2020/06/17/spend-aid-budget-successor-hmy-britannia-penny-mordaunt-tells/",
           "url-status": "live",
+          "url-access": "subscription",
+          "access-date": "29 November 2020",
+          "archive-url": "https://web.archive.org/web/20201126155457/https://www.telegraph.co.uk/news/2020/06/17/spend-aid-budget-successor-hmy-britannia-penny-mordaunt-tells/",
+          "archive-date": "26 November 2020",
           "template": "citation",
           "type": "news"
         },
@@ -2520,22 +2548,7 @@
               }
             },
             {
-              "text": "Several Conservative activists criticised her \"for her pro-trans stance\", including saying that trans women are women and that trans men are men.",
-              "links": [
-                {
-                  "text": "trans women",
-                  "type": "internal",
-                  "page": "Trans woman"
-                },
-                {
-                  "text": "trans men",
-                  "type": "internal",
-                  "page": "Trans man"
-                }
-              ]
-            },
-            {
-              "text": "Conservative-aligned publication The Spectator noted Mordaunt's earlier stance on trans issues, and was critical of what it called her \"cowardice\" in changing her publicly stated views, being \"willing to toss them overboard at her earliest convenience\" during her leadership campaign.",
+              "text": "Several Conservative activists criticised her \"for her pro-trans stance\"; The Spectator noted Mordaunt's earlier stance on trans issues, and was critical of what it called her \"cowardice\" in changing her publicly stated views, being \"willing to toss them overboard at her earliest convenience\" during her leadership campaign.",
               "links": [
                 {
                   "type": "internal",
@@ -2823,13 +2836,15 @@
               "text": "19 July 2022"
             },
             "Votes Received": {
-              "text": ""
+              "text": "92",
+              "number": 92
             },
             "%": {
-              "text": ""
+              "text": "25.9",
+              "number": 25.9
             },
             "Position / Candidates": {
-              "text": ""
+              "text": "2 / 4"
             },
             "Ref": {
               "text": ""

@@ -1511,16 +1511,30 @@
         {
           "sentences": [
             {
-              "text": "She has came out in support of Tom Tugendhat in the upcomming 2022 Conservative Party leadership election (UK), and was his proposer for the his candidacy.",
+              "text": "After Boris Johnson's resignation, on the 7th July 2022, launched the 2022 Conservative Party leadership election, she supported Tom Tugendhat, and was his proposer for his candidacy.",
               "links": [
+                {
+                  "text": "Boris Johnson's resignation",
+                  "type": "internal",
+                  "page": "2022 United Kingdom government crisis"
+                },
+                {
+                  "text": "2022 Conservative Party leadership election",
+                  "type": "internal",
+                  "page": "2022 Conservative Party leadership election (UK)"
+                },
                 {
                   "type": "internal",
                   "page": "Tom Tugendhat"
-                },
+                }
+              ]
+            },
+            {
+              "text": "After he was knocked out in the 4th ballot on the 19th July she endorsed Liz Truss.",
+              "links": [
                 {
-                  "text": "2022 Conservative Party leadership election (UK)",
                   "type": "internal",
-                  "page": "2022 Conservative Party leadership election (UK)"
+                  "page": "Liz Truss"
                 }
               ]
             }
@@ -1589,6 +1603,17 @@
           "date": "12 January 2022",
           "template": "citation",
           "type": "twitter"
+        },
+        {
+          "last": "House",
+          "first": "Coffee",
+          "title": "Who's backing whom? Sunak still ahead {{!}} The Spectator",
+          "url": "https://www.spectator.co.uk/article/full-list-tory-endorsements-for-next-leader",
+          "access-date": "2022-07-19",
+          "website": "www.spectator.co.uk",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
         }
       ]
     },

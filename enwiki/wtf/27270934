@@ -66,7 +66,7 @@
               ]
             },
             {
-              "text": "A member of the Conservative Party, she has served in various cabinet positions under Prime Ministers David Cameron, Theresa May, and Boris Johnson.",
+              "text": "A member of the Conservative Party, she has served in various cabinet positions under Prime Ministers David Cameron, Theresa May and Boris Johnson.",
               "links": [
                 {
                   "text": "Conservative Party",
@@ -105,7 +105,7 @@
               ]
             },
             {
-              "text": "She graduated in 1996, and subsequently joined the Conservative Party."
+              "text": "She graduated in 1996 and subsequently joined the Conservative Party."
             },
             {
               "text": "She worked at Shell and Cable & Wireless, before becoming deputy director at the think tank Reform.",
@@ -138,7 +138,7 @@
               ]
             },
             {
-              "text": "As a backbencher, she called for reform in several policy areas including childcare, maths education, and the economy.",
+              "text": "As a backbencher, she called for reform in several policy areas including childcare, maths education and the economy.",
               "links": [
                 {
                   "text": "backbencher",
@@ -148,7 +148,7 @@
               ]
             },
             {
-              "text": "She founded the Free Enterprise Group of Conservative MPs, and wrote or co-wrote a number of papers and books, including After the Coalition (2011) and Britannia Unchained (2012).",
+              "text": "She founded the Free Enterprise Group of Conservative MPs and wrote or co-wrote a number of papers and books, including After the Coalition (2011) and Britannia Unchained (2012).",
               "links": [
                 {
                   "type": "internal",
@@ -270,7 +270,7 @@
               ]
             },
             {
-              "text": "After Johnson was appointed Prime Minister, he appointed Truss as Secretary of State for International Trade and President of the Board of Trade, before appointing her as Foreign Secretary in 2021, replacing Dominic Raab.",
+              "text": "When he became Prime Minister, he appointed Truss as Secretary of State for International Trade and President of the Board of Trade.",
               "links": [
                 {
                   "type": "internal",
@@ -279,7 +279,12 @@
                 {
                   "type": "internal",
                   "page": "President of the Board of Trade"
-                },
+                }
+              ]
+            },
+            {
+              "text": "He then made her Foreign Secretary in 2021, replacing Dominic Raab.",
+              "links": [
                 {
                   "type": "internal",
                   "page": "Foreign Secretary"
@@ -291,16 +296,7 @@
               ]
             },
             {
-              "text": "She is the first female Conservative Foreign Secretary and the second female Foreign Secretary, after Margaret Beckett.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Margaret Beckett"
-                }
-              ]
-            },
-            {
-              "text": "Truss was appointed as the UK government's chief negotiator with the European Union and as the UK chair of the EU–UK Partnership Council on 19 December 2021, succeeding Lord Frost.",
+              "text": "Truss was appointed the government's chief negotiator with the European Union and UK chair of the EU–UK Partnership Council on 19 December 2021, succeeding Lord Frost.",
               "links": [
                 {
                   "type": "internal",
@@ -935,7 +931,7 @@
               "text": "From an early age, she has been known by her middle name \"Elizabeth\"."
             },
             {
-              "text": "Her father was a professor of pure mathematics at the University of Leeds, while her mother was a nurse, teacher, and member of the Campaign for Nuclear Disarmament.",
+              "text": "Her father was a professor of pure mathematics at the University of Leeds, while her mother was a nurse, teacher and member of the Campaign for Nuclear Disarmament.",
               "links": [
                 {
                   "text": "pure mathematics",
@@ -973,7 +969,7 @@
               "text": "The family moved to Scotland when she was four years old."
             },
             {
-              "text": "Truss attended West Primary School in Paisley, Renfrewshire, followed by Roundhay School, in the Roundhay area of Leeds, a school which she would later be criticised for saying had \"let down\" children.",
+              "text": "Truss attended West Primary School in Paisley, Renfrewshire, followed by Roundhay School, in the Roundhay area of Leeds, a school which she later said had \"let down\" children.",
               "links": [
                 {
                   "type": "internal",
@@ -1027,7 +1023,7 @@
               ]
             },
             {
-              "text": "She also expressed republican sentiments in a speech at the 1994 Liberal Democrats conference, stating, \"I agree with Paddy Ashdown when he said, 'Everybody in Britain should have the chance to be a somebody', but only one family can provide the head of state... we do not believe people are born to rule\".",
+              "text": "She also expressed republican sentiments in a speech at the 1994 Liberal Democrats conference: \"I agree with Paddy Ashdown when he said, 'Everybody in Britain should have the chance to be a somebody', but only one family can provide the head of state... we do not believe people are born to rule\".",
               "links": [
                 {
                   "text": "republican",
@@ -1729,7 +1725,7 @@
               "text": "Truss has campaigned for improved teaching of more rigorous school subjects, especially mathematics."
             },
             {
-              "text": "She has noted that only 20% of British students study maths to 18, and called for maths classes to be compulsory for all those in full-time education."
+              "text": "She noted in 2012 that only 20% of British students studied maths to 18, and called for maths classes to be compulsory for all those in full-time education."
             },
             {
               "text": "Truss herself studied maths and further maths at A level.",
@@ -2608,7 +2604,7 @@
         {
           "sentences": [
             {
-              "text": "In November 2016, Truss was further criticised, including by former Attorney General Dominic Grieve and the Criminal Bar Association, for failing to support more robustly the judiciary and the principle of judicial independence, after three judges of the Divisional Court came under attack from politicians and sections of the press for ruling against the government in the article 50 Brexit case.",
+              "text": "In November 2016, Truss was further criticised, including by former Attorney General Dominic Grieve and the Criminal Bar Association, for failing to support more robustly the judiciary and the principle of judicial independence, after three judges of the Divisional Court came under attack from politicians and sections of the press for ruling against the government in R (Miller) v Secretary of State for Exiting the European Union.",
               "links": [
                 {
                   "text": "Attorney General",
@@ -2618,8 +2614,17 @@
                 {
                   "type": "internal",
                   "page": "Dominic Grieve"
+                },
+                {
+                  "type": "internal",
+                  "page": "R (Miller) v Secretary of State for Exiting the European Union"
                 }
-              ]
+              ],
+              "formatting": {
+                "italic": [
+                  "R (Miller) v Secretary of State for Exiting the European Union"
+                ]
+              }
             },
             {
               "text": "Lord Falconer, the former Lord Chancellor, who had previously suggested that, like her immediate predecessors Chris Grayling and Michael Gove, she lacked the essential legal expertise that the constitution requires, called for her to be sacked as Justice Secretary as her perceived inadequate response \"signals to the judges that they have lost their constitutional protector.\"",
@@ -5025,6 +5030,12 @@
           "publicwhip": "elizabeth_truss",
           "theywork": "elizabeth_truss",
           "template": "uk mp links"
+        },
+        {
+          "list": [
+            "107668"
+          ],
+          "template": "c-span"
         },
         {
           "title": "Offices and distinctions",

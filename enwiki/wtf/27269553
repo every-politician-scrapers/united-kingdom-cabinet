@@ -590,9 +590,10 @@
             }
           },
           "office4": {
-            "text": "Foreign Secretary",
+            "text": "Secretary of State for Foreign, Commonwealth and Development Affairs",
             "links": [
               {
+                "text": "Secretary of State for Foreign, Commonwealth and Development Affairs",
                 "type": "internal",
                 "page": "Foreign Secretary"
               }
@@ -2298,6 +2299,15 @@
               "text": "The House of Lords alternatively has found that the UK would not be liable for such payments."
             }
           ]
+        }
+      ],
+      "images": [
+        {
+          "file": "File:Fabian_Picardo_meeting_Dominic_Raab.jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Fabian_Picardo_meeting_Dominic_Raab.jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Fabian_Picardo_meeting_Dominic_Raab.jpg",
+          "caption": "Raab meets with Fabian Picardo, the Chief Minister of Gibraltar, in September 2018",
+          "links": []
         }
       ],
       "references": [

@@ -698,8 +698,13 @@
         {
           "sentences": [
             {
-              "text": "Buckland stood as the Conservative Party candidate for Elli Ward on Dyfed County Council in May 1993, winning the seat from Labour with a majority of just 3 votes.",
+              "text": "Buckland stood as the Conservative Party candidate for Elli ward on Dyfed County Council in May 1993, winning the seat from Labour with a majority of just 3 votes.",
               "links": [
+                {
+                  "text": "Elli ward",
+                  "type": "internal",
+                  "page": "Elli (electoral ward)"
+                },
                 {
                   "type": "internal",
                   "page": "Dyfed County Council"
