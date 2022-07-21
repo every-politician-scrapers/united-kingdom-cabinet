@@ -92,7 +92,7 @@
         {
           "sentences": [
             {
-              "text": "Truss attended Merton College, Oxford, where she was President of Oxford University Liberal Democrats.",
+              "text": "Truss was an undergraduate at Merton College, Oxford, where she was President of Oxford University Liberal Democrats.",
               "links": [
                 {
                   "type": "internal",
@@ -220,13 +220,9 @@
                   "page": "2016 United Kingdom European Union membership referendum"
                 }
               ]
-            }
-          ]
-        },
-        {
-          "sentences": [
+            },
             {
-              "text": "After Cameron resigned in July 2016, Truss was appointed Secretary of State for Justice and Lord Chancellor by Theresa May, becoming the first female Lord Chancellor in the 1000-year history of the office (excluding Eleanor of Provence in 1253).",
+              "text": "After Cameron resigned in July 2016, Truss was appointed Secretary of State for Justice and Lord Chancellor by Theresa May, becoming the first female Lord Chancellor in the 1,000-year history of the office (excluding Eleanor of Provence in 1253).",
               "links": [
                 {
                   "type": "internal",
@@ -318,12 +314,21 @@
         {
           "sentences": [
             {
-              "text": "On 10 July 2022, Truss announced her intention to run in the Conservative Party leadership election.",
+              "text": "On 10 July 2022, Truss announced her intention to run in the Conservative Party leadership election to replace Boris Johnson as Prime Minister.",
               "links": [
                 {
                   "text": "Conservative Party leadership election",
                   "type": "internal",
                   "page": "2022 Conservative Party leadership election (UK)"
+                }
+              ]
+            },
+            {
+              "text": "On 20 July, she polled second amongst Conservative MPs and is expected to face a postal vote of party members against Rishi Sunak with the results to be announced on 5 September.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Rishi Sunak"
                 }
               ]
             }
@@ -353,7 +358,7 @@
         {
           "list": [
             "Secretary of State for Justice",
-            "Lord Chancellor"
+            "Lord High Chancellor of Great Britain"
           ],
           "template": "ubl"
         },
@@ -407,10 +412,10 @@
             "text": "Official portrait, 2022"
           },
           "office1": {
-            "text": "Secretary of State for Foreign, Commonwealth & Development Affairs",
+            "text": "Secretary of State for Foreign, Commonwealth and Development Affairs",
             "links": [
               {
-                "text": "Secretary of State for Foreign, Commonwealth & Development Affairs",
+                "text": "Secretary of State for Foreign, Commonwealth and Development Affairs",
                 "type": "internal",
                 "page": "Foreign Secretary"
               }
@@ -546,7 +551,7 @@
             ]
           },
           "office6": {
-            "text": "Secretary of State for Justice\n\nLord Chancellor"
+            "text": "Secretary of State for Justice\n\nLord High Chancellor of Great Britain"
           },
           "primeminister6": {
             "text": "Theresa May",
@@ -746,6 +751,9 @@
                 "page": "Bachelor of Arts"
               }
             ]
+          },
+          "signature": {
+            "text": "Signature of Liz Truss.svg"
           }
         }
       ],
@@ -844,6 +852,19 @@
           "access-date": "2022-07-13",
           "archive-date": "12 July 2022",
           "archive-url": "https://web.archive.org/web/20220712202308/https://www.bbc.com/news/uk-politics-62115709",
+          "url-status": "live",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "date": "2022-07-20",
+          "title": "Sunak gets 137 votes, Truss 113 and Mordaunt 105",
+          "language": "en-GB",
+          "work": "The Guardian",
+          "url": "https://www.theguardian.com/politics/live/2022/jul/20/tory-leadership-race-live-sunak-mordaunt-truss-latest-uk-politics?page=with:block-62d819708f08d02cb60ef915#block-62d819708f08d02cb60ef915",
+          "access-date": "2022-07-20",
+          "archive-date": "20 July 2022",
+          "archive-url": "https://web.archive.org/web/20220720170334/https://www.theguardian.com/politics/live/2022/jul/20/tory-leadership-race-live-sunak-mordaunt-truss-latest-uk-politics?page=with%3Ablock-62d819708f08d02cb60ef915#block-62d819708f08d02cb60ef915",
           "url-status": "live",
           "template": "citation",
           "type": "news"
@@ -1054,18 +1075,6 @@
       ],
       "references": [
         {
-          "title": "Liz Truss: 'You have to put yourself forward… No one else will'",
-          "url": "https://www.you.co.uk/liz-truss-interview-2019/",
-          "magazine": "You Magazine",
-          "date": "12 May 2019",
-          "access-date": "16 June 2022",
-          "archive-date": "31 January 2022",
-          "archive-url": "https://web.archive.org/web/20220131174620/https://www.you.co.uk/liz-truss-interview-2019/",
-          "url-status": "live",
-          "template": "citation",
-          "type": "web"
-        },
-        {
           "title": "Next right",
           "first": "James",
           "last": "Forsyth",
@@ -1130,6 +1139,18 @@
           "url-status": "live",
           "template": "citation",
           "type": "book"
+        },
+        {
+          "title": "Liz Truss: 'You have to put yourself forward… No one else will'",
+          "url": "https://www.you.co.uk/liz-truss-interview-2019/",
+          "magazine": "You Magazine",
+          "date": "12 May 2019",
+          "access-date": "16 June 2022",
+          "archive-date": "31 January 2022",
+          "archive-url": "https://web.archive.org/web/20220131174620/https://www.you.co.uk/liz-truss-interview-2019/",
+          "url-status": "live",
+          "template": "citation",
+          "type": "web"
         },
         {
           "title": "Profile: Elizabeth Truss",
@@ -1255,6 +1276,9 @@
           "access-date": "18 July 2022",
           "publisher": "Financial Times",
           "date": "February 10, 2022",
+          "archive-date": "13 July 2022",
+          "archive-url": "https://web.archive.org/web/20220713214857/https://www.ft.com/content/94839428-3f90-4fbd-966d-3199ecb9a357",
+          "url-status": "live",
           "template": "citation",
           "type": "news"
         },
@@ -1290,7 +1314,7 @@
         {
           "sentences": [
             {
-              "text": "She served as the chair of the Lewisham Deptford Conservative Association from 1998 to 2000.",
+              "text": "Truss served as the chair of the Lewisham Deptford Conservative Association from 1998 to 2000.",
               "links": [
                 {
                   "text": "Lewisham Deptford",
@@ -4579,7 +4603,11 @@
     },
     {
       "title": "Political positions",
-      "depth": 0,
+      "depth": 0
+    },
+    {
+      "title": "Economics and foreign policy",
+      "depth": 1,
       "paragraphs": [
         {
           "sentences": [
@@ -4612,13 +4640,55 @@
                   "page": "Labour laws"
                 }
               ]
+            },
+            {
+              "text": "She called Saudi Arabia a \"partner\" and an \"ally\".",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Saudi Arabia"
+                }
+              ]
             }
           ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.politico.eu/article/about-foreign-secretary-liz-truss/",
+          "title": "Everything you need to know about Liz Truss",
+          "author": "Emilio Casalicchio, Graham Lanktree and Cristina Gallardo",
+          "publisher": "Politico",
+          "date": "15 September 2021",
+          "access-date": "8 December 2021",
+          "archive-date": "10 July 2022",
+          "archive-url": "https://web.archive.org/web/20220710141214/https://www.politico.eu/article/about-foreign-secretary-liz-truss/",
+          "url-status": "live",
+          "template": "citation",
+          "type": "news"
         },
+        {
+          "date": "24 April 2022",
+          "title": "UK foreign secretary praises Saudi Arabia, Oman for efforts to secure release of Briton",
+          "work": "Saudi Gazette",
+          "url": "https://www.saudigazette.com.sa/article/619751",
+          "url-status": "live",
+          "access-date": "1 June 2022",
+          "archive-url": "https://web.archive.org/web/20220622073733/https://saudigazette.com.sa/article/619751",
+          "archive-date": "22 June 2022",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Brexit",
+      "depth": 1,
+      "paragraphs": [
         {
           "sentences": [
             {
-              "text": "Initially, Truss supported the United Kingdom remaining in the European Union during the 2016 referendum, saying: \"I don't want my daughters to grow up in a world where they need a visa or permit to work in Europe, or where they are hampered from growing a business because of extortionate call costs and barriers to trade. Every parent wants their children to grow up in a healthy environment with clean water, fresh air and thriving natural wonders. Being part of the EU helps protect these precious resources and spaces.\"",
+              "text": "Truss supported the United Kingdom remaining in the European Union during the 2016 referendum, saying: \"I don't want my daughters to grow up in a world where they need a visa or permit to work in Europe, or where they are hampered from growing a business because of extortionate call costs and barriers to trade. Every parent wants their children to grow up in a healthy environment with clean water, fresh air and thriving natural wonders. Being part of the EU helps protect these precious resources and spaces.\"",
               "links": [
                 {
                   "type": "internal",
@@ -4633,28 +4703,48 @@
             },
             {
               "text": "However, in 2017 she said that if another referendum were held, she would vote for Brexit, saying: \"I believed there would be massive economic problems but those haven't come to pass and I've also seen the opportunities.\""
-            },
-            {
-              "text": "She called Saudi Arabia a \"partner\" and an \"ally\".",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Saudi Arabia"
-                }
-              ]
             }
           ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.standard.co.uk/news/politics/eu-referendum-liz-truss-leads-female-ministers-drive-for-women-to-vote-in-a3273351.html",
+          "title": "EU referendum: Liz Truss leads female ministers' drive for women to vote In",
+          "author": "Nicholas Cecil",
+          "work": "Evening Standard",
+          "date": "16 June 2016",
+          "access-date": "21 December 2021",
+          "archive-date": "28 June 2022",
+          "archive-url": "https://web.archive.org/web/20220628153244/https://www.standard.co.uk/news/politics/eu-referendum-liz-truss-leads-female-ministers-drive-for-women-to-vote-in-a3273351.html",
+          "url-status": "live",
+          "template": "citation",
+          "type": "news"
         },
+        {
+          "url": "https://www.politicshome.com/news/article/liz-truss-says-she-would-now-back-brexit",
+          "title": "Liz Truss says she would now back Brexit",
+          "author": "Agnes Chambre",
+          "work": "Politics Home",
+          "date": "11 October 2017",
+          "access-date": "8 December 2021",
+          "archive-date": "5 November 2021",
+          "archive-url": "https://web.archive.org/web/20211105100018/https://www.politicshome.com/news/article/liz-truss-says-she-would-now-back-brexit",
+          "url-status": "live",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Social and cultural issues",
+      "depth": 1,
+      "paragraphs": [
         {
           "sentences": [
             {
-              "text": "On culture, Truss has discussed \"woke culture\", stating that the Conservative Party should \"reject the zero-sum game of identity politics, we reject the illiberalism of cancel culture, and we reject the soft bigotry of low expectations that holds so many people back\".",
+              "text": "On culture, Truss has said that the Conservative Party should \"reject the zero-sum game of identity politics, we reject the illiberalism of cancel culture, and we reject the soft bigotry of low expectations that holds so many people back\".",
               "links": [
-                {
-                  "text": "woke culture",
-                  "type": "internal",
-                  "page": "Wokeism"
-                },
                 {
                   "text": "Conservative Party",
                   "type": "internal",
@@ -4690,57 +4780,6 @@
         }
       ],
       "references": [
-        {
-          "url": "https://www.politico.eu/article/about-foreign-secretary-liz-truss/",
-          "title": "Everything you need to know about Liz Truss",
-          "author": "Emilio Casalicchio, Graham Lanktree and Cristina Gallardo",
-          "publisher": "Politico",
-          "date": "15 September 2021",
-          "access-date": "8 December 2021",
-          "archive-date": "10 July 2022",
-          "archive-url": "https://web.archive.org/web/20220710141214/https://www.politico.eu/article/about-foreign-secretary-liz-truss/",
-          "url-status": "live",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "https://www.standard.co.uk/news/politics/eu-referendum-liz-truss-leads-female-ministers-drive-for-women-to-vote-in-a3273351.html",
-          "title": "EU referendum: Liz Truss leads female ministers' drive for women to vote In",
-          "author": "Nicholas Cecil",
-          "work": "Evening Standard",
-          "date": "16 June 2016",
-          "access-date": "21 December 2021",
-          "archive-date": "28 June 2022",
-          "archive-url": "https://web.archive.org/web/20220628153244/https://www.standard.co.uk/news/politics/eu-referendum-liz-truss-leads-female-ministers-drive-for-women-to-vote-in-a3273351.html",
-          "url-status": "live",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "https://www.politicshome.com/news/article/liz-truss-says-she-would-now-back-brexit",
-          "title": "Liz Truss says she would now back Brexit",
-          "author": "Agnes Chambre",
-          "work": "Politics Home",
-          "date": "11 October 2017",
-          "access-date": "8 December 2021",
-          "archive-date": "5 November 2021",
-          "archive-url": "https://web.archive.org/web/20211105100018/https://www.politicshome.com/news/article/liz-truss-says-she-would-now-back-brexit",
-          "url-status": "live",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "title": "UK foreign secretary praises Saudi Arabia, Oman for efforts to secure release of Briton",
-          "url": "https://www.saudigazette.com.sa/article/619751",
-          "work": "Saudi Gazette",
-          "date": "24 April 2022",
-          "access-date": "1 June 2022",
-          "archive-date": "22 June 2022",
-          "archive-url": "https://web.archive.org/web/20220622073733/https://saudigazette.com.sa/article/619751",
-          "url-status": "live",
-          "template": "citation",
-          "type": "news"
-        },
         {
           "url": "https://www.theguardian.com/politics/2021/oct/03/conservatives-take-aim-at-cancel-culture-and-woke-aggression",
           "title": "Conservatives take aim at cancel culture and 'woke aggression'",
@@ -4782,7 +4821,14 @@
               "text": "The couple have two daughters."
             },
             {
-              "text": "Truss and O'Leary met at a Conservative party convention in 1997."
+              "text": "Truss and O'Leary met at the Conservative Party Conference in 1997.",
+              "links": [
+                {
+                  "text": "Conservative Party Conference",
+                  "type": "internal",
+                  "page": "Conservative Party Conference (UK)"
+                }
+              ]
             }
           ]
         }
@@ -4801,18 +4847,6 @@
           "url-status": "live",
           "template": "citation",
           "type": "news"
-        },
-        {
-          "last": "Kaushal",
-          "first": "Om Prakash",
-          "date": "2021-12-23",
-          "title": "Liz Truss' Affair: Whom Did The British Politician Have An Affair With? - OtakuKart",
-          "url": "https://otakukart.com/liz-trusss-affair-whom-did-the-british-politician-have-an-affair-with/",
-          "access-date": "2022-07-18",
-          "website": "otakukart.com",
-          "language": "en-US",
-          "template": "citation",
-          "type": "web"
         }
       ]
     },

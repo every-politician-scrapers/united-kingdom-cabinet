@@ -269,7 +269,7 @@
         {
           "sentences": [
             {
-              "text": "In 2019, Johnson was elected Conservative leader and appointed prime minister.",
+              "text": "In 2019, Johnson was elected Conservative leader, becoming the first British Prime Minister to have non-European ancestry.",
               "links": [
                 {
                   "text": "elected",
@@ -482,7 +482,7 @@
       ],
       "templates": [
         {
-          "description": "Prime Minister of the United Kingdom since 2019",
+          "description": "Prime Minister of the United Kingdom",
           "template": "short description"
         },
         {
@@ -9346,7 +9346,7 @@
       ]
     },
     {
-      "title": "Prime Minister of the United Kingdom (2019–present)",
+      "title": "Prime Minister of the United Kingdom",
       "depth": 0,
       "templates": [
         {
@@ -17251,11 +17251,15 @@
               ]
             },
             {
-              "text": "According to HM Land Registry documents he bought the four-bedroom property with his wife in July 2019.",
+              "text": "According to HM Land Registry documents, he bought the four-bedroom property with his then-girlfriend Carrie Symonds in July 2019.",
               "links": [
                 {
                   "type": "internal",
                   "page": "HM Land Registry"
+                },
+                {
+                  "type": "internal",
+                  "page": "Carrie Symonds"
                 }
               ]
             },
@@ -17357,6 +17361,7 @@
           "title": "Car crashes into garden of Boris Johnson's £1.3m south London townhouse",
           "date": "10 May 2022",
           "website": "The Independent",
+          "access-date": "20 July 2022",
           "template": "citation",
           "type": "web"
         },
@@ -17989,6 +17994,7 @@
           "url": "https://evoke.ie/2021/12/09/entertainment/boris-johnsons-children",
           "title": "What Do We Know About Boris Johnson's Seven Children?",
           "date": "9 December 2021",
+          "website": "Evoke.ie",
           "template": "citation",
           "type": "web"
         },

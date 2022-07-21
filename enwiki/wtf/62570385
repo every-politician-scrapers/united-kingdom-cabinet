@@ -169,15 +169,6 @@
               }
             ]
           },
-          "alongside1": {
-            "text": "Sarah Dines",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Sarah Dines"
-              }
-            ]
-          },
           "primeminister1": {
             "text": "Boris Johnson"
           },
@@ -332,6 +323,15 @@
           },
           "primeminister4": {
             "text": "Boris Johnson"
+          },
+          "alongside2": {
+            "text": "Sarah Dines",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sarah Dines"
+              }
+            ]
           },
           "primeminister2": {
             "text": "Boris Johnson"

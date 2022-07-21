@@ -22,8 +22,31 @@
         {
           "sentences": [
             {
-              "text": "Paul Stuart Scully (born 29 April 1968) is a British politician serving as the Member of Parliament (MP) for Sutton and Cheam since 2015.",
+              "text": "Paul Stuart Scully (born 29 April 1968) is a British politician serving as Minister of State for Local Government, Faith and Communities since 2022 and Minister for London since 2020.",
               "links": [
+                {
+                  "type": "internal",
+                  "page": "Minister of State for Local Government, Faith and Communities"
+                },
+                {
+                  "type": "internal",
+                  "page": "Minister for London"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Paul Stuart Scully"
+                ]
+              }
+            },
+            {
+              "text": "A member of the Conservative Party, he has served as the Member of Parliament (MP) for Sutton and Cheam since 2015.",
+              "links": [
+                {
+                  "text": "Conservative Party",
+                  "type": "internal",
+                  "page": "Conservative Party (UK)"
+                },
                 {
                   "text": "Member of Parliament",
                   "type": "internal",
@@ -39,24 +62,22 @@
                   "type": "internal",
                   "page": "2015 United Kingdom general election"
                 }
-              ],
-              "formatting": {
-                "bold": [
-                  "Paul Stuart Scully"
-                ]
-              }
-            },
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
             {
-              "text": "A member of the Conservative Party, he served as its deputy chairman from 2019 to 2020 and as its vice chairman for the London region from 2017 to 2019, having replaced Stephen Hammond who had the Conservative whip withdrawn for rebelling against the government over the EU withdrawal bill.",
+              "text": "Scully served as Vice Chairman of the Conservative Party for the London region from 2017 to 2019, having been appointed by Theresa May to replace Stephen Hammond who had the Conservative whip withdrawn for rebelling against the government over the EU withdrawal bill.",
               "links": [
-                {
-                  "text": "Conservative Party",
-                  "type": "internal",
-                  "page": "Conservative Party (UK)"
-                },
                 {
                   "type": "internal",
                   "page": "London"
+                },
+                {
+                  "type": "internal",
+                  "page": "Theresa May"
                 },
                 {
                   "type": "internal",
@@ -70,7 +91,49 @@
               ]
             },
             {
-              "text": "He does \"not get to edit Newsnight\"."
+              "text": "After Boris Johnson was appointed Prime Minister in July 2019, Scully was promoted to Deputy Chairman of the Conservative Party.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Boris Johnson"
+                }
+              ]
+            },
+            {
+              "text": "He was appointed Parliamentary Under-Secretary of State for Small Business, Consumers and Labour Markets and Minister for London in the February 2020 reshuffle.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Parliamentary Under-Secretary of State for Small Business, Consumers and Labour Markets"
+                },
+                {
+                  "type": "internal",
+                  "page": "Minister for London"
+                },
+                {
+                  "text": "February 2020 reshuffle",
+                  "type": "internal",
+                  "page": "2020 British cabinet reshuffle"
+                }
+              ]
+            },
+            {
+              "text": "In July 2022, he became Minister of State for Local Government, Faith and Communities after Kemi Badenoch resigned during the 2022 United Kingdom government crisis.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Minister of State for Local Government, Faith and Communities"
+                },
+                {
+                  "type": "internal",
+                  "page": "Kemi Badenoch"
+                },
+                {
+                  "text": "2022 United Kingdom government crisis",
+                  "type": "internal",
+                  "page": "2022 United Kingdom government crisis"
+                }
+              ]
             }
           ]
         }
@@ -367,12 +430,6 @@
           "type": "inline",
           "data": {},
           "inline": {}
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
         }
       ]
     },
@@ -454,6 +511,7 @@
         {
           "url": "http://www.scully.org.uk/about-paul/",
           "title": "About Paul",
+          "date": "6 January 2013",
           "publisher": "Personal website",
           "access-date": "8 July 2018",
           "template": "citation",

@@ -56,9 +56,6 @@
                   "page": "2019 United Kingdom general election"
                 }
               ]
-            },
-            {
-              "text": "Since February 2022 she has also served as Boris Johnson's private secretary."
             }
           ]
         }
@@ -106,11 +103,12 @@
             "text": "Official portrait in 2019"
           },
           "office": {
-            "text": "Parliamentary Under-Secretary of State for Levelling Up, Housing and Communities",
+            "text": "Parliamentary Under-Secretary of State for Levelling Up, The Union and Constitution",
             "links": [
               {
+                "text": "Parliamentary Under-Secretary of State for Levelling Up, The Union and Constitution",
                 "type": "internal",
-                "page": "Parliamentary Under-Secretary of State for Levelling Up, Housing and Communities"
+                "page": "Department for Levelling Up, Housing and Communities"
               }
             ]
           },
@@ -151,12 +149,8 @@
             "text": "8 July 2022"
           },
           "alongside1": {
-            "text": "Sarah Dines\nJoy Morrissey\nJames Duddridge",
+            "text": "Joy Morrissey\nJames Duddridge",
             "links": [
-              {
-                "type": "internal",
-                "page": "Sarah Dines"
-              },
               {
                 "type": "internal",
                 "page": "Joy Morrissey"
@@ -168,11 +162,24 @@
             ]
           },
           "predecessor1": {
-            "text": "Andrew Griffith",
+            "text": "Andrew Griffith\nSarah Dines",
             "links": [
               {
                 "type": "internal",
                 "page": "Andrew Griffith"
+              },
+              {
+                "type": "internal",
+                "page": "Sarah Dines"
+              }
+            ]
+          },
+          "successor1": {
+            "text": "Alexander Stafford",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Alexander Stafford"
               }
             ]
           },
@@ -257,12 +264,6 @@
           "oclc": "1129682574",
           "template": "citation",
           "type": "book"
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
         },
         {
           "url": "https://www.conservativehome.com/parliament/2017/05/exclusive-shortlist-for-scunthorpe-selection-tonight.html",

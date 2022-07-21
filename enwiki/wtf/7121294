@@ -94,6 +94,16 @@
                   "page": "Secretary of State for Defence"
                 }
               ]
+            },
+            {
+              "text": "Mordaunt ran to become Leader of the Conservative Party in 2022, finishing in third place.",
+              "links": [
+                {
+                  "text": "Leader of the Conservative Party",
+                  "type": "internal",
+                  "page": "Leader of the Conservative Party (UK)"
+                }
+              ]
             }
           ]
         },
@@ -274,7 +284,7 @@
         {
           "sentences": [
             {
-              "text": "In July 2022, Mordaunt is standing in the leadership contest to become the leader of the Conservative Party and the next prime minister.",
+              "text": "In July 2022, Mordaunt entered the leadership contest to become the leader of the Conservative Party and the next prime minister, but was eliminated after the fifth round of the election.",
               "links": [
                 {
                   "text": "leadership contest",
@@ -765,13 +775,7 @@
             "text": "pennymordaunt.com"
           },
           "allegiance": {
-            "text": "United Kingdom",
-            "links": [
-              {
-                "type": "internal",
-                "page": "United Kingdom"
-              }
-            ]
+            "text": "United Kingdom"
           },
           "branch": {
             "text": "Royal Navy",
@@ -1192,6 +1196,9 @@
           "access-date": "2022-07-19",
           "website": "DevonLive",
           "language": "en",
+          "archive-date": "19 July 2022",
+          "archive-url": "https://web.archive.org/web/20220719010755/https://www.devonlive.com/news/local-news/tory-leadership-candidate-penny-mordaunt-7336674",
+          "url-status": "live",
           "template": "citation",
           "type": "web"
         },
@@ -1954,6 +1961,9 @@
           "url": "https://www.bbc.com/news/av/uk-politics-eu-referendum-36352676",
           "access-date": "17 July 2022",
           "work": "BBC News",
+          "archive-date": "17 July 2022",
+          "archive-url": "https://web.archive.org/web/20220717103830/https://www.bbc.com/news/av/uk-politics-eu-referendum-36352676",
+          "url-status": "live",
           "template": "citation",
           "type": "news"
         },
@@ -1964,6 +1974,9 @@
           "work": "The Independent",
           "date": "22 May 2016",
           "language": "en",
+          "archive-date": "17 July 2022",
+          "archive-url": "https://web.archive.org/web/20220717103744/https://www.independent.co.uk/news/uk/politics/penny-mordaunt-andrew-marr-uk-veto-tory-minister-accused-of-flat-out-lying-over-turkey-joining-the-eu-a7041956.html",
+          "url-status": "live",
           "template": "citation",
           "type": "news"
         },
@@ -1972,11 +1985,14 @@
           "first1": "Mark",
           "last2": "Castle",
           "first2": "Stephen",
-          "title": "Prime Minister Race in Britain Remains Unsettled in Wake of Johnson’s Downfall",
+          "title": "Prime Minister Race in Britain Remains Unsettled in Wake of Johnson's Downfall",
           "url": "https://www.nytimes.com/2022/07/17/world/europe/penny-mordaunt-rishi-sunak.html",
           "access-date": "17 July 2022",
           "work": "The New York Times",
           "date": "17 July 2022",
+          "archive-date": "17 July 2022",
+          "archive-url": "https://web.archive.org/web/20220717090518/https://www.nytimes.com/2022/07/17/world/europe/penny-mordaunt-rishi-sunak.html",
+          "url-status": "live",
           "template": "citation",
           "type": "news"
         },
@@ -1986,6 +2002,9 @@
           "access-date": "18 July 2022",
           "work": "BBC News",
           "date": "18 July 2022",
+          "archive-date": "18 July 2022",
+          "archive-url": "https://web.archive.org/web/20220718094428/https://www.bbc.co.uk/news/62185058",
+          "url-status": "live",
           "template": "citation",
           "type": "news"
         },
@@ -2632,6 +2651,9 @@
           "date": "12 July 2022",
           "ref": "video2",
           "language": "en",
+          "archive-date": "17 July 2022",
+          "archive-url": "https://web.archive.org/web/20220717232001/https://www.yorkshirepost.co.uk/news/politics/footage-of-jo-cox-removed-from-conservative-candidate-campaign-video-after-family-raise-concerns-3765450",
+          "url-status": "live",
           "template": "citation",
           "type": "news"
         },
@@ -2690,6 +2712,9 @@
           "access-date": "18 July 2022",
           "work": "The Spectator",
           "date": "17 July 2022",
+          "archive-date": "17 July 2022",
+          "archive-url": "https://web.archive.org/web/20220717173901/https://www.spectator.co.uk/article/penny-mordaunt-s-worst-trait",
+          "url-status": "live",
           "template": "citation",
           "type": "news"
         },
@@ -2701,6 +2726,9 @@
           "access-date": "18 July 2022",
           "work": "The Spectator",
           "date": "15 July 2022",
+          "archive-date": "19 July 2022",
+          "archive-url": "https://web.archive.org/web/20220719055017/https://www.spectator.co.uk/article/penny-mordaunt-would-make-a-great-leader-of-the-labour-party",
+          "url-status": "live",
           "template": "citation",
           "type": "news"
         },
@@ -2849,6 +2877,25 @@
             "Ref": {
               "text": ""
             }
+          },
+          {
+            "Date": {
+              "text": "20 July 2022"
+            },
+            "Votes Received": {
+              "text": "105",
+              "number": 105
+            },
+            "%": {
+              "text": "29.3",
+              "number": 29.3
+            },
+            "Position / Candidates": {
+              "text": "3 / 3"
+            },
+            "Ref": {
+              "text": ""
+            }
           }
         ]
       ],
@@ -2861,6 +2908,11 @@
           "label 1": "Election results in full",
           "label2": "MPs who have publicly endorsed Mordaunt",
           "template": "see also"
+        },
+        {
+          "abbr": "Ref",
+          "meaning": "Reference",
+          "template": "define"
         }
       ],
       "references": [
@@ -2889,6 +2941,51 @@
           "url-status": "live",
           "template": "citation",
           "type": "web"
+        },
+        {
+          "title": "Tugendhat eliminated from Tory leadership race as candidates whittled to four",
+          "url": "https://www.itv.com/news/2022-07-18/tugendhat-eliminated-from-tory-leadership-race-as-candidates-whittled-to-four",
+          "access-date": "20 July 2022",
+          "work": "ITV News",
+          "date": "18 July 2022",
+          "language": "en",
+          "archive-date": "19 July 2022",
+          "archive-url": "https://web.archive.org/web/20220719142051/https://www.itv.com/news/2022-07-18/tugendhat-eliminated-from-tory-leadership-race-as-candidates-whittled-to-four",
+          "url-status": "live",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Stone",
+          "first1": "Jon",
+          "title": "Tory leadership vote: The fourth round results in full",
+          "url": "https://www.independent.co.uk/news/uk/politics/tory-leadership-vote-results-sunak-mordaunt-truss-kemi-badenoch-b2126572.html",
+          "access-date": "20 July 2022",
+          "work": "The Independent",
+          "date": "19 July 2022",
+          "language": "en",
+          "archive-date": "19 July 2022",
+          "archive-url": "https://web.archive.org/web/20220719175814/https://www.independent.co.uk/news/uk/politics/tory-leadership-vote-results-sunak-mordaunt-truss-kemi-badenoch-b2126572.html",
+          "url-status": "live",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Burford",
+          "first1": "Rachael",
+          "last2": "Blake",
+          "first2": "Elly",
+          "title": "Sunak and Truss go through to final two in Tory leadership race",
+          "url": "https://www.standard.co.uk/news/politics/conservative-tory-leadership-race-elections-latest-watch-pmqs-rishi-sunak-penny-mordaunt-liz-truss-b1013465.html",
+          "access-date": "20 July 2022",
+          "work": "Evening Standard",
+          "date": "20 July 2022",
+          "language": "en",
+          "archive-date": "20 July 2022",
+          "archive-url": "https://web.archive.org/web/20220720171100/https://www.standard.co.uk/news/politics/conservative-tory-leadership-race-elections-latest-watch-pmqs-rishi-sunak-penny-mordaunt-liz-truss-b1013465.html",
+          "url-status": "live",
+          "template": "citation",
+          "type": "news"
         }
       ]
     },
@@ -2926,6 +3023,9 @@
           "website": "bbc.co.uk",
           "publisher": "BBC",
           "access-date": "19 July 2022",
+          "archive-date": "17 July 2022",
+          "archive-url": "https://web.archive.org/web/20220717181119/https://www.bbc.co.uk/news/uk-northern-ireland-62118436",
+          "url-status": "live",
           "template": "citation",
           "type": "web"
         }
@@ -3232,6 +3332,9 @@
           "access-date": "17 July 2022",
           "work": "www.spectator.co.uk",
           "language": "en",
+          "archive-date": "16 July 2022",
+          "archive-url": "https://web.archive.org/web/20220716185254/https://www.spectator.co.uk/article/tories-parade-their-military-attire",
+          "url-status": "live",
           "template": "citation",
           "type": "news"
         },
@@ -3242,6 +3345,9 @@
           "url": "https://www.msn.com/en-gb/news/other/senior-officers-have-questioned-penny-mordaunts-navy-claims/ar-AAZACVP",
           "access-date": "17 July 2022",
           "work": "MSN",
+          "archive-date": "17 July 2022",
+          "archive-url": "https://web.archive.org/web/20220717105020/https://www.msn.com/en-gb/news/other/senior-officers-have-questioned-penny-mordaunts-navy-claims/ar-AAZACVP",
+          "url-status": "live",
           "template": "citation",
           "type": "news"
         },
@@ -3453,9 +3559,15 @@
           "title": "Why I took a Ukrainian refugee into my home",
           "url": "https://www.telegraph.co.uk/politics/2022/07/16/why-took-ukrainian-refugee-home/",
           "website": "The Daily Telegraph",
+          "date": "16 July 2022",
           "access-date": "19 July 2022",
+          "last1": "Mordaunt",
+          "first1": "Penny",
+          "archive-date": "18 July 2022",
+          "archive-url": "https://web.archive.org/web/20220718171757/https://www.telegraph.co.uk/politics/2022/07/16/why-took-ukrainian-refugee-home/",
+          "url-status": "live",
           "template": "citation",
-          "type": "web"
+          "type": "news"
         },
         {
           "title": "Allison Pearson: It is perfectly clear that Penny Mordaunt must be our next prime minister",

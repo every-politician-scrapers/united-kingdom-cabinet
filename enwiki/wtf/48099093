@@ -424,6 +424,15 @@
               }
             ]
           },
+          "successor1": {
+            "text": "Amanda Solloway",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Amanda Solloway"
+              }
+            ]
+          },
           "office2": {
             "text": "Exchequer Secretary to the Treasury",
             "links": [
@@ -609,8 +618,9 @@
             "text": "Alan Haselhurst",
             "links": [
               {
+                "text": "Alan Haselhurst",
                 "type": "internal",
-                "page": "Alan Haselhurst"
+                "page": "Alan Haselhurst, Baron Haselhurst"
               }
             ]
           },
@@ -1714,6 +1724,9 @@
                   "page": "2022 Conservative Party leadership election (UK)"
                 }
               ]
+            },
+            {
+              "text": "She was later eliminated after the fourth ballot with 59 votes."
             }
           ]
         }
@@ -2467,6 +2480,13 @@
               "text": "The following table shows how many MPs supported Badenoch during each election round:"
             }
           ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Following her elimination from the leadership contest on 19 July, Badenoch has stated that she will not endorse another candidate."
+            }
+          ]
         }
       ],
       "tables": [
@@ -2615,6 +2635,15 @@
         {
           "url": "https://www.bbc.com/news/live/uk-politics-62191267?ns_mchannel=social&ns_source=twitter&ns_campaign=bbc_live&ns_linkname=62d5a8b0c0a04b70582993f3%26Rishi%20Sunak%20leads%20latest%20round%20of%20voting%262022-07-18T19%3A05%3A50.895Z&ns_fee=0&pinned_post_locator=urn:asset:0752cf86-dd7b-4e5e-b92b-a378f6e4ee83&pinned_post_asset_id=62d5a8b0c0a04b70582993f3&pinned_post_type=share",
           "title": "Tory leadership latest: Tom Tugendhat knocked out of Tory leadership race",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Tory leadership: Johnson to face final PMQs ahead of leadership vote",
+          "url": "https://www.bbc.co.uk/news/live/uk-politics-62232038",
+          "access-date": "2022-07-20",
+          "website": "BBC News",
+          "language": "en-gb",
           "template": "citation",
           "type": "web"
         },

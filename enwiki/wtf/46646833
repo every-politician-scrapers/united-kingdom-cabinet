@@ -34,7 +34,7 @@
         {
           "sentences": [
             {
-              "text": "Sue-Ellen Cassiana \"Suella\" Braverman ( Fernandes; born 3 April 1980) is a British politician and barrister who has been the Attorney General for England and Wales since 2020.",
+              "text": "Sue-Ellen Cassiana \"Suella\" Braverman (born 3 April 1980) is a British politician and barrister who has been the Attorney General for England and Wales since 2020.",
               "links": [
                 {
                   "type": "internal",
@@ -45,8 +45,7 @@
                 "bold": [
                   "Sue-Ellen Cassiana",
                   "Suella",
-                  "Braverman",
-                  "Fernandes"
+                  "Braverman"
                 ]
               }
             },
@@ -62,10 +61,6 @@
                   "text": "Fareham",
                   "type": "internal",
                   "page": "Fareham (UK Parliament constituency)"
-                },
-                {
-                  "type": "internal",
-                  "page": "Hampshire"
                 },
                 {
                   "text": "2015",
@@ -206,6 +201,9 @@
           "transcription": "ˈ,b,r,æ,v,ər,m,ə,n"
         },
         {
+          "list": [
+            "Fernandes"
+          ],
           "template": "née"
         }
       ],
@@ -374,15 +372,6 @@
               {
                 "type": "internal",
                 "page": "Advocate General for Northern Ireland"
-              }
-            ]
-          },
-          "status": {
-            "text": "Incumbent",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Incumbent"
               }
             ]
           },
@@ -588,6 +577,11 @@
           "url-status": "live",
           "template": "citation",
           "type": "news"
+        },
+        {
+          "date": "July 2022",
+          "reason": "Is this how her name is pronounced?",
+          "template": "citation needed"
         }
       ]
     },
@@ -2034,6 +2028,15 @@
               ]
             }
           ]
+        }
+      ],
+      "images": [
+        {
+          "file": "File:Attorney_General_hosts_Ukrainian_Prosecutor_General_visit_to_support_war_crimes_investigations.png",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Attorney_General_hosts_Ukrainian_Prosecutor_General_visit_to_support_war_crimes_investigations.png?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Attorney_General_hosts_Ukrainian_Prosecutor_General_visit_to_support_war_crimes_investigations.png",
+          "caption": "Braverman in her role as Attorney General meeting Ukrainian Prosecutor General Iryna Venediktova in May 2022",
+          "links": []
         }
       ],
       "references": [
