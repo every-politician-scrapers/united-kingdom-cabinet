@@ -28,7 +28,7 @@
     "UK MPs 2019–present",
     "Women councillors in England",
     "Women's ministers",
-    "21st-century British women politicians"
+    "21st-century English women politicians"
   ],
   "sections": [
     {
@@ -86,13 +86,28 @@
                   "page": "Boris Johnson"
                 }
               ]
+            },
+            {
+              "text": "She has been often associated with economically neoliberal and socially conservative views.",
+              "links": [
+                {
+                  "text": "neoliberal",
+                  "type": "internal",
+                  "page": "Neoliberalism"
+                },
+                {
+                  "text": "socially conservative",
+                  "type": "internal",
+                  "page": "Social conservatism"
+                }
+              ]
             }
           ]
         },
         {
           "sentences": [
             {
-              "text": "Truss was an undergraduate at Merton College, Oxford, where she was President of Oxford University Liberal Democrats.",
+              "text": "Truss attended Merton College, Oxford, where she was President of Oxford University Liberal Democrats.",
               "links": [
                 {
                   "type": "internal",
@@ -105,7 +120,7 @@
               ]
             },
             {
-              "text": "She graduated in 1996 and subsequently joined the Conservative Party."
+              "text": "She graduated in 1996, and subsequently joined the Conservative Party."
             },
             {
               "text": "She worked at Shell and Cable & Wireless, before becoming deputy director at the think tank Reform.",
@@ -199,7 +214,7 @@
               ]
             },
             {
-              "text": "Though she was a prominent supporter of the unsuccessful Britain Stronger in Europe campaign for the UK to remain in the European Union in the 2016 referendum, she came to support Brexit after the result.",
+              "text": "Though she was a supporter of the Britain Stronger in Europe campaign for the UK to remain in the European Union in the 2016 referendum, she supported Brexit after the result.",
               "links": [
                 {
                   "type": "internal",
@@ -222,7 +237,7 @@
               ]
             },
             {
-              "text": "After Cameron resigned in July 2016, Truss was appointed Secretary of State for Justice and Lord Chancellor by Theresa May, becoming the first female Lord Chancellor in the 1,000-year history of the office (excluding Eleanor of Provence in 1253).",
+              "text": "After Cameron resigned in July 2016, Truss was appointed Secretary of State for Justice and Lord Chancellor by Theresa May.",
               "links": [
                 {
                   "type": "internal",
@@ -235,10 +250,6 @@
                 {
                   "type": "internal",
                   "page": "Theresa May"
-                },
-                {
-                  "type": "internal",
-                  "page": "Eleanor of Provence"
                 }
               ]
             },
@@ -257,7 +268,7 @@
               ]
             },
             {
-              "text": "After May resigned in 2019, Truss supported Boris Johnson's successful bid to become Conservative leader.",
+              "text": "After May resigned in 2019, Truss supported Boris Johnson's bid to become Conservative leader.",
               "links": [
                 {
                   "type": "internal",
@@ -314,17 +325,17 @@
         {
           "sentences": [
             {
-              "text": "On 10 July 2022, Truss announced her intention to run in the Conservative Party leadership election to replace Boris Johnson as Prime Minister.",
+              "text": "Truss stood in the 2022 Conservative Party leadership election to replace Johnson as Prime Minister.",
               "links": [
                 {
-                  "text": "Conservative Party leadership election",
+                  "text": "2022 Conservative Party leadership election",
                   "type": "internal",
                   "page": "2022 Conservative Party leadership election (UK)"
                 }
               ]
             },
             {
-              "text": "On 20 July, she polled second amongst Conservative MPs and is expected to face a postal vote of party members against Rishi Sunak with the results to be announced on 5 September.",
+              "text": "She polled second amongst Conservative MPs, behind Rishi Sunak, before a postal vote of party members, with the result to be announced on 5 September.",
               "links": [
                 {
                   "type": "internal",
@@ -345,7 +356,7 @@
           "template": "use british english"
         },
         {
-          "date": "February 2022",
+          "date": "July 2022",
           "template": "use dmy dates"
         },
         {
@@ -765,6 +776,44 @@
           "inline": {}
         },
         {
+          "title": "PROFILE: Liz Truss, foreign secretary and Conservative Party leadership candidate",
+          "url": "https://www.aa.com.tr/en/europe/profile-liz-truss-foreign-secretary-and-conservative-party-leadership-candidate/2642062",
+          "access-date": "21 July 2022",
+          "website": "www.aa.com.tr",
+          "archive-date": "21 July 2022",
+          "archive-url": "https://web.archive.org/web/20220721172754/https://www.aa.com.tr/en/europe/profile-liz-truss-foreign-secretary-and-conservative-party-leadership-candidate/2642062",
+          "url-status": "live",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Foundation",
+          "first": "Thomson Reuters",
+          "title": "What are the UK Prime Minister hopefuls' stances on LGBTQ+ rights?",
+          "url": "https://news.trust.org/item/20220720162524-dtuv6/",
+          "access-date": "21 July 2022",
+          "website": "news.trust.org",
+          "archive-date": "21 July 2022",
+          "archive-url": "https://web.archive.org/web/20220721173221/https://news.trust.org/item/20220720162524-dtuv6/",
+          "url-status": "live",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Mackinnon",
+          "first": "Amy",
+          "title": "Liz Truss, True Believer",
+          "url": "https://foreignpolicy.com/2021/10/22/liz-truss-foreign-secretary-uk-conservative-trade/",
+          "access-date": "21 July 2022",
+          "website": "Foreign Policy",
+          "language": "en-US",
+          "archive-date": "26 October 2021",
+          "archive-url": "https://web.archive.org/web/20211026223737/https://foreignpolicy.com/2021/10/22/liz-truss-foreign-secretary-uk-conservative-trade/",
+          "url-status": "live",
+          "template": "citation",
+          "type": "web"
+        },
+        {
           "last": "Chambre",
           "first": "Agnes",
           "title": "Liz Truss says she would now back Brexit",
@@ -844,12 +893,12 @@
           "type": "web"
         },
         {
-          "date": "2022-07-11",
+          "date": "11 July 2022",
           "title": "Foreign Secretary Liz Truss joins Tory leadership race",
           "language": "en-GB",
           "work": "BBC News",
           "url": "https://www.bbc.com/news/uk-politics-62115709",
-          "access-date": "2022-07-13",
+          "access-date": "13 July 2022",
           "archive-date": "12 July 2022",
           "archive-url": "https://web.archive.org/web/20220712202308/https://www.bbc.com/news/uk-politics-62115709",
           "url-status": "live",
@@ -857,12 +906,12 @@
           "type": "news"
         },
         {
-          "date": "2022-07-20",
+          "date": "20 July 2022",
           "title": "Sunak gets 137 votes, Truss 113 and Mordaunt 105",
           "language": "en-GB",
           "work": "The Guardian",
           "url": "https://www.theguardian.com/politics/live/2022/jul/20/tory-leadership-race-live-sunak-mordaunt-truss-latest-uk-politics?page=with:block-62d819708f08d02cb60ef915#block-62d819708f08d02cb60ef915",
-          "access-date": "2022-07-20",
+          "access-date": "20 July 2022",
           "archive-date": "20 July 2022",
           "archive-url": "https://web.archive.org/web/20220720170334/https://www.theguardian.com/politics/live/2022/jul/20/tory-leadership-race-live-sunak-mordaunt-truss-latest-uk-politics?page=with%3Ablock-62d819708f08d02cb60ef915#block-62d819708f08d02cb60ef915",
           "url-status": "live",
@@ -952,8 +1001,13 @@
               "text": "From an early age, she has been known by her middle name \"Elizabeth\"."
             },
             {
-              "text": "Her father was a professor of pure mathematics at the University of Leeds, while her mother was a nurse, teacher and member of the Campaign for Nuclear Disarmament.",
+              "text": "Her father is an emeritus professor of pure mathematics at the University of Leeds, while her mother was a nurse, teacher and member of the Campaign for Nuclear Disarmament.",
               "links": [
+                {
+                  "text": "emeritus",
+                  "type": "internal",
+                  "page": "emeritus"
+                },
                 {
                   "text": "pure mathematics",
                   "type": "internal",
@@ -1011,6 +1065,9 @@
               ]
             },
             {
+              "text": "Both this, and her claims of the education curriculum being unjustly focused on social issues, were disputed by a journalist and some of his friends who attended the same school."
+            },
+            {
               "text": "She then lived in Canada for a year, and praises the competitive attitude in schooling there with the education she received, in contrast to her education at Roundhay School."
             },
             {
@@ -1031,7 +1088,17 @@
         {
           "sentences": [
             {
-              "text": "Truss was President of Oxford University Liberal Democrats and a member of the national executive committee of Liberal Democrat Youth and Students.",
+              "text": "Truss was active in the Liberal Democrats.",
+              "links": [
+                {
+                  "text": "Liberal Democrats",
+                  "type": "internal",
+                  "page": "Liberal Democrats (UK)"
+                }
+              ]
+            },
+            {
+              "text": "She was president of Oxford University Liberal Democrats and a member of the national executive committee of Liberal Democrat Youth and Students.",
               "links": [
                 {
                   "type": "internal",
@@ -1044,7 +1111,7 @@
               ]
             },
             {
-              "text": "She also expressed republican sentiments in a speech at the 1994 Liberal Democrats conference: \"I agree with Paddy Ashdown when he said, 'Everybody in Britain should have the chance to be a somebody', but only one family can provide the head of state... we do not believe people are born to rule\".",
+              "text": "She expressed republican sentiments in a speech at the 1994 Liberal Democrat Federal Conference, stating: \"I agree with Paddy Ashdown when he said, 'Everybody in Britain should have the chance to be a somebody', but only one family can provide the head of state... we believe in referenda on major constitutional issues; we do not believe people should be born to rule, or that they should put up and shut up about decisions which affect their everyday lives\".",
               "links": [
                 {
                   "text": "republican",
@@ -1052,9 +1119,8 @@
                   "page": "Republicanism in the United Kingdom"
                 },
                 {
-                  "text": "Liberal Democrats",
                   "type": "internal",
-                  "page": "Liberal Democrats (UK)"
+                  "page": "Liberal Democrat Federal Conference"
                 },
                 {
                   "type": "internal",
@@ -1064,6 +1130,11 @@
                   "text": "head of state",
                   "type": "internal",
                   "page": "head of state"
+                },
+                {
+                  "text": "referenda",
+                  "type": "internal",
+                  "page": "Referendum"
                 }
               ]
             },
@@ -1074,6 +1145,17 @@
         }
       ],
       "references": [
+        {
+          "title": "John K. Truss Emeritus Professor",
+          "url": "http://www1.maths.leeds.ac.uk/pure/staff/truss/truss.html",
+          "website": "University of Leeds",
+          "access-date": "21 July 2022",
+          "archive-date": "23 February 2022",
+          "archive-url": "https://web.archive.org/web/20220223210548/http://www1.maths.leeds.ac.uk/pure/staff/truss/truss.html",
+          "url-status": "live",
+          "template": "citation",
+          "type": "web"
+        },
         {
           "title": "Next right",
           "first": "James",
@@ -1087,6 +1169,19 @@
           "url-status": "live",
           "template": "citation",
           "type": "news"
+        },
+        {
+          "date": "18 July 2022",
+          "title": "I grew up where Liz Truss did, attended the same school. She’s not telling you the truth {{!}} Martin Pengelly",
+          "url": "https://www.theguardian.com/commentisfree/2022/jul/18/liz-truss-roundhay-school-foreign-secretary-education",
+          "access-date": "21 July 2022",
+          "website": "the Guardian",
+          "language": "en",
+          "archive-date": "20 July 2022",
+          "archive-url": "https://web.archive.org/web/20220720063147/https://www.theguardian.com/commentisfree/2022/jul/18/liz-truss-roundhay-school-foreign-secretary-education",
+          "url-status": "live",
+          "template": "citation",
+          "type": "web"
         },
         {
           "title": "Truss, Liz",
@@ -1126,6 +1221,14 @@
           "url-status": "live",
           "template": "citation",
           "type": "news"
+        },
+        {
+          "title": "Truss and Paddy, and that call for abolition of the monarchy",
+          "url": "https://www.libdemvoice.org/truss-and-paddy-and-that-call-for-abolition-of-the-monarchy-71060.html",
+          "website": "Liberal Democrat Voice",
+          "access-date": "21 July 2022",
+          "template": "citation",
+          "type": "web"
         },
         {
           "url": "https://www.ukwhoswho.com/view/10.1093/ww/9780199540884.001.0001/ww-9780199540884-e-251474",
@@ -1192,6 +1295,18 @@
           "url-status": "live",
           "template": "citation",
           "type": "news"
+        },
+        {
+          "title": "Liz Truss speech at 1994 Liberal Democrat conference",
+          "date": "20 September 1994",
+          "url": "https://www.gettyimages.co.uk/detail/video/liberal-democrats-conference-day-2-17-00-18-27-england-news-footage/1409915271",
+          "website": "Getty Images",
+          "access-date": "21 July 2022",
+          "archive-date": "21 July 2022",
+          "archive-url": "https://web.archive.org/web/20220721172932/https://www.gettyimages.co.uk/detail/video/liberal-democrats-conference-day-2-17-00-18-27-england-news-footage/1409915271",
+          "url-status": "live",
+          "template": "citation",
+          "type": "web"
         },
         {
           "last1": "Dale",
@@ -1275,7 +1390,7 @@
           "url": "https://www.ft.com/content/94839428-3f90-4fbd-966d-3199ecb9a357",
           "access-date": "18 July 2022",
           "publisher": "Financial Times",
-          "date": "February 10, 2022",
+          "date": "10 February 2022",
           "archive-date": "13 July 2022",
           "archive-url": "https://web.archive.org/web/20220713214857/https://www.ft.com/content/94839428-3f90-4fbd-966d-3199ecb9a357",
           "url-status": "live",
@@ -1294,16 +1409,24 @@
           "type": "web"
         },
         {
+          "url": "http://www.reform.co.uk/pages/2145/view",
+          "title": "The value of mathematics",
+          "website": "Reform",
+          "date": "June 2008",
+          "archive-url": "https://web.archive.org/web/20120406100205/http://www.reform.co.uk/pages/2145/view",
+          "archive-date": "6 April 2012",
           "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
+          "type": "web"
         },
         {
+          "url": "http://www.reform.co.uk/pages/2152/view",
+          "title": "A new level",
+          "website": "Reform",
+          "date": "June 2009",
+          "archive-url": "https://web.archive.org/web/20120406100248/http://www.reform.co.uk/pages/2152/view",
+          "archive-date": "6 April 2012",
           "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
+          "type": "web"
         }
       ]
     },
@@ -1386,7 +1509,7 @@
           "first": "Andrew",
           "title": "2002 - Greenwich",
           "url": "https://www.andrewteale.me.uk/leap/results/2002/24/",
-          "access-date": "2022-07-14",
+          "access-date": "14 July 2022",
           "website": "Local Elections Archive Project",
           "archive-date": "14 July 2022",
           "archive-url": "https://web.archive.org/web/20220714151203/https://www.andrewteale.me.uk/leap/results/2002/24/",
@@ -1399,7 +1522,7 @@
           "first": "Andrew",
           "title": "Eltham South Ward",
           "url": "https://www.andrewteale.me.uk/leap/ward/461/",
-          "access-date": "2022-07-14",
+          "access-date": "14 July 2022",
           "website": "Local Elections Archive Project",
           "archive-date": "14 July 2022",
           "archive-url": "https://web.archive.org/web/20220714151204/https://www.andrewteale.me.uk/leap/ward/461/",
@@ -1416,17 +1539,21 @@
         {
           "sentences": [
             {
-              "text": "Truss stood for the Labour-held constituency of Hemsworth in 2001, raising the Conservative vote by 4%.",
+              "text": "Truss stood for the Labour-held constituency of Hemsworth in West Yorkshire in 2001, raising the Conservative vote by 4%.",
               "links": [
                 {
                   "text": "Hemsworth",
                   "type": "internal",
                   "page": "Hemsworth (UK Parliament constituency)"
+                },
+                {
+                  "type": "internal",
+                  "page": "West Yorkshire"
                 }
               ]
             },
             {
-              "text": "Prior to the 2005 general election, parliamentary candidate for Calder Valley Sue Catling was pressured to resign by the local Conservative Association, whereupon Truss was selected to fight the seat.",
+              "text": "Prior to the 2005 general election, parliamentary candidate for Calder Valley Sue Catling was pressured to resign by the local Conservative Association, whereupon Truss was selected to fight the seat, which is also in West Yorkshire.",
               "links": [
                 {
                   "text": "2005 general election",
@@ -1472,7 +1599,7 @@
               "text": "She won over 50% of the vote in the first round of the final against five other candidates."
             },
             {
-              "text": "Shortly after her selection, some members of the constituency association objected to Truss's selection, saying that information about her extramarital affair with the Conservative MP Mark Field, reported to have taken place between 2003 and 2005, had been withheld from the members.",
+              "text": "Shortly after her selection, some members of the constituency association objected to Truss's selection, saying that information about her extramarital affair with the Conservative MP Mark Field, reported to have taken place between 2003 and 2005, and to have resulted in the end of Field's marriage, had been withheld from the members.",
               "links": [
                 {
                   "type": "internal",
@@ -1528,6 +1655,33 @@
           "url-status": "live }}{{Subscription required|undefined",
           "template": "citation",
           "type": "news"
+        },
+        {
+          "last1": "Gosden",
+          "first1": "Emily",
+          "title": "Affair of Elizabeth Truss exposes Tory tensions",
+          "url": "https://www.thetimes.co.uk/article/affair-of-elizabeth-truss-exposes-tory-tensions-5chdtffjtmv",
+          "access-date": "4 November 2021",
+          "date": "31 October 2009",
+          "language": "en",
+          "archive-date": "4 November 2021",
+          "archive-url": "https://web.archive.org/web/20211104103850/https://www.thetimes.co.uk/article/affair-of-elizabeth-truss-exposes-tory-tensions-5chdtffjtmv",
+          "url-status": "live",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "date": "15 July 2014",
+          "title": "A field day for the Tory old guard",
+          "url": "https://www.independent.co.uk/news/uk/politics/a-field-day-for-the-tory-old-guard-1821258.html",
+          "access-date": "7 April 2021",
+          "website": "The Independent",
+          "language": "en",
+          "archive-date": "21 July 2014",
+          "archive-url": "https://web.archive.org/web/20140721012546/http://www.independent.co.uk/news/uk/politics/a-field-day-for-the-tory-old-guard-1821258.html",
+          "url-status": "live",
+          "template": "citation",
+          "type": "web"
         },
         {
           "last": "McSmith",
@@ -1708,10 +1862,10 @@
               }
             },
             {
-              "text": "It was published in September 2012, and billed as \"an insightful and critical assessment of Britain's challenges in the face of future uncertainty\"."
+              "text": "It was published in September 2012."
             },
             {
-              "text": "As part of a serialisation in The Daily Telegraph, Truss wrote an article previewing her chapter on the importance of science in education.",
+              "text": "The book was promoted by its publishers as the work of \"the Conservative Party’s rising stars. and billed as \"an insightful and critical assessment of Britain's challenges in the face of future uncertainty\". As part of a serialisation in The Daily Telegraph, Truss wrote an article previewing her chapter on the importance of science in education.",
               "links": [
                 {
                   "type": "internal",
@@ -1925,9 +2079,19 @@
           "location": "Houndmills, Basingstoke, Hampshire New York",
           "year": "2012",
           "isbn": "9781137032249",
-          "title-link": "Britannia Unchained }} Details. {{Webarchive|url=https://web.archive.org/web/20121028175455/http://www.palgrave.com/booksellers/sellin/Britannia-Unchained.pdf |date=28 October 2012 |undefined",
+          "title-link": "Britannia Unchained",
           "template": "citation",
           "type": "book"
+        },
+        {
+          "url": "http://www.palgrave.com/booksellers/sellin/Britannia-Unchained.pdf",
+          "title": "Britannia Unchained",
+          "website": "Palgrave Macmillan",
+          "archive-url": "https://web.archive.org/web/20121028175455/http://www.palgrave.com/booksellers/sellin/Britannia-Unchained.pdf",
+          "archive-date": "28 October 2012",
+          "url-status": "dead",
+          "template": "citation",
+          "type": "web"
         },
         {
           "last": "Truss",
@@ -2370,7 +2534,14 @@
               ]
             },
             {
-              "text": "In apparent contrast to her predecessor, Truss declared that she fully believed that climate change is happening, and that \"human beings have contributed to that\"."
+              "text": "In apparent contrast to her predecessor, Truss declared that she fully believed that climate change is happening, and that \"human beings have contributed to that\".",
+              "links": [
+                {
+                  "text": "climate change",
+                  "type": "internal",
+                  "page": "climate change"
+                }
+              ]
             }
           ]
         },
@@ -3353,7 +3524,7 @@
               ]
             },
             {
-              "text": "She held meetings with the Japanese Minister for Foreign Affairs Toshimitsu Motegi, before an issue in relation to stilton cheese caused the talks to stall.",
+              "text": "She held meetings with the Japanese Minister for Foreign Affairs Toshimitsu Motegi, before an issue in relation to Stilton cheese caused the talks to stall.",
               "links": [
                 {
                   "text": "Japanese Minister for Foreign Affairs",
@@ -3365,9 +3536,8 @@
                   "page": "Toshimitsu Motegi"
                 },
                 {
-                  "text": "stilton cheese",
                   "type": "internal",
-                  "page": "stilton cheese"
+                  "page": "Stilton cheese"
                 }
               ]
             },
@@ -3449,10 +3619,10 @@
       ],
       "images": [
         {
-          "file": "File:John_Bolton_with_Liz_Truss.jpg",
-          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/John_Bolton_with_Liz_Truss.jpg?width=300",
-          "url": "https://wikipedia.org/wiki/Special:Redirect/file/John_Bolton_with_Liz_Truss.jpg",
-          "caption": "Truss and US National Security Advisor John Bolton in 2019",
+          "file": "File:Secretary_of_State_for_International_Trade,_Liz_Truss,_pictured_speaking_at_the_UK-Africa_Investment_Summit_in_London,_20_January_2020_(49418242018).jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Secretary_of_State_for_International_Trade%2C_Liz_Truss%2C_pictured_speaking_at_the_UK-Africa_Investment_Summit_in_London%2C_20_January_2020_(49418242018).jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Secretary_of_State_for_International_Trade%2C_Liz_Truss%2C_pictured_speaking_at_the_UK-Africa_Investment_Summit_in_London%2C_20_January_2020_(49418242018).jpg",
+          "caption": "Truss speaking at the UK-Africa Investment Summit in London on 20 January 2020",
           "links": []
         }
       ],
@@ -3681,7 +3851,7 @@
         {
           "sentences": [
             {
-              "text": "In October 2021, Truss and the Deputy Prime Minister, Dominic Raab, were told by Boris Johnson that they must share use of Chevening, a 115-room grace and favour mansion, after they failed to agree who should have sole use of it.",
+              "text": "In October 2021, Truss and the Deputy Prime Minister, Dominic Raab, were told by Boris Johnson that they must share use of Chevening, a 115-room grace and favour mansion in Kent, after they failed to agree who should have sole use of it.",
               "links": [
                 {
                   "type": "internal",
@@ -3695,6 +3865,10 @@
                   "text": "grace and favour",
                   "type": "internal",
                   "page": "grace and favour"
+                },
+                {
+                  "type": "internal",
+                  "page": "Kent"
                 }
               ]
             }
@@ -3825,7 +3999,20 @@
               ]
             },
             {
-              "text": "On 30 January 2022, she told the BBC's Sunday Morning show that \"we are supplying and offering extra support into our Baltic allies across the Black Sea, as well as supplying the Ukrainians with defensive weapons.\""
+              "text": "On 30 January 2022, she told the BBC's Sunday Morning programme that \"we are supplying and offering extra support into our Baltic allies across the Black Sea, as well as supplying the Ukrainians with defensive weapons.\"",
+              "links": [
+                {
+                  "text": "Sunday Morning",
+                  "type": "internal",
+                  "page": "Sunday morning talk show",
+                  "anchor": "United Kingdom"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "Sunday Morning"
+                ]
+              }
             },
             {
               "text": "This was mocked, as the Baltic states are located on or near the Baltic Sea and not the Black Sea, which is 700 miles away from the Baltic.",
@@ -3861,7 +4048,7 @@
               "text": "In February 2022, Liz Truss was requested by a group of cross-party MPs and Peers to sanction the director of the Ruler’s Court in Dubai, Mohammed Al Shaibani."
             },
             {
-              "text": "The request was raised by Andrew Mitchell, Sir Iain Duncan Smith, Lord Hain, Sir Simon Hughes, Sir Peter Bottomley and Stephen Kinnock, who highlighted the case of two British businessmen, Ryan Cornelius and his business partner Charles Ridley, being held in Dubai jail and were victims of “state sanctioned persecution”.",
+              "text": "The request was raised by Andrew Mitchell, Sir Iain Duncan Smith, Lord Hain, Sir Simon Hughes, Sir Peter Bottomley and Stephen Kinnock, who highlighted the case of two British businessmen, Ryan Cornelius and his business partner Charles Ridley, being held in Dubai jail and were victims of “state-sanctioned persecution”.",
               "links": [
                 {
                   "type": "internal",
@@ -3912,7 +4099,7 @@
               ]
             },
             {
-              "text": "In the context of tensions between Russia and the West over a build up of Russian troops near the Russia–Ukraine border talks between the two foreign ministers were described as \"difficult\".",
+              "text": "In the context of tensions between Russia and the West over a build-up of Russian troops near the Russia–Ukraine border, talks between the two foreign ministers were described as \"difficult\".",
               "links": [
                 {
                   "text": "tensions between Russia and the West",
@@ -3950,7 +4137,7 @@
               "text": "Later that day, the Foreign Office prepared legislation to allow for more sanctions on Russian organisations and individuals."
             },
             {
-              "text": "On 21 February 2022, Truss condemned Russia's diplomatic recognition of two self-proclaimed separatist republics in Donbas.",
+              "text": "On 21 February 2022, Truss condemned Russia's diplomatic recognition of two self-proclaimed separatist republics in Donbas in Ukraine.",
               "links": [
                 {
                   "text": "self-proclaimed",
@@ -3965,11 +4152,15 @@
                 {
                   "type": "internal",
                   "page": "Donbas"
+                },
+                {
+                  "type": "internal",
+                  "page": "Ukraine"
                 }
               ]
             },
             {
-              "text": "She also stated that the British government will announce a new sanctions against Russia."
+              "text": "She also stated that the British government would announce new sanctions against Russia."
             }
           ]
         },
@@ -4063,17 +4254,24 @@
       ],
       "images": [
         {
-          "file": "File:Secretary_Blinken_Meets_With_UK_Foreign_Secretary_Truss_(51498216655).jpg",
-          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Secretary_Blinken_Meets_With_UK_Foreign_Secretary_Truss_(51498216655).jpg?width=300",
-          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Secretary_Blinken_Meets_With_UK_Foreign_Secretary_Truss_(51498216655).jpg",
-          "caption": "Truss meeting with US Secretary of State Antony Blinken on 20 September 2021",
+          "file": "File:Joko_Widodo_received_British_FM_Truss_at_the_Merdeka_Palace_in_2021_(1).jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Joko_Widodo_received_British_FM_Truss_at_the_Merdeka_Palace_in_2021_(1).jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Joko_Widodo_received_British_FM_Truss_at_the_Merdeka_Palace_in_2021_(1).jpg",
+          "caption": "Truss meeting with Indonesian President Joko Widodo on 11 November 2021",
           "links": []
         },
         {
-          "file": "File:Armen_Sarkissian_attends_the_2021_United_Nations_Climate_Change_Conference_(17).jpg",
-          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Armen_Sarkissian_attends_the_2021_United_Nations_Climate_Change_Conference_(17).jpg?width=300",
-          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Armen_Sarkissian_attends_the_2021_United_Nations_Climate_Change_Conference_(17).jpg",
-          "caption": "Truss and Armenian President Armen Sarkissian at the 2021 United Nations Climate Change Conference in Glasgow on 2 November 2021",
+          "file": "File:Dmytro_Kuleba_met_with_British_FM_Elizabeth_Truss_in_Kyiv_2022_(1).jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Dmytro_Kuleba_met_with_British_FM_Elizabeth_Truss_in_Kyiv_2022_(1).jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Dmytro_Kuleba_met_with_British_FM_Elizabeth_Truss_in_Kyiv_2022_(1).jpg",
+          "caption": "Truss with her Ukrainian counterpart Dmytro Kuleba in Kyiv on 17 February 2022",
+          "links": []
+        },
+        {
+          "file": "File:Secretary_Blinken_Holds_a_Joint_Press_Availability_With_UK_Foreign_Secretary_Truss_(51928497643).jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Secretary_Blinken_Holds_a_Joint_Press_Availability_With_UK_Foreign_Secretary_Truss_(51928497643).jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Secretary_Blinken_Holds_a_Joint_Press_Availability_With_UK_Foreign_Secretary_Truss_(51928497643).jpg",
+          "caption": "Truss meeting with US Secretary of State Antony Blinken on 9 March 2022",
           "links": []
         }
       ],
@@ -4508,23 +4706,38 @@
         {
           "sentences": [
             {
-              "text": "On 10 July 2022, Truss announced her intention to run in the Conservative Party leadership election.",
+              "text": "On 10 July 2022, Truss announced her intention to run in the Conservative Party leadership election to replace Boris Johnson.",
               "links": [
                 {
                   "text": "Conservative Party leadership election",
                   "type": "internal",
                   "page": "2022 Conservative Party leadership election (UK)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Boris Johnson"
                 }
               ]
             },
             {
-              "text": "She pledged to cut taxes on day one, and said she would \"fight the election as a Conservative and govern as a Conservative\", adding she would also take \"immediate action to help people deal with the cost of living.\""
+              "text": "She pledged to cut taxes on day one if elected, and said she would \"fight the election as a Conservative and govern as a Conservative\", adding she would also take \"immediate action to help people deal with the cost of living.\""
             },
             {
-              "text": "She said she would cancel a planned rise in corporation tax and reverse the recent increase in National Insurance rates, funded by delaying the date by which the national debt is planned to fall, as part of a \"long-term plan to bring down the size of the state and the tax burden\"."
+              "text": "She said she would cancel a planned rise in Corporation tax and reverse the recent increase in National Insurance rates, funded by delaying the date by which the national debt is planned to fall, as part of a \"long-term plan to bring down the size of the state and the tax burden\".",
+              "links": [
+                {
+                  "text": "Corporation tax",
+                  "type": "internal",
+                  "page": "United Kingdom corporation tax"
+                },
+                {
+                  "type": "internal",
+                  "page": "National Insurance"
+                }
+              ]
             },
             {
-              "text": "Her team said her main influences were Margaret Thatcher, Ronald Reagan and the former chancellor of the Exchequer Nigel Lawson.",
+              "text": "Her team said her main influences were Margaret Thatcher, Ronald Reagan and the former Chancellor of the Exchequer Nigel Lawson.",
               "links": [
                 {
                   "type": "internal",
@@ -4642,13 +4855,16 @@
               ]
             },
             {
-              "text": "She called Saudi Arabia a \"partner\" and an \"ally\".",
+              "text": "In 2022 she called Saudi Arabia an \"ally\", but said she was not \"condoning\" the country's policies.",
               "links": [
                 {
                   "type": "internal",
                   "page": "Saudi Arabia"
                 }
               ]
+            },
+            {
+              "text": "She said it was necessary to work with Saudi Arabia so the UK is no longer \"dependent\" on Russia for oil and gas."
             }
           ]
         }
@@ -4702,7 +4918,26 @@
               ]
             },
             {
-              "text": "However, in 2017 she said that if another referendum were held, she would vote for Brexit, saying: \"I believed there would be massive economic problems but those haven't come to pass and I've also seen the opportunities.\""
+              "text": "However, in 2017 she said that if another referendum were held, she would vote for Brexit, saying: \"I believed there would be massive economic problems but those haven't come to pass and I've also seen the opportunities.\"",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Brexit"
+                }
+              ]
+            },
+            {
+              "text": "In the 2022 Conservative Party leadership election, Truss stated of her support for Remain \"I was wrong and I am prepared to admit I was wrong.\"",
+              "links": [
+                {
+                  "text": "2022 Conservative Party leadership election",
+                  "type": "internal",
+                  "page": "2022 Conservative Party leadership election (UK)"
+                }
+              ]
+            },
+            {
+              "text": "She added that \"some of the portents of doom didn't happen and instead we have actually unleashed new opportunities\" after Brexit."
             }
           ]
         }
@@ -4996,7 +5231,7 @@
           "last1": "Truss",
           "first1": "Liz",
           "display-authors": "etal",
-          "title": "Britannia unchained: global lessons for growth and prosperity",
+          "title": "Britannia Unchained: Global Lessons for Growth and Prosperity",
           "publisher": "Palgrave Macmillan",
           "location": "Houndmills, Basingstoke, Hampshire New York",
           "year": "2012",

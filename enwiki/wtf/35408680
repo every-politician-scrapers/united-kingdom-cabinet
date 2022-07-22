@@ -707,7 +707,7 @@
         {
           "sentences": [
             {
-              "text": "Carleton-Smith became Regimental Lieutenant Colonel of the Irish Guards on 18 March 2012, and Honorary Colonel of Oxford University Officers Training Corps on 18 February 2017.",
+              "text": "Carleton-Smith became Regimental Lieutenant Colonel of the Irish Guards on 18 March 2012, and was Honorary Colonel of Oxford University Officers Training Corps between February 2017 and June 2022.",
               "links": [
                 {
                   "text": "Oxford University Officers Training Corps",
@@ -820,6 +820,12 @@
           "access-date": "5 May 2018",
           "template": "citation",
           "type": "news"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
         },
         {
           "template": "citation",

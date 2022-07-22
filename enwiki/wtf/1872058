@@ -1765,6 +1765,15 @@
           ]
         }
       ],
+      "images": [
+        {
+          "file": "File:Grant_Shapps_meets_Essendon's_junior_architects_with_designs_on_their_village.jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Grant_Shapps_meets_Essendon's_junior_architects_with_designs_on_their_village.jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Grant_Shapps_meets_Essendon's_junior_architects_with_designs_on_their_village.jpg",
+          "caption": "Shapps talking to primary school pupils about their visions of the future of housing in their area (July 2010)",
+          "links": []
+        }
+      ],
       "references": [
         {
           "url": "https://www.gov.uk/government/publications/minutes-of-the-ministerial-working-group-on-preventing-and-tackling-homelessness",
@@ -2706,6 +2715,9 @@
       "depth": 1,
       "paragraphs": [
         {
+          "sentences": []
+        },
+        {
           "sentences": [
             {
               "text": "Boris Johnson appointed Shapps Secretary of State for Transport upon his accession to Prime Minister.",
@@ -2837,6 +2849,15 @@
               ]
             }
           ]
+        }
+      ],
+      "images": [
+        {
+          "file": "File:Great_British_Railways;_for_the_passenger.jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Great_British_Railways%3B_for_the_passenger.jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Great_British_Railways%3B_for_the_passenger.jpg",
+          "caption": "Grant Shapps in front of A4 Mallard in National Railway Museum, announcing the formation of Great British Railways",
+          "links": []
         }
       ],
       "templates": [

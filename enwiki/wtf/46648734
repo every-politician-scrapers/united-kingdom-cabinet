@@ -95,7 +95,7 @@
         },
         {
           "list": [
-            "Parliamentary Under-Secretary of State (2019–22)"
+            "Parliamentary Under-Secretary of State (2019–21)"
           ],
           "template": "efn"
         },
@@ -176,6 +176,15 @@
           }
         },
         {
+          "honorific-prefix": {
+            "text": "The Right Honourable",
+            "links": [
+              {
+                "type": "internal",
+                "page": "The Right Honourable"
+              }
+            ]
+          },
           "name": {
             "text": "Johnny Mercer"
           },

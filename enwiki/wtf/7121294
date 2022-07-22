@@ -96,7 +96,7 @@
               ]
             },
             {
-              "text": "Mordaunt ran to become Leader of the Conservative Party in 2022, finishing in third place.",
+              "text": "Mordaunt stood to become Leader of the Conservative Party in 2022, finishing in third place.",
               "links": [
                 {
                   "text": "Leader of the Conservative Party",
@@ -284,7 +284,7 @@
         {
           "sentences": [
             {
-              "text": "In July 2022, Mordaunt entered the leadership contest to become the leader of the Conservative Party and the next prime minister, but was eliminated after the fifth round of the election.",
+              "text": "In July 2022, Mordaunt entered the leadership contest to succeed Johnson as leader of the Conservative Party and prime minister.",
               "links": [
                 {
                   "text": "leadership contest",
@@ -295,6 +295,19 @@
                   "text": "prime minister",
                   "type": "internal",
                   "page": "Prime Minister of the United Kingdom"
+                }
+              ]
+            },
+            {
+              "text": "She fared well in polls for the membership vote but was eliminated in the penultimate round of voting among Conservative MPs, finishing in third place behind Rishi Sunak and Liz Truss.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Rishi Sunak"
+                },
+                {
+                  "type": "internal",
+                  "page": "Liz Truss"
                 }
               ]
             }
@@ -840,6 +853,44 @@
               }
             ]
           }
+        }
+      ],
+      "references": [
+        {
+          "author": "Matthew Smith",
+          "url": "https://yougov.co.uk/topics/politics/articles-reports/2022/07/13/penny-mordaunt-clear-favourite-next-conservative-l",
+          "title": "Penny Mordaunt clear favourite for next Conservative leader among party members",
+          "publisher": "YouGov",
+          "date": "2022-07-13",
+          "accessdate": "2022-07-21",
+          "archive-date": "17 July 2022",
+          "archive-url": "https://web.archive.org/web/20220717082944/https://yougov.co.uk/topics/politics/articles-reports/2022/07/13/penny-mordaunt-clear-favourite-next-conservative-l",
+          "url-status": "live",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.express.co.uk/news/politics/1642816/next-prime-minister-penny-mordaunt-favourite-tory-leadership-contest-poll-results-spt",
+          "title": "Penny Mordaunt remains favourite for PM among readers as Rishi Sunak punished",
+          "date": "19 July 2022",
+          "access-date": "21 July 2022",
+          "archive-date": "19 July 2022",
+          "archive-url": "https://web.archive.org/web/20220719140543/https://www.express.co.uk/news/politics/1642816/next-prime-minister-penny-mordaunt-favourite-tory-leadership-contest-poll-results-spt",
+          "url-status": "live",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.bbc.co.uk/news/uk-politics-62241498",
+          "title": "Tory leadership: Mordaunt out as Sunak and Truss in run-off to be next PM - BBC News",
+          "publisher": "Bbc.co.uk",
+          "date": "2022-05-02",
+          "accessdate": "2022-07-21",
+          "archive-date": "20 July 2022",
+          "archive-url": "https://web.archive.org/web/20220720203142/https://www.bbc.co.uk/news/uk-politics-62241498",
+          "url-status": "live",
+          "template": "citation",
+          "type": "web"
         }
       ]
     },
@@ -1395,7 +1446,7 @@
           "archive-url": "https://web.archive.org/web/20210814150411/https://www.ukwhoswho.com/view/10.1093/ww/9780199540884.001.0001/ww-9780199540884-e-251190",
           "url-status": "live",
           "template": "citation",
-          "type": "web"
+          "type": "book"
         },
         {
           "title": "Meet Your Portsmouth North MP",
@@ -2507,7 +2558,7 @@
         {
           "sentences": [
             {
-              "text": "In July 2022, Mordaunt launched her bid to be the next Conservative leader and consequently UK prime minister."
+              "text": "In July 2022, Mordaunt launched an ultimately unsuccessful bid to be the next Conservative leader and consequently UK prime minister."
             },
             {
               "text": "An early promotional video published by her campaign attracted criticism for featuring footage of former professional sprinter Oscar Pistorius, who murdered his girlfriend Reeva Steenkamp in 2013.",
@@ -2553,21 +2604,31 @@
               "text": "In 2018, Mordaunt, the then women and equalities minister, told MPs that \"trans men are men, trans women are women\" at the launch of a consultation on reforming the Gender Recognition Act."
             },
             {
-              "text": "In July 2022, shortly before launching her bid for the leadership of the Conservative party, she responded to the question \"Do I know what a woman is?\""
+              "text": "On 8 July, the day after Boris Johnson announced that he would stand aside as Conservative Party leader and Prime Minister, it was reported in the Daily Telegraph that several Conservative activists had criticised Mordaunt \"for her pro-trans stance\".",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Boris Johnson"
+                },
+                {
+                  "type": "internal",
+                  "page": "Daily Telegraph"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "Daily Telegraph"
+                ]
+              }
+            },
+            {
+              "text": "On the following day, shortly before she launched her bid for the leadership of the Conservative party, Mordaunt responded to the question \"Do I know what a woman is?\""
             },
             {
               "text": "by writing on Twitter: \"I am biologically a woman. If I have a hysterectomy or mastectomy, I am still a woman. And I am legally a woman. Some people born male and who have been through the gender recognition process are also legally female. That DOES NOT mean they are biological women, like me.\""
             },
             {
-              "text": "The Telegraph described her as a \"socially liberal Brexiteer\".",
-              "formatting": {
-                "italic": [
-                  "The Telegraph"
-                ]
-              }
-            },
-            {
-              "text": "Several Conservative activists criticised her \"for her pro-trans stance\"; The Spectator noted Mordaunt's earlier stance on trans issues, and was critical of what it called her \"cowardice\" in changing her publicly stated views, being \"willing to toss them overboard at her earliest convenience\" during her leadership campaign.",
+              "text": "The Spectator noted Mordaunt's earlier stance on trans issues, and was critical of what it called her \"cowardice\" in changing her publicly stated views, being \"willing to toss them overboard at her earliest convenience\" during her leadership campaign.",
               "links": [
                 {
                   "type": "internal",
@@ -2577,6 +2638,14 @@
               "formatting": {
                 "italic": [
                   "The Spectator"
+                ]
+              }
+            },
+            {
+              "text": "The Daily Telegraph described her as a \"socially liberal Brexiteer\".",
+              "formatting": {
+                "italic": [
+                  "The Daily Telegraph"
                 ]
               }
             }
@@ -2589,6 +2658,13 @@
             },
             {
               "text": "Three other candidates had to drop out earlier that day."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On July 20th, Mordaunt was eliminated from the fifth round of the leadership competition after failing to secure sufficient support from Conservative MPs."
             }
           ]
         }
@@ -2676,20 +2752,6 @@
           "type": "news"
         },
         {
-          "last": "Tidman",
-          "first": "Zoe",
-          "url": "https://www.independent.co.uk/news/uk/politics/trans-penny-mordaunt-tory-leadership-b2119806.html",
-          "title": "Tory MP accused of 'throwing trans people under bus' after hitting out at critics",
-          "date": "10 July 2022",
-          "work": "The Independent",
-          "access-date": "10 July 2022",
-          "archive-date": "11 July 2022",
-          "archive-url": "https://web.archive.org/web/20220711001510/https://www.independent.co.uk/news/uk/politics/trans-penny-mordaunt-tory-leadership-b2119806.html",
-          "url-status": "live",
-          "template": "citation",
-          "type": "news"
-        },
-        {
           "last": "Boycott-Owen",
           "first": "Mason",
           "date": "8 July 2022",
@@ -2700,6 +2762,20 @@
           "issn": "0307-1235",
           "archive-date": "9 July 2022",
           "archive-url": "https://web.archive.org/web/20220709233550/https://www.telegraph.co.uk/politics/2022/07/08/penny-mordaunts-pro-trans-stance-has-ruined-chances-becoming/",
+          "url-status": "live",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last": "Tidman",
+          "first": "Zoe",
+          "url": "https://www.independent.co.uk/news/uk/politics/trans-penny-mordaunt-tory-leadership-b2119806.html",
+          "title": "Tory MP accused of 'throwing trans people under bus' after hitting out at critics",
+          "date": "10 July 2022",
+          "work": "The Independent",
+          "access-date": "10 July 2022",
+          "archive-date": "11 July 2022",
+          "archive-url": "https://web.archive.org/web/20220711001510/https://www.independent.co.uk/news/uk/politics/trans-penny-mordaunt-tory-leadership-b2119806.html",
           "url-status": "live",
           "template": "citation",
           "type": "news"
@@ -3157,17 +3233,6 @@
         }
       ],
       "references": [
-        {
-          "url": "https://www.thejc.com/news/uk/tory-minister-sparks-anger-after-meeting-muslim-council-of-britain-s-new-head-1.512091",
-          "title": "\"Tory minister sparks anger after meeting Muslim Council of Britain\"",
-          "access-date": "16 July 2022",
-          "work": "www.thejc.com",
-          "archive-date": "26 July 2021",
-          "archive-url": "https://web.archive.org/web/20210726044619/https://www.thejc.com/news/uk/tory-minister-sparks-anger-after-meeting-muslim-council-of-britain-s-new-head-1.512091",
-          "url-status": "live",
-          "template": "citation",
-          "type": "news"
-        },
         {
           "title": "Sajid Javid in Muslim Council of Britain spat over Islamophobia claims",
           "url": "https://news.sky.com/story/sajid-javid-in-muslim-council-of-britain-spat-over-islamophobia-claims-11393750",

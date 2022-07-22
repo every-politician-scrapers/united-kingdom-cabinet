@@ -82,7 +82,7 @@
         {
           "sentences": [
             {
-              "text": "Alexander Boris de Pfeffel Johnson (born 19 June 1964) is a British politician who has been serving as Prime Minister of the United Kingdom and Leader of the Conservative Party since 2019.",
+              "text": "Alexander Boris de Pfeffel Johnson (born 19 June 1964) is a British politician who has served as Prime Minister of the United Kingdom and Leader of the Conservative Party since 2019.",
               "links": [
                 {
                   "type": "internal",
@@ -104,7 +104,7 @@
               "text": "He announced his pending resignation on 7 July 2022 and will remain as prime minister until a new party leader is elected."
             },
             {
-              "text": "He previously served as Secretary of State for Foreign and Commonwealth Affairs from 2016 to 2018 and Mayor of London from 2008 to 2016.",
+              "text": "He previously served as Secretary of State for Foreign and Commonwealth Affairs from 2016 to 2018 and as Mayor of London from 2008 to 2016.",
               "links": [
                 {
                   "type": "internal",
@@ -117,10 +117,10 @@
               ]
             },
             {
-              "text": "Johnson has been the member of Parliament (MP) for Uxbridge and South Ruislip since 2015 and previously for Henley from 2001 to 2008.",
+              "text": "Johnson has been Member of Parliament (MP) for Uxbridge and South Ruislip since 2015, having previously been MP for Henley from 2001 to 2008.",
               "links": [
                 {
-                  "text": "member of Parliament",
+                  "text": "Member of Parliament",
                   "type": "internal",
                   "page": "Member of Parliament (United Kingdom)"
                 },
@@ -169,7 +169,7 @@
               ]
             },
             {
-              "text": "In 1989, he became the Brussels correspondent, and later political columnist, for The Daily Telegraph, and was editor of The Spectator magazine from 1999 to 2005.",
+              "text": "In 1989, he became the Brussels correspondent—and later political columnist—for The Daily Telegraph; and from 1999 to 2005 was editor of The Spectator.",
               "links": [
                 {
                   "type": "internal",
@@ -182,7 +182,7 @@
               ],
               "formatting": {
                 "italic": [
-                  "The Daily Telegraph,",
+                  "The Daily Telegraph;",
                   "The Spectator"
                 ]
               }
@@ -209,7 +209,7 @@
               "text": "In 2008, he was elected mayor of London and resigned from the House of Commons; he was re-elected as mayor in 2012.",
               "links": [
                 {
-                  "text": "was elected mayor of London",
+                  "text": "was elected",
                   "type": "internal",
                   "page": "2008 London mayoral election"
                 },
@@ -221,10 +221,10 @@
               ]
             },
             {
-              "text": "In the 2015 election, Johnson was elected MP for Uxbridge and South Ruislip.",
+              "text": "In the 2015 general election, Johnson was elected MP for Uxbridge and South Ruislip.",
               "links": [
                 {
-                  "text": "2015 election",
+                  "text": "2015 general election",
                   "type": "internal",
                   "page": "2015 United Kingdom general election"
                 }
@@ -269,10 +269,10 @@
         {
           "sentences": [
             {
-              "text": "In 2019, Johnson was elected Conservative leader, becoming the first British Prime Minister to have non-European ancestry.",
+              "text": "In 2019, Johnson was elected Leader of the Conservative Party.",
               "links": [
                 {
-                  "text": "elected",
+                  "text": "was elected",
                   "type": "internal",
                   "page": "2019 Conservative Party leadership election"
                 }
@@ -389,21 +389,21 @@
               ]
             },
             {
-              "text": "The publishing of the Sue Gray report and a widespread sense of dissatisfaction led to a confidence vote in his leadership among Conservative MPs in June 2022, which he survived though he was politically weakened.",
+              "text": "The publishing of the Sue Gray report and a widespread sense of dissatisfaction led to a vote of confidence in his leadership among Conservative MPs in June 2022, which he survived though he was politically weakened.",
               "links": [
                 {
                   "type": "internal",
                   "page": "Sue Gray report"
                 },
                 {
-                  "text": "confidence vote",
+                  "text": "vote of confidence",
                   "type": "internal",
                   "page": "2022 vote of confidence in the Conservative Party leadership of Boris Johnson"
                 }
               ]
             },
             {
-              "text": "Revelations in July 2022 over his hiring of Chris Pincher as Government Deputy Chief Whip, however, led to a mass resignation of members of the government and to Johnson resigning as party leader.",
+              "text": "In July 2022, revelations over his hiring of Chris Pincher as Government Deputy Chief Whip led to a mass resignation of members of Her Majesty's Government and to Johnson announcing his forthcoming resignation as party leader.",
               "links": [
                 {
                   "text": "hiring of Chris Pincher",
@@ -411,7 +411,7 @@
                   "page": "Chris Pincher scandal"
                 },
                 {
-                  "text": "mass resignation of members of the government",
+                  "text": "mass resignation of members of Her Majesty's Government",
                   "type": "internal",
                   "page": "2022 United Kingdom government crisis"
                 }
@@ -420,6 +420,11 @@
             {
               "text": "He remains in office in a caretaker capacity pending a leadership election.",
               "links": [
+                {
+                  "text": "caretaker capacity",
+                  "type": "internal",
+                  "page": "Caretaker government"
+                },
                 {
                   "text": "a leadership election",
                   "type": "internal",
@@ -435,7 +440,7 @@
               "text": "Johnson is a controversial figure in British politics."
             },
             {
-              "text": "Supporters have praised him as humorous, witty, and entertaining, with an appeal stretching beyond traditional Conservative voters."
+              "text": "Supporters have praised him as humorous, witty, and entertaining, with an appeal stretching beyond traditional Conservative Party voters."
             },
             {
               "text": "Conversely, his critics have accused him of lying, elitism, cronyism and bigotry.",
@@ -482,7 +487,7 @@
       ],
       "templates": [
         {
-          "description": "Prime Minister of the United Kingdom",
+          "description": "Prime Minister of the United Kingdom since 2019",
           "template": "short description"
         },
         {
@@ -1124,7 +1129,7 @@
         {
           "sentences": [
             {
-              "text": "Alexander Boris de Pfeffel Johnson was born on 19 June 1964 on the Upper East Side of Manhattan, New York City, to 23-year-old Stanley Johnson, then studying economics at Columbia University, and 22-year-old Charlotte Fawcett, an artist from a family of liberal intellectuals.",
+              "text": "Alexander Boris de Pfeffel Johnson was born on 19 June 1964 in the Upper East Side of Manhattan, New York City, to 23-year-old Stanley Johnson, then studying economics at Columbia University, and 22-year-old Charlotte Fawcett, an artist from a family of liberal intellectuals.",
               "links": [
                 {
                   "type": "internal",
@@ -1133,6 +1138,10 @@
                 {
                   "type": "internal",
                   "page": "Manhattan"
+                },
+                {
+                  "type": "internal",
+                  "page": "New York City"
                 },
                 {
                   "text": "Stanley Johnson",
@@ -1151,7 +1160,7 @@
               ]
             },
             {
-              "text": "Johnson's parents had married in 1963 before moving to the US."
+              "text": "Johnson's parents had married in 1963 before moving to the United States."
             },
             {
               "text": "In September 1964, they returned to their native England, so that Charlotte could study at the University of Oxford; during this time, she lived with her son in Summertown, a suburb of Oxford, and in 1965 she gave birth to a daughter, Rachel.",
@@ -4683,7 +4692,7 @@
               ]
             },
             {
-              "text": "In September, he was selected after gaining 79 per cent of the vote in a public London-wide primary.",
+              "text": "In September, he was selected after gaining 79 percent of the vote in a public London-wide primary.",
               "links": [
                 {
                   "text": "primary",

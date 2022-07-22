@@ -1462,6 +1462,15 @@
                   "page": "COVID-19 vaccine"
                 }
               ]
+            },
+            {
+              "text": "In January 2022, after he had left this role, Zahawi tested positive for COVID-19.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "COVID-19"
+                }
+              ]
             }
           ]
         },
@@ -1736,6 +1745,19 @@
           "archive-date": "14 February 2021",
           "archive-url": "https://web.archive.org/web/20210214150509/https://www.bbc.com/news/uk-56062976",
           "url-status": "live",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last1": "Stephens",
+          "first1": "Max",
+          "last2": "Sheridan",
+          "first2": "Danielle",
+          "title": "Liz Truss and Nadhim Zahawi test positive for Covid-19 just hours apart",
+          "url": "https://www.telegraph.co.uk/politics/2022/01/31/liz-truss-nadhim-zahawi-test-positive-covid-19-just-hours-apart/",
+          "access-date": "4 February 2022",
+          "work": "The Telegraph",
+          "date": "31 January 2022",
           "template": "citation",
           "type": "news"
         },

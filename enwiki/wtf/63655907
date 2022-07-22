@@ -20,7 +20,7 @@
         {
           "sentences": [
             {
-              "text": "Richard Peter Moore (born 9 May 1963) is a British civil servant, currently the chief of the Secret Intelligence Service (MI6) and formerly the director general, political, at the Foreign, Commonwealth and Development Office,    and previously the British ambassador to Turkey.",
+              "text": "Richard Peter Moore (born 9 May 1963) is a British civil servant, currently the chief of the Secret Intelligence Service (MI6) and formerly the director general, political, at the Foreign, Commonwealth and Development Office,   and previously the British ambassador to Turkey.",
               "links": [
                 {
                   "text": "chief",
@@ -298,15 +298,7 @@
           "url": "https://www.ukwhoswho.com/view/10.1093/ww/9780199540884.001.0001/ww-9780199540884-e-268831",
           "title": "Moore, Richard Peter",
           "publisher": "Who's Who 2020",
-          "accessdate": "14 April 2020",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://twitter.com/UKPolDirRichard?s=20",
-          "title": "Richard Moore @UKPolDirRichard",
-          "website": "Twitter",
-          "accessdate": "14 April 2020",
+          "accessdate": "14 April 2020}}{{subscription required|undefined",
           "template": "citation",
           "type": "web"
         }
@@ -527,16 +519,6 @@
                   "page": "LGBT"
                 }
               ]
-            },
-            {
-              "text": "During the 2022 Russian invasion of Ukraine Moore tweeted \"With the tragedy and destruction unfolding so distressingly in Ukraine, we should remember the values and hard won freedoms that distinguish us from Putin, none more than LGBT+ rights.\"",
-              "links": [
-                {
-                  "text": "2022 Russian invasion of Ukraine",
-                  "type": "internal",
-                  "page": "2022 Russian invasion of Ukraine"
-                }
-              ]
             }
           ]
         }
@@ -567,14 +549,6 @@
           "date": "19 February 2021",
           "template": "citation",
           "type": "news"
-        },
-        {
-          "user": "ChiefMI6",
-          "author": "Richard Moore",
-          "number": "1497287654441984007",
-          "title": "With the tragedy and destruction unfolding so distressingly in Ukraine, we should remember the values and hard won freedoms that distinguish us from Putin, none more than LGBT+ rights. So let’s resume our series of tweets to mark #LGBTHM2022",
-          "template": "citation",
-          "type": "tweet"
         },
         {
           "last": "Foreign and Commonwealth Office",
@@ -626,7 +600,7 @@
         {
           "sentences": [
             {
-              "text": "Richard Moore was born in Tripoli, Libya on the 9 May 1963 to John Robert Moore and (Norah) Patricia Moore (née Buckley).",
+              "text": "Richard Moore was born in Tripoli, Libya on the 9 May 1963.",
               "links": [
                 {
                   "type": "internal",
@@ -639,7 +613,7 @@
               ]
             },
             {
-              "text": "In 1985, he married Margaret Patricia Isabel Martin (Maggie), with whom he has had a son and a daughter."
+              "text": "He married Margaret Martin (Maggie) in 1985, with whom he has had a son and a daughter."
             }
           ]
         },
@@ -673,65 +647,6 @@
         {
           "sentences": [
             {
-              "text": "In his spare time, Moore enjoys golf, watching cricket and rugby, reading, TV, travel, hiking, scuba-diving, Turkish carpets and porcelain, and visiting historical sites.",
-              "links": [
-                {
-                  "text": "golf",
-                  "type": "internal",
-                  "page": "golf"
-                },
-                {
-                  "text": "cricket",
-                  "type": "internal",
-                  "page": "cricket"
-                },
-                {
-                  "text": "rugby",
-                  "type": "internal",
-                  "page": "Rugby football"
-                },
-                {
-                  "text": "reading",
-                  "type": "internal",
-                  "page": "reading"
-                },
-                {
-                  "type": "internal",
-                  "page": "TV"
-                },
-                {
-                  "text": "travel",
-                  "type": "internal",
-                  "page": "travel"
-                },
-                {
-                  "text": "hiking",
-                  "type": "internal",
-                  "page": "hiking"
-                },
-                {
-                  "text": "scuba-diving",
-                  "type": "internal",
-                  "page": "scuba-diving"
-                },
-                {
-                  "text": "Turkish carpets",
-                  "type": "internal",
-                  "page": "Anatolian rug"
-                },
-                {
-                  "text": "porcelain",
-                  "type": "internal",
-                  "page": "Iznik pottery"
-                },
-                {
-                  "text": "visiting historical sites",
-                  "type": "internal",
-                  "page": "Historic site"
-                }
-              ]
-            },
-            {
               "text": "He is fluent in Turkish.",
               "links": [
                 {
@@ -740,18 +655,36 @@
                   "page": "Turkish language"
                 }
               ]
+            },
+            {
+              "text": "Moore was made a Companion (CMG) of the Order of St Michael and St George on 31 December 2016 for services to UK/Turkey relations.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Order of St Michael and St George"
+                }
+              ]
             }
           ]
         }
       ],
       "references": [
         {
-          "last": "says",
-          "first": "Pete",
+          "url": "https://www.thegazette.co.uk/notice/2673448",
+          "title": "Order of Saint Michael and Saint George - Richard Peter Moore",
+          "publisher": "The Gazette",
+          "date": "31 December 2016",
+          "accessdate": "21 July 2022",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Fitsanakis",
+          "first": "Joseph",
           "date": "2020-08-03",
           "title": "Grandfather of new MI6 boss was IRA fighter who won medals in war with Britain",
           "url": "https://intelnews.org/2020/08/03/01-2845/",
-          "access-date": "2021-03-30",
+          "access-date": "2022-07-21",
           "website": "intelNews.org",
           "language": "en",
           "template": "citation",
@@ -774,19 +707,7 @@
     {
       "title": "References",
       "depth": 0,
-      "templates": [
-        {
-          "template": "reflist"
-        }
-      ]
-    },
-    {
-      "title": "External links",
-      "depth": 0,
       "paragraphs": [
-        {
-          "sentences": []
-        },
         {
           "sentences": []
         },
@@ -796,8 +717,7 @@
       ],
       "templates": [
         {
-          "id": "chiefmi6",
-          "template": "twitter"
+          "template": "reflist"
         },
         {
           "template": "s-start"

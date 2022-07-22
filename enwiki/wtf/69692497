@@ -106,6 +106,9 @@
               }
             ]
           },
+          "successor": {
+            "text": "Ben Fender"
+          },
           "monarch": {
             "text": "Elizabeth II",
             "links": [
