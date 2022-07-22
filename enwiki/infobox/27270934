@@ -2,7 +2,7 @@
   "honorific-prefix": "The Right Honourable",
   "name": "Liz Truss",
   "honorific-suffix": "MP",
-  "office1": "Secretary of State for Foreign, Commonwealth & Development Affairs",
+  "office1": "Secretary of State for Foreign, Commonwealth and Development Affairs",
   "primeminister1": "Boris Johnson",
   "term_start1": "15 September 2021",
   "predecessor1": "Dominic Raab",
@@ -22,7 +22,7 @@
   "term_end5": "24 July 2019",
   "predecessor5": "David Gauke",
   "successor5": "Rishi Sunak",
-  "office6": "Secretary of State for Justice\n\nLord Chancellor",
+  "office6": "Secretary of State for Justice\n\nLord High Chancellor of Great Britain",
   "primeminister6": "Theresa May",
   "term_start6": "14 July 2016",
   "term_end6": "11 June 2017",
@@ -50,5 +50,5 @@
   "birth_place": "Oxford, England",
   "spouse": "Hugh O'Leary (m. 2000)",
   "children": "2",
-  "education": "Merton College, Oxford (BA)"
+  "education": "Merton College, Oxford (BA)",
 }
