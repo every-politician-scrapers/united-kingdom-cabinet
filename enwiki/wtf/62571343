@@ -536,13 +536,8 @@
               }
             },
             {
-              "text": "The letter accused the National Trust of being \"coloured by cultural Marxist dogma, colloquially known as the 'woke agenda'\".",
+              "text": "The letter accused the National Trust of being \"coloured by Cultural Marxist dogma, colloquially known as the 'woke agenda'\".",
               "links": [
-                {
-                  "text": "cultural Marxist",
-                  "type": "internal",
-                  "page": "cultural Marxist"
-                },
                 {
                   "text": "woke",
                   "type": "internal",
@@ -655,7 +650,20 @@
         {
           "sentences": [
             {
-              "text": "While a frequent user of social media to spread the Conservative party agenda he is often referred to by constituents, particularly on twitter, as the \"#BassetlawBellend\" at least partly in response to his frequent blocking of social media accounts that may criticise or question his own views."
+              "text": "On 8 July 2022 Brendan Clarke-Smith was appointed Parliamentary Under Secretary of State (Minister for Children and Families) at the Department for Education.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Parliamentary Under Secretary of State"
+                },
+                {
+                  "type": "internal",
+                  "page": "Department for Education"
+                }
+              ]
+            },
+            {
+              "text": "His responsibilities include children’s social care, families, children in care, children in need, child protection, adoption and care leavers, early years and childcare, disadvantaged and vulnerable children, school sport, alternative provision, behaviour, attendance and exclusions, children and young people’s mental health, online safety and preventing bullying in schools, policy to protect against serious violence and coronavirus (COVID-19) recovery for children’s services and early years."
             }
           ]
         }
@@ -872,14 +880,11 @@
           "type": "news"
         },
         {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "url": "https://www.worksopguardian.co.uk/news/politics/bassetlaw-mp-faces-criticism-as-some-constituents-allegedly-blocked-3563281",
-          "title": "Bassetlaw MP faces criticism as some constituents are allegedly blocked from his social media",
+          "title": "Parliamentary Under Secretary of State (Minister for Children and Families) Brendan Clarke-Smith MP",
+          "url": "https://www.gov.uk/government/people/brendan-clarke-smith",
+          "website": "Gov.uk",
+          "publisher": "Department for Education",
+          "access-date": "22 July 2022",
           "template": "citation",
           "type": "web"
         }
@@ -892,16 +897,16 @@
         {
           "sentences": [
             {
-              "text": "Clarke-Smith lives in the village of Edwinstowe – in the Sherwood parliamentary constituency, with his Romanian wife, who is a doctor at Bassetlaw Hospital.",
+              "text": "Clarke-Smith lives in the Market town of Retford – in the Bassetlaw parliamentary constituency, with his Romanian wife, who is a doctor at Bassetlaw Hospital.",
               "links": [
                 {
                   "type": "internal",
-                  "page": "Edwinstowe"
+                  "page": "Retford"
                 },
                 {
-                  "text": "Sherwood parliamentary constituency",
+                  "text": "Bassetlaw parliamentary constituency",
                   "type": "internal",
-                  "page": "Sherwood (UK Parliament constituency)"
+                  "page": "Bassetlaw (UK Parliament constituency)"
                 },
                 {
                   "text": "Bassetlaw Hospital",
@@ -918,10 +923,10 @@
       ],
       "references": [
         {
-          "title": "Brendan Clarke-Smith",
-          "url": "https://beta.companieshouse.gov.uk/officers/KaZwpibFMc-1eTI0rCnI-57BodM/appointments",
-          "website": "Companies House",
-          "accessdate": "16 December 2019",
+          "title": "About Brendan Clarke-Smith MP",
+          "url": "https://www.brendanclarkesmith.com/about-brendan-clarke-smith",
+          "website": "Brendan Clarke-Smith MP for Bassetlaw",
+          "accessdate": "22 July 2022",
           "template": "citation",
           "type": "web"
         },

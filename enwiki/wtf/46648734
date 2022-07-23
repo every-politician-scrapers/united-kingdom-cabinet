@@ -14,7 +14,8 @@
     "UK MPs 2015–2017",
     "UK MPs 2017–2019",
     "UK MPs 2019–present",
-    "People from Dartford"
+    "People from Dartford",
+    "Members of the Privy Council of the United Kingdom"
   ],
   "sections": [
     {
@@ -1296,6 +1297,20 @@
                   "page": "2022 British cabinet reshuffle"
                 }
               ]
+            },
+            {
+              "text": "In July 2022 he was appointed as a member of the Privy Council, entitled him to the prefix 'The Right Honourable' for life.",
+              "links": [
+                {
+                  "text": "Privy Council",
+                  "type": "internal",
+                  "page": "Privy Council of the United Kingdom"
+                },
+                {
+                  "type": "internal",
+                  "page": "The Right Honourable"
+                }
+              ]
             }
           ]
         }
@@ -1446,6 +1461,14 @@
           "access-date": "2022-07-07",
           "website": "Plymouth Live",
           "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://privycouncil.independent.gov.uk/wp-content/uploads/2022/07/2022-07-19-List-of-Business.pdf",
+          "publisher": "Privy Council Office",
+          "title": "Orders for 19 July 2022",
+          "access-date": "22 July 2022",
           "template": "citation",
           "type": "web"
         }

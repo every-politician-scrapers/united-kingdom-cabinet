@@ -4437,6 +4437,20 @@
                   "text": "2022 United Kingdom government crisis",
                   "type": "internal",
                   "page": "2022 United Kingdom government crisis"
+                },
+                {
+                  "text": "race to be the next leader of the Conservative Party",
+                  "type": "internal",
+                  "page": "2022 Conservative Party leadership election (UK)"
+                }
+              ]
+            },
+            {
+              "text": "He later supported Liz Truss in the election.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Liz Truss"
                 }
               ]
             }
@@ -4762,6 +4776,16 @@
           "url-status": "live",
           "template": "citation",
           "type": "news"
+        },
+        {
+          "date": "2022-07-12",
+          "title": "Jacob Rees-Mogg and Nadine Dorries back Liz Truss for Tory leadership",
+          "url": "https://www.theguardian.com/politics/2022/jul/12/jacob-rees-mogg-and-nadine-dorries-back-liz-truss-for-tory-leadership",
+          "access-date": "2022-07-22",
+          "website": "the Guardian",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
         },
         {
           "url": "https://www.bbc.co.uk/news/uk-politics-59981890",

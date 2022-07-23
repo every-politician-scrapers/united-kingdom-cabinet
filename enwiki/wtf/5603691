@@ -3412,6 +3412,104 @@
       ]
     },
     {
+      "title": "Review of Border Force",
+      "depth": 2,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "In February 2022, Patel commissioned Alex Downer, a former Minister for Foreign Affairs in Australia's Liberal Party, to conduct an independent review of Border Force.",
+              "links": [
+                {
+                  "text": "Alex Downer",
+                  "type": "internal",
+                  "page": "Alexander Downer"
+                },
+                {
+                  "text": "Minister for Foreign Affairs",
+                  "type": "internal",
+                  "page": "Minister for Foreign Affairs (Australia)"
+                },
+                {
+                  "text": "Liberal Party",
+                  "type": "internal",
+                  "page": "Liberal Party of Australia"
+                },
+                {
+                  "type": "internal",
+                  "page": "Border Force"
+                }
+              ]
+            },
+            {
+              "text": "Downer's appointment was criticized by Border Force's trade unions because of his support for Australia’s widely criticised immigration policies."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In July 2022, Downer published his review and concluded that Border Force's overall approach was \"ineffective and possibly counterproductive\"."
+            },
+            {
+              "text": "The report found that while Border Force was \"largely delivering what is required of it on a day-to-day-basis\" overall the organisation was performing at \"a suboptimal level\"."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Patel welcomed the report's recommendations."
+            },
+            {
+              "text": "Yvette Cooper, the Shadow Home Secretary, described the review as \"incredibly damning\" and accused Patel of failing to \"to get any grip of Britain's borders\".",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Yvette Cooper"
+                },
+                {
+                  "type": "internal",
+                  "page": "Shadow Home Secretary"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "date": "2022-02-18",
+          "title": "‘Deeply concerning’: British government picks Alexander Downer to review UK’s border force",
+          "url": "https://www.theguardian.com/australia-news/2022/feb/18/deeply-concerning-british-government-picks-alexander-downer-to-review-uks-border-force",
+          "access-date": "2022-07-22",
+          "website": "the Guardian",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2022-02-17",
+          "title": "Patel hires ex-Australian foreign minister to carry out Border Force review",
+          "work": "Financial Times",
+          "url": "https://www.ft.com/content/ce610c59-c313-45a3-bc12-2bef849f820b",
+          "access-date": "2022-07-22",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "date": "2022-07-20",
+          "title": "Migrant crisis: Border Force may have made it worse - report",
+          "language": "en-GB",
+          "work": "BBC News",
+          "url": "https://www.bbc.com/news/uk-62244679",
+          "access-date": "2022-07-22",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
       "title": "Evidence of bullying and breach of ministerial code",
       "depth": 2,
       "paragraphs": [

@@ -38,12 +38,16 @@
         {
           "sentences": [
             {
-              "text": "Mary Elizabeth Truss (born 26 July 1975) is a British politician who has been the Member of Parliament (MP) for South West Norfolk since 2010.",
+              "text": "Mary Elizabeth Truss (born 26 July 1975) is a British politician who has served as Secretary of State for Foreign, Commonwealth and Development Affairs since 2021 and as Minister for Women and Equalities since 2019.",
               "links": [
                 {
-                  "text": "South West Norfolk",
+                  "text": "Secretary of State for Foreign, Commonwealth and Development Affairs",
                   "type": "internal",
-                  "page": "South West Norfolk (UK Parliament constituency)"
+                  "page": "Foreign Secretary"
+                },
+                {
+                  "type": "internal",
+                  "page": "Minister for Women and Equalities"
                 }
               ],
               "formatting": {
@@ -53,26 +57,23 @@
               }
             },
             {
-              "text": "She has served as Foreign Secretary since 2021 and Minister for Women and Equalities since 2019.",
+              "text": "She has been Member of Parliament (MP) for South West Norfolk since 2010.",
               "links": [
                 {
+                  "text": "Member of Parliament",
                   "type": "internal",
-                  "page": "Foreign Secretary"
+                  "page": "Member of Parliament (United Kingdom)"
                 },
                 {
+                  "text": "South West Norfolk",
                   "type": "internal",
-                  "page": "Minister for Women and Equalities"
+                  "page": "South West Norfolk (UK Parliament constituency)"
                 }
               ]
             },
             {
-              "text": "A member of the Conservative Party, she has served in various cabinet positions under Prime Ministers David Cameron, Theresa May and Boris Johnson.",
+              "text": "She has served in various cabinet positions under David Cameron, Theresa May and Boris Johnson.",
               "links": [
-                {
-                  "text": "Conservative Party",
-                  "type": "internal",
-                  "page": "Conservative Party (UK)"
-                },
                 {
                   "type": "internal",
                   "page": "David Cameron"
@@ -88,7 +89,7 @@
               ]
             },
             {
-              "text": "She has been often associated with economically neoliberal and socially conservative views.",
+              "text": "She has been associated with economically neoliberal and socially conservative views.",
               "links": [
                 {
                   "text": "neoliberal",
@@ -107,7 +108,7 @@
         {
           "sentences": [
             {
-              "text": "Truss attended Merton College, Oxford, where she was President of Oxford University Liberal Democrats.",
+              "text": "Truss attended Merton College, Oxford, where she was President of Oxford University Liberal Democrats and publicly espoused republican sentiments.",
               "links": [
                 {
                   "type": "internal",
@@ -116,11 +117,26 @@
                 {
                   "type": "internal",
                   "page": "Oxford University Liberal Democrats"
+                },
+                {
+                  "text": "republican",
+                  "type": "internal",
+                  "page": "Republicanism in the United Kingdom"
                 }
               ]
             },
             {
-              "text": "She graduated in 1996, and subsequently joined the Conservative Party."
+              "text": "Her views shifted considerably in the years after she graduated, and is now considered to be firmly on the right of British politics.",
+              "links": [
+                {
+                  "text": "right",
+                  "type": "internal",
+                  "page": "Right-wing politics"
+                }
+              ]
+            },
+            {
+              "text": "She graduated in 1996 and subsequently joined the Conservative Party."
             },
             {
               "text": "She worked at Shell and Cable & Wireless, before becoming deputy director at the think tank Reform.",
@@ -182,7 +198,7 @@
         {
           "sentences": [
             {
-              "text": "Truss served as Parliamentary Under-Secretary of State for Childcare and Education from 2012 to 2014, before being appointed to the Cabinet by Prime Minister David Cameron as Secretary of State for the Environment, Food and Rural Affairs in the 2014 cabinet reshuffle.",
+              "text": "Truss served as Parliamentary Under-Secretary of State for Childcare and Education from 2012 to 2014, before being appointed to the Cabinet by David Cameron as Secretary of State for the Environment, Food and Rural Affairs in the 2014 cabinet reshuffle.",
               "links": [
                 {
                   "type": "internal",
@@ -277,7 +293,7 @@
               ]
             },
             {
-              "text": "When he became Prime Minister, he appointed Truss as Secretary of State for International Trade and President of the Board of Trade.",
+              "text": "He appointed Truss as Secretary of State for International Trade and President of the Board of Trade.",
               "links": [
                 {
                   "type": "internal",
@@ -325,7 +341,7 @@
         {
           "sentences": [
             {
-              "text": "Truss stood in the 2022 Conservative Party leadership election to replace Johnson as Prime Minister.",
+              "text": "Truss is one of the two remaining candidates in the 2022 Conservative Party leadership election.",
               "links": [
                 {
                   "text": "2022 Conservative Party leadership election",
@@ -335,20 +351,35 @@
               ]
             },
             {
-              "text": "She polled second amongst Conservative MPs, behind Rishi Sunak, before a postal vote of party members, with the result to be announced on 5 September.",
+              "text": "She received the second-highest number of votes from Conservative MPs, behind Rishi Sunak.",
               "links": [
                 {
                   "type": "internal",
                   "page": "Rishi Sunak"
                 }
               ]
+            },
+            {
+              "text": "According to data analytics firm YouGov, Truss is the frontrunner in the race.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "YouGov"
+                }
+              ]
+            },
+            {
+              "text": "The result will be decided by a ballot of Conservative Party members, ending on 2 September 2022."
+            },
+            {
+              "text": "The result will be announced on 5 September."
             }
           ]
         }
       ],
       "templates": [
         {
-          "description": "British politician (born 1975)",
+          "description": "British politician (born in 1975)",
           "template": "short description"
         },
         {
@@ -814,6 +845,49 @@
           "type": "web"
         },
         {
+          "title": "Liz Truss advocates for monarchy to be abolished in resurfaced clip",
+          "url": "https://www.independent.co.uk/tv/news/liz-truss-abolish-monarchy-republicanism-b2128076.html",
+          "language": "en",
+          "access-date": "2022-07-21",
+          "template": "citation",
+          "type": "citation"
+        },
+        {
+          "last": "Nast",
+          "first": "Condé",
+          "date": "2022-07-13",
+          "title": "Who is Liz Truss? The ‘true blue’ right-wing candidate standing in Conservative Leadership election",
+          "url": "https://www.tatler.com/article/who-is-liz-truss",
+          "access-date": "2022-07-21",
+          "website": "Tatler",
+          "language": "en-GB",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Who is Liz Truss? The former Lib Dem turned Tory MP running for Prime Minister",
+          "url": "https://www.scotsman.com/news/politics/liz-truss-who-is-liz-truss-the-true-blue-tory-mp-and-foreign-secretary-standing-in-the-conservative-leadership-election-3768237",
+          "access-date": "2022-07-21",
+          "website": "www.scotsman.com",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Piper",
+          "first": "Elizabeth",
+          "last2": "Macaskill",
+          "first2": "Andrew",
+          "date": "2022-07-20",
+          "title": "In final two, Britain's foreign minister Liz Truss burnishes her tough image",
+          "language": "en",
+          "work": "Reuters",
+          "url": "https://www.reuters.com/world/uk/final-two-britains-foreign-minister-liz-truss-burnishes-her-tough-image-2022-07-20/",
+          "access-date": "2022-07-21",
+          "template": "citation",
+          "type": "news"
+        },
+        {
           "last": "Chambre",
           "first": "Agnes",
           "title": "Liz Truss says she would now back Brexit",
@@ -893,17 +967,35 @@
           "type": "web"
         },
         {
-          "date": "11 July 2022",
-          "title": "Foreign Secretary Liz Truss joins Tory leadership race",
-          "language": "en-GB",
-          "work": "BBC News",
-          "url": "https://www.bbc.com/news/uk-politics-62115709",
-          "access-date": "13 July 2022",
-          "archive-date": "12 July 2022",
-          "archive-url": "https://web.archive.org/web/20220712202308/https://www.bbc.com/news/uk-politics-62115709",
-          "url-status": "live",
+          "last": "Stone",
+          "first": "Jon",
+          "date": "21 July 2022",
+          "title": "Tory leadership vote: The fifth round results in full",
+          "url": "https://www.independent.co.uk/news/uk/politics/tory-leadership-vote-results-rishi-sunak-penny-mordaunt-liz-truss-b2127525.html",
+          "access-date": "22 July 2022",
+          "website": "The Independent",
           "template": "citation",
-          "type": "news"
+          "type": "web"
+        },
+        {
+          "last": "English",
+          "first": "Patrick",
+          "date": "21 July 2022",
+          "title": "Liz Truss leads Rishi Sunak by 62% to 38% among Tory members",
+          "url": "https://yougov.co.uk/topics/politics/articles-reports/2022/07/21/liz-truss-holds-24-point-lead-over-rishi-sunak-amo",
+          "access-date": "22 July 2022",
+          "website": "YouGov",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "21 July 2022",
+          "title": "Tory leadership: How will the new party leader and PM be chosen?",
+          "url": "https://www.bbc.co.uk/news/uk-politics-62068930",
+          "access-date": "22 July 2022",
+          "website": "BBC News",
+          "template": "citation",
+          "type": "web"
         },
         {
           "date": "20 July 2022",
@@ -933,15 +1025,14 @@
           "type": "news"
         },
         {
-          "url": "https://www.edp24.co.uk/news/politics/south-west-norfolk-mp-liz-truss-made-international-trade-secretary-1-6179192",
-          "title": "Norfolk MP Liz Truss made international trade secretary",
-          "date": "24 July 2019",
-          "access-date": "25 July 2019",
-          "archive-date": "24 July 2019",
-          "archive-url": "https://web.archive.org/web/20190724215348/https://www.edp24.co.uk/news/politics/south-west-norfolk-mp-liz-truss-made-international-trade-secretary-1-6179192",
-          "url-status": "live",
+          "title": "BBC Democracy Live: Elizabeth Truss MP",
+          "url": "http://news.bbc.co.uk/democracylive/hi/representatives/profiles/40370.stm",
+          "work": "BBC News",
+          "access-date": "25 July 2010",
+          "archive-url": "https://web.archive.org/web/20140717090407/http://news.bbc.co.uk/democracylive/hi/representatives/profiles/40370.stm",
+          "archive-date": "17 July 2014",
           "template": "citation",
-          "type": "web"
+          "type": "news"
         },
         {
           "title": "BBC Democracy Live: Elizabeth Truss MP",
@@ -1335,7 +1426,7 @@
         {
           "sentences": [
             {
-              "text": "Truss worked from 1996 to 2000 for Shell as a graduate, during which time she qualified as a management accountant, and then for Cable & Wireless (2000-05), rising to economic director.",
+              "text": "Truss worked from 1996 to 2000 for Shell as a graduate, during which time she qualified as a Chartered Management Accountant ACMA in 1999 management accountant, and then for Cable & Wireless (2000-05), rising to economic director.",
               "links": [
                 {
                   "text": "Shell",
@@ -1443,6 +1534,10 @@
                   "text": "Lewisham Deptford",
                   "type": "internal",
                   "page": "Lewisham Deptford (UK Parliament constituency)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Conservative Association"
                 }
               ]
             },
@@ -1599,13 +1694,7 @@
               "text": "She won over 50% of the vote in the first round of the final against five other candidates."
             },
             {
-              "text": "Shortly after her selection, some members of the constituency association objected to Truss's selection, saying that information about her extramarital affair with the Conservative MP Mark Field, reported to have taken place between 2003 and 2005, and to have resulted in the end of Field's marriage, had been withheld from the members.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Mark Field"
-                }
-              ]
+              "text": "Shortly after her selection, some members of the constituency association objected to Truss's selection, saying that information about the members."
             },
             {
               "text": "A motion was proposed to terminate Truss's candidature, but this was defeated by 132 votes to 37 at a general meeting of the association's members three weeks later."
@@ -1644,72 +1733,6 @@
           "type": "news"
         },
         {
-          "title": "Liz Truss: the new Iron Lady?",
-          "url": "https://www.thetimes.co.uk/article/liz-truss-new-iron-lady-7l5m3nflm",
-          "website": "The Times",
-          "access-date": "14 July 2022",
-          "last1": "Edwardes",
-          "first1": "Charlotte",
-          "archive-date": "14 July 2022",
-          "archive-url": "https://web.archive.org/web/20220714061341/https://www.thetimes.co.uk/article/liz-truss-new-iron-lady-7l5m3nflm",
-          "url-status": "live }}{{Subscription required|undefined",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "last1": "Gosden",
-          "first1": "Emily",
-          "title": "Affair of Elizabeth Truss exposes Tory tensions",
-          "url": "https://www.thetimes.co.uk/article/affair-of-elizabeth-truss-exposes-tory-tensions-5chdtffjtmv",
-          "access-date": "4 November 2021",
-          "date": "31 October 2009",
-          "language": "en",
-          "archive-date": "4 November 2021",
-          "archive-url": "https://web.archive.org/web/20211104103850/https://www.thetimes.co.uk/article/affair-of-elizabeth-truss-exposes-tory-tensions-5chdtffjtmv",
-          "url-status": "live",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "date": "15 July 2014",
-          "title": "A field day for the Tory old guard",
-          "url": "https://www.independent.co.uk/news/uk/politics/a-field-day-for-the-tory-old-guard-1821258.html",
-          "access-date": "7 April 2021",
-          "website": "The Independent",
-          "language": "en",
-          "archive-date": "21 July 2014",
-          "archive-url": "https://web.archive.org/web/20140721012546/http://www.independent.co.uk/news/uk/politics/a-field-day-for-the-tory-old-guard-1821258.html",
-          "url-status": "live",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "last": "McSmith",
-          "first": "Andy",
-          "url": "https://www.independent.co.uk/news/uk/politics/a-field-day-for-the-tory-old-guard-1821258.html",
-          "title": "A field day for the Tory old guard",
-          "work": "The Independent",
-          "date": "16 November 2009",
-          "access-date": "7 July 2014",
-          "archive-date": "21 July 2014",
-          "archive-url": "https://web.archive.org/web/20140721012546/http://www.independent.co.uk/news/uk/politics/a-field-day-for-the-tory-old-guard-1821258.html",
-          "url-status": "live",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "title": "Tory Elizabeth Truss faces deselection vote in two weeks over affair",
-          "url": "https://www.theguardian.com/politics/2009/nov/05/elizabeth-truss-deselection-affair",
-          "website": "The Guardian",
-          "date": "5 November 2009",
-          "access-date": "26 January 2021",
-          "archive-date": "3 January 2022",
-          "archive-url": "https://web.archive.org/web/20220103141046/https://www.theguardian.com/politics/2009/nov/05/elizabeth-truss-deselection-affair",
-          "url-status": "live",
-          "template": "citation",
-          "type": "web"
-        },
-        {
           "last": "McSmith",
           "first": "Andy",
           "title": "A political affair: We profile cabinet minister Liz Truss",
@@ -1734,16 +1757,6 @@
           "archive-date": "25 June 2022",
           "archive-url": "https://web.archive.org/web/20220625125025/https://www.telegraph.co.uk/news/politics/6554080/David-Cameron-phones-local-grandee-to-try-to-save-Elizabeth-Truss-from-deselection.html",
           "url-status": "live",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "title": "Tory's affair details 'withheld at meeting",
-          "url": "http://www.edp24.co.uk/news/tory_s_affair_details_withheld_at_meeting_1_524413",
-          "work": "Eastern Daily Press",
-          "date": "30 October 2009",
-          "archive-url": "https://web.archive.org/web/20160817095600/http://www.edp24.co.uk/news/tory_s_affair_details_withheld_at_meeting_1_524413",
-          "archive-date": "17 August 2016",
           "template": "citation",
           "type": "news"
         },
@@ -2576,7 +2589,18 @@
               "text": "She described farming and food as \"hotbeds of innovation\" and promoted the production and export of British food, including cheese, pork pies and apples."
             },
             {
-              "text": "Her remarks at the Conservative Party conference in 2014 that \"We import two-thirds of our cheese: That! Is! A! Disgrace!\", and her grinning claim to be \"opening up new pork markets\" in Beijing were widely mocked."
+              "text": "Her remarks at the 2014 Conservative Party conference that \"We import two-thirds of our cheese – That is a disgrace!\", and her grinning claim to be \"opening up new pork markets\" in Beijing were mocked on Have I Got News for You and on social media.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Have I Got News for You"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "Have I Got News for You"
+                ]
+              }
             }
           ]
         },
@@ -3622,7 +3646,7 @@
           "file": "File:Secretary_of_State_for_International_Trade,_Liz_Truss,_pictured_speaking_at_the_UK-Africa_Investment_Summit_in_London,_20_January_2020_(49418242018).jpg",
           "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Secretary_of_State_for_International_Trade%2C_Liz_Truss%2C_pictured_speaking_at_the_UK-Africa_Investment_Summit_in_London%2C_20_January_2020_(49418242018).jpg?width=300",
           "url": "https://wikipedia.org/wiki/Special:Redirect/file/Secretary_of_State_for_International_Trade%2C_Liz_Truss%2C_pictured_speaking_at_the_UK-Africa_Investment_Summit_in_London%2C_20_January_2020_(49418242018).jpg",
-          "caption": "Truss speaking at the UK-Africa Investment Summit in London on 20 January 2020",
+          "caption": "Truss at the UK-Africa Investment Summit, London, 20 January 2020",
           "links": []
         }
       ],
@@ -3781,6 +3805,17 @@
           "work": "New Statesman",
           "template": "citation",
           "type": "news"
+        },
+        {
+          "date": "24 July 2019",
+          "title": "Norfolk MP Liz Truss made international trade secretary",
+          "url": "https://www.edp24.co.uk/news/politics/south-west-norfolk-mp-liz-truss-made-international-trade-secretary-1-6179192",
+          "url-status": "live",
+          "archive-url": "https://web.archive.org/web/20190724215348/https://www.edp24.co.uk/news/politics/south-west-norfolk-mp-liz-truss-made-international-trade-secretary-1-6179192",
+          "archive-date": "24 July 2019",
+          "access-date": "25 July 2019",
+          "template": "citation",
+          "type": "web"
         },
         {
           "last1": "Hope",
@@ -4167,7 +4202,7 @@
         {
           "sentences": [
             {
-              "text": "On 27 February 2022, in an interview on BBC television, Truss was asked if she supported anyone volunteering to travel to Ukraine to help in its defence against the Russian invasion, and responded “absolutely”.",
+              "text": "On 27 February 2022, in an interview on BBC television, Truss was asked if she supported anyone volunteering to travel to Ukraine to help in its defence against the Russian invasion, and responded: \"Absolutely, if people want to support that struggle, I would support them in doing that.\"",
               "links": [
                 {
                   "text": "Russian invasion",
@@ -4177,8 +4212,12 @@
               ]
             },
             {
-              "text": "She was later criticised by other Conservative MPs who said that such action would be illegal under the Foreign Enlistment Act 1870.",
+              "text": "She was criticised by former Attorney General Dominic Grieve who said that such action would be illegal under the Foreign Enlistment Act 1870.",
               "links": [
+                {
+                  "type": "internal",
+                  "page": "Dominic Grieve"
+                },
                 {
                   "type": "internal",
                   "page": "Foreign Enlistment Act 1870"
@@ -4186,7 +4225,7 @@
               ]
             },
             {
-              "text": "Boris Johnson's spokesperson stated that British citizens should not travel to Ukraine."
+              "text": "Boris Johnson's spokesperson later stated that British citizens should not travel to Ukraine."
             },
             {
               "text": "Following the Russian military's being placed on high alert on 27 February, Russian officials said it was in response to Truss's comments."
@@ -4257,7 +4296,7 @@
           "file": "File:Joko_Widodo_received_British_FM_Truss_at_the_Merdeka_Palace_in_2021_(1).jpg",
           "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Joko_Widodo_received_British_FM_Truss_at_the_Merdeka_Palace_in_2021_(1).jpg?width=300",
           "url": "https://wikipedia.org/wiki/Special:Redirect/file/Joko_Widodo_received_British_FM_Truss_at_the_Merdeka_Palace_in_2021_(1).jpg",
-          "caption": "Truss meeting with Indonesian President Joko Widodo on 11 November 2021",
+          "caption": "Truss meeting with Indonesian President Joko Widodo in Jakarta on 11 November 2021",
           "links": []
         },
         {
@@ -4271,7 +4310,7 @@
           "file": "File:Secretary_Blinken_Holds_a_Joint_Press_Availability_With_UK_Foreign_Secretary_Truss_(51928497643).jpg",
           "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Secretary_Blinken_Holds_a_Joint_Press_Availability_With_UK_Foreign_Secretary_Truss_(51928497643).jpg?width=300",
           "url": "https://wikipedia.org/wiki/Special:Redirect/file/Secretary_Blinken_Holds_a_Joint_Press_Availability_With_UK_Foreign_Secretary_Truss_(51928497643).jpg",
-          "caption": "Truss meeting with US Secretary of State Antony Blinken on 9 March 2022",
+          "caption": "Truss meeting with US Secretary of State Antony Blinken in Washington on 9 March 2022",
           "links": []
         }
       ],
@@ -4862,9 +4901,6 @@
                   "page": "Saudi Arabia"
                 }
               ]
-            },
-            {
-              "text": "She said it was necessary to work with Saudi Arabia so the UK is no longer \"dependent\" on Russia for oil and gas."
             }
           ]
         }
@@ -5086,7 +5122,7 @@
       ]
     },
     {
-      "title": "Books",
+      "title": "Publications",
       "depth": 0,
       "paragraphs": [
         {
@@ -5165,31 +5201,71 @@
               }
             ]
           }
+        ],
+        [
+          {
+            "text": "Details.",
+            "links": [
+              {
+                "text": "Details.",
+                "type": "external",
+                "site": "http://www.palgrave.com/booksellers/sellin/Britannia-Unchained.pdf"
+              }
+            ]
+          }
         ]
       ],
       "references": [
         {
-          "last1": "Truss",
-          "first1": "Liz",
+          "first": "Laura",
+          "last": "Kounine",
+          "first2": "John",
+          "last2": "Marks",
+          "first3": "Elizabeth",
+          "last3": "Truss",
           "title": "The value of mathematics",
+          "url": "https://web.archive.org/web/20090416155444/http://www.reform.co.uk/documents/The%20value%20of%20mathematics.pdf",
           "publisher": "Reform",
+          "location": "London",
+          "isbn": "978-1-905730-09-4",
           "date": "June 2008",
           "template": "citation",
           "type": "cite book"
         },
         {
-          "last1": "Truss",
-          "first1": "Liz",
+          "first": "Dale",
+          "last": "Bassett",
+          "first2": "Thomas",
+          "last2": "Cawston",
+          "first3": "Laurie",
+          "last3": "Thraves",
+          "first4": "Elizabeth",
+          "last4": "Truss",
           "title": "A new level",
-          "url": "http://www.reform.uk/publication/a-new-level/",
+          "url": "https://dera.ioe.ac.uk/30070/1/a_new_level.pdf",
           "publisher": "Reform",
+          "location": "London",
+          "isbn": "978-1-905730-19-3",
           "date": "June 2009",
           "template": "citation",
           "type": "cite book"
         },
         {
+          "first": "Truss",
+          "last": "Elizabeth",
+          "first2": "Nick",
+          "last2": "Bosanquet",
+          "title": "Risky Business: “Nudging” you to make the “right” choices",
+          "url": "https://www.cii.co.uk/media/844125/TP27_Truss-Bosanquet_Insurance_and_Nudge_18Sep2009.pdf",
+          "publisher": "Chartered Insurance Institute",
+          "location": "London",
+          "date": "September 2009",
+          "template": "citation",
+          "type": "cite book"
+        },
+        {
           "last1": "Truss",
-          "first1": "Liz",
+          "first1": "Elizabeth",
           "title": "Academic rigour and social mobility: how low income students are being kept out of top jobs",
           "url": "http://www.centreforum.org/index.php/mainpublications/29-academic-rigour-social-mobility",
           "publisher": "Centre Forum",
@@ -5201,21 +5277,28 @@
           "type": "cite book"
         },
         {
-          "last1": "Truss",
-          "first1": "Liz",
-          "display-authors": "etal",
+          "first": "Kwasi",
+          "last": "Kwarteng",
+          "first2": "Priti",
+          "last2": "Patel",
+          "first3": "Dominic",
+          "last3": "Raab",
+          "first4": "Chris",
+          "last4": "Skidmore",
+          "first5": "Liz",
+          "last5": "Truss",
           "title": "After the Coalition",
           "publisher": "Biteback Publishing",
           "url": "https://www.bitebackpublishing.com/books/after-the-coalition",
           "location": "London",
           "date": "2011",
-          "isbn": "9781849542128",
+          "isbn": "978-1-84954-212-8",
           "template": "citation",
           "type": "cite book"
         },
         {
           "last1": "Truss",
-          "first1": "Liz",
+          "first1": "Elizabeth",
           "title": "Affordable quality: new approaches to childcare",
           "url": "http://www.centreforum.org/assets/pubs/affordable-quality.pdf",
           "publisher": "Centre Forum",
@@ -5228,9 +5311,16 @@
           "type": "cite book"
         },
         {
-          "last1": "Truss",
-          "first1": "Liz",
-          "display-authors": "etal",
+          "first": "Kwasi",
+          "last": "Kwarteng",
+          "first2": "Priti",
+          "last2": "Patel",
+          "first3": "Dominic",
+          "last3": "Raab",
+          "first4": "Chris",
+          "last4": "Skidmore",
+          "first5": "Liz",
+          "last5": "Truss",
           "title": "Britannia Unchained: Global Lessons for Growth and Prosperity",
           "publisher": "Palgrave Macmillan",
           "location": "Houndmills, Basingstoke, Hampshire New York",
@@ -5239,6 +5329,21 @@
           "title-link": "Britannia Unchained",
           "template": "citation",
           "type": "cite book"
+        },
+        {
+          "last": "Truss",
+          "first": "Elizabeth",
+          "title": "EU membership -- benefits for animal health and welfare",
+          "journal": "Veterinary Record",
+          "date": "2016-04-30",
+          "volume": "178",
+          "issue": "18",
+          "page": "435",
+          "doi": "10.1136/vr.i2349",
+          "pmid": "27127086",
+          "url": "https://www.proquest.com/openview/255b6b30cd8d30d36a150b6055cc5b64/1",
+          "template": "citation",
+          "type": "cite journal"
         }
       ]
     },

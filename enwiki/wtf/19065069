@@ -104,7 +104,7 @@
               "text": "He announced his pending resignation on 7 July 2022 and will remain as prime minister until a new party leader is elected."
             },
             {
-              "text": "He previously served as Secretary of State for Foreign and Commonwealth Affairs from 2016 to 2018 and as Mayor of London from 2008 to 2016.",
+              "text": "He served as Secretary of State for Foreign and Commonwealth Affairs from 2016 to 2018 and as Mayor of London from 2008 to 2016.",
               "links": [
                 {
                   "type": "internal",
@@ -188,7 +188,7 @@
               }
             },
             {
-              "text": "After being elected to Parliament in 2001, Johnson was a shadow minister under Conservative leaders Michael Howard and David Cameron.",
+              "text": "Following his election to parliament in 2001, Johnson was a shadow minister under Conservative leaders Michael Howard and David Cameron.",
               "links": [
                 {
                   "text": "shadow minister",
@@ -234,7 +234,7 @@
               "text": "The following year, he did not seek re-election as mayor."
             },
             {
-              "text": "He became a prominent figure in the successful Vote Leave campaign for Brexit in the 2016 European Union (EU) membership referendum.",
+              "text": "He became a prominent figure in the successful Vote Leave campaign for the UK's withdrawal from the European Union in the 2016 European Union membership referendum.",
               "links": [
                 {
                   "type": "internal",
@@ -242,10 +242,10 @@
                 },
                 {
                   "type": "internal",
-                  "page": "Brexit"
+                  "page": "European Union"
                 },
                 {
-                  "text": "2016 European Union (EU) membership referendum",
+                  "text": "2016 European Union membership referendum",
                   "type": "internal",
                   "page": "2016 United Kingdom European Union membership referendum"
                 }
@@ -279,10 +279,10 @@
               ]
             },
             {
-              "text": "He re-opened Brexit negotiations and in early September controversially prorogued Parliament; the Supreme Court ruled the action unlawful later that month.",
+              "text": "He re-opened EU withdrawal negotiations and in early September controversially prorogued Parliament; the Supreme Court later that month ruled the action unlawful.",
               "links": [
                 {
-                  "text": "re-opened Brexit negotiations",
+                  "text": "re-opened EU withdrawal negotiations",
                   "type": "internal",
                   "page": "Brexit negotiations in 2019"
                 },
@@ -299,9 +299,10 @@
               ]
             },
             {
-              "text": "After agreeing to a revised Brexit withdrawal agreement with the EU, which replaced the Irish backstop with a new Northern Ireland Protocol, but failing to win parliamentary support for the agreement, Johnson called a snap election for December 2019 in which he led the Conservative Party to victory with 43.6 per cent of the vote, and the party's largest seat share since 1987.",
+              "text": "After agreeing to a revised EU withdrawal agreement, which replaced the Irish backstop with a new Northern Ireland Protocol, but failing to win parliamentary support for the agreement, Johnson called a snap election for December 2019 in which he led the Conservative Party to victory with 43.6 per cent of the vote, and the party's largest seat share since 1987.",
               "links": [
                 {
+                  "text": "EU withdrawal agreement",
                   "type": "internal",
                   "page": "Brexit withdrawal agreement"
                 },
@@ -350,7 +351,7 @@
               ]
             },
             {
-              "text": "The COVID-19 pandemic became a major issue of his premiership; the government responded with various emergency powers, introduced measures across society to mitigate its impact, and approved the rollout of a nationwide vaccination programme.",
+              "text": "The COVID-19 pandemic became a major issue of his premiership; Her Majesty's Government responded by introducing various emergency powers, measures across society to mitigate the pandemic's impact, and approved the rollout of a nationwide immunisation programme.",
               "links": [
                 {
                   "text": "COVID-19 pandemic",
@@ -358,7 +359,7 @@
                   "page": "COVID-19 pandemic in the United Kingdom"
                 },
                 {
-                  "text": "the government responded",
+                  "text": "Her Majesty's Government responded",
                   "type": "internal",
                   "page": "British government response to the COVID-19 pandemic"
                 },
@@ -368,18 +369,23 @@
                   "page": "Coronavirus Act 2020"
                 },
                 {
-                  "text": "nationwide vaccination programme",
+                  "text": "nationwide immunisation programme",
                   "type": "internal",
                   "page": "COVID-19 vaccination in the United Kingdom"
                 }
               ]
             },
             {
-              "text": "However, he faced a controversy known as \"Partygate\" over his breaching of COVID-19 regulations and receipt of a fixed penalty notice, when he became the first British prime minister to be sanctioned for breaking the law while in office.",
+              "text": "In December 2021, a controversy known as \"Partygate\" began which concerned Johnson's and others' breaching of COVID-19 regulations and receiving of a fixed penalty notice.",
               "links": [
                 {
                   "type": "internal",
                   "page": "Partygate"
+                },
+                {
+                  "text": "COVID-19 regulations",
+                  "type": "internal",
+                  "page": "COVID-19 lockdown in the United Kingdom"
                 },
                 {
                   "text": "fixed penalty notice",
@@ -389,7 +395,10 @@
               ]
             },
             {
-              "text": "The publishing of the Sue Gray report and a widespread sense of dissatisfaction led to a vote of confidence in his leadership among Conservative MPs in June 2022, which he survived though he was politically weakened.",
+              "text": "Johnson is the first prime minister of the United Kingdom to be sanctioned for a criminal action while in office."
+            },
+            {
+              "text": "The publishing of the Sue Gray report and a widespread sense of dissatisfaction led in June 2022 to a vote of confidence in his leadership among Conservative MPs. While the parliamentary Conservative Party was found to have confidence in him, the result was regarded as having left Johnson politically weakened.",
               "links": [
                 {
                   "type": "internal",
@@ -420,11 +429,6 @@
             {
               "text": "He remains in office in a caretaker capacity pending a leadership election.",
               "links": [
-                {
-                  "text": "caretaker capacity",
-                  "type": "internal",
-                  "page": "Caretaker government"
-                },
                 {
                   "text": "a leadership election",
                   "type": "internal",
@@ -758,7 +762,7 @@
             }
           },
           "term_start2": {
-            "text": "24 July 2019"
+            "text": "26 July 2019"
           },
           "predecessor2": {
             "text": "Office established",
@@ -4692,7 +4696,7 @@
               ]
             },
             {
-              "text": "In September, he was selected after gaining 79 percent of the vote in a public London-wide primary.",
+              "text": "In September, he was selected after gaining 79 per cent of the vote in a public London-wide primary.",
               "links": [
                 {
                   "text": "primary",
@@ -12118,7 +12122,7 @@
               "text": "On the same day Johnson said that he had not broken any laws over the refurbishment and had met the requirements he was obliged to meet in full."
             },
             {
-              "text": "During Prime Minister's Questions, the leader of the opposition, Keir Starmer, asked: \"Who initially paid for the redecoration of his Downing Street flat?\"; Johnson responded: \"I paid for Downing Street's refurbishment personally, Mr. Speaker.\"",
+              "text": "During Prime Minister's Questions, the leader of the opposition, Keir Starmer, asked: \"Who initially paid for the redecoration of his Downing Street flat?\"; Johnson responded: \"I paid for Downing Street's refurbishment personally.\"",
               "links": [
                 {
                   "type": "internal",
